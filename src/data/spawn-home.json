@@ -31,6 +31,18 @@
       "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
     }
   },
+  "persona": {
+    "ymyl": false,
+    "tone": "technical_practical"
+  },
+  "newsletter": {
+    "title": "The ChairWise weekly",
+    "subtitle": "Practical picks and straight answers from ChairWise, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@chairwise.app",
+  "defaultAuthorSlug": "nate-chairwise",
+  "defaultMetaDescription": "Real-world reviews of ergonomic chairs, standing desks, monitor arms, split keyboards, and the small adjustments that stop the neck pain that started in 2020 and never went away. Tested across 8 body ",
   "homepage": {
     "eyebrow": "Ergonomic workspace, tested",
     "h1": "Your chair is wrong for you. Here's how to fix it.",
