@@ -102,3 +102,4 @@ While the L-shaped corner desk can be a highly functional and space-efficient pi
 Ergonomics isn’t just about having the fanciest equipment; it’s about setup and habits. Thoughtful desk arrangement, mindful posture, and regular movement breaks make all the difference in turning your L-shaped desk from a potential trap into a productivity booster.
 
 If you're setting up an L-shaped desk or currently use one, invest time in adjusting your workstation—not just the furniture—to safeguard your health and comfort for the long haul.
+

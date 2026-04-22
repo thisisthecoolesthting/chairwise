@@ -119,3 +119,4 @@ Setting the right chair height when you cannot stand without your laptop require
 - Utilize footrests and lumbar support for further ergonomic benefits.
 
 By thoughtfully adapting your setup with these guidelines, you can maintain comfort and reduce the risk of strain, even in a restricted laptop workspace where standing isn’t an option. Good ergonomics leads to longer, healthier, and more productive work sessions—no standing required.
+

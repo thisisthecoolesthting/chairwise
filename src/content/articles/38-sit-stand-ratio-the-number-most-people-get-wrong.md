@@ -100,3 +100,4 @@ The "sit-stand ratio" everyone talks about is not a fixed number written in ston
 The best practice is to routinely break up sitting, include standing breaks of moderate length, and critically, incorporate light movement throughout the day. By treating sitting, standing, and moving as complementary postures rather than opposites, you promote a healthier, more comfortable, and productive work experience.
 
 Remember—your goal isn’t just to stand more, but to move more. It’s movement variety across the day, not any single posture percentage, that supports long-term health.
+

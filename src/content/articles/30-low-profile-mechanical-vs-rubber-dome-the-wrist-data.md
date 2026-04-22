@@ -141,3 +141,4 @@ Your ultimate choice should balance typing feel, wrist comfort, and overall ergo
 ---
 
 By considering the wrist data alongside your personal preferences, you can make a well-informed decision that supports your typing health over the long run.
+

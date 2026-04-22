@@ -126,3 +126,4 @@ Choosing between the two means identifying your primary use-case, sitting durati
 ---
 
 Invest in your comfort wisely — the right chair pays dividends in productivity, wellness, and enjoyment, whether you’re at work or deep in a gaming marathon.
+

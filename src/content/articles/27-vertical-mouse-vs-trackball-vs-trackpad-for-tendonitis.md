@@ -114,3 +114,4 @@ Personal preference, hand anatomy, and the specific location and severity of ten
 ---
 
 *By carefully assessing your pain triggers and adjusting your pointing device accordingly, you can continue working comfortably while protecting your wrists from further tendonitis flare-ups.*
+

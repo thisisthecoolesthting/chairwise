@@ -111,3 +111,4 @@ Ultimately, your choice comes down to what you value more: mesh breathability an
 | Best Fit              | Mid-sized body types             | Wide range of body types          |
 
 After 90 days, both chairs have proven their quality and ergonomic design, leaving you with a clear choice based on personal preference and body type.
+

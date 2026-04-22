@@ -168,3 +168,4 @@ If you equate price strictly to raw features and durability, the Ergotron LX off
 ---
 
 Choosing between the Ergotron LX and Amazon Basics really boils down to your needs, budget, and how much you value premium build and ergonomic flexibility versus simply lifting your monitor off the desk. Both have their place, but the fivefold price gap reflects more than just branding—it’s about quality and user experience over the long term.
+

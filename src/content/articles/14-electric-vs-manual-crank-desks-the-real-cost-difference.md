@@ -121,3 +121,4 @@ In terms of pure dollars, manual crank desks cost less upfront and generally les
 ---
 
 Making a well-informed decision hinges on your personal needs, workflow, and budget. Both electric and manual crank desks can effectively promote a healthier work style — the real cost difference comes down to what matters most to you in daily use.
+

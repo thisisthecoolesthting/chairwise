@@ -106,3 +106,4 @@ Remember blinking less during screen time is a big cause of dryness and discomfo
 The **20 to 30-inch viewing distance** and the **20-20-20 rule** provide evidence-based, practical guidance to reduce digital eye strain. However, real-world application requires measuring your actual setup and adjusting as necessary, recognizing individual differences and workspace constraints. While exact adherence may not always be achievable or necessary, awareness and consistent effort to follow these principles can significantly improve eye comfort during screen time.
 
 In the end, combining proper monitor distance with regular visual breaks is the best strategy for preserving eye health and maintaining productivity in our increasingly digital environments.
+

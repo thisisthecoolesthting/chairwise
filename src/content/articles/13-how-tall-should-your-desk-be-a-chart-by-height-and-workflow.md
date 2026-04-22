@@ -136,3 +136,4 @@ Making sure your desk height matches your body and workflow needs helps you stay
 While the chart above is a solid starting point, ergonomics are personal. Try adjusting desk height and accessories incrementally until you find a comfortable position that minimizes strain. And remember, moving regularly throughout your workday—whether with sit/stand desks or breaks—is just as important as finding the perfect desk height. 
 
 Investing in fitting your workspace to your body will pay off in comfort, productivity, and wellness over the long term.
+

@@ -133,3 +133,4 @@ By paying attention to your keyboard’s latency, connection type, layout, and y
 ---
 
 Typing is an everyday action; optimizing it isn’t just for specialists but everyone who wants a smoother and healthier digital experience.
+

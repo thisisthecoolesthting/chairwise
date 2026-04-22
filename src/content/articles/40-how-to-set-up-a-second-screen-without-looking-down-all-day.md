@@ -130,3 +130,4 @@ Setting up a second screen without looking down all day involves thoughtful posi
 ---
 
 Proper second screen setup is a straightforward yet essential step to a healthier, more efficient working day. Armed with these practical tips, you can say goodbye to neck pain and hello to smoother multitasking.
+

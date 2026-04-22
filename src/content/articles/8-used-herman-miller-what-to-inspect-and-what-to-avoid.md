@@ -140,3 +140,4 @@ Used chairs may have accumulated dust, dirt, or allergens. Clean fabric or mesh 
 Buying a used Herman Miller chair can offer excellent value, provided you carefully inspect the chair for physical damage, verify all ergonomic adjustments work as intended, and confirm the chair’s provenance. Avoid chairs with heavy wear, broken parts, or unverifiable authenticity. Testing the chair in person and asking the right questions are critical steps to ensure you get a comfortable, functional, and lasting ergonomic chair at a reasonable price.
 
 When done right, a used Herman Miller can deliver the same high-quality seating experience as new — but at a much friendlier price tag.
+

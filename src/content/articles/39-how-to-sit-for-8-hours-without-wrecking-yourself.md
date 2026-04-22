@@ -120,3 +120,4 @@ The most important habit is tuning into your body’s signals.
 ---
 
 Sitting for long periods is a reality for many people, but it doesn’t have to wreck your body. By taking proactive steps to support your posture, move regularly, and care for your muscles, you can work comfortably and avoid the common pitfalls of prolonged sitting. Small adjustments create big impact—your body will thank you for it!
+

@@ -90,3 +90,4 @@ If treadmill desks aren’t a good fit, consider other low-impact ways to stay a
 Treadmill desks can be a valuable tool for boosting activity levels and breaking up sedentary time, but they’re not suitable for everyone or every type of work. Matching your job tasks, workspace, budget, and physical health with the right approach to active workstations is key. When integrated thoughtfully, treadmill desks might help you work more healthily, but they shouldn’t add stress or compromise job performance.
 
 Before investing, try to test a treadmill desk setup if possible, and consult with healthcare or ergonomic professionals if you have health concerns. This practical approach helps ensure you get the benefits of movement without unnecessary drawbacks.
+

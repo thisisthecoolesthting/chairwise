@@ -116,3 +116,4 @@ Neck pain that began in 2020 and never left is often a consequence of lifestyle 
 Consistency and patience are key—neck muscles and posture take time to improve. If your pain persists or worsens despite these measures, consult a medical professional to identify any underlying causes and get tailored treatment.
 
 By incorporating these actionable steps into your daily routine, you can significantly reduce chronic neck pain and improve your quality of life.
+

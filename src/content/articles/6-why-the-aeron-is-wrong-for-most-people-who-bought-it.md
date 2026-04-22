@@ -101,3 +101,4 @@ Ultimately, the best chair is the one that matches your needs—not just one lau
 ---
 
 By understanding why the Aeron doesn’t work for many users, you can make a more informed choice that truly supports long hours of comfortable, healthy sitting.
+

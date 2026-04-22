@@ -148,3 +148,4 @@ Choosing among 24, 27, and 32-inch external displays depends largely on your wor
 In all cases, matching the monitor’s resolution and connectivity options to your laptop ensures the best experience. Consider also ergonomics and panel quality to round out your external display setup.
 
 An external display is often the best productivity upgrade for a laptop user — just pick the size that best fits your needs, and your work or play will benefit greatly.
+

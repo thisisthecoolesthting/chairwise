@@ -120,3 +120,4 @@ Choosing the right split keyboard depends on your priorities—whether that’s 
 ---
 
 If you’re looking to improve your typing comfort and explore a split keyboard, consider your needs carefully across these categories to pick the right balance of features and form factor.
+

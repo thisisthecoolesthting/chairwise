@@ -100,3 +100,4 @@ By integrating these strategies into your day, you’ll help protect your lower 
 ---
 
 By focusing on practical changes rather than quick fixes, you can take control of your desk-related lower back pain and create a healthier work environment for yourself.
+

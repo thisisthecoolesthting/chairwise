@@ -113,3 +113,4 @@ If you want a dependable chair for daily use without premium brand hype or astro
 | Design                     | Simple, professional      | Varies (often modern/stylish) |
 
 With solid ergonomics, comfort, and durability, the HON Ignition 2.0 offers strong value for anyone unwilling to settle for cheap chairs but hesitant to overspend on premium models.
+

@@ -95,3 +95,4 @@ If budget is a factor, the Titan Evo provides a comfortable and durable chair th
 - Both chairs are solid performers in durability and long-term comfort but serve slightly different user preferences and body types.
 
 Ultimately, tall users should aim to test these chairs where possible or verify return policies, as the best ergonomic seat is one that fits your specific body structure and comfort needs.
+

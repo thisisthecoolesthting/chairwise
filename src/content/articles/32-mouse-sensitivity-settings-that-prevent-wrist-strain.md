@@ -124,3 +124,4 @@ Remember: comfort comes from the balance of hardware settings and healthy habits
 - Take breaks and perform wrist stretches regularly.
 
 By following these guidelines, you’ll create a more comfortable and sustainable computing setup that helps protect your wrists long-term.
+

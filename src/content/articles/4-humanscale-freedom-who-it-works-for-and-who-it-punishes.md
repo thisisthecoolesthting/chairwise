@@ -92,3 +92,4 @@ Choosing an ergonomic chair is a very personal decision because of individual bo
 ---
 
 Ultimately, the Freedom lives up to its name for many — offering freedom from constant micro-adjustments and discomfort. But it can “punish” those who need rigid, customizable lumbar support or who fall outside its design archetype. Understanding these limitations helps you make a confident, informed choice for your workspace.
+

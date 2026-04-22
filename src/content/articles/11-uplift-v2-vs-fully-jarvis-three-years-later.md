@@ -112,3 +112,4 @@ After three years of ownership, the decision between Uplift V2 and Fully Jarvis 
   You prefer a reliable, slightly more affordable desk that delivers solid performance and stability with a clean design. Jarvis is a strong pick for those needing dependable height range without extra frills or the highest level of customization.
 
 Both desks continue to be strong contenders even three years later, making them smart choices for ergonomic work setups. Your best pick depends on which features and long-term considerations matter most in your office environment.
+
