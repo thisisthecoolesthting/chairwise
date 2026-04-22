@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "shortName": "ChairWise",
+    "fullName": "ChairWise",
+    "taglineShort": "Your chair is probably wrong for you.",
+    "identity": {
+      "palette": {
+        "primary": "#475569",
+        "accent": "#14B8A6",
+        "cream": "#F8FAFC",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/chairwise-mark.svg",
+        "svgPublicPath": "/brand/chairwise-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "ERGONOMIC WORKSPACE REVIEWS",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Ergonomic workspace, tested",
+    "h1": "Your chair is wrong for you. Here's how to fix it.",
+    "subhead": "Real-world reviews of ergonomic chairs, standing desks, monitor arms, split keyboards, and the small adjustments that stop the neck pain that started in 2020 and never went away. Tested across 8 body types, 3 working styles, 60-day minimum.",
+    "ctaPrimaryLabel": "See top chairs",
+    "ctaPrimaryHref": "/pillars/ergonomic-chairs",
+    "ctaSecondaryLabel": "Build my workstation",
+    "ctaSecondaryHref": "/pillars/workstation-builder",
+    "trustLine": "We buy every product at retail. Test for 60 days minimum. Say skip it when we mean it. No manufacturer samples.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1611174743420-3d7df880ce32?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why ChairWise exists",
+    "body": "Home-office ergonomics went from an HR topic to a household crisis in 2020, and nobody is coming to fix it. We test the chairs, desks, arms, and keyboards that matter, rate them for specific bodies and specific work \u2014 not average users and not influencer gift bags \u2014 and tell you where the real price-quality cliffs are."
+  }
+}
