@@ -5,6 +5,9 @@ topic: '22. Keyboard trays: worth it for most people?'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Keyboard Trays: Worth It for Most People?"
+publishedAt: 2026-04-22
+excerpt: "Keyboard Trays: Worth It for Most People?"
 ---
 
 ## Keyboard Trays: Worth It for Most People?

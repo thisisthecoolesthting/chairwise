@@ -5,6 +5,9 @@ topic: 21. Single monitor vs dual monitor arms for the same workflow
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Single Monitor vs Dual Monitor Arms for the Same Workflow"
+publishedAt: 2026-04-22
+excerpt: "Single Monitor vs Dual Monitor Arms for the Same Workflow"
 ---
 
 ## Single Monitor vs Dual Monitor Arms for the Same Workflow

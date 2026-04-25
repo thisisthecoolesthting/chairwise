@@ -5,6 +5,9 @@ topic: 35. Monitor distance and the 20-20-20 rule vs the real measurement
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Understanding Monitor Distance and the 20 20 20 Rule vs Real Measurement"
+publishedAt: 2026-04-22
+excerpt: "Understanding Monitor Distance and the 20 20 20 Rule vs Real Measurement"
 ---
 
 ## Understanding Monitor Distance and the 20-20-20 Rule vs Real Measurement

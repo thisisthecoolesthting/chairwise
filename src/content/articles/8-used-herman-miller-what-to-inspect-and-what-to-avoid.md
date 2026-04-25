@@ -5,6 +5,9 @@ topic: '8. Used Herman Miller: what to inspect and what to avoid'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Used Herman Miller: What to Inspect and What to Avoid"
+publishedAt: 2026-04-22
+excerpt: "Used Herman Miller: What to Inspect and What to Avoid"
 ---
 
 ## Used Herman Miller: What to Inspect and What to Avoid

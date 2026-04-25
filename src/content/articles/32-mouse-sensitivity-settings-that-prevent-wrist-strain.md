@@ -5,6 +5,9 @@ topic: 32. Mouse sensitivity settings that prevent wrist strain
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Mouse Sensitivity Settings That Prevent Wrist Strain"
+publishedAt: 2026-04-22
+excerpt: "Mouse Sensitivity Settings That Prevent Wrist Strain"
 ---
 
 ## Mouse Sensitivity Settings That Prevent Wrist Strain

@@ -5,6 +5,9 @@ topic: '38. Sit-stand ratio: the number most people get wrong'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "38. Sit stand ratio: the number most people get wrong"
+publishedAt: 2026-04-22
+excerpt: "38. Sit stand ratio: the number most people get wrong"
 ---
 
 ## 38. Sit-stand ratio: the number most people get wrong

@@ -5,6 +5,9 @@ topic: 18. Anti-fatigue mats for standing desks ranked by back effect
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Anti Fatigue Mats for Standing Desks Ranked by Back Effect"
+publishedAt: 2026-04-22
+excerpt: "Anti Fatigue Mats for Standing Desks Ranked by Back Effect"
 ---
 
 ## Anti-Fatigue Mats for Standing Desks Ranked by Back Effect

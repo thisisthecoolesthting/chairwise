@@ -5,6 +5,9 @@ topic: 36. Fixing neck pain that started in 2020 and never left
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Fixing Neck Pain That Started in 2020 and Never Left"
+publishedAt: 2026-04-22
+excerpt: "Fixing Neck Pain That Started in 2020 and Never Left"
 ---
 
 ## Fixing Neck Pain That Started in 2020 and Never Left

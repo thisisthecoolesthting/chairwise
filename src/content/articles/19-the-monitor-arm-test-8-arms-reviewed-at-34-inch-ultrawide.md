@@ -5,6 +5,9 @@ topic: '19. The monitor arm test: 8 arms reviewed at 34-inch ultrawide'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "The Monitor Arm Test: 8 Arms Reviewed at 34 Inch Ultrawide"
+publishedAt: 2026-04-22
+excerpt: "The Monitor Arm Test: 8 Arms Reviewed at 34 Inch Ultrawide"
 ---
 
 ## The Monitor Arm Test: 8 Arms Reviewed at 34-Inch Ultrawide

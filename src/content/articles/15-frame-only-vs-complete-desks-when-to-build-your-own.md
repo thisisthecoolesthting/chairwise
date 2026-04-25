@@ -5,6 +5,9 @@ topic: '15. Frame only vs complete desks: when to build your own'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Frame Only vs Complete Desks: When to Build Your Own"
+publishedAt: 2026-04-22
+excerpt: "Frame Only vs Complete Desks: When to Build Your Own"
 ---
 
 ## Frame Only vs Complete Desks: When to Build Your Own

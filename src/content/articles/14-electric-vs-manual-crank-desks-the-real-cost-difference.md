@@ -5,6 +5,9 @@ topic: '14. Electric vs manual crank desks: the real cost difference'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Electric vs Manual Crank Desks: The Real Cost Difference"
+publishedAt: 2026-04-22
+excerpt: "Electric vs Manual Crank Desks: The Real Cost Difference"
 ---
 
 ## Electric vs Manual Crank Desks: The Real Cost Difference

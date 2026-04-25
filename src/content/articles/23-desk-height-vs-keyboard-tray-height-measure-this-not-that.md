@@ -5,6 +5,9 @@ topic: '23. Desk height vs keyboard tray height: measure this, not that'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Desk Height vs Keyboard Tray Height: Measure This, Not That"
+publishedAt: 2026-04-22
+excerpt: "Desk Height vs Keyboard Tray Height: Measure This, Not That"
 ---
 
 ## Desk Height vs Keyboard Tray Height: Measure This, Not That

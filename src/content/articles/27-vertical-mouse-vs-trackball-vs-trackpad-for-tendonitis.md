@@ -5,6 +5,9 @@ topic: 27. Vertical mouse vs trackball vs trackpad for tendonitis
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Vertical Mouse vs Trackball vs Trackpad for Tendonitis: Finding the Best Ergonomic Option"
+publishedAt: 2026-04-22
+excerpt: "Vertical Mouse vs Trackball vs Trackpad for Tendonitis: Finding the Best Ergonomic Option"
 ---
 
 ## Vertical Mouse vs Trackball vs Trackpad for Tendonitis: Finding the Best Ergonomic Option

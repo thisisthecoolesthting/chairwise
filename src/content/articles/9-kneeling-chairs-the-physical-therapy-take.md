@@ -5,6 +5,9 @@ topic: '9. Kneeling chairs: the physical therapy take'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Kneeling Chairs: The Physical Therapy Take"
+publishedAt: 2026-04-22
+excerpt: "Kneeling Chairs: The Physical Therapy Take"
 ---
 
 ## Kneeling Chairs: The Physical Therapy Take

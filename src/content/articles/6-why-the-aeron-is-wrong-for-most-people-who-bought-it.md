@@ -5,6 +5,9 @@ topic: 6. Why the Aeron is wrong for most people who bought it
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Why the Aeron Is Wrong for Most People Who Bought It"
+publishedAt: 2026-04-22
+excerpt: "Why the Aeron Is Wrong for Most People Who Bought It"
 ---
 
 ## Why the Aeron Is Wrong for Most People Who Bought It
