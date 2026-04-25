@@ -5,6 +5,9 @@ topic: '29. Logitech MX Master vs MX Vertical: productivity vs pain'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Logitech MX Master vs MX Vertical: Productivity vs Pain"
+publishedAt: 2026-04-22
+excerpt: "Logitech MX Master vs MX Vertical: Productivity vs Pain"
 ---
 
 ## Logitech MX Master vs MX Vertical: Productivity vs Pain

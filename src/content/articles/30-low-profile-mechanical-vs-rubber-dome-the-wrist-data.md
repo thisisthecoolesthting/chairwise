@@ -5,6 +5,9 @@ topic: '30. Low profile mechanical vs rubber dome: the wrist data'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Low Profile Mechanical vs Rubber Dome Keyboards: The Wrist Data"
+publishedAt: 2026-04-22
+excerpt: "Low Profile Mechanical vs Rubber Dome Keyboards: The Wrist Data"
 ---
 
 ## Low Profile Mechanical vs Rubber Dome Keyboards: The Wrist Data

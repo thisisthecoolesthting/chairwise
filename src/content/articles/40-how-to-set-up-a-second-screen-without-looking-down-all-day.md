@@ -5,6 +5,9 @@ topic: 40. How to set up a second screen without looking down all day
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "How to Set Up a Second Screen Without Looking Down All Day"
+publishedAt: 2026-04-22
+excerpt: "How to Set Up a Second Screen Without Looking Down All Day"
 ---
 
 ## How to Set Up a Second Screen Without Looking Down All Day

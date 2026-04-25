@@ -5,6 +5,9 @@ topic: 13. How tall should your desk be? A chart by height and workflow
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "How Tall Should Your Desk Be? A Chart by Height and Workflow"
+publishedAt: 2026-04-22
+excerpt: "How Tall Should Your Desk Be? A Chart by Height and Workflow"
 ---
 
 ## How Tall Should Your Desk Be? A Chart by Height and Workflow

@@ -5,6 +5,9 @@ topic: 34. Setting chair height when you cannot stand without your laptop
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Setting Chair Height When You Cannot Stand Without Your Laptop"
+publishedAt: 2026-04-22
+excerpt: "Setting Chair Height When You Cannot Stand Without Your Laptop"
 ---
 
 ## Setting Chair Height When You Cannot Stand Without Your Laptop

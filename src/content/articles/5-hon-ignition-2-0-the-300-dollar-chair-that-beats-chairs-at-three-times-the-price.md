@@ -7,6 +7,9 @@ topic: '5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three tim
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "HON Ignition 2.0: The $300 Chair That Beats Chairs Costing Three Times as Much"
+publishedAt: 2026-04-22
+excerpt: "HON Ignition 2.0: The $300 Chair That Beats Chairs Costing Three Times as Much"
 ---
 
 ## HON Ignition 2.0: The $300 Chair That Beats Chairs Costing Three Times as Much

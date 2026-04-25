@@ -3,7 +3,10 @@ name: Nate Reeves
 slug: nate-chairwise
 role: Senior Editor
 site: ChairWise
+photoUrl: "/authors/nate-chairwise.svg"
+shortBio: "Nate — ChairWise"
 ---
+
 # Nate — ChairWise
 
 We test gear and read specs so you can shortlist with confidence.

@@ -5,6 +5,9 @@ topic: '17. L-shaped corner desks: the hidden ergonomic trap'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "17. L Shaped Corner Desks: The Hidden Ergonomic Trap"
+publishedAt: 2026-04-22
+excerpt: "17. L Shaped Corner Desks: The Hidden Ergonomic Trap"
 ---
 
 ## 17. L-Shaped Corner Desks: The Hidden Ergonomic Trap

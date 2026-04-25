@@ -5,6 +5,9 @@ topic: 3. Secretlab Titan Evo vs Herman Miller Embody for tall users
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Secretlab Titan Evo vs Herman Miller Embody for Tall Users"
+publishedAt: 2026-04-22
+excerpt: "Secretlab Titan Evo vs Herman Miller Embody for Tall Users"
 ---
 
 ## Secretlab Titan Evo vs Herman Miller Embody for Tall Users

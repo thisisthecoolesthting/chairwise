@@ -5,6 +5,9 @@ topic: '4. Humanscale Freedom: who it works for and who it punishes'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Humanscale Freedom: Who It Works For and Who It Punishes"
+publishedAt: 2026-04-22
+excerpt: "Humanscale Freedom: Who It Works For and Who It Punishes"
 ---
 
 ## Humanscale Freedom: Who It Works For and Who It Punishes

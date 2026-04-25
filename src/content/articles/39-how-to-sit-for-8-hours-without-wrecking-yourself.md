@@ -5,6 +5,9 @@ topic: 39. How to sit for 8 hours without wrecking yourself
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "How to Sit for 8 Hours Without Wrecking Yourself"
+publishedAt: 2026-04-22
+excerpt: "How to Sit for 8 Hours Without Wrecking Yourself"
 ---
 
 ## How to Sit for 8 Hours Without Wrecking Yourself

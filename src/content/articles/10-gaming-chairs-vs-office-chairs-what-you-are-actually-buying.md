@@ -5,6 +5,9 @@ topic: '10. Gaming chairs vs office chairs: what you are actually buying'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Gaming Chairs vs Office Chairs: What You Are Actually Buying"
+publishedAt: 2026-04-22
+excerpt: "Gaming Chairs vs Office Chairs: What You Are Actually Buying"
 ---
 
 ## Gaming Chairs vs Office Chairs: What You Are Actually Buying

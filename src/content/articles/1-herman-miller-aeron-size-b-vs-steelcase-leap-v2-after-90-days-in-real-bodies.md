@@ -5,6 +5,9 @@ topic: 1. Herman Miller Aeron size B vs Steelcase Leap v2 after 90 days in real 
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Herman Miller Aeron Size B vs Steelcase Leap V2: Real World Comparison After 90 Days"
+publishedAt: 2026-04-22
+excerpt: "Herman Miller Aeron Size B vs Steelcase Leap V2: Real World Comparison After 90 Days"
 ---
 
 ## Herman Miller Aeron Size B vs Steelcase Leap V2: Real-World Comparison After 90 Days

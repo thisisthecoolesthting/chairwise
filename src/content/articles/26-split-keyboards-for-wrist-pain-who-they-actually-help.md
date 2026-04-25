@@ -5,6 +5,9 @@ topic: '26. Split keyboards for wrist pain: who they actually help'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Split Keyboards for Wrist Pain: Who They Actually Help"
+publishedAt: 2026-04-22
+excerpt: "Split Keyboards for Wrist Pain: Who They Actually Help"
 ---
 
 ## Split Keyboards for Wrist Pain: Who They Actually Help

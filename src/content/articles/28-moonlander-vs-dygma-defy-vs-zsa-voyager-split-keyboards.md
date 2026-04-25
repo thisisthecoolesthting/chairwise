@@ -5,6 +5,9 @@ topic: 28. Moonlander vs Dygma Defy vs ZSA Voyager split keyboards
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Moonlander vs Dygma Defy vs ZSA Voyager: A Comparison of Top Split Keyboards"
+publishedAt: 2026-04-22
+excerpt: "Moonlander vs Dygma Defy vs ZSA Voyager: A Comparison of Top Split Keyboards"
 ---
 
 ## Moonlander vs Dygma Defy vs ZSA Voyager: A Comparison of Top Split Keyboards

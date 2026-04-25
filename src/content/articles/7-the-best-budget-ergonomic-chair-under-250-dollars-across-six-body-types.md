@@ -5,6 +5,9 @@ topic: 7. The best budget ergonomic chair under 250 dollars across six body type
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "The Best Budget Ergonomic Chair Under $250 Across Six Body Types"
+publishedAt: 2026-04-22
+excerpt: "The Best Budget Ergonomic Chair Under $250 Across Six Body Types"
 ---
 
 ## The Best Budget Ergonomic Chair Under $250 Across Six Body Types

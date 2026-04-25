@@ -5,6 +5,9 @@ topic: 24. How to set up a laptop-only home office ergonomically
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "How to Set Up a Laptop Only Home Office Ergonomically"
+publishedAt: 2026-04-22
+excerpt: "How to Set Up a Laptop Only Home Office Ergonomically"
 ---
 
 ## How to Set Up a Laptop-Only Home Office Ergonomically

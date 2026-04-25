@@ -5,6 +5,9 @@ topic: 2. The best ergonomic chair under 500 dollars reviewed across 5 body type
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "The Best Ergonomic Chair Under $500 Reviewed Across 5 Body Types"
+publishedAt: 2026-04-22
+excerpt: "The Best Ergonomic Chair Under $500 Reviewed Across 5 Body Types"
 ---
 
 ## The Best Ergonomic Chair Under $500 Reviewed Across 5 Body Types

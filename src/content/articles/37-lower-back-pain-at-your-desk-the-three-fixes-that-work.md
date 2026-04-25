@@ -5,6 +5,9 @@ topic: '37. Lower back pain at your desk: the three fixes that work'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Lower Back Pain at Your Desk: The Three Fixes That Work"
+publishedAt: 2026-04-22
+excerpt: "Lower Back Pain at Your Desk: The Three Fixes That Work"
 ---
 
 ## Lower Back Pain at Your Desk: The Three Fixes That Work

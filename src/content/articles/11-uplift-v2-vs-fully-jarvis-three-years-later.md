@@ -5,6 +5,9 @@ topic: 11. Uplift V2 vs Fully Jarvis three years later
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Uplift V2 vs Fully Jarvis: Three Years Later"
+publishedAt: 2026-04-22
+excerpt: "Uplift V2 vs Fully Jarvis: Three Years Later"
 ---
 
 ## Uplift V2 vs Fully Jarvis: Three Years Later

@@ -5,6 +5,9 @@ topic: '31. Keyboard latency and typing ergonomics: yes it matters'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "Keyboard Latency and Typing Ergonomics: Yes, It Matters"
+publishedAt: 2026-04-22
+excerpt: "Keyboard Latency and Typing Ergonomics: Yes, It Matters"
 ---
 
 ## Keyboard Latency and Typing Ergonomics: Yes, It Matters

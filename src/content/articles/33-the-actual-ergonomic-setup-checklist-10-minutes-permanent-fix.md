@@ -5,6 +5,9 @@ topic: '33. The actual ergonomic setup checklist: 10 minutes, permanent fix'
 tier: mvp
 relatedProducts: []
 status: published
+metaDescription: "The Actual Ergonomic Setup Checklist: 10 Minutes, Permanent Fix"
+publishedAt: 2026-04-22
+excerpt: "The Actual Ergonomic Setup Checklist: 10 Minutes, Permanent Fix"
 ---
 
 ## The Actual Ergonomic Setup Checklist: 10 Minutes, Permanent Fix
