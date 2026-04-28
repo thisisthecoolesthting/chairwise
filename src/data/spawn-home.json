@@ -1,0 +1,74 @@
+{
+  "brand": {
+    "shortName": "ChairWise",
+    "fullName": "ChairWise",
+    "taglineShort": "Your chair is probably wrong for you.",
+    "identity": {
+      "palette": {
+        "primary": "#475569",
+        "accent": "#14B8A6",
+        "cream": "#F8FAFC",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/chairwise.svg",
+        "svgPublicPath": "/brand/chairwise.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "ERGONOMIC WORKSPACE REVIEWS",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "technical_practical"
+  },
+  "editorial": {
+    "authorSlug": "nate-brennan",
+    "author_slug": "nate-brennan",
+    "methodology": [
+      "Every chair, desk, and arm is purchased at retail and tested for at least 60 days; manufacturer samples are not accepted.",
+      "Each product is evaluated across 8 body types (height + weight + sitting style) and 3 working styles (focused-typing, meeting-heavy, mixed) \u2014 never reduced to an average user.",
+      "Ergonomic claims are checked against current OT/PT guidance and our reviewer's clinical training; we cite the source for any pain or posture claim.",
+      "We name the price-quality cliff for each category \u2014 the point above which more dollars stop buying more comfort \u2014 and tell you when the cheaper pick wins.",
+      "Affiliate links use the retailer where we actually bought the product; we do not chase the highest commission rate.",
+      "Pulled-from-rotation picks are tracked in a public 'no longer recommended' archive with the reason and the date."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The ChairWise weekly",
+    "subtitle": "Practical picks and straight answers from ChairWise, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@chairwise.app",
+  "defaultAuthorSlug": "nate-chairwise",
+  "defaultMetaDescription": "Real-world reviews of ergonomic chairs, standing desks, monitor arms, split keyboards, and the small adjustments that stop the neck pain that started in 2020 and never went away. Tested across 8 body ",
+  "homepage": {
+    "eyebrow": "Ergonomic workspace, tested",
+    "h1": "Your chair is wrong for you. Here's how to fix it.",
+    "subhead": "Real-world reviews of ergonomic chairs, standing desks, monitor arms, split keyboards, and the small adjustments that stop the neck pain that started in 2020 and never went away. Tested across 8 body types, 3 working styles, 60-day minimum.",
+    "ctaPrimaryLabel": "See top chairs",
+    "ctaPrimaryHref": "/pillars/ergonomic-chairs",
+    "ctaSecondaryLabel": "Build my workstation",
+    "ctaSecondaryHref": "/pillars/workstation-builder",
+    "trustLine": "We buy every product at retail. Test for 60 days minimum. Say skip it when we mean it. No manufacturer samples.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1611174743420-3d7df880ce32?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why ChairWise exists",
+    "body": "Home-office ergonomics went from an HR topic to a household crisis in 2020, and nobody is coming to fix it. We test the chairs, desks, arms, and keyboards that matter, rate them for specific bodies and specific work \u2014 not average users and not influencer gift bags \u2014 and tell you where the real price-quality cliffs are."
+  }
+}
