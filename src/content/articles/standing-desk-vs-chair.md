@@ -16,7 +16,7 @@ relatedProducts:
 - B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-status: draft
+status: published
 tags:
 - ergonomics
 - wfh

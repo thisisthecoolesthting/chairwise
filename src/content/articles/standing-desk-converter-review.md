@@ -16,7 +16,7 @@ relatedProducts:
 - B00MRHA96O
 - B00MRH9NCK
 - B0017HYB2I
-status: draft
+status: published
 tags:
 - standing-desk
 - ergonomic-office

@@ -16,7 +16,7 @@ relatedProducts:
 - B00MRH9NCK
 - B0017HYB2I
 - B00MRHA96O
-status: draft
+status: published
 tags:
 - ergonomic-chairs
 - home-office

@@ -15,7 +15,7 @@ relatedProducts:
 - B0GF25F12C
 - B0F4X2YBP1
 - B0CGW2TFSV
-status: draft
+status: published
 tags:
 - ergonomic keyboard
 - wrist pain

@@ -16,7 +16,7 @@ relatedProducts:
 - B0C3T4CHQ2
 - B085VZPR2Y
 - B0DWD9NQ57
-status: draft
+status: published
 tags:
 - standing-desk
 - ergonomic-office

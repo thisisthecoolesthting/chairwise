@@ -8,7 +8,7 @@ excerpt: After 60 days of pressure-testing five ergonomic chairs across eight bo
   types, we found most WFH professionals overlook three critical adjustments. Here's
   how to avoid $1,400 mistakes and build a pain-free setup for under $800.
 pillarSlug: ergonomic-accessories-guides
-status: draft
+status: published
 tags:
 - ergonomic chairs
 - standing desks

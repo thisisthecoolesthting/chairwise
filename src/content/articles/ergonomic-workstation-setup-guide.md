@@ -8,7 +8,7 @@ excerpt: After testing 14 chairs, 9 desks, and 5 monitor arms across 8 body type
   over 60 days, we found most 'ergonomic' gear fails basic posture tests. Here's the
   setup that actually works—and costs less than you'd think.
 pillarSlug: accessories-for-comfort
-status: draft
+status: published
 tags:
 - ergonomic-chairs
 - standing-desks

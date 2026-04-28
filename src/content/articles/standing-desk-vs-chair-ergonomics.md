@@ -16,7 +16,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-status: draft
+status: published
 tags:
 - standing desk vs chair
 - ergonomic workstation
