@@ -165,45 +165,45 @@ A: Only if properly adjusted—most users set them too high, forcing neck flexio
 
 For those wanting premium features at mid-range prices, the [Clatina Mellet](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) at $499 is our top under-$500 pick with its 10-year warranty and 4D armrests. It outperformed chairs costing twice as much in our durability testing.
 
-<!-- padded-no-api-v1 -->
+<!-- padded-no-api-v2 -->
 
-
-## Recent price snapshot
-
-Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
-
-| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
-|---|---:|---:|---:|---:|---:|
-| Listing (`B00WSAXBQ0`) | — | — | — | — | — |
-| Listing (`B09VXQ221K`) | — | — | — | — | — |
-| Listing (`B098JD8HD3`) | — | — | — | — | — |
-| Listing (`B08PZBPXLZ`) | — | — | — | — | — |
-| Listing (`B0BX2N258S`) | — | — | — | — | — |
-| Listing (`B0G63G9LRJ`) | — | — | — | — | — |
-
-Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
 
 ## Frequently asked questions
 
 **Is the Herman Miller Aeron actually worth $1,500?**
 
-It's worth it for two specific use cases: people who sit 8+ hours a day and people with chronic lower-back issues. The 12-year warranty covers parts and the chair is genuinely engineered for that lifespan, so the per-year cost works out to ~$125 — comparable to a $400 chair replaced every three years. For occasional desk users (less than 4 hours a day), an $400–$700 chair like the Steelcase Series 1 or HON Ignition delivers 80% of the ergonomic value. The Aeron's PostureFit lumbar support is genuinely better than most cheaper chairs, but only if you sit deep enough into the seat to make contact with it.
+It's worth it for two specific use cases: people who sit 8+ hours a day and people with chronic lower-back issues. The 12-year warranty covers parts and the chair is genuinely engineered for that lifespan, so the per-year cost works out to ~$125 — comparable to a $400 chair replaced every three years.
+
+For occasional desk users (less than 4 hours a day), an $400–$700 chair like the Steelcase Series 1 or HON Ignition delivers 80% of the ergonomic value. The Aeron's PostureFit lumbar support is genuinely better than most cheaper chairs, but only if you sit deep enough into the seat to make contact with it.
+
 
 **Are kneeling chairs, ball chairs, or saddle stools better?**
 
-Different problems, different answers. Kneeling chairs reduce lumbar load by tilting the pelvis forward, but they put weight on the shins — most users tolerate them for 90–120 minutes max, then need a break. Stability balls force constant micro-engagement of core muscles, which sounds ergonomic but research from the University of Waterloo found no spinal advantage over a standard chair after 90 minutes; balance fatigue degrades posture. Saddle stools (Salli, Bambach) are the closest thing to a 'right answer' for many people: hip angle around 135 degrees, no thigh compression, easy to stand and sit without rolling the chair back. The downside: $400–$1,200 and a steep adjustment week.
+Different problems, different answers. Kneeling chairs reduce lumbar load by tilting the pelvis forward, but they put weight on the shins — most users tolerate them for 90–120 minutes max, then need a break. Stability balls force constant micro-engagement of core muscles, which sounds ergonomic but research from the University of Waterloo found no spinal advantage over a standard chair after 90 minutes; balance fatigue degrades posture.
+
+Saddle stools (Salli, Bambach) are the closest thing to a 'right answer' for many people: hip angle around 135 degrees, no thigh compression, easy to stand and sit without rolling the chair back. The downside: $400–$1,200 and a steep adjustment week.
+
 
 **Why do budget chairs fail after 12 to 18 months?**
 
-The failure points are usually the gas cylinder (the lift mechanism), the seat foam, and the synchro-tilt mechanism. Budget chairs ($150–$300) use class-2 gas cylinders (rated for ~50,000 cycles), 1.8 lb-density polyfoam, and stamped-steel tilt plates. After about 18 months of daily use, gas cylinders lose lift and seat foam compresses to 60% of original height, both of which throw off your posture. Mid-range chairs ($400–$800) use class-3 or class-4 cylinders, 2.2+ lb foam, and machined-aluminum tilt mechanisms — typical lifespan 5–7 years. The math: a $250 chair replaced every 18 months costs $167/year; a $700 chair lasting 6 years costs $117/year.
+The failure points are usually the gas cylinder (the lift mechanism), the seat foam, and the synchro-tilt mechanism. Budget chairs ($150–$300) use class-2 gas cylinders (rated for ~50,000 cycles), 1.8 lb-density polyfoam, and stamped-steel tilt plates. After about 18 months of daily use, gas cylinders lose lift and seat foam compresses to 60% of original height, both of which throw off your posture.
+
+Mid-range chairs ($400–$800) use class-3 or class-4 cylinders, 2.2+ lb foam, and machined-aluminum tilt mechanisms — typical lifespan 5–7 years. The math: a $250 chair replaced every 18 months costs $167/year; a $700 chair lasting 6 years costs $117/year.
+
 
 **What's the right way to adjust a chair you already own?**
 
-Sit fully back so your hips touch the seat back. Adjust seat height so your feet are flat on the floor and thighs are parallel to the ground (not angling down). Slide the seat depth so the back of your knees clears the seat edge by about three fingers' width. Set lumbar support to fit the small of your back — usually 6–10 inches above the seat. Adjust armrests so your elbows rest at 90 degrees with shoulders relaxed (not hiked). Set the back-tilt tension so the chair pushes back against you when you lean, not freely. Most chairs have all five adjustments and most owners use one — height — and miss the rest.
+Sit fully back so your hips touch the seat back. Adjust seat height so your feet are flat on the floor and thighs are parallel to the ground (not angling down). Slide the seat depth so the back of your knees clears the seat edge by about three fingers' width. Set lumbar support to fit the small of your back — usually 6–10 inches above the seat.
+
+Adjust armrests so your elbows rest at 90 degrees with shoulders relaxed (not hiked). Set the back-tilt tension so the chair pushes back against you when you lean, not freely. Most chairs have all five adjustments and most owners use one — height — and miss the rest.
+
 
 **Do standing desks really help, or is sitting just over-demonized?**
 
-Both. Continuous sitting for 8+ hours is associated with measurable cardiovascular and metabolic effects independent of exercise (Mayo Clinic, 2023). But continuous standing is also associated with varicose veins, lower-back fatigue, and foot pain when sustained over 4 hours. The actual research recommendation is rotation: 30 minutes seated, 8–10 minutes standing, repeated. A sit-stand desk delivers this; a standing desk converted into 'stand all day' delivers a different problem. The most evidence-backed intervention is honestly just walking 2 minutes every 30 — easier with a standing desk because you're already not seated, but achievable from any chair.
+Both. Continuous sitting for 8+ hours is associated with measurable cardiovascular and metabolic effects independent of exercise (Mayo Clinic, 2023). But continuous standing is also associated with varicose veins, lower-back fatigue, and foot pain when sustained over 4 hours. The actual research recommendation is rotation: 30 minutes seated, 8–10 minutes standing, repeated.
+
+A sit-stand desk delivers this; a standing desk converted into 'stand all day' delivers a different problem. The most evidence-backed intervention is honestly just walking 2 minutes every 30 — easier with a standing desk because you're already not seated, but achievable from any chair.
+
 
 
 ## What to watch for before you buy
@@ -219,4 +219,4 @@ Both. Continuous sitting for 8+ hours is associated with measurable cardiovascul
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
