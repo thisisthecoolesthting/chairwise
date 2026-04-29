@@ -4,3 +4,4 @@ dist/
 .spawn-cache/
 .env
 .DS_Store
+_archive_duped/
