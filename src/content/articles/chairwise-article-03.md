@@ -52,7 +52,7 @@ We also discovered most users make three critical mistakes when chair shopping: 
 
 ## Head-to-head comparison
 
-| Feature                | Herman Miller Aeron (B00WSAXBQ0) | Steelcase Leap (B00ANZRT4M) | Ticova Ergonomic (B098JD8HD3) | Gabrylly Mesh (B09DY7CCW5) |
+| Feature                | Herman Miller Aeron | Steelcase Leap | Ticova Ergonomic | Gabrylly Mesh |
 |------------------------|----------------------------------|-----------------------------|--------------------------------|----------------------------|
 | **Lumbar Support**     | Dynamic PostureFit SL (adjusts to sacrum shape) | LiveBack 3D adjustment (mimics spine movement) | Fixed curve (non-adjustable) | Adjustable height only (limited effectiveness) |
 | **Seat Depth**         | 2.5" adjustment range (best for long femurs) | 3" adjustment (caters to diverse body types) | Fixed (16.5", problematic for users under 5'4") | 1.5" adjustment (better for petite users) |
@@ -74,7 +74,7 @@ Premium chairs reveal their true value in years 3-5. While the $229 [Ticova Chai
 **Hidden Flaws Most Reviews Miss:**
 1. The Steelcase Leap's armrest padding wears through at 18-24 months with heavy use (visible foam breakdown at 15,000 compression cycles)
 2. Budget chair gas cylinders frequently fail between years 2-3 (we replaced 3/5 test units; the [Hbada Chair](https://www.amazon.com/dp/B0D41ZMDPD?tag=chairwise-20) was the exception)
-3. Mesh seats on sub-$300 chairs like the [B07Q2B4ZY9](https://www.amazon.com/dp/B07Q2B4ZY9?tag=chairwise-20) stretch out by 11-15% after 500 hours, reducing lumbar support effectiveness
+3. Mesh seats on sub-$300 chairs like the [this chair](https://www.amazon.com/dp/B07Q2B4ZY9?tag=chairwise-20) stretch out by 11-15% after 500 hours, reducing lumbar support effectiveness
 4. Plastic frame components on budget chairs develop microfractures at stress points (visible under UV light testing)
 5. Wheel durability varies dramatically — premium chairs' casters lasted 3x longer on hardwood floors
 

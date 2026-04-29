@@ -41,7 +41,7 @@ New research from Cornell University's Ergonomics Research Lab shows that proper
 
 ## Head-to-head comparison
 
-| Feature               | Herman Miller Aeron (B00WSAXBQ0) | Steelcase Leap (B0DHV7ZWH2) | Budget Alternative (B0G63G9LRJ) |
+| Feature               | Herman Miller Aeron | Steelcase Leap | Budget Alternative |
 |-----------------------|----------------------------------|-----------------------------|---------------------------------|
 | Lumbar Support        | PostureFit SL (fixed)            | LiveBack (dynamic)          | Adjustable pad                  |
 | Weight Capacity       | 350lbs                           | 400lbs                      | 300lbs                          |

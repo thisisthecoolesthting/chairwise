@@ -133,7 +133,7 @@ Most users report noticeable improvements within 3–5 weeks when using proper a
 
 ## Bottom Line
 
-For most home office workers earning under $60,000–$200,000 who need a reliable chair today, we recommend the **HON Ignition 2.0** ([B00MRH9NCK](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20)) at $529. It offers:
+For most home office workers earning under $60,000–$200,000 who need a reliable chair today, we recommend the **HON Ignition 2.0** ([this chair](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20)) at $529. It offers:
 - Intuitive controls that don't require an instruction manual
 - Seat depth and height options that work well for petite users (rare under $800)
 - Solid 5-year warranty covering common mechanical issues

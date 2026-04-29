@@ -68,7 +68,7 @@ The [Ticova Ergonomic Chair](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-
 
 We developed a comprehensive 27-point evaluation system to compare the top contenders in this price range. Below is an expanded comparison table with additional critical metrics:
 
-| Feature               | Ticova (B0GF25F12C) | Nouhaus (B0CGW2TFSV) | Gabrylly (B0CGW48C3G) | AmazonBasics (B004QM8SLG) | Hbada (B0F54TYKF9) |
+| Feature               | Ticova | Nouhaus | Gabrylly | AmazonBasics | Hbada |
 |-----------------------|---------------------|----------------------|-----------------------|---------------------------|--------------------|
 | Lumbar adjustability  | 4-way (height/depth) | 3-way (height only)  | 2-way (fixed depth)   | Fixed                     | 3-way (height/depth) |
 | Seat depth range      | 16.5-19" (3" adj)   | 15-17.5" (2.5" adj) | 16-18" (2" adj)       | 17" fixed                | 16.5-18.5" (2" adj) |

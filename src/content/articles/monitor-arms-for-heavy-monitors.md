@@ -67,11 +67,11 @@ In our observational study with 12 graphic designers:
 
 | Model                     | Max Weight | Tilt Range | Cable Management | Price  | Warranty | Key Feature |
 |---------------------------|------------|------------|------------------|--------|----------|-------------|
-| Ergotron HX (B004QM8SLG)  | 42 lbs     | -85°/+85°  | Fully enclosed   | $349   | 15 years | Constant Force technology |
-| AmazonBasics Premium (B0GF25F12C) | 40 lbs | -75°/+75° | Partial sleeves  | $199   | 5 years | Dual-axis stabilization |
-| HUANUO Triple Monitor (B0CB75LML9) | 33 lbs per arm | -90°/+90° | Open channels    | $159   | 2 years | Independent arm adjustment |
-| Ergotron LX (B093TCYF9T) | 25 lbs | -75°/+75° | Enclosed | $229 | 10 years | Space-saving pivot design |
-| FLEXISPOT EC5 (B0F54TYKF9) | 44 lbs* | -80°/+80° | Open | $129 | 1 year | *Failed at 35 lbs in testing |
+| Ergotron HX  | 42 lbs     | -85°/+85°  | Fully enclosed   | $349   | 15 years | Constant Force technology |
+| AmazonBasics Premium | 40 lbs | -75°/+75° | Partial sleeves  | $199   | 5 years | Dual-axis stabilization |
+| HUANUO Triple Monitor | 33 lbs per arm | -90°/+90° | Open channels    | $159   | 2 years | Independent arm adjustment |
+| Ergotron LX | 25 lbs | -75°/+75° | Enclosed | $229 | 10 years | Space-saving pivot design |
+| FLEXISPOT EC5 | 44 lbs* | -80°/+80° | Open | $129 | 1 year | *Failed at 35 lbs in testing |
 
 ### In-Depth Performance Analysis
 **Ergotron HX**: The gold standard for studios, with a patented Constant Force mechanism that maintains perfect tension whether the monitor is at maximum extension or fully retracted. During our 6-month test with a 42 lb EIZO ColorEdge CG319X, the arm showed:
