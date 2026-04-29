@@ -1,8 +1,12 @@
 ---
 title: 'Ergonomic Chair Showdown: The Best Seats for 8+ Hour Workdays'
-metaDescription: We tested 12 chairs over 60 days to find which models actually support your back during marathon work sessions — and which expensive brands aren't worth the hype.
+metaDescription: We tested 12 chairs over 60 days to find which models actually support
+  your back during marathon work sessions — and which expensive brands aren't worth
+  the hype.
 publishedAt: '2026-04-29T10:00:00Z'
-excerpt: After testing 12 chairs with occupational therapists, we found the Steelcase Leap outperforms the Herman Miller Aeron for most body types, while budget options like the Hbada Office Chair surprise with premium features at half the price.
+excerpt: After testing 12 chairs with occupational therapists, we found the Steelcase
+  Leap outperforms the Herman Miller Aeron for most body types, while budget options
+  like the Hbada Office Chair surprise with premium features at half the price.
 pillarSlug: chairwise-pillar-2
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B098JD8HD3
 - B08PZBPXLZ
 - B0BX2N258S
-heroImage: /images/hero/chairwise-article-08.jpg---
+heroImage: /images/hero/chairwise-article-08.jpg
+---
 
 ## Introduction
 

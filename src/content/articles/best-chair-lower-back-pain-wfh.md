@@ -1,8 +1,12 @@
 ---
 title: Finding the Best Chair for Lower Back Pain in Your WFH Setup
-metaDescription: A former occupational therapist compares 15+ ergonomic chairs for lower back pain relief, with long-term testing data on durability, adjustability, and real-world performance for 8-hour workdays.
+metaDescription: A former occupational therapist compares 15+ ergonomic chairs for
+  lower back pain relief, with long-term testing data on durability, adjustability,
+  and real-world performance for 8-hour workdays.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: After testing 18 chairs over 60+ days, we identify which ergonomic designs actually relieve lower back pain during 8-hour workdays — and which expensive brands aren't worth their price tags.
+excerpt: After testing 18 chairs over 60+ days, we identify which ergonomic designs
+  actually relieve lower back pain during 8-hour workdays — and which expensive brands
+  aren't worth their price tags.
 pillarSlug: ergonomic-chairs-guide
 relatedProducts:
 - B004QM8SLG
@@ -23,7 +27,8 @@ tags:
 - home office
 - back pain relief
 - sitting posture
-heroImage: /images/hero/best-chair-lower-back-pain-wfh.jpg---
+heroImage: /images/hero/best-chair-lower-back-pain-wfh.jpg
+---
 
 ## Introduction
 

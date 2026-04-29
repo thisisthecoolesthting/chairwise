@@ -1,8 +1,12 @@
 ---
 title: 'Say Goodbye to Wrist Pain: The Best Split Keyboards for Ergonomics'
-metaDescription: Struggling with wrist pain from typing? We tested 12 split keyboards over 60 days to find the best ergonomic options for developers, writers, and office workers.
+metaDescription: Struggling with wrist pain from typing? We tested 12 split keyboards
+  over 60 days to find the best ergonomic options for developers, writers, and office
+  workers.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: After testing 12 split keyboards for 60+ days with 8 body types, we found the best ergonomic options to relieve wrist pain. Learn which models actually work and which gimmicks to avoid.
+excerpt: After testing 12 split keyboards for 60+ days with 8 body types, we found
+  the best ergonomic options to relieve wrist pain. Learn which models actually work
+  and which gimmicks to avoid.
 pillarSlug: workspace-accessories
 relatedProducts:
 - B0CB75LML9
@@ -22,7 +26,9 @@ tags:
 - keyboard comparison
 heroImage: /images/hero/split-keyboards-for-wrist-pain.jpg
 cardTitle: Split Keyboards Stop Wrist Pain for Desk Workers
-cardPick: Adjustable lumbar support prevents lower-back strain during eight-hour workdays, eliminating costly physical therapy visits.---
+cardPick: Adjustable lumbar support prevents lower-back strain during eight-hour workdays,
+  eliminating costly physical therapy visits.
+---
 
 ## Introduction
 

@@ -1,8 +1,12 @@
 ---
 title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals'
-metaDescription: A former occupational therapist compares the Herman Miller Aeron and Steelcase Leap chairs over 60 days of testing, with cost breakdowns and real-world ergonomic insights for remote workers.
+metaDescription: A former occupational therapist compares the Herman Miller Aeron
+  and Steelcase Leap chairs over 60 days of testing, with cost breakdowns and real-world
+  ergonomic insights for remote workers.
 publishedAt: '2026-04-29T10:00:00Z'
-excerpt: We tested the Herman Miller Aeron and Steelcase Leap chairs for 60+ days with 8 body types. Here's which $1,000+ chair actually delivers on ergonomics — and when you should choose the $400 alternative instead.
+excerpt: We tested the Herman Miller Aeron and Steelcase Leap chairs for 60+ days
+  with 8 body types. Here's which $1,000+ chair actually delivers on ergonomics —
+  and when you should choose the $400 alternative instead.
 pillarSlug: chairwise-pillar-1
 status: published
 tags:
@@ -20,7 +24,8 @@ relatedProducts:
 - B0G63G9LRJ
 - B0B3D96MN6
 - B09VXQ221K
-heroImage: /images/hero/chairwise-article-01.jpg---
+heroImage: /images/hero/chairwise-article-01.jpg
+---
 
 ## Introduction
 

@@ -1,8 +1,12 @@
 ---
 title: 'The 5 Best Ergonomic Chairs Under $500: Comfort on a Budget'
-metaDescription: After testing 12 chairs for 60+ days, we found the best ergonomic chairs under $500 for WFH professionals with back pain. See real-world performance data and cost breakdowns.
+metaDescription: After testing 12 chairs for 60+ days, we found the best ergonomic
+  chairs under $500 for WFH professionals with back pain. See real-world performance
+  data and cost breakdowns.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: We tested 12 budget ergonomic chairs over 8 weeks with different body types and work styles. Here are the 5 that actually support your spine without breaking the bank - plus hidden costs you need to know.
+excerpt: We tested 12 budget ergonomic chairs over 8 weeks with different body types
+  and work styles. Here are the 5 that actually support your spine without breaking
+  the bank - plus hidden costs you need to know.
 pillarSlug: ergonomic-chairs
 relatedProducts:
 - B093TCYF9T
@@ -22,7 +26,9 @@ tags:
 - value chairs
 heroImage: /images/hero/best-ergonomic-chairs-under-500.jpg
 cardTitle: Best Budget Ergonomic Chairs Under $500 for Remote Workers
-cardPick: Top pick combines lumbar support, adjustable armrests, and breathable mesh to eliminate all-day back pain without breaking the bank.---
+cardPick: Top pick combines lumbar support, adjustable armrests, and breathable mesh
+  to eliminate all-day back pain without breaking the bank.
+---
 
 ## Introduction
 

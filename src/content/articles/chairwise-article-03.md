@@ -1,8 +1,13 @@
 ---
-title: 'The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget Alternatives'
-metaDescription: We spent 60+ days testing premium and budget ergonomic chairs head-to-head. See why a $400 chair sometimes outperforms a $1400 model — and when it doesn't.
+title: 'The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap
+  vs. Budget Alternatives'
+metaDescription: We spent 60+ days testing premium and budget ergonomic chairs head-to-head.
+  See why a $400 chair sometimes outperforms a $1400 model — and when it doesn't.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: After testing 8 chairs across 3 body types for 60+ days, we reveal when premium ergonomic chairs justify their price — and when a budget alternative actually fits your body better. Includes wear tests, cost-per-year math, and 5 hidden flaws to avoid.
+excerpt: After testing 8 chairs across 3 body types for 60+ days, we reveal when premium
+  ergonomic chairs justify their price — and when a budget alternative actually fits
+  your body better. Includes wear tests, cost-per-year math, and 5 hidden flaws to
+  avoid.
 pillarSlug: chairwise-pillar-3
 status: published
 tags:
@@ -21,7 +26,8 @@ relatedProducts:
 - B098JD8HD3
 - B09DY7CCW5
 - B07Q2B4ZY9
-heroImage: /images/hero/chairwise-article-03.jpg---
+heroImage: /images/hero/chairwise-article-03.jpg
+---
 
 ## Introduction
 

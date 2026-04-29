@@ -1,8 +1,12 @@
 ---
 title: 'Standing Desk Converters Reviewed: Transform Your Desk, Not Your Budget'
-metaDescription: We tested 12 standing desk converters for stability, adjustability, and ergonomics. Here's how to upgrade your workspace without replacing your entire desk.
+metaDescription: We tested 12 standing desk converters for stability, adjustability,
+  and ergonomics. Here's how to upgrade your workspace without replacing your entire
+  desk.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: After 60+ days testing 12 models, we found most workers can get proper standing desk ergonomics for under $300—if you know which features actually matter for your body type and workflow.
+excerpt: After 60+ days testing 12 models, we found most workers can get proper standing
+  desk ergonomics for under $300—if you know which features actually matter for your
+  body type and workflow.
 pillarSlug: standing-desks
 relatedProducts:
 - B093TCYF9T
@@ -21,7 +25,8 @@ tags:
 - budget-workspace
 - desk-ergonomics
 - home-office-upgrade
-heroImage: /images/hero/standing-desk-converter-reviews.jpg---
+heroImage: /images/hero/standing-desk-converter-reviews.jpg
+---
 
 ## Introduction
 

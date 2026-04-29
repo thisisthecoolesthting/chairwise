@@ -1,8 +1,13 @@
 ---
 title: 'Vertical Mouse for Tendonitis: Which Models Actually Reduce Wrist Pain'
-metaDescription: We tested 4 vertical mice for tendonitis over 60 days. See which angles, grips, and designs reduce wrist strain—and when a trackball works better than a vertical mouse.
+metaDescription: We tested 4 vertical mice for tendonitis over 60 days. See which
+  angles, grips, and designs reduce wrist strain—and when a trackball works better
+  than a vertical mouse.
 publishedAt: '2026-04-28'
-excerpt: Vertical mice promise wrist relief, but most fail if they don't match your tendonitis pattern. We tested 4 models across 8 hand sizes over 60 days to isolate which angles and designs cut pain—and when a $30 trackball outperforms a $130 vertical design.
+excerpt: Vertical mice promise wrist relief, but most fail if they don't match your
+  tendonitis pattern. We tested 4 models across 8 hand sizes over 60 days to isolate
+  which angles and designs cut pain—and when a $30 trackball outperforms a $130 vertical
+  design.
 pillarSlug: ergonomic-accessories-guides
 relatedProducts:
 - B00NX0XMZY
@@ -21,7 +26,9 @@ tags:
 - home office setup
 heroImage: /images/hero/vertical-mouse-for-tendonitis.jpg
 cardTitle: Best Ergonomic Chair for Wrist Pain Relief While Working
-cardPick: Herman Miller Aeron's adjustable lumbar support and armrests reduce wrist strain by promoting neutral spine alignment during long workdays.---
+cardPick: Herman Miller Aeron's adjustable lumbar support and armrests reduce wrist
+  strain by promoting neutral spine alignment during long workdays.
+---
 
 ## Introduction
 

@@ -1,8 +1,12 @@
 ---
 title: 'Finding Relief: Best Chairs for Lower Back Pain in Your WFH Setup'
-metaDescription: After testing 12 chairs for 60+ days, we recommend the best ergonomic chairs for lower back pain relief in home offices — with price comparisons, durability tests, and alternatives.
+metaDescription: After testing 12 chairs for 60+ days, we recommend the best ergonomic
+  chairs for lower back pain relief in home offices — with price comparisons, durability
+  tests, and alternatives.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Chronic lower back pain from poor seating affects 80% of remote workers. We tested 12 chairs over 60 days to identify which actually support lumbar health long-term, with breakdowns of cost-per-year and hidden ergonomic tradeoffs.
+excerpt: Chronic lower back pain from poor seating affects 80% of remote workers.
+  We tested 12 chairs over 60 days to identify which actually support lumbar health
+  long-term, with breakdowns of cost-per-year and hidden ergonomic tradeoffs.
 pillarSlug: ergonomic-chairs
 relatedProducts:
 - B004QM8SLG
@@ -23,7 +27,9 @@ tags:
 - back pain relief
 heroImage: /images/hero/best-chair-for-lower-back-pain-wfh.jpg
 cardTitle: 'Stop Back Pain: The One Chair Setup Remote Workers Need'
-cardPick: Proper monitor arm positioning eliminates forward head posture, the primary cause of lower back strain during long work sessions.---
+cardPick: Proper monitor arm positioning eliminates forward head posture, the primary
+  cause of lower back strain during long work sessions.
+---
 
 ## Introduction
 

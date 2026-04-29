@@ -1,8 +1,13 @@
 ---
-title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget Alternatives'
-metaDescription: We tested 12 chairs over 6 months to determine whether premium ergonomic chairs justify their price tags — or if budget alternatives can deliver similar support for WFH professionals.
+title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget
+  Alternatives'
+metaDescription: We tested 12 chairs over 6 months to determine whether premium ergonomic
+  chairs justify their price tags — or if budget alternatives can deliver similar
+  support for WFH professionals.
 publishedAt: '2026-04-29T10:00:00Z'
-excerpt: After 180 hours of testing with occupational therapists, we compare the Herman Miller Aeron, Steelcase Leap, and 3 budget-friendly alternatives under $500. See which chair actually supports 8-hour workdays without back pain.
+excerpt: After 180 hours of testing with occupational therapists, we compare the Herman
+  Miller Aeron, Steelcase Leap, and 3 budget-friendly alternatives under $500. See
+  which chair actually supports 8-hour workdays without back pain.
 pillarSlug: chairwise-pillar-1
 relatedProducts:
 - B00WSAXBQ0
@@ -20,7 +25,8 @@ tags:
 - budget-office-chairs
 - long-term-comfort
 - posture-support
-heroImage: /images/hero/chairwise-article-10.jpg---
+heroImage: /images/hero/chairwise-article-10.jpg
+---
 
 ## Introduction
 

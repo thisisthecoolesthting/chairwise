@@ -1,8 +1,11 @@
 ---
 title: 'Top Monitor Arms for Heavy Monitors: Stability and Flexibility'
-metaDescription: Comprehensive comparison of heavy-duty monitor arms tested by an occupational therapist, with ergonomic analysis and cost breakdown for WFH professionals.
+metaDescription: Comprehensive comparison of heavy-duty monitor arms tested by an
+  occupational therapist, with ergonomic analysis and cost breakdown for WFH professionals.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: After testing 12 monitor arms with 8-42 lb loads for 60+ days, we recommend the best heavy-duty options for ergonomic setups. Includes stability tests, weight distribution analysis, and long-term durability reports.
+excerpt: After testing 12 monitor arms with 8-42 lb loads for 60+ days, we recommend
+  the best heavy-duty options for ergonomic setups. Includes stability tests, weight
+  distribution analysis, and long-term durability reports.
 pillarSlug: ergonomic-accessories
 relatedProducts:
 - B004QM8SLG
@@ -22,7 +25,8 @@ tags:
 - desk organization
 - ultrawide monitor
 - standing desk accessories
-heroImage: /images/hero/monitor-arm-heavy-monitor-review.jpg---
+heroImage: /images/hero/monitor-arm-heavy-monitor-review.jpg
+---
 
 # Introduction
 

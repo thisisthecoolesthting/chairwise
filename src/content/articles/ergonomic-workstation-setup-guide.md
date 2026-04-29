@@ -1,8 +1,12 @@
 ---
 title: 'The Complete Ergonomic Workstation Setup Guide: Stop Guessing, Start Testing'
-metaDescription: Stop guessing at ergonomics. A former occupational therapist tests 12+ workstation setups to reveal what actually works for back pain, wrist strain, and long-term comfort.
+metaDescription: Stop guessing at ergonomics. A former occupational therapist tests
+  12+ workstation setups to reveal what actually works for back pain, wrist strain,
+  and long-term comfort.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: After testing 14 chairs, 9 desks, and 5 monitor arms across 8 body types over 60 days, we found most 'ergonomic' gear fails basic posture tests. Here's the setup that actually works—and costs less than you'd think.
+excerpt: After testing 14 chairs, 9 desks, and 5 monitor arms across 8 body types
+  over 60 days, we found most 'ergonomic' gear fails basic posture tests. Here's the
+  setup that actually works—and costs less than you'd think.
 pillarSlug: accessories-for-comfort
 status: published
 tags:
@@ -23,7 +27,9 @@ relatedProducts:
 - B0DYNQ1WP7
 heroImage: /images/hero/ergonomic-workstation-setup-guide.jpg
 cardTitle: 'Stop Back Pain: Perfect Ergonomic Chair Setup for Remote Workers'
-cardPick: 'Lumbar support directly targets lower-back pain from prolonged sitting, the #1 complaint among remote professionals.'---
+cardPick: 'Lumbar support directly targets lower-back pain from prolonged sitting,
+  the #1 complaint among remote professionals.'
+---
 
 ## Introduction
 

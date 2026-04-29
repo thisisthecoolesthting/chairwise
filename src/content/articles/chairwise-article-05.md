@@ -1,8 +1,14 @@
 ---
-title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget Alternatives'
-metaDescription: We tested the Herman Miller Aeron, Steelcase Leap, and 3 budget chairs for 60+ days. Here's which chair actually works for back pain — and when to save $1000.
+title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget
+  Alternatives'
+metaDescription: We tested the Herman Miller Aeron, Steelcase Leap, and 3 budget chairs
+  for 60+ days. Here's which chair actually works for back pain — and when to save
+  $1000.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: After 200+ hours of testing with 8 body types, we compare the Herman Miller Aeron ($1599), Steelcase Leap ($1299), and 3 chairs under $500. See which ergonomic features matter most for back pain relief and when cheaper chairs outperform premium models.
+excerpt: After 200+ hours of testing with 8 body types, we compare the Herman Miller
+  Aeron ($1599), Steelcase Leap ($1299), and 3 chairs under $500. See which ergonomic
+  features matter most for back pain relief and when cheaper chairs outperform premium
+  models.
 pillarSlug: chairwise-pillar-2
 relatedProducts:
 - B00WSAXBQ0
@@ -20,7 +26,8 @@ tags:
 - WFH seating
 - posture support
 - lumbar chair review
-heroImage: /images/hero/chairwise-article-05.jpg---
+heroImage: /images/hero/chairwise-article-05.jpg
+---
 
 # Introduction
 

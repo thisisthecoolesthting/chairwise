@@ -1,8 +1,13 @@
 ---
-title: 'Standing Desk vs. Ergonomic Chair: Which Actually Prevents Back Pain (Real Data)'
-metaDescription: Former OT compares standing desks and chairs across spinal loading, productivity, and 10-year costs. Data from 60-day testing with 8 body types on Steelcase Leap, Herman Miller Aeron, and budget alternatives.
+title: 'Standing Desk vs. Ergonomic Chair: Which Actually Prevents Back Pain (Real
+  Data)'
+metaDescription: Former OT compares standing desks and chairs across spinal loading,
+  productivity, and 10-year costs. Data from 60-day testing with 8 body types on Steelcase
+  Leap, Herman Miller Aeron, and budget alternatives.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: 'We tested standing desks and ergonomic chairs over 60+ days with motion capture data. Spoiler: neither beats the other—the winner depends on your body type, work style, and how you transition between positions. Here''s the biomechanics breakdown.'
+excerpt: 'We tested standing desks and ergonomic chairs over 60+ days with motion
+  capture data. Spoiler: neither beats the other—the winner depends on your body type,
+  work style, and how you transition between positions. Here''s the biomechanics breakdown.'
 pillarSlug: standing-desk-solutions
 relatedProducts:
 - B00NX0XMZY
@@ -21,7 +26,9 @@ tags:
 - WFH ergonomics
 heroImage: /images/hero/standing-desk-vs-chair-health-benefits.jpg
 cardTitle: 'Standing Desk or Ergonomic Chair: Which Actually Stops Back Pain'
-cardPick: Herman Miller Aeron wins with proven lumbar support, adjustable arms, and real data showing sustained pain relief for desk workers.---
+cardPick: Herman Miller Aeron wins with proven lumbar support, adjustable arms, and
+  real data showing sustained pain relief for desk workers.
+---
 
 ## Introduction
 

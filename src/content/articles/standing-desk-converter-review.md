@@ -1,8 +1,14 @@
 ---
-title: 'Standing Desk Converters Tested: Which $200 Models Actually Stay Stable After 6 Months'
-metaDescription: We tested 5 standing desk converters for stability, wobble, and long-term durability over 60+ days. Find which models justify their price and which ones fail under daily use.
+title: 'Standing Desk Converters Tested: Which $200 Models Actually Stay Stable After
+  6 Months'
+metaDescription: We tested 5 standing desk converters for stability, wobble, and long-term
+  durability over 60+ days. Find which models justify their price and which ones fail
+  under daily use.
 publishedAt: '2026-04-28'
-excerpt: Standing desk converters promise a budget-friendly escape from all-day sitting, but our 12-week testing revealed critical differences in stability, durability, and ergonomic support. We pressure-mapped five popular models under $300 and identified which ones cause postural strain after 6 months—and which one actually doesn't.
+excerpt: Standing desk converters promise a budget-friendly escape from all-day sitting,
+  but our 12-week testing revealed critical differences in stability, durability,
+  and ergonomic support. We pressure-mapped five popular models under $300 and identified
+  which ones cause postural strain after 6 months—and which one actually doesn't.
 pillarSlug: standing-desk-solutions
 relatedProducts:
 - B00NX0XMZY
@@ -19,7 +25,9 @@ tags:
 - desk-stability
 heroImage: /images/hero/standing-desk-converter-review.jpg
 cardTitle: 'Best Ergonomic Office Chairs for Remote Workers: Tested Stability'
-cardPick: Herman Miller Aeron reduces back pain through proven ergonomic design, outlasting cheaper alternatives by years despite premium pricing.---
+cardPick: Herman Miller Aeron reduces back pain through proven ergonomic design, outlasting
+  cheaper alternatives by years despite premium pricing.
+---
 
 ## Introduction
 

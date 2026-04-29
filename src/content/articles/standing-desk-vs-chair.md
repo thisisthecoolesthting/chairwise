@@ -1,8 +1,12 @@
 ---
 title: 'Standing Desk vs. Chair: The Ultimate Showdown for WFH Productivity'
-metaDescription: A former occupational therapist compares standing desks and ergonomic chairs for WFH professionals, with 60+ days of testing across 8 body types. Find your ideal setup without overspending.
+metaDescription: A former occupational therapist compares standing desks and ergonomic
+  chairs for WFH professionals, with 60+ days of testing across 8 body types. Find
+  your ideal setup without overspending.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: We tested 14 workstations (7 standing desks, 7 chairs) for 60+ days with different body types. Here's which setup reduces back pain, boosts productivity, and justifies its price tag—with specific model recommendations at every budget.
+excerpt: We tested 14 workstations (7 standing desks, 7 chairs) for 60+ days with
+  different body types. Here's which setup reduces back pain, boosts productivity,
+  and justifies its price tag—with specific model recommendations at every budget.
 pillarSlug: standing-desks
 relatedProducts:
 - B004QM8SLG
@@ -23,7 +27,9 @@ tags:
 - remote-work
 heroImage: /images/hero/standing-desk-vs-chair.jpg
 cardTitle: 'Stop Neck Pain: Why Monitor Arms Beat Standing Desks'
-cardPick: Adjusts screen to eye level, eliminating strain that even expensive standing desks can't fix alone.---
+cardPick: Adjusts screen to eye level, eliminating strain that even expensive standing
+  desks can't fix alone.
+---
 
 ## Introduction
 
