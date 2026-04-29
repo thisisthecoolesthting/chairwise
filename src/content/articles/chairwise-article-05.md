@@ -17,7 +17,7 @@ relatedProducts:
 - B08PZBPXLZ
 - B0BX2N258S
 - B0G63G9LRJ
-status: draft
+status: published
 tags:
 - ergonomic chair comparison
 - best office chair for back pain

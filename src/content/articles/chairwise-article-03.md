@@ -9,7 +9,7 @@ excerpt: After testing 8 chairs across 3 body types for 60+ days, we reveal when
   your body better. Includes wear tests, cost-per-year math, and 5 hidden flaws to
   avoid.
 pillarSlug: chairwise-pillar-3
-status: draft
+status: published
 tags:
 - ergonomic-chairs
 - office-chair-comparison

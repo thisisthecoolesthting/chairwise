@@ -8,7 +8,7 @@ excerpt: We tested the Herman Miller Aeron and Steelcase Leap chairs for 60+ day
   with 8 body types. Here's which $1,000+ chair actually delivers on ergonomics —
   and when you should choose the $400 alternative instead.
 pillarSlug: chairwise-pillar-1
-status: draft
+status: published
 tags:
 - ergonomic-chairs
 - wfh-essentials

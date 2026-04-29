@@ -9,7 +9,7 @@ excerpt: After 180 hours of testing with occupational therapists, we compare the
   Miller Aeron, Steelcase Leap, and three sub-$500 chairs to reveal which back support
   features actually matter for 8-hour workdays.
 pillarSlug: chairwise-pillar-1
-status: draft
+status: published
 tags:
 - ergonomic-chairs
 - back-pain

@@ -8,7 +8,7 @@ excerpt: After testing 12 chairs with occupational therapists, we found the Stee
   Leap outperforms the Herman Miller Aeron for most body types, while budget options
   like the Hbada Office Chair surprise with premium features at half the price.
 pillarSlug: chairwise-pillar-2
-status: draft
+status: published
 tags:
 - ergonomic-chairs
 - wfh-essentials

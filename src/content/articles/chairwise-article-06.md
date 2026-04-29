@@ -9,7 +9,7 @@ excerpt: We tested five ergonomic chairs for 60+ days with different body types.
   $1,500 chairs aren't always better—here's how to choose based on your height, sitting
   habits, and pain points.
 pillarSlug: chairwise-pillar-3
-status: draft
+status: published
 tags:
 - ergonomic chairs
 - back pain relief

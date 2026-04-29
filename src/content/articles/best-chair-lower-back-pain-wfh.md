@@ -17,7 +17,7 @@ relatedProducts:
 - B0DWD9NQ57
 - B073Q8P6CQ
 - B00063RWT8
-status: draft
+status: published
 tags:
 - lower back pain
 - ergonomic chairs

@@ -16,7 +16,7 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B0C7SX1H6J
-status: draft
+status: published
 tags:
 - monitor arms
 - heavy monitors

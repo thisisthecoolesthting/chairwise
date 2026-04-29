@@ -16,7 +16,7 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0G63G9LRJ
 - B09VXQ221K
-status: draft
+status: published
 tags:
 - ergonomic-chair-comparison
 - home-office-setup

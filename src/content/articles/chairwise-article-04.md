@@ -16,7 +16,7 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0G63G9LRJ
 - B098JD8HD3
-status: draft
+status: published
 tags:
 - ergonomic chair comparison
 - Herman Miller Aeron review
