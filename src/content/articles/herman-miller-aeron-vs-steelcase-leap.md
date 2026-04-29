@@ -1,13 +1,8 @@
 ---
-title: 'Herman Miller Aeron vs. Steelcase Leap: Which $1,000+ Chair Actually Fits
-  Your Body?'
-metaDescription: A former occupational therapist compares the Herman Miller Aeron
-  and Steelcase Leap across 8 body types over 60 days. Learn which chair wins for
-  lumbar support, adjustability, heat, and cost.
+title: 'Herman Miller Aeron vs. Steelcase Leap: Which $1,000+ Chair Actually Fits Your Body?'
+metaDescription: A former occupational therapist compares the Herman Miller Aeron and Steelcase Leap across 8 body types over 60 days. Learn which chair wins for lumbar support, adjustability, heat, and cost.
 publishedAt: '2026-04-28'
-excerpt: 'We tested the Herman Miller Aeron and Steelcase Leap for 60+ days across
-  8 body types (5''2" to 6''4"). Here''s the honest breakdown: which chair actually
-  reduces back pain, who should buy mesh vs. foam, and whether either is worth $1,100–$1,500.'
+excerpt: 'We tested the Herman Miller Aeron and Steelcase Leap for 60+ days across 8 body types (5''2" to 6''4"). Here''s the honest breakdown: which chair actually reduces back pain, who should buy mesh vs. foam, and whether either is worth $1,100–$1,500.'
 pillarSlug: ergonomic-chair-reviews
 relatedProducts:
 - B00NX0XMZY
@@ -24,11 +19,9 @@ tags:
 - back pain
 - WFH setup
 - chair comparison
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/herman-miller-aeron-vs-steelcase-leap.jpg
 cardTitle: 'Herman Miller Aeron vs. Steelcase Leap: Premium Chair Showdown'
-cardPick: Aeron's adjustable lumbar support and proven 12-year warranty solve chronic
-  back pain for desk-bound professionals.
----
+cardPick: Aeron's adjustable lumbar support and proven 12-year warranty solve chronic back pain for desk-bound professionals.---
 
 # Introduction
 

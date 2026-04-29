@@ -1,14 +1,8 @@
 ---
-title: 'The Best Ergonomic Chairs Under $500: Honest Reviews from an Occupational
-  Therapist'
-metaDescription: A former occupational therapist reviews 5 ergonomic office chairs
-  under $500 tested over 120+ hours across 8 body types. Real data on lumbar support,
-  adjustability, and durability for WFH professionals with back pain.
+title: 'The Best Ergonomic Chairs Under $500: Honest Reviews from an Occupational Therapist'
+metaDescription: A former occupational therapist reviews 5 ergonomic office chairs under $500 tested over 120+ hours across 8 body types. Real data on lumbar support, adjustability, and durability for WFH professionals with back pain.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: After testing 37 chairs across 8 body types and 120+ days of real-world use,
-  we recommend the best ergonomic office chairs under $500 for remote workers. Includes
-  detailed comparisons of lumbar support, seat adjustability, and long-term durability—plus
-  cost-per-day breakdowns.
+excerpt: After testing 37 chairs across 8 body types and 120+ days of real-world use, we recommend the best ergonomic office chairs under $500 for remote workers. Includes detailed comparisons of lumbar support, seat adjustability, and long-term durability—plus cost-per-day breakdowns.
 pillarSlug: ergonomic-chair-reviews
 relatedProducts:
 - B00NX0XMZY
@@ -24,11 +18,9 @@ tags:
 - wfh-essentials
 - budget-ergonomics
 - office-chair-reviews
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/best-ergonomic-chair-under-500.jpg
 cardTitle: 'Best Ergonomic Chairs Under $500: Fix Your Back Pain Now'
-cardPick: Herman Miller Aeron wins with adjustable lumbar support and breathable mesh,
-  providing lasting comfort for full-time remote workers without premium pricing.
----
+cardPick: Herman Miller Aeron wins with adjustable lumbar support and breathable mesh, providing lasting comfort for full-time remote workers without premium pricing.---
 
 ## Introduction
 

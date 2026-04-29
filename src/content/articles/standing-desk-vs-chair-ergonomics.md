@@ -1,12 +1,8 @@
 ---
 title: 'Standing Desk vs. Chair: The Ultimate Ergonomic Showdown'
-metaDescription: A former occupational therapist compares standing desks and ergonomic
-  chairs for WFH professionals, with 60+ day test data across 8 body types. Learn
-  which investment actually reduces pain.
+metaDescription: A former occupational therapist compares standing desks and ergonomic chairs for WFH professionals, with 60+ day test data across 8 body types. Learn which investment actually reduces pain.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: 'We tested 14 work setups over 6 months to answer one question: does a standing
-  desk or ergonomic chair better prevent back pain? Here''s what 1,200 hours of posture
-  tracking revealed.'
+excerpt: 'We tested 14 work setups over 6 months to answer one question: does a standing desk or ergonomic chair better prevent back pain? Here''s what 1,200 hours of posture tracking revealed.'
 pillarSlug: standing-desks
 relatedProducts:
 - B004QM8SLG
@@ -25,12 +21,9 @@ tags:
 - posture correction
 - desk ergonomics
 - office equipment
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/standing-desk-vs-chair-ergonomics.jpg
 cardTitle: Why Your Chair Matters More Than Your Standing Desk
-cardPick: A quality ergonomic chair provides consistent spinal support during 8-hour
-  workdays, while standing desks require expensive additions and create fatigue-related
-  posture collapse.
----
+cardPick: A quality ergonomic chair provides consistent spinal support during 8-hour workdays, while standing desks require expensive additions and create fatigue-related posture collapse.---
 
 ## Introduction
 

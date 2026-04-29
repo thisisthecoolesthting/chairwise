@@ -1,12 +1,8 @@
 ---
 title: 'Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers'
-metaDescription: Occupational therapist tested 14 standing desks across 60+ days.
-  Which models reduce back pain? When does standing hurt? Cost breakdown and honest
-  alternatives included.
+metaDescription: Occupational therapist tested 14 standing desks across 60+ days. Which models reduce back pain? When does standing hurt? Cost breakdown and honest alternatives included.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: After testing 14 standing desks and chairs for 60+ days across different
-  body types and workflows, here's what actually reduces pain—and which $1,200 desks
-  don't justify their price tag.
+excerpt: After testing 14 standing desks and chairs for 60+ days across different body types and workflows, here's what actually reduces pain—and which $1,200 desks don't justify their price tag.
 pillarSlug: standing-desk-solutions
 relatedProducts:
 - B0FT32PL8L
@@ -25,11 +21,9 @@ tags:
 - desk ergonomics
 - back pain solutions
 - productivity tools
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/standing-desk-benefits-and-drawbacks.jpg
 cardTitle: 'Standing vs. Sitting: Which Setup Actually Protects Your Back'
-cardPick: Ergonomic chairs with lumbar support reduce back pain without the cost and
-  fatigue of standing desks.
----
+cardPick: Ergonomic chairs with lumbar support reduce back pain without the cost and fatigue of standing desks.---
 
 ## Introduction
 

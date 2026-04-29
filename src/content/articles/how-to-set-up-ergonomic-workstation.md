@@ -1,12 +1,8 @@
 ---
 title: 'How to Set Up an Ergonomic Workstation: A Former OT''s 60-Day Testing Guide'
-metaDescription: Tested 12 chairs and 7 desks over 60 days. Learn the 3 critical adjustments
-  that prevent back pain, plus honest cost breakdowns and which $400 setup outperforms
-  $1,400 models for most bodies.
+metaDescription: Tested 12 chairs and 7 desks over 60 days. Learn the 3 critical adjustments that prevent back pain, plus honest cost breakdowns and which $400 setup outperforms $1,400 models for most bodies.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: After 60 days of pressure-testing five ergonomic chairs across eight body
-  types, we found most WFH professionals overlook three critical adjustments. Here's
-  how to avoid $1,400 mistakes and build a pain-free setup for under $800.
+excerpt: After 60 days of pressure-testing five ergonomic chairs across eight body types, we found most WFH professionals overlook three critical adjustments. Here's how to avoid $1,400 mistakes and build a pain-free setup for under $800.
 pillarSlug: ergonomic-accessories-guides
 status: published
 tags:
@@ -23,11 +19,9 @@ relatedProducts:
 - B00MRHA96O
 - B00MRH9NCK
 - B0017HYB2I
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/how-to-set-up-ergonomic-workstation.jpg
 cardTitle: 'Build Your Pain-Free Workstation: Ergonomic Setup Guide'
-cardPick: Herman Miller Aeron leads because its adjustable lumbar support and mesh
-  design prevent the neck, shoulder, and back pain plaguing long-hour desk workers.
----
+cardPick: Herman Miller Aeron leads because its adjustable lumbar support and mesh design prevent the neck, shoulder, and back pain plaguing long-hour desk workers.---
 
 ## Introduction
 

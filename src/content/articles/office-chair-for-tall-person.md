@@ -1,15 +1,8 @@
 ---
-title: 'Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support &
-  Real Testing'
-metaDescription: A former occupational therapist reviews the best ergonomic office
-  chairs for tall users (6'2"+), with side-by-side comparisons of seat depth, lumbar
-  support, and long-term durability.
+title: 'Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support & Real Testing'
+metaDescription: A former occupational therapist reviews the best ergonomic office chairs for tall users (6'2"+), with side-by-side comparisons of seat depth, lumbar support, and long-term durability.
 publishedAt: '2026-04-28'
-excerpt: If you're over 6'2" and your knees jam into the seat edge or your shoulders
-  hunch forward, standard chairs aren't built for you. We tested 37 chairs over 14
-  months with testers from 6'2" to 6'11", measuring seat depth, lumbar adjustability,
-  and spinal pressure. The Steelcase Leap and Herman Miller Aeron Size C both work—but
-  we'll explain why one costs $400 more for no real tall-user benefit.
+excerpt: If you're over 6'2" and your knees jam into the seat edge or your shoulders hunch forward, standard chairs aren't built for you. We tested 37 chairs over 14 months with testers from 6'2" to 6'11", measuring seat depth, lumbar adjustability, and spinal pressure. The Steelcase Leap and Herman Miller Aeron Size C both work—but we'll explain why one costs $400 more for no real tall-user benefit.
 pillarSlug: ergonomic-chair-reviews
 relatedProducts:
 - B00NX0XMZY
@@ -27,11 +20,9 @@ tags:
 - extended height
 - WFH setup
 - back pain
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/office-chair-for-tall-person.jpg
 cardTitle: 'Best Ergonomic Chairs for Tall Professionals: Herman Miller Aeron Tested'
-cardPick: Herman Miller Aeron wins with 20.5-inch seat depth and adjustable lumbar
-  support that eliminates back pain for 6'2" workers.
----
+cardPick: Herman Miller Aeron wins with 20.5-inch seat depth and adjustable lumbar support that eliminates back pain for 6'2" workers.---
 
 ## Introduction
 

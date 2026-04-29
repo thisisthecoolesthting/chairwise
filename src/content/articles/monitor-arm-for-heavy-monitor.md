@@ -1,12 +1,8 @@
 ---
 title: 'Finding the Right Monitor Arm for Your Heavy Display: Stability and Ergonomics'
-metaDescription: A deep-dive comparison of heavy-duty monitor arms tested by a former
-  occupational therapist, with real-world performance data and cost analysis for WFH
-  professionals.
+metaDescription: A deep-dive comparison of heavy-duty monitor arms tested by a former occupational therapist, with real-world performance data and cost analysis for WFH professionals.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Not all monitor arms can handle heavy displays without sagging or wobbling.
-  We tested 12 models with 25-40lb monitors to find which ones actually deliver on
-  stability promises at different price points.
+excerpt: Not all monitor arms can handle heavy displays without sagging or wobbling. We tested 12 models with 25-40lb monitors to find which ones actually deliver on stability promises at different price points.
 pillarSlug: accessories-and-peripherals
 relatedProducts:
 - B0CB75LML9
@@ -24,11 +20,9 @@ tags:
 - desk accessories
 - ultrawide monitors
 - cable management
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/monitor-arm-for-heavy-monitor.jpg
 cardTitle: 'Heavy Monitor Arm Setup: Neck Pain Relief for Remote Workers'
-cardPick: Adjustable lumbar support plus stable arm positioning eliminates strain
-  from 8+ hour workdays, preventing costly future back problems.
----
+cardPick: Adjustable lumbar support plus stable arm positioning eliminates strain from 8+ hour workdays, preventing costly future back problems.---
 
 ## Introduction
 
