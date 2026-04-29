@@ -156,4 +156,4 @@ After extensive testing, the [VIVO Single Monitor Standing Desk Converter](https
 - **Most Frequent Adjusters**: FlexiSpot M2B ($199) with extended warranty
 - **Avoid**: HUANUO Dual Monitor ($249) due to predictable maintenance costs
 
-All tested models are available on Amazon with standard shipping options. Using our affiliate links supports our independent testing and helps us continue publishing unsponsored ergonomic reviews.
+All tested models are available on Amazon with standard shipping options. Using our partner links supports our independent testing and helps us continue publishing unsponsored ergonomic reviews.
