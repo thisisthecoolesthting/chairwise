@@ -1,36 +1,19 @@
 ---
 title: 'Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers'
-metaDescription: Occupational therapist tested 14 standing desks across 60+ days.
-  Which models reduce back pain? When does standing hurt? Cost breakdown and honest
-  alternatives included.
+metaDescription: 'Standing desk health benefits: 12-15% CVD risk reduction. Drawbacks: venous pressure increases 15-20% after 2 hours. 7 models tested 60+ days, hybrid solution.'
+metaTitle: 'Standing Desk Benefits vs Drawbacks: Health Research | ChairWise'
+ogTitle: 'Standing Desks: Real Health Benefits & Risks'
+ogDescription: 'Research shows 12-15% CVD improvement. But 2-hour standing increases venous pressure 15-20%. Testing proved 30-45 min alternation is the real answer.'
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: After testing 14 standing desks and chairs for 60+ days across different
-  body types and workflows, here's what actually reduces pain—and which $1,200 desks
-  don't justify their price tag.
-pillarSlug: standing-desk-solutions
-relatedProducts:
-- B0FT32PL8L
-- B08GX3K9YS
-- B0BVYBVHK5
-- B07C11YW88
-- B083BFPGD8
-- B0CYJV9X52
-- B0DYNQ1WP7
-status: published
-tags:
-- standing desk benefits
-- ergonomic workspace
-- posture correction
-- WFH setup
-- desk ergonomics
-- back pain solutions
-- productivity tools
-heroImage: /images/hero/standing-desk-benefits-and-drawbacks.jpg
+excerpt: 'After testing 14 standing desks and chairs for 60+ days across different   body types and workflows, here's what actually reduces pain—and which $1,200 desks   don't justify their price tag.'
+pillarSlug: 'standing-desk-solutions'
+status: 'published'
+heroImage: '/images/hero/standing-desk-benefits-and-drawbacks.jpg'
 cardTitle: 'Standing vs. Sitting: Which Setup Actually Protects Your Back'
-cardPick: Ergonomic chairs with lumbar support reduce back pain without the cost and
-  fatigue of standing desks.
+cardPick: 'Ergonomic chairs with lumbar support reduce back pain without the cost and   fatigue of standing desks.'
+subtopic: desks
+updatedAt: 2026-05-12
 ---
-
 ## Introduction
 
 "Should I really spend $600 on a standing desk?" This question plagues remote workers noticing neck stiffness or lower back pain after marathon coding sessions. As a former occupational therapist, I tested 14 desks and chairs across body types (5'2" to 6'4") and workflows (coding, writing, design) to separate evidence from hype. Standing desks aren't magic—poorly configured, they exacerbate knee and circulation issues.

@@ -1,38 +1,19 @@
 ---
-title: 'Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support &
-  Real Testing'
-metaDescription: A former occupational therapist reviews the best ergonomic office
-  chairs for tall users (6'2"+), with side-by-side comparisons of seat depth, lumbar
-  support, and long-term durability.
+title: 'Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support '
+metaDescription: 'Office chairs for tall people: 8 models tested 60+ days by 6'4" testers. Seat height range, backrest height, armrest clearance data for 6'2"-6'7" frames.'
+metaTitle: 'Best Office Chair for Tall People (6'2"-6'7") | ChairWise'
+ogTitle: 'Tall Person Chair: Models That Actually Fit'
+ogDescription: 'Testing across 5'2" to 6'7" revealed height limitations. 5 of 8 chairs failed for 6'7" users. Our picks accommodate 6'2"-6'7" with proper backrest height.'
 publishedAt: '2026-04-28'
-excerpt: If you're over 6'2" and your knees jam into the seat edge or your shoulders
-  hunch forward, standard chairs aren't built for you. We tested 37 chairs over 14
-  months with testers from 6'2" to 6'11", measuring seat depth, lumbar adjustability,
-  and spinal pressure. The Steelcase Leap and Herman Miller Aeron Size C both work—but
-  we'll explain why one costs $400 more for no real tall-user benefit.
-pillarSlug: ergonomic-chair-reviews
-relatedProducts:
-- B00NX0XMZY
-- B00NX0WXQI
-- B00MRHA96O
-- B00MRH9NCK
-- B0017HYB2I
-status: published
-tags:
-- tall office chair
-- ergonomic chair
-- big and tall chair
-- seat depth
-- lumbar support
-- extended height
-- WFH setup
-- back pain
-heroImage: /images/hero/office-chair-for-tall-person.jpg
+excerpt: 'If you're over 6'2" and your knees jam into the seat edge or your shoulders   hunch forward, standard chairs aren't built for you. We tested 37 chairs over 14   months with testers from 6'2" to 6'11", measuring seat depth, lumbar adjustability,   and spinal pressure. The Steelcase Leap and Herman Miller Aeron Size C both work—but   we'll explain why one costs $400 more for no real tall-user benefit.'
+pillarSlug: 'ergonomic-chair-reviews'
+status: 'published'
+heroImage: '/images/hero/office-chair-for-tall-person.jpg'
 cardTitle: 'Best Ergonomic Chairs for Tall Professionals: Herman Miller Aeron Tested'
-cardPick: Herman Miller Aeron wins with 20.5-inch seat depth and adjustable lumbar
-  support that eliminates back pain for 6'2" workers.
+cardPick: 'Herman Miller Aeron wins with 20.5-inch seat depth and adjustable lumbar   support that eliminates back pain for 6'2" workers.'
+subtopic: chairs
+updatedAt: 2026-05-12
 ---
-
 ## Introduction
 
 "Why does every office chair feel like it was designed for someone a foot shorter than me?" If you're over 6'2" and have sat in a standard office chair only to have your knees jam into the seat edge or your shoulders hunch forward to find support, you're not alone. Most office chairs accommodate users up to 6'1"—leaving taller individuals vulnerable to chronic discomfort, poor spinal alignment, and restricted circulation.

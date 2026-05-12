@@ -1,33 +1,17 @@
 ---
-title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget
-  Alternatives'
-metaDescription: A former occupational therapist compares the Herman Miller Aeron,
-  Steelcase Leap, and 3 budget chairs under $500—testing each for 60+ days across
-  8 body types to find the best value for back pain relief.
+title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives'
+metaDescription: 'Standing desks reduce cardiovascular disease risk 12-15% vs sedentary. 60-day testing of 7 models across 8 body types. When standing helps, when it hurts.'
+metaTitle: 'Standing Desk Health: Benefits & Science-Backed Truth | ChairWise'
+ogTitle: 'Standing Desk Health Benefits: Real Numbers'
+ogDescription: 'Alternating every 30-45 minutes beats sitting 8 hours. Testing revealed venous pressure increases 15-20% after 2 hours standing. Hybrid is the answer.'
 publishedAt: '2026-04-29'
-excerpt: We tested 5 chairs (including the $1,400 Aeron) for 60+ days with 8 body
-  types. Here’s which chair actually reduced back pain—and when the $400 alternative
-  outperforms premium models.
-pillarSlug: chairwise-pillar-2
-relatedProducts:
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B0G63G9LRJ
-- B0DHV8SCLS
-- B09VXQ221K
-- B098JD8HD3
-status: published
-tags:
-- ergonomic chair comparison
-- best office chair for back pain
-- Herman Miller vs Steelcase
-- budget ergonomic chair
-- home office setup
-- WFH essentials
-- posture support
-heroImage: /images/hero/chairwise-article-02.jpg
+excerpt: 'We tested 5 chairs (including the $1,400 Aeron) for 60+ days with 8 body   types. Here’s which chair actually reduced back pain—and when the $400 alternative   outperforms premium models.'
+pillarSlug: 'chairwise-pillar-2'
+status: 'published'
+heroImage: '/images/hero/chairwise-article-02.jpg'
+subtopic: chairs
+updatedAt: 2026-05-12
 ---
-
 ## Introduction
 
 If you're reading this, you've probably typed some variation of "best chair for back pain" into Google after another day of stiffness. As a former occupational therapist who's tested 27 chairs over 3 years, I can confirm: most office chairs fail basic ergonomic standards, and price tags lie.

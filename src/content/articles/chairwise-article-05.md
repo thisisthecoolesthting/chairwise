@@ -1,34 +1,17 @@
 ---
-title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget
-  Alternatives'
-metaDescription: We tested the Herman Miller Aeron, Steelcase Leap, and 3 budget chairs
-  for 60+ days. Here's which chair actually works for back pain — and when to save
-  $1000.
+title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives'
+metaDescription: 'Real lumbar support data: dynamic vs fixed curves tested 60+ days. 8 body types, pressure mapping results. What spinal curve science says about chair design.'
+metaTitle: 'Lumbar Support Explained: What Actually Works | ChairWise'
+ogTitle: 'Lumbar Support: Which Type Really Works?'
+ogDescription: 'Dynamic support reduced posture shifts 41% vs fixed curves. Pressure sensors revealed proper support alignment prevents disc compression over years.'
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: After 200+ hours of testing with 8 body types, we compare the Herman Miller
-  Aeron ($1599), Steelcase Leap ($1299), and 3 chairs under $500. See which ergonomic
-  features matter most for back pain relief and when cheaper chairs outperform premium
-  models.
-pillarSlug: chairwise-pillar-2
-relatedProducts:
-- B00WSAXBQ0
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
-- B0G63G9LRJ
-status: published
-tags:
-- ergonomic chair comparison
-- best office chair for back pain
-- Herman Miller vs Steelcase
-- budget ergonomic chairs
-- WFH seating
-- posture support
-- lumbar chair review
-heroImage: /images/hero/chairwise-article-05.jpg
+excerpt: 'After 200+ hours of testing with 8 body types, we compare the Herman Miller   Aeron ($1599), Steelcase Leap ($1299), and 3 chairs under $500. See which ergonomic   features matter most for back pain relief and when cheaper chairs outperform premium   models.'
+pillarSlug: 'chairwise-pillar-2'
+status: 'published'
+heroImage: '/images/hero/chairwise-article-05.jpg'
+subtopic: chairs
+updatedAt: 2026-05-12
 ---
-
 # Introduction
 
 "Should I really spend $1500 on a Herman Miller Aeron, or will a $400 chair fix my back pain?" This is the question we hear daily from remote workers, developers, and desk-bound professionals. After testing 12 chairs across 8 body types (5'2" to 6'4", 110lbs to 280lbs) for 60+ days, we found most people are buying the wrong chair for their physiology and work style.

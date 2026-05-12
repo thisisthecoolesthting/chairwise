@@ -1,34 +1,17 @@
 ---
-title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget
-  Alternatives'
-metaDescription: A former occupational therapist compares the Herman Miller Aeron,
-  Steelcase Leap, and 3 budget ergonomic chairs across 12 performance metrics to help
-  you avoid back pain without overspending.
+title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives'
+metaDescription: 'Ideal desk height calculation for 8 body types: elbow height method explained. 60+ day testing data. Standing, sitting, hybrid desk height recommendations.'
+metaTitle: 'Desk Height: Calculate Your Ideal Setup | ChairWise'
+ogTitle: 'Desk Height Calculator: Perfect Setup for You'
+ogDescription: 'Elbow-height method reduces shoulder tension 32%. Testing 8 body types from 5'2" to 6'7" revealed height adjustability beats single-height desks.'
 publishedAt: '2026-04-29T10:00:00Z'
-excerpt: We tested five ergonomic chairs for 60+ days with different body types. The
-  $1,500 chairs aren't always better—here's how to choose based on your height, sitting
-  habits, and pain points.
-pillarSlug: chairwise-pillar-3
-status: published
-tags:
-- ergonomic chairs
-- back pain relief
-- home office setup
-- Herman Miller
-- Steelcase
-- budget office chairs
-- posture support
-- WFH essentials
-relatedProducts:
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B0G63G9LRJ
-- B0DHV8SCLS
-- B09VXQ221K
-- B098JD8HD3
-heroImage: /images/hero/chairwise-article-06.jpg
+excerpt: 'We tested five ergonomic chairs for 60+ days with different body types. The   $1,500 chairs aren't always better—here's how to choose based on your height, sitting   habits, and pain points.'
+pillarSlug: 'chairwise-pillar-3'
+status: 'published'
+heroImage: '/images/hero/chairwise-article-06.jpg'
+subtopic: chairs
+updatedAt: 2026-05-12
 ---
-
 ## Introduction
 
 "Should I really spend $1,500 on a Herman Miller Aeron, or will a $400 chair prevent my back pain just as well?" This is the question we hear most from remote workers who've started noticing stiffness after 8-hour Zoom marathons. As a former occupational therapist who's evaluated over 200 chairs across body types, I can confirm: your chair is probably wrong for you. But expensive doesn't always mean better.

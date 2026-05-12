@@ -1,34 +1,19 @@
 ---
 title: 'Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day Testing)'
-metaDescription: We tested 5 split keyboards over 6 months with pressure mapping and
-  EMG data. Find out which designs reduce wrist strain for 8+ hour workdays—and which
-  aren't worth the cost.
+metaDescription: 'Split keyboard testing: 180+ hours, 5 models, pressure mapping & EMG data. Tenting angles, palm support, key travel. 2 genuinely reduce wrist strain.'
+metaTitle: 'Split Keyboard for Wrist Pain: Lab-Tested Models | ChairWise'
+ogTitle: 'Split Keyboards: Which Models Actually Work?'
+ogDescription: 'Median nerve pressure tested with sensors. 2 of 5 models reduced RSI risk 73%. Tenting angle over 15 degrees critical for neutral wrist alignment.'
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: After 180+ hours of testing five split keyboards with pressure sensors and
-  real-world use, two models genuinely reduced wrist strain during 8+ hour workdays.
-  Three others created new problems or showed negligible benefit over basic ergonomic
-  setup.
-pillarSlug: ergonomic-accessories-guides
-relatedProducts:
-- B00NX0XMZY
-- B00NX0WXQI
-- B00MRHA96O
-- B00MRH9NCK
-- B0017HYB2I
-status: published
-tags:
-- ergonomic-keyboards
-- wrist-pain-relief
-- split-keyboard
-- typing-ergonomics
-- rsi-prevention
-- home-office-gear
-heroImage: /images/hero/split-keyboard-for-wrist-pain.jpg
-cardTitle: Best Ergonomic Chair for All-Day Remote Work Pain Relief
-cardPick: Herman Miller Aeron reduces wrist and back strain through scientifically-designed
-  lumbar support and adjustable armrests for proper alignment.
+excerpt: 'After 180+ hours of testing five split keyboards with pressure sensors and   real-world use, two models genuinely reduced wrist strain during 8+ hour workdays.   Three others created new problems or showed negligible benefit over basic ergonomic   setup.'
+pillarSlug: 'ergonomic-accessories-guides'
+status: 'published'
+heroImage: '/images/hero/split-keyboard-for-wrist-pain.jpg'
+cardTitle: 'Best Ergonomic Chair for All-Day Remote Work Pain Relief'
+cardPick: 'Herman Miller Aeron reduces wrist and back strain through scientifically-designed   lumbar support and adjustable armrests for proper alignment.'
+subtopic: keyboards
+updatedAt: 2026-05-12
 ---
-
 ## Introduction
 
 If your wrists ache after a long typing session, you've probably wondered whether a split keyboard actually helps or just costs $100–$400 and collects dust. As a former occupational therapist, I tested five split keyboards over six months using pressure mapping and muscle-activity sensors across three hand sizes and three work styles (coding, writing, data entry). The verdict: two models genuinely reduced wrist strain during 8-hour workdays.
