@@ -28,6 +28,10 @@ Key components include:
 
 This flexibility is essential because no one lighting style works perfectly for all scenarios at your desk.
 
+
+
+> **See also:** [Creating a Balanced Lighting Scheme for Video Calls](https://chairwise.app/articles/creating-a-balanced-lighting-scheme-for-video-calls/)
+
 ## How Adjustable Desk Lighting Works
 
 At its core, adjustable desk lighting combines physical and electronic controls to let users customize illumination parameters.

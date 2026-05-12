@@ -19,6 +19,10 @@ If you’re working from home and find yourself battling discomfort, distraction
 
 Ergonomic desk accessories are tools designed to improve comfort, posture, and workflow efficiency during prolonged desk work. Unlike generic office supplies, these accessories consider human anatomy and movement patterns to reduce strain and fatigue. Examples include adjustable monitor stands, wrist rests, under-desk footrests, and document holders.
 
+
+
+> **See also:** [29. Logitech MX Master vs MX Vertical: productivity vs pain](https://chairwise.app/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
+
 ## How Ergonomic Desk Accessories Improve Efficiency
 
 The main goal of ergonomic accessories is to support healthy posture and minimize repetitive stress while making work tasks easier and more accessible. This support leads to:

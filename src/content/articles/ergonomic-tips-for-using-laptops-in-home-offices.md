@@ -18,6 +18,10 @@ Ergonomics is the science of designing workspaces and tools to fit the user’s 
 
 Unlike a desktop setup where monitors and keyboards are separate, the fixed screen-keyboard distance on laptops restricts your ability to optimize everything at once. Ergonomic laptop use embraces smart compromises and accessories that help create a work environment that supports your body for hours each day.
 
+
+
+> **See also:** [24. How to set up a laptop-only home office ergonomically](https://chairwise.app/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+
 ## How Ergonomics Works for Laptops
 
 The fundamental ergonomic principle for laptop use is aligning your head, neck, spine, shoulders, arms, and wrists in comfortable neutral positions. Key ergonomic targets while working on a laptop include:

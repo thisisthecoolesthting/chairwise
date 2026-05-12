@@ -18,6 +18,10 @@ A standing desk (or sit-stand desk) is furniture designed to allow you to altern
 
 But what standing desks really aim to do is improve your overall workstation ergonomics by encouraging more movement and reducing static postures, not just to get you off your chair.
 
+
+
+> **See also:** [9. Kneeling chairs: the physical therapy take](https://chairwise.app/articles/9-kneeling-chairs-the-physical-therapy-take/)
+
 ## How Does Standing at Work Affect Your Body?
 
 Standing, when ergonomically supported, engages different muscles compared to sitting, promotes more blood flow, and can heighten alertness. However, standing itself also introduces strain, especially if the desk or workstation is ill-fitted.

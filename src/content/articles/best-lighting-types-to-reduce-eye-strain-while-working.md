@@ -23,6 +23,10 @@ Eye strain occurs when your eyes have to work harder to see clearly. Common ligh
 
 Understanding these factors can help you make informed decisions when choosing lighting for your workspace.
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## Key Lighting Features to Reduce Eye Strain
 
 For desk workers, ergonomic lighting isn’t just about brightness. You want lighting that supports natural focus and reduces glare while accommodating your specific work habits and desk setup. Here’s what matters most:

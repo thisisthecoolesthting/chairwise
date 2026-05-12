@@ -192,3 +192,17 @@ A sit-stand desk delivers this; a standing desk converted into 'stand all day' d
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How do I determine the correct height for my ergonomic chair?**  
+A: Adjust the seat height so your feet rest flat on the floor, and your knees form a 90-degree angle with your thighs parallel to the ground.  
+
+**Q: What’s the ideal position for my monitor in an ergonomic setup?**  
+A: Position the top of the monitor at or slightly below eye level, about an arm’s length away, to reduce neck strain and eye fatigue.  
+
+**Q: Should I use a standing desk all day?**  
+A: No, alternate between sitting and standing every 30–60 minutes to avoid fatigue and promote better posture and circulation.  
+
+**Q: How can I test if my workstation setup is ergonomic?**  
+A: Perform simple tests like checking for neutral wrist positions, proper lumbar support, and comfortable eye-to-screen distance to ensure optimal alignment.

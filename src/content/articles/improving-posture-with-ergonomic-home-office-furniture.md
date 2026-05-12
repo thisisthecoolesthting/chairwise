@@ -16,6 +16,10 @@ If you’re spending eight or more hours a day working at a home desk, you might
 
 ---
 
+
+
+> **See also:** [Chairwise Chairs with Lumbar Support for Improved Posture](https://chairwise.app/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+
 ## What Is Ergonomic Furniture?
 
 Ergonomic furniture is designed to fit the user’s body, accommodate natural movement, and support healthy posture. Unlike standard office chairs or desks that emphasize style or basic adjustability, ergonomic pieces aim to reduce physical strain by closely matching the furniture’s physical dimensions and mechanics to the human body’s needs — especially during extended periods of sitting.

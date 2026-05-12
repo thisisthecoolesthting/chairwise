@@ -21,6 +21,10 @@ If you spend eight or more hours a day typing at your desk, the keyboard you cho
 
 **Membrane keyboards**, on the other hand, use a pressure pad system where keys press down on a flexible membrane layer that completes an electrical circuit. This design results in quieter typing but less tactile precision compared to mechanical switches.
 
+
+
+> **See also:** [30. Low profile mechanical vs rubber dome: the wrist data](https://chairwise.app/articles/30-low-profile-mechanical-vs-rubber-dome-the-wrist-data/)
+
 ## How Each Keyboard Type Works and Feels in Office Use
 
 | Feature              | Mechanical Keyboard                              | Membrane Keyboard                              |

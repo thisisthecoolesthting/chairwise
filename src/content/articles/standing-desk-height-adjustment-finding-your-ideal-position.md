@@ -18,6 +18,10 @@ Standing desk height adjustment refers to setting the desk surface at the optimu
 
 The ideal height adjustment minimizes strain on your joints, supports a neutral spine posture, and fosters natural arm and wrist positions for working with a keyboard and mouse. It plays a pivotal role in ergonomic fit, akin to how a chair's seat depth or lumbar support range tailors your sitting position.
 
+
+
+> **See also:** [How to Position Dual Monitors Ergonomically in Your Home Office](https://chairwise.app/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+
 ## How to Find Your Ideal Standing Desk Height
 
 Finding your optimal standing desk height involves understanding your body mechanics and workstation usage. Follow these steps carefully:

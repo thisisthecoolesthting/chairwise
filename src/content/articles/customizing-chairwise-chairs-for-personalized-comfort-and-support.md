@@ -25,6 +25,10 @@ Customizing an ergonomic chair goes beyond flipping levers and hoping for the be
 
 These features, when properly set, reduce pressure on nerves and blood vessels, prevent slouching, and promote a healthier sitting posture under sustained use.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## How to Customize Your Chairwise Chair for Personalized Fit
 
 ### Step 1: Adjust Seat Depth for Thigh Support

@@ -131,3 +131,5 @@ Use the step-by-step approach above to evaluate your needs and potential chairs 
 
 **Q: What’s the difference between vertical and depth lumbar support adjustments?**  
 **A:** Vertical adjustment moves the support pad up or down to match your lumbar curve height, while depth adjustment changes how far the support presses into your back, customizing support firmness and contour match. Both are important for a comfortable fit.
+
+> **See also:** [Customizing Chairwise Chairs for Personalized Comfort and Support](https://chairwise.app/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)

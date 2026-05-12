@@ -27,6 +27,10 @@ Getting these elements right matters because you are engaging with your setup fo
 
 ---
 
+
+
+> **See also:** [How to Set Up a Home Office for Back Pain Prevention](https://chairwise.app/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+
 ## Step-By-Step Guide to Setting Up Your Monitor Ergonomically
 
 ### 1. Measure Your Eye Height and Desk Height

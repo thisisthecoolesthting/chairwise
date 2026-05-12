@@ -21,6 +21,10 @@ An adjustable standing desk is a workstation that allows you to alternate betwee
 
 Most adjustable desks offer electric or manual height adjustment, with options for button controls or hand cranks. The ability to fine-tune the desk height encourages movement and variation in posture, which can contribute to better circulation, reduced back pain, and increased focus.
 
+
+
+> **See also:** [4. Humanscale Freedom: who it works for and who it punishes](https://chairwise.app/articles/4-humanscale-freedom-who-it-works-for-and-who-it-punishes/)
+
 ## How Adjustable Standing Desks Work
 
 At the core, adjustable standing desks have lift mechanisms that raise or lower the desktop surface. These mechanisms come in several types:

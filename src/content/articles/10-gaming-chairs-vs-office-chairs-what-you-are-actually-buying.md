@@ -14,6 +14,10 @@ subtopic: chairs
 
 If you spend a significant part of your day sitting at a desk, whether for work or gaming, you’ve likely faced the dilemma: should I invest in a gaming chair or an office chair? Both promise comfort and support, but the experience of using them for 8+ hours daily can be worlds apart. Understanding what these types of chairs truly offer—and what their limitations are—is crucial to making a choice that supports your health and productivity over time.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## What It Is: Gaming Chairs and Office Chairs Defined
 
 ### Gaming Chairs  

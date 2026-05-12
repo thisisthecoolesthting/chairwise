@@ -16,6 +16,10 @@ Standing at your desk for hours can lead to discomfort, foot fatigue, and lower 
 
 Standing desk mats are specialized floor mats designed to cushion your feet and legs while you stand at your desk. Unlike traditional floor mats, these incorporate materials and ergonomics tailored to long hours of standing. They vary in thickness, material, and design, but the best ones help improve blood circulation, reduce joint stress, and encourage subtle movements that prevent stiffness.
 
+
+
+> **See also:** [Tips for Maintaining Good Posture While Working from Home](https://chairwise.app/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+
 ## How Standing Desk Mats Work to Improve Comfort and Reduce Fatigue
 
 When standing on a hard surface like hardwood or tile, pressure accumulates at your heels, arches, and balls of your feet. This pressure leads to discomfort, muscle fatigue, and eventually pain in your feet, legs, and lower back. 

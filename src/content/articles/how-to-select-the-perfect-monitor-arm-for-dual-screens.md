@@ -23,6 +23,10 @@ Before diving into product specs, measure both your desk space and your monitors
 
 Measure twice to avoid disappointment later.
 
+
+
+> **See also:** [Best Chairwise Monitor Arms for Multi-Monitor Workstations](https://chairwise.app/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)
+
 ## 2. Prioritize Ergonomic Adjustability
 
 Ergonomics means the arm must allow a comfortable, natural position for your eyes, neck, shoulders, and arms. Key adjustability features:

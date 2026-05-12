@@ -106,3 +106,5 @@ Choosing a mechanical keyboard with lasting durability and satisfying responsive
 
 **Q:** Can I change mechanical switches if they wear out?  
 **A:** Some keyboards support hot-swappable switches for easy replacement, extending your keyboard’s lifespan without full replacement; check specs before buying.
+
+> **See also:** [Mechanical vs Membrane Keyboards for Office Efficiency](https://chairwise.app/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)

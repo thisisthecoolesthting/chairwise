@@ -31,6 +31,10 @@ Key ergonomic components include:
 
 The goal is a setup that encourages healthy posture and minimizes repetitive strain, even when your home “office” may be a corner of a bedroom or kitchen.
 
+
+
+> **See also:** [Ergonomic Solutions for Small Home Office Setups](https://chairwise.app/articles/ergonomic-solutions-for-small-home-office-setups/)
+
 ## How Ergonomics Works in Small Spaces
 
 ### 1. Prioritize Measured Fit Over Marketing Buzz

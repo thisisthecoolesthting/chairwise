@@ -22,6 +22,10 @@ Ergonomic chairs sound great in ads, but the truth is that the details of **fit*
 
 Many chairs advertise these features but don’t deliver full ranges of adjustment. When shopping, try to sit in the chair for at least 15 minutes in a store or check return policies when buying online.
 
+
+
+> **See also:** [Top Monitor Setup Tips for an Ergonomic Home Workspace](https://chairwise.app/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
+
 ## Step 2: Monitor and Adjust Your Desk Height for Neutral Posture
 
 Your desk height plays a critical role in spinal alignment and overall comfort. Aim for a configuration where:

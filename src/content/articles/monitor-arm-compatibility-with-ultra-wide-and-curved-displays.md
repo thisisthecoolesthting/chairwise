@@ -14,6 +14,10 @@ subtopic: monitors
 
 If you’ve switched from a standard monitor to an ultra-wide or curved display, you’ve likely run into the challenge of finding a monitor arm that supports your larger, heavier screen while still allowing ergonomic adjustability. Many monitor arms are designed with traditional flat, 16:9 aspect ratio monitors in mind and may not offer the necessary range of motion, weight capacity, or mounting compatibility to accommodate ultra-wide and curved displays comfortably for long hours at your desk. This article demystifies the compatibility issues and provides practical advice on choosing the right arm to make your setup ergonomic and non-restrictive.
 
+
+
+> **See also:** [Top Monitor Arms for Heavy Monitors: Stability and Flexibility](https://chairwise.app/articles/monitor-arms-for-heavy-monitors/)
+
 ## What Are Ultra-Wide and Curved Displays?
 
 Before diving into arm compatibility, it’s important to understand what sets ultra-wide and curved monitors apart from standard displays.

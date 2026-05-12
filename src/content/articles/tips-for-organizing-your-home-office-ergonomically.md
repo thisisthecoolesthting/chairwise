@@ -18,6 +18,10 @@ Ergonomic organization means arranging your workspace so that all elements—fro
 
 Poor organization can cause you to reach awkwardly for items, twist your neck or back repetitively, or sit in a cramped posture. Over an 8-hour workday, these small stressors add up. An ergonomically organized home office aims to align your body properly with all workspace components, adjusting for your unique dimensions and work habits.
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## How to Organize Your Home Office Ergonomically: Step-by-Step
 
 ### 1. Choose the Right Chair and Adjust It Thoughtfully

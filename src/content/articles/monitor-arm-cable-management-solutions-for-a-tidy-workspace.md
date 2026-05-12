@@ -25,6 +25,10 @@ Cable management solutions aim to:
 
 These solutions may involve built-in cable channels in the arm, clips and ties, or surface-mounted conduits and sleeves.
 
+
+
+> **See also:** [Monitor Arm Installation Tricks for a Clutter-Free Desk](https://chairwise.app/articles/monitor-arm-installation-tricks-for-a-clutter-free-desk/)
+
 ## How Monitor Arm Cable Management Works
 
 There are several common methods and hardware components used in monitor arm cable management. These methods often combine to fit the particular arm, cable types, and workspace constraints.

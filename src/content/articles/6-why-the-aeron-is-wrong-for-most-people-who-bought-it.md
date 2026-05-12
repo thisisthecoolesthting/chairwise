@@ -16,6 +16,10 @@ If you bought an Aeron chair expecting an all-day ergonomic solution that adjust
 
 ---
 
+
+
+> **See also:** [Ergonomic Chair Features to Look for in 2024](https://chairwise.app/articles/ergonomic-chair-features-to-look-for-in-2024/)
+
 ## What the Aeron Is
 
 The Aeron chair, introduced over two decades ago, revolutionized office seating with its patented mesh fabric and modern design. It quickly became a cultural icon, synonymous with premium office comfort and innovation. The chair's emphasis was on breathability, sleek aesthetics, and a one-piece molded seat and backrest.

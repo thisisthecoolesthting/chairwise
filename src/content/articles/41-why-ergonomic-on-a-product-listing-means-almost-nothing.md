@@ -20,6 +20,10 @@ Ergonomics is the science of designing furniture and tools that fit the user’s
 
 When you see “ergonomic” on a product, it could mean the designers considered some aspects of human factors, or just that the marketing team believes it sounds good. Without detailed specs and user-focused features, the term itself is mostly fluff.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## Why “Ergonomic” on a Listing Means Very Little in Practice
 
 1. **Lack of Standard Definitions:** There’s no independent certification or universal standard for what qualifies as ergonomic furniture. No single authority verifies claims around adjustability, comfort, or fit.

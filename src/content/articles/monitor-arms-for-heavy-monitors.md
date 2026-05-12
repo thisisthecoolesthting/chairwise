@@ -31,6 +31,10 @@ Premium arms like the [Ergotron HX](https://www.amazon.com/dp/B004QM8SLG?tag=cha
 
 We disassembled six arms after testing and found budget models used zinc alloy pivots that developed hairline fractures after just 200 adjustment cycles with 35 lb loads.
 
+
+
+> **See also:** [Finding the Right Monitor Arm for Your Heavy Display: Stability and Ergonomics](https://chairwise.app/articles/monitor-arm-for-heavy-monitor/)
+
 ## Why this matters
 
 A heavy monitor arm isn't just about lifting your display off the desk. Proper support reduces neck strain by enabling precise height adjustments, eliminates cable clutter through integrated routing channels, and protects your $1,000+ investment from tipping disasters.

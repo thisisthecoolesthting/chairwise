@@ -18,6 +18,10 @@ Desk height refers to the vertical distance from the floor to the surface of you
 
 If your desk is too high, you tend to raise your shoulders, resulting in neck and shoulder pain. Conversely, a desk that's too low can cause you to slouch or crane your neck forward, leading to back pain and inefficient wrist angles that contribute to carpal tunnel risk.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## How Desk Height Affects Ergonomic Fit
 
 Ergonomics isn’t just about chair adjustments; the desk plays a crucial role in shaping your posture. To fully understand why desk height matters, consider these factors:

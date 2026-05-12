@@ -14,6 +14,10 @@ subtopic: desks
 
 Sitting all day at a desk is tough on your body — it causes stiffness, back pain, and reduces overall health. The idea of a treadmill desk seems like a perfect solution: walk while you work, burn calories, and avoid the pitfalls of prolonged sitting. But treadmill desks aren’t magic for everyone, and their effectiveness largely depends on personal fit, work habits, and ergonomic factors. This article breaks down how treadmill desks actually work, who benefits from them, who should approach with caution, and what to consider before investing.
 
+
+
+> **See also:** [Benefits of Sit-Stand Desks for Home Office Health](https://chairwise.app/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+
 ## What is a Treadmill Desk?
 
 A treadmill desk combines a treadmill with a standing-height desk surface to allow walking while performing typical desk tasks like typing, reading, or calls. Instead of sitting in a traditional ergonomic office chair, the user walks slowly—usually between 0.5 and 2 miles per hour—while engaging with a laptop or monitor.

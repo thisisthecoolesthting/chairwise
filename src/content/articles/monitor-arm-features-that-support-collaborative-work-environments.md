@@ -112,3 +112,5 @@ Common Pitfalls to Avoid
 
 **Q: What is the best way to share a screen in a collaborative workspace?**  
 **A:** Use a monitor arm with wide swivel and rotation ranges, so you can quickly turn the screen to face others without forcing everyone to move. Supplement with screen-sharing software for remote team members.
+
+> **See also:** [Best Chairwise Monitor Arms for Multi-Monitor Workstations](https://chairwise.app/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)

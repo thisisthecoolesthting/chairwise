@@ -23,6 +23,10 @@ A clutter-free ergonomic workspace is an environment designed intentionally to r
 
 Ergonomics focuses on fitting the workspace to your body, reducing musculoskeletal stress, and sustaining good posture. Clutter management complements this by ensuring your essential tools are easy to access without overcrowding your desk, which can force awkward reaching or lead to poor posture adaptations.
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## How It Works: Ergonomics Meets Clutter Management
 
 To create a sustainable home workstation, consider the following core principles:

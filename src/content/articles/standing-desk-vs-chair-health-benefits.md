@@ -28,6 +28,10 @@ This guide breaks down the biomechanics, productivity tradeoffs, and hidden cost
 - Hidden maintenance costs across 5-year ownership periods
 - Proprioceptive differences between mesh and fabric seating surfaces
 
+
+
+> **See also:** [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](https://chairwise.app/articles/chairwise-article-01/)
+
 ## Why this matters
 
 Chronic sitting compresses lumbar discs at 140–185% of standing pressure, according to spine biomechanics research. But standing statically for 8 hours increases venous pooling risk due to reduced calf muscle activation. The practical sweet spot: alternating every 30–90 minutes with smooth transition techniques.

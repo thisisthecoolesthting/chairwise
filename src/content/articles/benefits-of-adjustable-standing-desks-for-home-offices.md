@@ -18,6 +18,10 @@ An adjustable standing desk is a workstation with a height-adjustable surface th
 
 Unlike traditional fixed desks, adjustable models typically feature manual cranks or electric motors that raise or lower the desk surface height. Many also include additional ergonomic features such as spacious desktops for monitors and keyboards, cable management systems, and options for integrated keyboard trays or monitor arms.
 
+
+
+> **See also:** [Benefits of Sit-Stand Desks for Home Office Health](https://chairwise.app/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+
 ## How Adjustable Standing Desks Work for Ergonomics
 
 The primary ergonomic principle behind adjustable standing desks is to reduce the health risks associated with prolonged sitting, such as musculoskeletal discomfort, poor circulation, and decreased energy. By enabling users to switch postures, these desks encourage movement and muscle engagement, which can improve circulation and reduce fatigue.

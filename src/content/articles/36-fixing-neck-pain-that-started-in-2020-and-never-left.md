@@ -23,6 +23,10 @@ Chronic neck pain is persistent discomfort that lasts longer than three months. 
 
 This pain can impact daily function, focus, and mental health. It usually involves strain on cervical muscles, joint stiffness, nerve involvement, or a combination.
 
+
+
+> **See also:** [Standing Desk Height Adjustment: Finding Your Ideal Position](https://chairwise.app/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+
 ## How Neck Pain Develops and Why It Doesn’t Go Away
 
 Understanding the progression of neck pain can inform your approach to fixing it:

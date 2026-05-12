@@ -18,6 +18,10 @@ This article will break down what keyboard trays are, how they impact ergonomics
 
 ---
 
+
+
+> **See also:** [31. Keyboard latency and typing ergonomics: yes it matters](https://chairwise.app/articles/31-keyboard-latency-and-typing-ergonomics-yes-it-matters/)
+
 ## What is a keyboard tray?
 
 A keyboard tray is an accessory attached under or alongside your desk surface designed to hold your keyboard—and sometimes your mouse—allowing you to position them ergonomically lower and/or closer than a traditional desktop setup. Unlike simply placing a keyboard on your desk, trays typically slide out or pivot to adjust reach and height.

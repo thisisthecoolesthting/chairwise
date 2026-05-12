@@ -118,3 +118,5 @@ Selecting the ideal monitor arm requires balancing your monitor specifications, 
 
 **Q: Is a gas spring arm better than a friction arm?**  
 **A:** Gas spring arms typically offer smoother and easier adjustments. Friction arms may require manual tightening but can be cheaper. Choose based on desired smoothness and budget.
+
+> **See also:** [Maximizing Workspace Productivity with Chairwise Ergonomic Solutions](https://chairwise.app/articles/maximizing-workspace-productivity-with-chairwise-ergonomic-solutions/)

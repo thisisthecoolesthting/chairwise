@@ -16,6 +16,10 @@ If you spend long hours at your desk, you’ve likely experienced wrist aches, s
 
 ---
 
+
+
+> **See also:** [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](https://chairwise.app/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+
 ## What Proper Keyboard and Mouse Placement Means
 
 Proper placement isn’t just about aesthetics or “keeping things tidy.” It’s about ensuring your upper body rests in a neutral, relaxed position that limits strain and tissue compression over extended periods. Key concepts to understand:

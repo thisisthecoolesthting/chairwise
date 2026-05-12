@@ -20,6 +20,10 @@ Both the Ergotron LX and the Amazon Basics monitor arm are gas-spring adjustable
 
 - **Amazon Basics Monitor Arm**: A budget-friendly, entry-level arm made with lighter materials and simpler mechanisms. Weight capacity is usually lower (around 19 lbs), and adjustments may feel less fluid or require manual tightening.
 
+
+
+> **See also:** [14. Electric vs manual crank desks: the real cost difference](https://chairwise.app/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)
+
 ## How These Monitor Arms Work
 
 Both use internal gas springs to counterbalance the weight of the monitor, allowing you to effortlessly lift, lower, or reposition your screen. Their range of motion includes:

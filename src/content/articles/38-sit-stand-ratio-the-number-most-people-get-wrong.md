@@ -16,6 +16,10 @@ If you’re a desk worker trying to optimize your sit-stand workstation for bett
 
 ---
 
+
+
+> **See also:** [Selecting the Ideal Monitor Arm for Flexible Positioning](https://chairwise.app/articles/selecting-the-ideal-monitor-arm-for-flexible-positioning/)
+
 ## What is Sit-Stand Ratio?
 
 The **sit-stand ratio** describes how much time you spend standing versus sitting during your workday, commonly expressed as a percentage or ratio (e.g., 1:3 means stand for 1 unit of time, sit for 3). With the rise of height-adjustable desks, people universally accepted the idea that regularly switching postures helps reduce the dangers of prolonged sitting—like poor circulation, spinal compression, and fatigue.

@@ -26,6 +26,10 @@ Using an external keyboard ergonomically isn’t just about having a separate pe
 
 Most laptop users underestimate the benefit of adjusting these ergonomic variables together rather than focusing solely on keyboard choice or chair comfort.
 
+
+
+> **See also:** [Ergonomic Tips for Using Laptops in Home Offices](https://chairwise.app/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
+
 ## How to Set Up Your External Keyboard Ergonomically: 6 Practical Steps
 
 ### 1. Position the Keyboard at the Correct Height

@@ -18,6 +18,10 @@ This guide breaks down what standing desk converters are, how they work, the key
 
 ---
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## What Is a Standing Desk Converter?
 
 A standing desk converter is a secondary platform that sits atop your existing desk to raise your work surface to a standing height. It allows you to switch between sitting and standing positions throughout the workday without purchasing a full-height adjustable desk.

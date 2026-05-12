@@ -26,6 +26,10 @@ Tendonitis occurs when tendons become inflamed from repetitive strain or overuse
 
 But not all vertical mice are created equal. A poorly angled model can transfer strain to your elbow or shoulder. Some designs have thumb buttons you can't reach without metacarpal extension—exactly what you're trying to avoid. We'll decode which specs matter for your anatomy and which are just sales copy.
 
+
+
+> **See also:** [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](https://chairwise.app/articles/chairwise-article-01/)
+
 ## Why Angle and Grip Matter
 
 Tendonitis isn't just discomfort—it's your body flagging a mechanical problem. The average office worker performs 30,000 mouse movements per week. Each click-and-drag loads tendons with forces equivalent to 10% of your body weight. Traditional mice force your forearm into pronation (palm down), compressing the median nerve and overstretching extensor tendons. Over months, that daily load becomes an injury.

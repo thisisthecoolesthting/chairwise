@@ -16,6 +16,10 @@ Sitting at a desk for 8 hours a day is a reality for millions of workers. The pr
 
 Extended sitting creates pressure points, restricts blood flow, and puts strain on your spine and joints. Chairs that look good online or check all the marketing buzzwords can still miss key adjustments like proper seat depth or lumbar support range — resulting in discomfort after just a few hours. The goal: a sitting strategy that maintains comfort, minimizes strain, and supports your body throughout the workday. Let’s break down how to do this.
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## How to Sit for 8 Hours Without Wrecking Yourself: Step-by-Step
 
 ### 1. Choose a Chair with Measured Fit, Not Just “Adjustable”

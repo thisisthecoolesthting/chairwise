@@ -14,6 +14,10 @@ subtopic: keyboards
 
 If you spend long hours typing at your desk, wrist comfort is paramount—yet choosing between low profile mechanical and rubber dome keyboards is confusing when it comes to long-term wrist health. Both aim to reduce strain with lower key heights, but their switch mechanisms and feedback are fundamentally different, impacting wrist posture and pressure in distinct ways. This article breaks down the wrist-related data behind these two keyboard types, offering you practical insights to pick the best one for your ergonomic needs.
 
+
+
+> **See also:** [Mechanical vs Membrane Keyboards for Office Efficiency](https://chairwise.app/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)
+
 ## What It Is: Low Profile Mechanical and Rubber Dome Keyboards
 
 **Low profile mechanical keyboards** use mechanical switches designed to be shorter than traditional mechanical switches, reducing the key travel distance and overall height. These switches typically offer tactile or clicky feedback, albeit with less travel and actuation force than their full-profile counterparts.

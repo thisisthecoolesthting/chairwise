@@ -18,6 +18,10 @@ Proper lighting in an office context isn’t just about brightness or preventing
 
 When lighting is too dim, overly harsh, or imbalanced in color temperature relative to the time of day, it can lead to increased eye fatigue, headaches, reduced attention spans, and impaired memory recall. Conversely, well-designed lighting helps maintain focus, reduce errors, and improve general mood—all crucial for desk workers clocking full eight-hour days or more.
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## How Proper Lighting Influences Cognitive Performance
 
 ### 1. Supports Circadian Rhythms and Alertness

@@ -22,6 +22,10 @@ Proper lighting is more than just sufficient brightness. It includes color tempe
 
 For desk workers logging eight or more hours a day, these issues become cumulative, meaning the quality of lighting directly affects task accuracy.
 
+
+
+> **See also:** [Choosing Keyboards with Backlighting for Low-Light Workspaces](https://chairwise.app/articles/choosing-keyboards-with-backlighting-for-low-light-workspaces/)
+
 ## How Proper Lighting Works to Reduce Mistakes
 
 1. **Improved Visual Clarity**  

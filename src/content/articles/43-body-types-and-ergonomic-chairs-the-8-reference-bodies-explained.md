@@ -14,6 +14,10 @@ subtopic: chairs
 
 If you’re a desk worker struggling with discomfort or fatigue after hours of sitting, it’s likely your chair isn’t properly matched to your body type. Understanding how your physical dimensions influence ergonomic seating can unlock better comfort and health during long workdays. This article demystifies the concept of the "8 reference bodies" — key anthropometric profiles ergonomists use to design and fit chairs — and explains practical ways to assess and select ergonomic chairs that suit your unique body.
 
+
+
+> **See also:** [Customizing Chairwise Chairs for Personalized Comfort and Support](https://chairwise.app/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
+
 ## What Are the 8 Reference Bodies?
 
 Ergonomics relies on population measurements called anthropometry to create “reference bodies” or body size categories that represent typical user segments. These reference bodies account for variations in height, weight, limb length, torso length, and other dimensions that directly affect how you fit into a chair.

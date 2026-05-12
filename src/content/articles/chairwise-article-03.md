@@ -22,6 +22,10 @@ In this deep-dive comparison, we'll pit the legendary [Herman Miller Aeron](http
 
 We conducted this testing using medical-grade equipment including a Tekscan pressure mapping system ($15,000 value) to visualize weight distribution, and infrared thermography to identify heat buildup during long sessions. Our findings challenge many industry assumptions — particularly about "one-size-fits-all" ergonomic solutions.
 
+
+
+> **See also:** [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](https://chairwise.app/articles/chairwise-article-05/)
+
 ## Why this matters
 
 Chronic back pain costs U.S. employers $7.4 billion annually according to OSHA, with improper sitting posture being a leading contributor. The wrong chair doesn't just cause temporary discomfort — it can lead to permanent disc compression (visible on MRI scans after 18 months of misuse), reduced lung capacity from chronic slouching (up to 30% decreased oxygen intake), and repetitive strain injuries that require physical therapy.

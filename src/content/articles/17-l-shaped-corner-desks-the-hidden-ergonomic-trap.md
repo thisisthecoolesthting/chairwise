@@ -16,6 +16,10 @@ If you’ve recently purchased or are considering an L-shaped corner desk to max
 
 In this article, we unpack the ergonomic realities behind L-shaped corner desks: what makes them tricky, how their features intersect with your chair and monitor placement, and practical strategies to avoid ending your workdays stiff or achy. We'll focus on measured fit—like seat depth and armrest adjustability—that matter far more than flashy corner space. Read on to learn why an L-shaped desk might be a hidden ergonomic trap and what you can do about it.
 
+
+
+> **See also:** [Chairwise Chairs with Lumbar Support for Improved Posture](https://chairwise.app/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+
 ## What Is an L-Shaped Corner Desk?
 
 L-shaped desks are designed with two rectangular work surfaces joined at a right angle, forming an "L" shape. They’re prized for fitting into room corners, offering two continuous surfaces without needing a separate table or a disjointed setup. The theory is simple: one side can hold your computer essentials while the other provides extra space for documents, secondary monitors, or writing.

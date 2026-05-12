@@ -22,6 +22,10 @@ There are variations within split keyboards:
 - **Adjustable Split:** The halves can be moved independently on the desk to customize spacing and angle.
 - **Fully Separable:** The two halves are completely detached and connected via a wire or wireless connection, maximizing positioning flexibility.
 
+
+
+> **See also:** [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](https://chairwise.app/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
+
 ## How Do Split Keyboards Enhance Typing Comfort?
 
 1. **Neutral Wrist Alignment**  

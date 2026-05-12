@@ -16,6 +16,10 @@ If you spend long hours typing at a desk and frequently experience wrist pain or
 
 ---
 
+
+
+> **See also:** [Choosing the Best Ergonomic Keyboard for Typing Comfort](https://chairwise.app/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+
 ## What Is a Split Keyboard?
 
 A split keyboard is a type of computer keyboard that is physically divided into two halves, either connected by a cable or completely separate. This design lets the user position each half independently, adjusting the space, angle, and height between the two sections. The goal is to promote a more ergonomic hand, wrist, and forearm posture compared to traditional one-piece keyboards.

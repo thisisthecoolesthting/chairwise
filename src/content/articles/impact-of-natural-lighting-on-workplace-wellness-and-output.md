@@ -18,6 +18,10 @@ Natural lighting refers to using daylight — sunlight filtered through windows,
 
 In offices, natural light can vary widely depending on window size, orientation, weather, and time of year. Many modern buildings boast large windows and glass walls to maximize daylight; older buildings or interior offices may get very limited sunlight.
 
+
+
+> **See also:** [Lighting Design Ideas to Create an Inviting Home Office](https://chairwise.app/articles/lighting-design-ideas-to-create-an-inviting-home-office/)
+
 ## How Natural Lighting Affects Wellness and Productivity
 
 ### 1. Circadian Rhythm Regulation

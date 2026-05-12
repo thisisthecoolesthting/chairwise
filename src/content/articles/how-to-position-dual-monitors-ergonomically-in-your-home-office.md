@@ -22,6 +22,10 @@ Using two monitors allows you to multitask and increases workflow efficiency, bu
 
 Without addressing these factors, multitasking benefits diminish as discomfort accumulates over hours. Ergonomics isn’t about fancy gadgets but about precise measurements — seat depth to seating height, adjustable lumbar support, and in this case, clear principles for screen placement.
 
+
+
+> **See also:** [Standing Desk Height Adjustment: Finding Your Ideal Position](https://chairwise.app/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+
 ## Step 1: Select Monitors With Matching Sizes and Adjustable Stands
 
 Before positioning, ensure your monitors have similar screen sizes and resolutions to reduce visual fatigue. Ideal dual setups involve identical or near-identical units; if sizes or resolutions differ dramatically, your eyes constantly refocus and adjust, which can strain eye muscles.

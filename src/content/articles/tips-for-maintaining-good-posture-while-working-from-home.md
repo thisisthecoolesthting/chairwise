@@ -18,6 +18,10 @@ This article lays out practical, evidence-based tips for creating a home office 
 
 ---
 
+
+
+> **See also:** [Top Monitor Setup Tips for an Ergonomic Home Workspace](https://chairwise.app/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
+
 ## Understanding Good Posture: What It Is and Why It Matters
 
 Good posture is about aligning your body so that muscles, ligaments, and joints are in the most optimal position to do their job with minimal strain. When seated, this means:

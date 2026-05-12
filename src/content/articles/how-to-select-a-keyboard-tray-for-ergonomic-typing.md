@@ -24,6 +24,10 @@ Why care? Because standard desks are built with general dimensions in mind—oft
 
 However, a keyboard tray isn’t a magic fix unless it fits your body well and integrates seamlessly with your workspace setup.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Keyboard for Typing Comfort](https://chairwise.app/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+
 ## How Keyboard Trays Work: Key Ergonomic Features to Consider
 
 ### 1. Height Range and Adjustability

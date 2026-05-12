@@ -27,6 +27,10 @@ From a mental health perspective, the benefits of standing desks come from a com
 
 However, standing desks are not a silver bullet. They interact with how you use your workspace, your chair, and your workflow habits. Poor ergonomics while standing can introduce new discomforts, which then add stress rather than relieve it.
 
+
+
+> **See also:** [The Science Behind Standing Desks and Increased Productivity](https://chairwise.app/articles/the-science-behind-standing-desks-and-increased-productivity/)
+
 ## How Standing Desks Work in Practice
 
 ### Measuring Fit: Beyond Just Standing Height

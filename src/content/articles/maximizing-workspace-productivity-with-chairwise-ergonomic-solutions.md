@@ -20,6 +20,10 @@ At its core, Chairwise ergonomic solutions refer to a set of furniture designs, 
 
 Ergonomics in this context isn’t just fancy chair features; it’s about matching the chair’s mechanics to the user’s physical dimensions and movements, enabling natural posture variation and minimizing pressure points.
 
+
+
+> **See also:** [33. The actual ergonomic setup checklist: 10 minutes, permanent fix](https://chairwise.app/articles/33-the-actual-ergonomic-setup-checklist-10-minutes-permanent-fix/)
+
 ## How Chairwise Ergonomic Solutions Work
 
 ### 1. Measured Fit: Seat Depth and Width

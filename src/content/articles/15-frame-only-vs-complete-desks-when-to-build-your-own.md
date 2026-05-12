@@ -30,6 +30,10 @@ A **complete desk** comes fully assembled or in a kit form, including the frame 
 | Durability Choices  | Variable — depends on tabletop and frame quality | Consistent — matched materials for frame/desktop |
 | Upgradeability      | Easier to replace desktop or frame independently | Usually requires replacing entire unit |
 
+
+
+> **See also:** [How to Set Up a Home Office for Back Pain Prevention](https://chairwise.app/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+
 ## How It Works: Practical Considerations for Desks and Ergonomics
 
 ### Seat Depth and Desk Depth

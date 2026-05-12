@@ -86,6 +86,10 @@ Follow these steps for an optimal, comfortable workstation set up:
 6. **Listen to Your Body:** Move every 30-60 minutes, alternating sitting and standing, and keep posture neutral.
 7. **Use Pressure-Mapping Insights if Possible:** If you have access, analyze pressure points on your seating and armrest surfaces and tweak accordingly.
 
+
+
+> **See also:** [Tips for Maintaining Good Posture While Working from Home](https://chairwise.app/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+
 ## Frequently Asked Questions
 
 **Q: Can an adjustable desk height really prevent back pain?**  

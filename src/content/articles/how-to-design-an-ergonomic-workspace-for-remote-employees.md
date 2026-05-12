@@ -25,6 +25,10 @@ Key components include:
 
 The goal is a customized or adaptable space that fits the individual’s body dimensions and work habits, especially important when sitting for 8+ hours daily.
 
+
+
+> **See also:** [Improving Posture with Ergonomic Home Office Furniture](https://chairwise.app/articles/improving-posture-with-ergonomic-home-office-furniture/)
+
 ## How Ergonomics Works in Remote Workspaces
 
 Ergonomics uses evidence-based principles to reduce repetitive strain and ensure comfort over time. For example:

@@ -16,6 +16,10 @@ Setting up a laptop-only home office can quickly lead to neck pain, cramped wris
 
 While laptops are convenient and portable, their all-in-one design often compromises ergonomic principles: the screen height is too low, and the keyboard is too close to your body, leading to slouching and wrist strain. Over an entire workday, even minor misalignments in posture can cause cumulative musculoskeletal problems. Understanding adjustable fit, pressure distribution, and alignment will help you avoid these issues.
 
+
+
+> **See also:** [Ergonomic Tips for Using Laptops in Home Offices](https://chairwise.app/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
+
 ## How to Set Up Your Laptop-Only Home Office Ergonomically
 
 ### 1. Prioritize Screen Height and Distance

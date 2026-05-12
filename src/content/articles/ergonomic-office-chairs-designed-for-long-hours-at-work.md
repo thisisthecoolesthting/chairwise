@@ -25,6 +25,10 @@ An ergonomic office chair is specifically engineered to support your body throug
 
 Unlike simple office chairs, which may have limited adjustability focused on height, true ergonomic chairs allow you to fine-tune each component so you maintain neutral spine alignment and proper circulation during a full workday.
 
+
+
+> **See also:** [7. The best budget ergonomic chair under 250 dollars across six body types](https://chairwise.app/articles/7-the-best-budget-ergonomic-chair-under-250-dollars-across-six-body-types/)
+
 ## How Ergonomic Office Chairs Support You During Long Hours
 
 ### 1. Seat Depth Adjustment: Finding Your Fit

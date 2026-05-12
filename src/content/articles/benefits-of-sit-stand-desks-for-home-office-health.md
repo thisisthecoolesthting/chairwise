@@ -18,6 +18,10 @@ A sit-stand desk is a height-adjustable workstation that allows you to alternate
 
 Most models enable adjustment through manual cranks, electric motors, or pneumatic mechanisms. They accommodate a variety of body types and work setups, making them well-suited for home offices where space and comfort need to be balanced.
 
+
+
+> **See also:** [Standing Desk Height Adjustment: Finding Your Ideal Position](https://chairwise.app/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+
 ## How Sit-Stand Desks Work for Home Office Health
 
 The primary health benefit of sit-stand desks stems from encouraging movement and reducing the amount of continuous sitting time, which is associated with negative health outcomes such as poor posture, musculoskeletal discomfort, and increased cardiovascular risk.

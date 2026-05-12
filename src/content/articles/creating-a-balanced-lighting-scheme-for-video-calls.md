@@ -16,6 +16,10 @@ If you spend hours on video calls for work, you’ve likely noticed how lighting
 
 ---
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## What Is Balanced Lighting for Video Calls?
 
 Balanced lighting in video calls refers to achieving an even, natural, and flattering illumination on your face and workspace without causing glare or visual fatigue. It involves combining multiple light sources and controlling their intensity, position, and color temperature to mimic how the human eye perceives in-person meetings.

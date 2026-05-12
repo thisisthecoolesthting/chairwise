@@ -27,6 +27,10 @@ A standing desk is a workstation that allows you to work while standing up, eith
 
 However, standing isn’t a perfect or complete solution. Without proper setup and habits, standing too long can also cause discomfort, leading to fatigue, pressure points on your feet, and even circulation issues like varicose veins.
 
+
+
+> **See also:** [Standing Desks and Their Role in Combating Sedentary Lifestyle](https://chairwise.app/articles/standing-desks-and-their-role-in-combating-sedentary-lifestyle/)
+
 ## How Standing Desks Work to Improve Circulation
 
 Standing desks improve circulation primarily by breaking up long periods of sitting. This is important because:

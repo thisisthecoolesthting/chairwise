@@ -21,6 +21,10 @@ A standing desk, also called a sit-stand desk, is a desk that allows the user to
 
 Standing desks range from simple converter units that sit atop a traditional desk to fully integrated height-adjustable desks with programmable height presets. They vary in adjustability, stability, and available workspace.
 
+
+
+> **See also:** [Standing Desks as a Solution to Improve Circulation at Work](https://chairwise.app/articles/standing-desks-as-a-solution-to-improve-circulation-at-work/)
+
 ## How Standing Desks Help Combat Sedentary Lifestyles
 
 The core benefit of standing desks lies in reducing the total time spent seated. This helps counteract some of the known negative health effects of prolonged sitting, such as:

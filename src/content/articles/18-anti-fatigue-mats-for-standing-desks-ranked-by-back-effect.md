@@ -20,6 +20,10 @@ Anti-fatigue mats are cushioned floor pads designed to reduce discomfort and fat
 
 Unlike simple floor rugs or area carpets, anti-fatigue mats often have specific features like closed-cell foam cores, gel inserts, or layered composites engineered to optimize pressure relief and promote posture changes.
 
+
+
+> **See also:** [Standing Desk Exercises to Complement Your Work Routine](https://chairwise.app/articles/standing-desk-exercises-to-complement-your-work-routine/)
+
 ## How Anti-Fatigue Mats Affect Back Comfort
 
 Standing still on hard floors transmits pressure and shocks directly through your feet to your legs and spine, potentially leading to lower back stiffness, muscle tightness, and pain. Anti-fatigue mats mitigate this through:

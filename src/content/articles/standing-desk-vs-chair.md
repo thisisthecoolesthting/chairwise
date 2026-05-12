@@ -24,6 +24,10 @@ During testing, we discovered surprising correlations between desk height and sp
 
 Meanwhile, chair users who adjusted lumbar support every 2 hours experienced 41% less afternoon fatigue compared to set-and-forget users—a finding that held true across all seven chair models tested.
 
+
+
+> **See also:** [Standing Desk vs. Chair: The Ultimate Ergonomic Showdown](https://chairwise.app/articles/standing-desk-vs-chair-ergonomics/)
+
 ## Why this matters
 
 Your spine wasn't designed for 8-hour sitting marathons—but it also didn't evolve for static standing. NASA research shows astronauts' spines lengthen 2-3 inches in zero gravity, revealing how much compression happens during normal sitting. Meanwhile, standing too long increases venous pressure by 15-20 mmHg (about 20% of normal blood pressure), which explains why retail workers get swollen feet.

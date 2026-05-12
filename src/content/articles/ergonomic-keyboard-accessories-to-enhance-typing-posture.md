@@ -28,6 +28,10 @@ Common ergonomic keyboard accessories include:
 - **Keyboard Splitters**: Devices that split the keyboard layout to space out the keys according to shoulder width, sometimes combined with tenting.
 - **Adjustable Keyboard Stands**: Portable stands that raise or tilt the keyboard to preferred angles and heights.
 
+
+
+> **See also:** [Ergonomic Keyboards That Reduce Wrist Strain Effectively](https://chairwise.app/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
+
 ## How Ergonomic Keyboard Accessories Work
 
 The underlying principle behind these accessories lies in measured fit and pressure management:

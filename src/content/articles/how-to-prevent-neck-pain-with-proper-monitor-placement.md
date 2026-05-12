@@ -16,6 +16,10 @@ If you’re spending long hours at a desk, chances are you’ve experienced neck
 
 ---
 
+
+
+> **See also:** [Guide to Proper Keyboard and Mouse Placement for Comfort](https://chairwise.app/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
+
 ## Why Monitor Placement Matters for Neck Health
 
 Sitting with your head tilted too far up, down, or to the side forces your neck muscles into awkward positions, leading to strain over time. Even minor misalignment requires your neck to work harder just to keep your gaze on the screen. This tension accumulates, causing soreness, headaches, and potentially long-term posture issues.

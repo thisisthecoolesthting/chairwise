@@ -28,6 +28,10 @@ Key features often include:
 
 These features help mitigate common problems in poorly lit home offices such as harsh shadows, eye fatigue from inadequate lighting, and visual discomfort due to incorrect color rendering or flickering light sources.
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## How Adjustable Lighting Works in Practice
 
 The goal of adjustable lighting is to control the amount, angle, and quality of light hitting your workspace and eyes at any given time. Here’s how these adjustments improve comfort:

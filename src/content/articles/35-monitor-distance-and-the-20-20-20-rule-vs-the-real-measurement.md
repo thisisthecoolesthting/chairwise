@@ -18,6 +18,10 @@ This article unpacks the theory behind the 20-20-20 rule and monitor distance, c
 
 ---
 
+
+
+> **See also:** [Monitor Arms with Swivel and Tilt for Maximum Flexibility](https://chairwise.app/articles/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility/)
+
 ## What Is the 20-20-20 Rule and Monitor Distance?
 
 ### The 20-20-20 Rule

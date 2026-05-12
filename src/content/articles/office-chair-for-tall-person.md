@@ -26,6 +26,10 @@ After testing 37 chairs over 14 months with testers ranging from 6'2" to 6'11", 
 
 The [Steelcase Leap](https://www.amazon.com/dp/B00NX0XMZY?tag=chairwise-20) and [Herman Miller Aeron Size C](https://www.amazon.com/dp/B0017HYB2I?tag=chairwise-20) both meet these benchmarks—but at very different price points and with meaningful trade-offs for your body type.
 
+
+
+> **See also:** [Ergonomic Office Chairs Designed for Long Hours at Work](https://chairwise.app/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+
 ## Why seat depth and lumbar placement matter for tall users
 
 For tall individuals, sitting in a chair with insufficient seat depth forces roughly 80% of body weight onto a 4–6" section of the thighs near the knees. This compresses the sciatic nerve and reduces blood flow to the lower legs. Our pressure-mapping tests showed standard 17–18" seats create localized pressures up to 220 mmHg (compared to 90 mmHg in properly fitted chairs).

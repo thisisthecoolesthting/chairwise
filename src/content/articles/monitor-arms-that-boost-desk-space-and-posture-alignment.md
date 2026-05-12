@@ -14,6 +14,10 @@ subtopic: chairs
 
 If you’re spending eight or more hours a day at your desk, the setup of your workstation directly affects both your productivity and physical comfort. Many desk workers struggle with cramped workspaces and poor posture due to fixed, bulky monitor stands or improperly positioned screens. Monitor arms offer a practical, adjustable solution that can free up desk space and help maintain proper posture, but not all arms are created equal—and marketing claims often overpromise. This guide explains what monitor arms are, how they work to improve space and ergonomics, when you should consider one, and pitfalls to avoid.
 
+
+
+> **See also:** [How to Prevent Neck Pain with Proper Monitor Placement](https://chairwise.app/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
+
 ## What Is a Monitor Arm?
 
 A monitor arm is an adjustable support device that attaches to your desk or wall and holds one or more computer monitors. Unlike standard monitor stands fixed to the screen’s base, monitor arms have articulating joints allowing you to tilt, swivel, rotate, and change the height and distance of your screen. Their key purpose is to maximize your workspace efficiency while enabling ergonomic alignment to reduce strain on your neck, shoulders, and back.

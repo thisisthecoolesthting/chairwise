@@ -16,6 +16,10 @@ If you’re setting up an ergonomic workstation, you’ve likely encountered con
 
 ---
 
+
+
+> **See also:** [Chairwise Chairs with Lumbar Support for Improved Posture](https://chairwise.app/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+
 ## What is Desk Height vs Keyboard Tray Height?
 
 - **Desk Height** generally refers to the vertical distance from the floor to the top surface of your main desk. This is where your monitor, mouse, and other workspace essentials often sit.

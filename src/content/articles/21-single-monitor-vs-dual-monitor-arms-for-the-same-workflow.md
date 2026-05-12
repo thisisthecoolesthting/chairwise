@@ -22,6 +22,10 @@ This adjustable arm holds exactly one monitor. It frees up desk space by removin
 ### Dual Monitor Arms
 A dual monitor arm setup uses either one arm designed for two screens or two separate arms to hold two monitors. This permits independent or coordinated adjustment of two displays side-by-side or stacked.
 
+
+
+> **See also:** [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](https://chairwise.app/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)
+
 ## How Do Single and Dual Monitor Arms Affect Your Workflow?
 
 The choice between single and dual monitor arms is not just about how many screens you use but how those screens fit into your day-to-day work patterns, desk ergonomics, and comfort.

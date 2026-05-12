@@ -16,6 +16,10 @@ If you spend long hours at your desk, you know how quickly discomfort can set in
 
 An ergonomic workspace is designed to optimize comfort, efficiency, and well-being while minimizing strain on your body. This involves selecting and configuring furniture and accessories precisely to your body dimensions and work habits. Key components include an adjustable chair that fits your body, a desk at the right height, monitor placement to reduce eye and neck strain, and peripherals positioned for natural hand and wrist posture.
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## How Chairwise Products Support Ergonomic Setup
 
 Chairwise chairs and accessories focus on key ergonomic features like seat depth, lumbar support adjustability, and armrest 4D travel (height, width, depth, and pivot). These adjustments matter because each body is different: A chair that feels fine at first might become uncomfortable if, for example, the seat is too deep, causing pressure behind the knees, or if the lumbar support doesn’t align with your spine’s natural curve.

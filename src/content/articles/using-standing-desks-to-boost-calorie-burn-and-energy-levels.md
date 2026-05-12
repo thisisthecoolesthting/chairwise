@@ -20,6 +20,10 @@ The increase in calorie expenditure isn’t massive—typically, standing burns 
 
 Ergonomically, a standing desk should be paired with a setup that supports your posture to avoid fatigue or pain: monitor at eye level, arms supported at an approximate 90-degree angle, and a neutral spine alignment.
 
+
+
+> **See also:** [The Science Behind Standing Desks and Increased Productivity](https://chairwise.app/articles/the-science-behind-standing-desks-and-increased-productivity/)
+
 ## How Standing Desks Impact Calorie Burn and Energy
 
 ### Calorie Burn

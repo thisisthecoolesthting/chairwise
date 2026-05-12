@@ -26,6 +26,10 @@ Backlighting is a common feature in gaming keyboards but is increasingly popular
 - **RGB backlighting:** Allows choosing from a broad color palette, often with customizable effects.
 - **Per-key or zone lighting:** Some keyboards allow independent control of lighting per key or grouped zones.
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## How Backlit Keyboards Work
 
 Backlit keyboards have miniature LEDs embedded underneath the keycaps or around their edges. When activated, these LEDs shine light through the translucent legends (letters, numbers, symbols) on the keys.

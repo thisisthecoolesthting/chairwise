@@ -25,6 +25,10 @@ All of these issues increase muscle fatigue, contribute to cumulative trauma, an
 
 ---
 
+
+
+> **See also:** [How to Position Dual Monitors Ergonomically in Your Home Office](https://chairwise.app/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+
 ## How To Set Up a Second Screen Without Looking Down All Day: Step-by-Step
 
 ### 1. Adjust Your Primary Chair and Desk Position First

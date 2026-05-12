@@ -18,6 +18,10 @@ Ergonomic keyboard layouts are designs that aim to reduce strain on your hands a
 
 Common ergonomic layouts include variations like Dvorak, Colemak, Workman, and more specialized split and ortholinear keyboard designs. Besides changes in letter placement, ergonomic keyboards often feature structural designs such as tenting, split key clusters, and key-well concavity to better fit hand anatomy.
 
+
+
+> **See also:** [Ergonomic Keyboards That Reduce Wrist Strain Effectively](https://chairwise.app/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
+
 ## How Ergonomic Layouts Work To Minimize RSI
 
 Ergonomic keyboard layouts minimize repetitive strain by addressing several key mechanical and physiological issues inherent in traditional typing:

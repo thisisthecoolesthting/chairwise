@@ -16,6 +16,10 @@ If you suffer from tendonitis, especially in your wrist, forearm, or elbow, usin
 
 ---
 
+
+
+> **See also:** [29. Logitech MX Master vs MX Vertical: productivity vs pain](https://chairwise.app/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
+
 ## What These Devices Are and How They Affect Tendonitis
 
 ### Vertical Mouse: Promotes a Neutral Wrist Posture

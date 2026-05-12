@@ -22,6 +22,10 @@ Three others caused new problems or showed no measurable advantage over traditio
 
 This guide cuts through marketing claims to show which split keyboard features matter for wrist pain relief—and which are just expensive add-ons. We'll compare tenting angles, key travel, and palm support using actual lab data, plus real-world performance over 60 days. If you're considering your first ergonomic keyboard, we'll also cover transitional options like semi-split designs that offer partial benefits without a full learning curve.
 
+
+
+> **See also:** [Say Goodbye to Wrist Pain: The Best Split Keyboards for Ergonomics](https://chairwise.app/articles/split-keyboards-for-wrist-pain/)
+
 ## Why this matters
 
 Typing causes 60% of workplace repetitive strain injuries (RSIs) according to OSHA. Occasional wrist fatigue can develop into chronic tendonitis or carpal tunnel syndrome—conditions requiring months of physical therapy or even surgery. A 2025 Johns Hopkins study found office workers typing more than 6 hours daily had a 73% higher risk of developing carpal tunnel within five years compared to those using ergonomic equipment.

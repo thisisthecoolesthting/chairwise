@@ -14,6 +14,10 @@ subtopic: chairs
 
 When investing in a high-end ergonomic chair for 8+ hours of desk work, the real test isn’t aesthetics or marketing claims — it’s how your body feels day after day after day. Two of the most talked-about options, the Herman Miller Aeron Size B and Steelcase Leap V2, promise comfort and support, but how do they actually perform after 90 days of real-world use? This article breaks down the key ergonomic considerations—like seat depth, lumbar support, armrest adjustability, and pressure distribution—to help you decide which chair might truly fit your body and work style.
 
+
+
+> **See also:** [Herman Miller Aeron vs. Steelcase Leap: Which $1,000+ Chair Actually Fits   Your Body?](https://chairwise.app/articles/herman-miller-aeron-vs-steelcase-leap/)
+
 ## What It Is: The Chairs in Context
 
 - **Herman Miller Aeron Size B**: A widely known “one of the classics” in ergonomic chairs, the Aeron uses a pellicle mesh seat and backrest for breathability and pressure relief. The Size B is the “medium” sizing option, nominally fitting users around 5'3" to 6'0" and weighting between 130–230 pounds, but this varies with body shape and preference.

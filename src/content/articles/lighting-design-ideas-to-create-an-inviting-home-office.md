@@ -18,6 +18,10 @@ Lighting design for a home office refers to planning and implementing various so
 
 Good lighting design integrates with your ergonomic furniture choices, accounting for factors like seat height, desk depth, and screen placement, so you avoid glare and awkward postures that worsen fatigue over time.
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## How Lighting Design Works to Improve Your Home Office
 
 The core principle behind effective lighting design is layering diverse lighting sources with adjustability to tailor the environment based on time of day and task. Here’s how the main components function:

@@ -27,6 +27,10 @@ Key ergonomic features often include:
 - **Compact or Columnar Key Layout**: Keys arranged in vertical columns to reduce finger movement and awkward reaches.
 - **Soft or Low-Force Keys**: To reduce finger fatigue over long typing sessions.
 
+
+
+> **See also:** [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](https://chairwise.app/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
+
 ## How Ergonomic Keyboards Reduce Wrist Strain
 
 The primary principle is promoting "neutral anatomy" during typing. This means keeping your wrists straight (not bent up, down, or sideways), fingers in a relaxed natural curl, and arms at comfortable angles with your elbows close to your body.

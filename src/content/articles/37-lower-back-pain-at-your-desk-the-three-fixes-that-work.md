@@ -24,6 +24,10 @@ Long hours at a desk amplify small discomforts into chronic pain. The lower back
 
 If these sound familiar, you’re not alone—and the good news is that reasonable, targeted adjustments can help a lot. Let’s look closer at three fixes that really work.
 
+
+
+> **See also:** [How to Set Up a Home Office for Back Pain Prevention](https://chairwise.app/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+
 ## Fix #1: Optimizing Chair Fit (Seat Depth and Lumbar Adjustability)
 
 **Why it matters:**

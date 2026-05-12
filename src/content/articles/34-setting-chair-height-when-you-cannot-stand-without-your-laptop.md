@@ -18,6 +18,10 @@ Correct chair height is essential for maintaining neutral joint angles, supporti
 
 When you cannot stand to test your chair height—due to mobility limitations, balance concerns, or reliance on your laptop for support—it's critical to use alternative methods. These strategies emphasize seated body measurements, pressure distribution, and leverage ergonomic adjustments like seat depth and lumbar support.
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## How to Set Chair Height Without Standing: Step-by-Step Guide
 
 ### Step 1: Use Your Feet as a Reference — The Flat Foot Test

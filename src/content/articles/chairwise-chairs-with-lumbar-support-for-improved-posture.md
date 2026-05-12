@@ -18,6 +18,10 @@ In this article, we’ll explore what lumbar support means in ergonomic chairs, 
 
 ---
 
+
+
+> **See also:** [Improving Posture with Ergonomic Home Office Furniture](https://chairwise.app/articles/improving-posture-with-ergonomic-home-office-furniture/)
+
 ## What is Lumbar Support and Why It Matters
 
 Lumbar support refers to the part of the chair that supports the inward curve of your lower spine, the lumbar lordosis. Without proper support, your lower back tends to flatten against the chairback or curve unnaturally, causing muscle strain and spinal stress.

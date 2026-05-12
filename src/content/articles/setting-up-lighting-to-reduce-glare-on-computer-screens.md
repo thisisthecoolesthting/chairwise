@@ -24,6 +24,10 @@ Glare is unwanted brightness that interferes with your ability to see your compu
 
 Knowing which type affects you most will guide your lighting choices and desk orientation.
 
+
+
+> **See also:** [How Proper Lighting Influences Cognitive Performance at Work](https://chairwise.app/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
+
 ## How Lighting Setups Affect Glare
 
 Your lighting configuration should aim to minimize direct light hitting your screen or your eyes while providing adequate ambient light to reduce eye strain. This balance can be tricky because too dim a room causes the eyes to constantly adjust, and too bright causes reflection problems.

@@ -26,6 +26,10 @@ Both brands have prided themselves on:
 
 After three years, however, the nuances of design—like ergonomics, motor longevity, and customizable features—become more evident. So how do they stack up when you're facing a full workday and demanding ergonomic needs?
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## How They Work: Adjustability and Ergonomics
 
 Both desks operate with dual motors, allowing height changes between approximately 24.5 to 50 inches. This range generally covers sitting and standing heights for people from roughly 5’ to 6’4”. However, small differences in frame design affect the precision and feel of ergonomic fit:

@@ -16,6 +16,10 @@ If your desk feels cramped and cluttered despite having a decent-sized workspace
 
 A monitor arm is an adjustable mounting device that attaches to your desk or wall to hold your monitor off the desktop surface. Unlike fixed monitor stands, arms offer height, tilt, swivel, and sometimes rotation adjustments, enabling you to place your screen exactly where it’s comfortable for your eyes and posture. This flexibility supports better ergonomics, reducing neck and eye strain, and freeing up valuable desk real estate.
 
+
+
+> **See also:** [Monitor Arm Cable Management Solutions for a Tidy Workspace](https://chairwise.app/articles/monitor-arm-cable-management-solutions-for-a-tidy-workspace/)
+
 ## How Monitor Arm Installation Works
 
 Most monitor arms mount to your desk via one of two methods:

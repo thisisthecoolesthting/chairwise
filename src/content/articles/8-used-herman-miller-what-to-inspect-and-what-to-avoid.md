@@ -18,6 +18,10 @@ Herman Miller chairs, known for their innovative ergonomic design and high-quali
 
 Buying used allows you to access these features at a discount but also requires much more careful inspection to ensure these benefits remain intact after previous use.
 
+
+
+> **See also:** [10. Gaming chairs vs office chairs: what you are actually buying](https://chairwise.app/articles/10-gaming-chairs-vs-office-chairs-what-you-are-actually-buying/)
+
 ## What to Inspect: Key Fit and Functional Features
 
 When evaluating a used Herman Miller chair, focus on fit adjustments and comfort features that directly impact prolonged sitting:

@@ -25,6 +25,10 @@ Daylight-mimicking lamps are designed to recreate the spectrum and intensity of 
 
 These features collectively aim to sync better with your body's natural rhythms, boosting serotonin production during the day and enhancing alertness and mood.
 
+
+
+> **See also:** [Impact of Workspace Lighting Color Temperature on Productivity](https://chairwise.app/articles/impact-of-workspace-lighting-color-temperature-on-productivity/)
+
 ## How It Works: The Science Behind Daylight Simulation
 
 The key to daylight-mimicking lamps lies in their spectral power distribution—the range and intensity of wavelengths they emit. Unlike standard indoor lighting, which often peaks in the yellow/orange parts of the spectrum, these lamps emit light rich in short-wavelength blue light. This blue light stimulates the intrinsically photosensitive retinal ganglion cells (ipRGCs) in the eye, which influence the suprachiasmatic nucleus (SCN) — your body's master circadian clock.

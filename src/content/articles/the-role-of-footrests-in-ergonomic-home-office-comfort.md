@@ -20,6 +20,10 @@ If your feet don’t rest flat on the floor, or if your chair height doesn’t a
 
 For shorter individuals or those with height-adjustable desks that raise the work surface significantly, footrests fill the gap between the floor and feet. They’re also useful for anyone wanting to change posture throughout the workday by elevating or angling their feet.
 
+
+
+> **See also:** [Chairwise Chairs with Lumbar Support for Improved Posture](https://chairwise.app/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+
 ## How Footrests Work in an Ergonomic Setup
 
 The key to effective footrest use is measured fit and adjustability. Here’s what to consider in the context of long-term comfort during 8+ hour workdays:

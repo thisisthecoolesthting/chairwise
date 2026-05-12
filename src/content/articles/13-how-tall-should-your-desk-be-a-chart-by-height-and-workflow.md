@@ -16,6 +16,10 @@ If you spend 8+ hours a day at your desk, the wrong desk height can lead to disc
 
 ---
 
+
+
+> **See also:** [Setting Up a Monitor at Eye Level for Neck Health](https://chairwise.app/articles/setting-up-a-monitor-at-eye-level-for-neck-health/)
+
 ## What Is the Ideal Desk Height?
 
 Desk height isn’t a fixed number; it is a dynamic measure relative to your body, especially your seated elbow height. Proper ergonomics means your forearms rest comfortably on the desk with shoulders relaxed, wrists in a neutral position, and feet flat on the floor or on a footrest. Correct desk height minimizes pressure points and supports good posture over an 8-hour workday.

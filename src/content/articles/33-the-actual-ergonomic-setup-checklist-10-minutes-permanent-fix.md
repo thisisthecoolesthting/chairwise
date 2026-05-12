@@ -18,6 +18,10 @@ An ergonomic setup checklist is a step-by-step guide to arranging your workstati
 
 This checklist isn’t about buying the fanciest gear but about configuring what you have—or calibrating your next purchase—to fit your body and work style precisely.
 
+
+
+> **See also:** [Maximizing Workspace Productivity with Chairwise Ergonomic Solutions](https://chairwise.app/articles/maximizing-workspace-productivity-with-chairwise-ergonomic-solutions/)
+
 ## How it works: key principles to frame your setup
 
 Before digging into specific steps, keep in mind these foundational ergonomic concepts:

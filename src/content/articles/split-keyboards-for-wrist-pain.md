@@ -30,6 +30,10 @@ Through clinical testing with 42 participants (programmers, writers, and data en
 
 Our testing revealed that body proportions dramatically affect which type works best. For example, participants with torso-to-arm ratios below 0.85 (indicating relatively longer arms) needed at least 15" of separation to achieve proper shoulder alignment, while those with ratios above 1.0 benefited most from aggressive tenting angles.
 
+
+
+> **See also:** [Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day Testing)](https://chairwise.app/articles/split-keyboard-for-wrist-pain/)
+
 ## Why This Matters
 
 Wrist pain from typing isn't just discomfort - it's the first stage of potentially career-limiting conditions like carpal tunnel syndrome, tendinitis, or De Quervain's tenosynovitis. The average office worker makes 200,000+ keystrokes weekly, and each mistimed impact sends vibration waves through your carpal tunnel at forces up to 3.5N per keystroke.

@@ -18,6 +18,10 @@ In this article, we’ll explore why most chair reviews fall short for tall, sho
 
 ---
 
+
+
+> **See also:** [7. The best budget ergonomic chair under 250 dollars across six body types](https://chairwise.app/articles/7-the-best-budget-ergonomic-chair-under-250-dollars-across-six-body-types/)
+
 ## What Most Chair Reviews Miss
 
 ### The Problem with Generic Reviews

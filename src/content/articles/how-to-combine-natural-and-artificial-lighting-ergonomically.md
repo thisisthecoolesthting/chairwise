@@ -23,6 +23,10 @@ Ergonomics in lighting refers to adjusting and balancing light sources to optimi
 
 Natural light offers full-spectrum illumination and biological benefits but varies unpredictably. Artificial lighting provides consistency and control but can fall short on quality and cause flicker or glare issues. Smartly combining both can create an ideal environment for desk work.
 
+
+
+> **See also:** [Optimal Lighting Solutions to Enhance Workspace Productivity](https://chairwise.app/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+
 ## How It Works: Key Principles of Combining Natural and Artificial Lighting
 
 1. **Maximize Daylight Without Direct Glare**  

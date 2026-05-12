@@ -22,6 +22,10 @@ Comfortable typing that reduces wrist strain is less about flashy features and m
 - **Adjustability:** Tilt and height adjustments that let you find the sweet spot for your desk setup.
 - **Build Quality and Size:** Compact keyboards reduce reach and awkward hand placement, while durable construction endures daily use without other ergonomic features breaking or sagging.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Keyboard for Typing Comfort](https://chairwise.app/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+
 ## How Ergonomic Keyboards Reduce Wrist Strain
 
 The typical flat keyboard forces your hands and wrists to remain in an unnatural position, often bent outward (ulnar deviation) and with pressure on the carpal tunnel. Ergonomic keyboards aim to:

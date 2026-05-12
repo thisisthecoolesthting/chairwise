@@ -57,6 +57,10 @@ If your chair has a headrest, position it so it supports the base of your skull 
 
 ---
 
+
+
+> **See also:** [How to Set Up an Ergonomic Standing Desk at Home](https://chairwise.app/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
 ## Measuring Fit vs. Marketing Claims: What Really Matters?
 
 | Feature               | Marketing Emphasis                           | Practical Considerations                       | Realistic 8-Hour Comfort Impact                   |

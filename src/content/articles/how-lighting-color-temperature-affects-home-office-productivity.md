@@ -18,6 +18,10 @@ This article explores what lighting color temperature is, how it impacts product
 
 ---
 
+
+
+> **See also:** [Impact of Workspace Lighting Color Temperature on Productivity](https://chairwise.app/articles/impact-of-workspace-lighting-color-temperature-on-productivity/)
+
 ## What is Lighting Color Temperature?
 
 Color temperature is a way to describe the appearance of light provided by a bulb or fixture. It is measured in Kelvin (K) and typically ranges between 1,000K (very warm, orange/red light) to 10,000K (very cool, blue light).

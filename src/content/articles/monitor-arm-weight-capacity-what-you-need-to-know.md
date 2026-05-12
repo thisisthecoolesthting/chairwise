@@ -16,6 +16,10 @@ If you’ve ever bought a monitor arm only to find your screen drooping, bouncin
 
 ---
 
+
+
+> **See also:** [25. External displays for laptop users: 24 vs 27 vs 32 inches](https://chairwise.app/articles/25-external-displays-for-laptop-users-24-vs-27-vs-32-inches/)
+
 ## What Is Monitor Arm Weight Capacity?
 
 Monitor arm weight capacity refers to the maximum weight that a monitor mount can safely hold and support while maintaining its stability and functionality. It is usually specified in pounds (lbs) or kilograms (kg) and provided in the product specifications by the manufacturer.

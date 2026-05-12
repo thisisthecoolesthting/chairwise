@@ -20,6 +20,10 @@ Electric desks use motors activated by buttons to raise or lower the desktop sur
 
 Both systems replace traditional fixed-height desks, allowing users to alternate between sitting and standing to reduce sedentary time and improve posture. But their mechanisms and user experience differ significantly.
 
+
+
+> **See also:** [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](https://chairwise.app/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)
+
 ## How Electric Desks Work
 
 Electric desks contain one or two electric motors housed in the frame, connected to a control panel usually featuring up/down buttons and sometimes programmable height presets. Pressing a button activates the motors, which raise or lower the desk smoothly with little user effort. The motors draw power from a wall outlet.

@@ -18,6 +18,10 @@ Standing desks are work surfaces designed to allow you to stand while working, e
 
 However, the effectiveness of standing desks depends on several ergonomic factors—not just standing alone—such as the desk height, monitor placement, and your ability to adjust and maintain good posture.
 
+
+
+> **See also:** [Using Standing Desks to Boost Calorie Burn and Energy Levels](https://chairwise.app/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)
+
 ## The Science Behind Standing Desks and Productivity
 
 ### Reduced Sedentary Time and Its Impact

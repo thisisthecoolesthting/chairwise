@@ -24,6 +24,10 @@ Color temperature refers to the hue of a light source, expressed in degrees Kelv
 
 The color temperature you choose impacts how your eyes and brain interpret the environment, influencing alertness, mood, and focus.
 
+
+
+> **See also:** [How Lighting Color Temperature Affects Home Office Productivity](https://chairwise.app/articles/how-lighting-color-temperature-affects-home-office-productivity/)
+
 ## How Workspace Lighting Color Temperature Affects Productivity
 
 ### Biological and Psychological Impacts

@@ -16,6 +16,10 @@ If you’re dealing with persistent lower back pain or discomfort from sitting a
 
 ---
 
+
+
+> **See also:** [Ergonomic Chair Features to Look for in 2024](https://chairwise.app/articles/ergonomic-chair-features-to-look-for-in-2024/)
+
 ## What Is a Kneeling Chair?
 
 A kneeling chair is an alternative ergonomic seating solution designed to redistribute weight and promote a more open hip angle than traditional chairs. Instead of sitting with your hips at about 90 degrees, a kneeling chair positions your thighs at an angle closer to 60–70 degrees, with your shins resting on angled pads. This posture aims to reduce the pressure on your lumbar spine by tilting the pelvis forward and encouraging a natural S-curve in the lower back.

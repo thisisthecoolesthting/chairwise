@@ -16,6 +16,10 @@ Ergonomic chairs promise comfort and health benefits, but users of significantly
 
 Ergonomic chair adjustments refer to the chair’s customizable features that accommodate different body dimensions and working postures. These typically include seat height, seat depth, lumbar support height and firmness, armrest height and travel, backrest tilt and tension, and sometimes headrest position. Each adjustment helps tailor the chair to fit your unique body shape and size, aligning your spine, reducing pressure points, and supporting efficient movement throughout the day.
 
+
+
+> **See also:** [Choosing Chairwise Chairs to Prevent Neck and Shoulder Pain](https://chairwise.app/articles/choosing-chairwise-chairs-to-prevent-neck-and-shoulder-pain/)
+
 ## How Ergonomic Adjustments Work for Different Heights
 
 ### 1. Seat Height Adjustment

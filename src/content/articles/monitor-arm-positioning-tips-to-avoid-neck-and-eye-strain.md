@@ -16,6 +16,10 @@ If you spend long hours at your desk staring at a monitor, you’ve likely exper
 
 ---
 
+
+
+> **See also:** [Setting Up a Monitor at Eye Level for Neck Health](https://chairwise.app/articles/setting-up-a-monitor-at-eye-level-for-neck-health/)
+
 ## What Is Monitor Arm Positioning and Why It Matters
 
 Monitor arm positioning refers to adjusting the height, distance, tilt, and rotation of your computer screen using an adjustable mount or arm rather than a fixed stand. This versatility enables you to fine-tune the screen’s location according to your body’s unique dimensions and workspace layout.

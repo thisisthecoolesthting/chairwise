@@ -23,6 +23,10 @@ Many ergonomic experts recommend that when you sit upright with good posture:
 
 This positioning allows your neck muscles to stay in a natural, balanced position instead of being strained by holding your head up or down.
 
+
+
+> **See also:** [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](https://chairwise.app/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+
 ## Why Eye-Level Monitor Setup Is Key for Neck Health
 
 Humans have a limited range of comfortable motion for their neck. When your monitor is too low, you tend to flex your neck forward, placing stress on the cervical spine and surrounding muscles. This forward head posture can lead to "tech neck," characterized by stiffness, soreness, and headaches. Conversely, if the screen is too high, you might extend your neck backward, which also causes discomfort and fatigue over long periods.

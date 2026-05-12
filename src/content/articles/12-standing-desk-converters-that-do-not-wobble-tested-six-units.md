@@ -16,6 +16,10 @@ If you’ve ever tried a standing desk converter, you know how frustrating it ca
 
 ---
 
+
+
+> **See also:** [Standing Desk Converters for Transitioning Between Sitting and Standing](https://chairwise.app/articles/standing-desk-converters-for-transitioning-between-sitting-and-standing/)
+
 ## What Is a Standing Desk Converter?
 
 A standing desk converter is a platform placed on top of a traditional desk that allows you to quickly shift between sitting and standing positions by raising and lowering the work surface. They range from simple lifts to advanced models with multiple tiers for monitors, keyboards, and accessories. The goal is to improve posture, reduce sedentary time, and enhance comfort without needing to buy a full adjustable desk.

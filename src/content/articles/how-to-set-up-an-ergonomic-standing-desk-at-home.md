@@ -18,6 +18,10 @@ Standing desks promise better health and focus, but without thoughtful setup, yo
 
 ---
 
+
+
+> **See also:** [24. How to set up a laptop-only home office ergonomically](https://chairwise.app/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+
 ## Step 1: Choose the Right Desk with Adjustable Height Range
 
 Standing desks come at various price points and adjustability levels. The goal is to find one that fits your body both sitting and standing.

@@ -30,6 +30,10 @@ Some keyboards integrate sound-dampening foam, silicone mats under keys, or O-ri
 
 A sturdy build with minimal flex prevents unwanted sounds from creaking, rattling, or amplification. The type of case material (metal versus plastic) also affects resonance.
 
+
+
+> **See also:** [Mechanical vs Membrane Keyboards for Office Efficiency](https://chairwise.app/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)
+
 ## How to Assess Keyboard Quietness Beyond Marketing Claims
 
 Retail specs or product pages often label keyboards “quiet” based on isolated features or non-standardized tests. The real test is how the keyboard performs during sustained typing under your typical workload.

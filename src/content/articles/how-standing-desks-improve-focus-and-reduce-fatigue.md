@@ -18,6 +18,10 @@ A standing desk is a workstation setup designed to allow you to work while stand
 
 Unlike traditional desks paired with ergonomic chairs, standing desks change the static posture paradigm that often contributes to fatigue and poor blood flow.
 
+
+
+> **See also:** [Impact of Natural Lighting on Workplace Wellness and Output](https://chairwise.app/articles/impact-of-natural-lighting-on-workplace-wellness-and-output/)
+
 ## How Standing Desks Improve Focus and Reduce Fatigue
 
 Standing desks influence the body and mind in several connected ways:

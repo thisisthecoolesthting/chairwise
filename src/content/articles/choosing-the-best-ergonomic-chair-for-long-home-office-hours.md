@@ -27,6 +27,10 @@ Ergonomic chairs aim to reduce musculoskeletal strain and improve posture by sup
 
 - **Armrest 4D Travel (Height, Width, Depth, Pivot):** Proper arm support offloads strain from neck and shoulders. Armrests that adjust only for height often force awkward shoulder positions. Armrests should also move sideways (width), forwards and backward (depth), and be capable of pivoting to align with your typing and mouse movements.
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## How Pressure Mapping Reveals True Comfort
 
 Pressure mapping is a tool designers and reviewers use to measure how body weight distributes on the chair surface. Peaks of high pressure can indicate areas causing discomfort or impairing blood flow over time. While average users won’t have access to pressure mapping technology, keeping its results in mind can help guide your choices:

@@ -18,6 +18,10 @@ Laptop screens typically range from 13 to 17 inches, and while portable, they ar
 
 The most popular external display sizes for laptop users wanting a desktop experience are 24, 27, and 32 inches. Each size offers a distinct balance of screen space, pixel density (sharpness), and workspace footprint.
 
+
+
+> **See also:** [Adjustable Lighting Solutions for a Comfortable Home Office](https://chairwise.app/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)
+
 ## How Screen Size Impacts Ergonomics and Usability
 
 ### Viewing Distance and Angle

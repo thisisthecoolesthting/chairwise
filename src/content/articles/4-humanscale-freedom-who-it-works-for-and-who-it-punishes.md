@@ -16,6 +16,10 @@ If you spend eight or more hours a day at your desk, choosing the right ergonomi
 
 ---
 
+
+
+> **See also:** [Choosing the Best Ergonomic Office Chair for Lower Back Support](https://chairwise.app/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
+
 ## What is the Humanscale Freedom Chair?
 
 The Humanscale Freedom is designed with simplicity and user-friendly ergonomics in mind. It features a self-locking recline mechanism that adjusts automatically to your body weight, a contoured, foam-padded seat, and an adjustable headrest. Unlike chairs that require manual tension control and multiple levers, the Freedom aims to provide a “set it and forget it” comfort experience.

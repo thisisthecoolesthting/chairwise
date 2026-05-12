@@ -25,6 +25,10 @@ Key features impacting spinal health include:
 - **Pressure-distributing seat cushions**
 - **Tilt mechanisms promoting a healthy angle**
 
+
+
+> **See also:** [10. Gaming chairs vs office chairs: what you are actually buying](https://chairwise.app/articles/10-gaming-chairs-vs-office-chairs-what-you-are-actually-buying/)
+
 ## How It Works: Features that Support Your Spine in Detail
 
 ### 1. Adjustable Seat Depth

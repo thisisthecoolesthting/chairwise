@@ -24,6 +24,10 @@ However, not all split keyboards are created equal. Differences in fit—like se
 
 ---
 
+
+
+> **See also:** [Mechanical vs Membrane Keyboards for Office Efficiency](https://chairwise.app/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)
+
 ## Comparing the Moonlander, Dygma Defy, and ZSA Voyager
 
 Instead of hype, let’s focus on measurable ergonomic and usability features: adjustable tenting, thumb cluster arrangement, key layout options, programmability, and build quality. These three are among the most regarded for their customizability, but each with trade-offs.

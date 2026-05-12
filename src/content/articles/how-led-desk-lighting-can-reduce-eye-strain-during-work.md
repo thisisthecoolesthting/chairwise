@@ -16,6 +16,10 @@ Many desk workers experience persistent eye strain after long hours of staring a
 
 LED desk lighting refers to task lights using light-emitting diodes (LEDs) designed specifically for desks or work surfaces. Unlike traditional incandescent or fluorescent bulbs, LEDs produce light more efficiently, with less heat, and offer greater control over brightness and color temperature. Good LED desk lights provide focused, adjustable illumination directly onto your work area, which helps reduce eye fatigue by minimizing glare, enhancing contrast, and maintaining consistent light levels during long work hours.
 
+
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
 ## How LED Desk Lighting Works to Reduce Eye Strain
 
 Eye strain usually arises from a combination of factors: insufficient or excessive lighting, glare, poor contrast, and the extended focus required for close-up tasks. LED desk lamps address these by:

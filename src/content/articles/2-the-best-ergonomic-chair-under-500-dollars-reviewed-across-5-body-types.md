@@ -21,6 +21,10 @@ Affordability often means compromises, but price shouldn’t equal a painful bac
 - **Pressure Mapping:** Real-world sitting pressure distribution shows if a chair supports or pinches key body areas over hours of wear.
 - **Build Quality & Material Breathability:** Durability for heavy daily use and fabric or mesh that promotes airflow.
 
+
+
+> **See also:** [7. The best budget ergonomic chair under 250 dollars across six body types](https://chairwise.app/articles/7-the-best-budget-ergonomic-chair-under-250-dollars-across-six-body-types/)
+
 ## The 5 Body Types We Considered
 
 1. **Petite frames** (under 5’4” and 110 lbs): Typically need shorter seat depth, lower lumbar height, and narrower armrest width.

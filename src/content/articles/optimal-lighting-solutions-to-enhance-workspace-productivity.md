@@ -133,3 +133,5 @@ Taking the time to measure, test, and adjust your lighting setup will pay divide
 
 **Q: Is a desk lamp necessary if my room has overhead lighting?**  
 **A:** Yes. Overhead lighting alone often creates shadows, glare, or insufficient brightness for tasks. A flexible desk lamp allows precise control where you need it most.
+
+> **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)

@@ -26,6 +26,10 @@ Key findings after 60+ days:
 - Height-adjustable keyboard trays matter more than desk price for wrist health, reducing strain compared to fixed-height setups
 - The ideal transition period between sitting and standing is 5–7 minutes—abrupt changes caused balance issues in some participants over age 45
 
+
+
+> **See also:** [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
+
 ## Why this matters
 
 Chronic sitting compresses lumbar discs while reducing calorie burn to near-resting levels. But standing all day risks varicose veins and plantar fasciitis. The sweet spot? Alternating every 30–60 minutes with a desk that stays stable at typing height. Most $200–300 "budget" desks wobble noticeably—a dealbreaker for tall users needing 44" positions. Meanwhile, overbuilt $1,200 models like the [Fully Jarvis Bamboo](https://www.amazon.com/dp/B07C11YW88?tag=chairwise-20) offer minimal ergonomic gains over mid-range options.

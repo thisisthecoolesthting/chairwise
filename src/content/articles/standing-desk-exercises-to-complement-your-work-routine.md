@@ -16,6 +16,10 @@ Standing desks are increasingly popular among desk workers looking to reduce sed
 
 Standing desk exercises are movements performed while at your standing workstation that promote blood flow, engage core muscles, support posture, and alleviate tension caused by prolonged standing or static postures. These exercises typically involve dynamic stretches, balance challenges, and low-impact strength work, all without requiring special equipment or leaving your workspace. Their core goal is to break up long periods of static positioning—whether sitting or standing—with short bursts of motion.
 
+
+
+> **See also:** [18. Anti-fatigue mats for standing desks ranked by back effect](https://chairwise.app/articles/18-anti-fatigue-mats-for-standing-desks-ranked-by-back-effect/)
+
 ## Why You Need Them If You Use a Standing Desk
 
 A standing desk alone won’t automatically solve all ergonomics issues. Prolonged standing can strain your calves, knees, lower back, and feet. Standing still engages fewer muscles than walking or moving around, leading to fatigue and discomfort. Moreover, improper fit of your standing desk setup—such as incorrect desk height, lack of lumbar support from a proper chair during sitting breaks, or absence of adjustable armrests—can exacerbate strain.

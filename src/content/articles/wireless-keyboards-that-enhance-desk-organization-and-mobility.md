@@ -21,6 +21,10 @@ A wireless keyboard removes the physical cable connecting your keyboard to your 
 
 Beyond just removing cables, these keyboards can be designed with form factors, layouts, and connectivity features that directly support better desk organization and increased freedom of movement — whether you’re switching between multiple devices, working from varied locations, or even standing at your desk.
 
+
+
+> **See also:** [Choosing Keyboards with Backlighting for Low-Light Workspaces](https://chairwise.app/articles/choosing-keyboards-with-backlighting-for-low-light-workspaces/)
+
 ## How Wireless Keyboards Improve Desk Organization and Mobility
 
 Wireless keyboards offer practical benefits that impact how your workspace functions daily:

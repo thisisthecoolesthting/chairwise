@@ -27,6 +27,10 @@ Key fitting concerns for tall users include:
   
 Now let’s unpack how the Titan Evo and Embody address these points.
 
+
+
+> **See also:** [Ergonomic Chair Adjustments for Users of Different Heights](https://chairwise.app/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+
 ## Secretlab Titan Evo Overview
 
 The Secretlab Titan Evo is marketed as a gaming chair with premium ergonomics, blending aesthetics with adjustability. Its build targets a tall demographic, offering three sizes of the chair (Small, Regular, XL), making it accessible to users up to 6'10" and 290 lbs in the XL variant.

@@ -16,6 +16,10 @@ If you spend long hours at your desk and find yourself struggling to get the per
 
 ---
 
+
+
+> **See also:** [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](https://chairwise.app/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+
 ## What Are Monitor Arms with Swivel and Tilt?
 
 A monitor arm is an adjustable mounting system that replaces the traditional monitor stand, allowing you to reposition your screen with ease. Swivel and tilt are two fundamental movement features:

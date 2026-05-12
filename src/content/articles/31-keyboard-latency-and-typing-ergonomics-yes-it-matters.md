@@ -16,6 +16,10 @@ If you spend long hours at your desk typing, you might not realize how keyboard 
 
 ---
 
+
+
+> **See also:** [Choosing the Best Ergonomic Keyboard for Typing Comfort](https://chairwise.app/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+
 ## What Is Keyboard Latency?
 
 Keyboard latency, sometimes called input lag, is the time interval between when a key is physically pressed and when the corresponding character or action registers on your computer screen. This delay is measured in milliseconds (ms). High latency can be a few tens of milliseconds or more, while low-latency keyboards operate at under 5 ms, often imperceptible to the average typist.

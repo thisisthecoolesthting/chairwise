@@ -16,6 +16,10 @@ If you spend hours at a desk, the last thing you want is wrist pain from using y
 
 ---
 
+
+
+> **See also:** [Ergonomic Keyboard Accessories to Enhance Typing Posture](https://chairwise.app/articles/ergonomic-keyboard-accessories-to-enhance-typing-posture/)
+
 ## What is Mouse Sensitivity and Why Does it Matter for Wrist Health?
 
 Mouse sensitivity refers to the ratio between your physical hand movement and the movement of the cursor on your computer screen. It’s sometimes described as DPI (dots per inch) or pointer speed. A higher sensitivity setting means small hand movements translate into large cursor movements; lower sensitivity settings require larger hand motions for the same cursor travel.

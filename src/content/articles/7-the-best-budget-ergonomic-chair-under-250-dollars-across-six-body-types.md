@@ -31,6 +31,10 @@ Many budget chairs advertise “ergonomic” features but offer limited adjustab
 
 ---
 
+
+
+> **See also:** [2. The best ergonomic chair under 500 dollars reviewed across 5 body types](https://chairwise.app/articles/2-the-best-ergonomic-chair-under-500-dollars-reviewed-across-5-body-types/)
+
 ## The Best Budget Ergonomic Chairs Under $250 Across Six Body Types
 
 The six body types considered here are:

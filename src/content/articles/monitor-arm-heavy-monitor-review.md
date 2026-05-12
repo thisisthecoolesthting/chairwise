@@ -220,6 +220,10 @@ Mid-range chairs ($400–$800) use class-3 or class-4 cylinders, 2.2+ lb foam, a
 
 
 
+
+
+> **See also:** [Top Monitor Arms for Heavy Monitors: Stability and Flexibility](https://chairwise.app/articles/monitor-arms-for-heavy-monitors/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
