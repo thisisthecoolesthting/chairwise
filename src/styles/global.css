@@ -64,7 +64,23 @@
     @apply rounded-3xl overflow-hidden bg-cream-200;
   }
 
+  
+  .amazon-inline-link {
+    @apply font-medium text-terracotta-700 no-underline hover:underline;
+  }
+
+  .product-link-pair {
+    @apply inline-flex flex-wrap items-baseline gap-x-2 gap-y-1 align-baseline my-1;
+  }
+
   .amazon-cta-inline {
+    @apply inline-flex items-center gap-1 px-3 py-0.5 rounded-full
+           bg-terracotta-500 text-white text-xs md:text-sm font-semibold no-underline
+           shadow-soft whitespace-nowrap align-middle leading-tight
+           hover:bg-terracotta-600 hover:shadow-soft-lg hover:no-underline
+           transition-all duration-200;
+  }
+.amazon-cta-inline {
     @apply inline-flex items-center gap-1 ml-2 px-3 py-1 rounded-full
            bg-terracotta-500 text-white text-sm font-medium no-underline
            shadow-soft align-middle
@@ -108,6 +124,24 @@
 }
 
 @layer utilities {
+  /* Wave 0 — hero headline readability (affiliate fleet) */
+  .hero-scrim-strong {
+    background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.82) 0%,
+      rgba(0, 0, 0, 0.68) 42%,
+      rgba(0, 0, 0, 0.38) 100%
+    );
+  }
+  .hero-headline-safe {
+    color: #ffffff !important;
+    text-shadow:
+      0 2px 24px rgba(0, 0, 0, 0.88),
+      0 1px 4px rgba(0, 0, 0, 0.95);
+  }
+  .trust-word {
+    @apply text-ink-900;
+  }
   .shadow-soft {
     box-shadow:
       0 1px 2px rgba(42, 36, 34, 0.04),
@@ -121,5 +155,9 @@
 
   .rounded-blob {
     border-radius: 2.5rem 2.5rem 3.5rem 3.5rem / 2rem 2rem 3rem 3rem;
+  }
+
+  .prose h1, .prose h2, article h1, article h2, main article h1, main article h2 {
+    @apply text-ink-900;
   }
 }

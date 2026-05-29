@@ -5,12 +5,12 @@ metaTitle: 'Standing Desk vs Chair: The Ultimate Ergonomic Choice | ChairWise'
 ogTitle: 'Standing Desk vs Chair: Settled by Real Testing'
 ogDescription: '7 standing desks, 7 chairs tested 60+ days. Alternating every 30-45 minutes outperforms either alone. Complete cost-benefit analysis with body type data.'
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: 'We tested 14 workstations (7 standing desks, 7 chairs) for 60+ days with   different body types. Here's which setup reduces back pain, boosts productivity,   and justifies its price tag—with specific model recommendations at every budget.'
+excerpt: 'We tested 14 workstations (7 standing desks, 7 chairs) for 60+ days with   different body types. Here''s which setup reduces back pain, boosts productivity,   and justifies its price tag—with specific model recommendations at every budget.'
 pillarSlug: 'standing-desks'
 status: 'published'
 heroImage: '/images/hero/standing-desk-vs-chair.jpg'
 cardTitle: 'Stop Neck Pain: Why Monitor Arms Beat Standing Desks'
-cardPick: 'Adjusts screen to eye level, eliminating strain that even expensive standing   desks can't fix alone.'
+cardPick: 'Adjusts screen to eye level, eliminating strain that even expensive standing   desks can''t fix alone.'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---

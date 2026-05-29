@@ -1,5 +1,6 @@
 ---
 import home from '@/data/spawn-home.json';
+import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 const b = home.brand;
 const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || b.taglineShort;
 const year = new Date().getFullYear();
@@ -33,6 +34,8 @@ const year = new Date().getFullYear();
           </ul>
         </div>
       </div>
+
+            <AffiliateDisclosure variant="footer" />
 
       <div class="mt-10 pt-6 border-t border-cream-200/70 text-center text-xs text-ink-500">
         &copy; {year} {b.fullName}. We may earn a commission from qualifying purchases.

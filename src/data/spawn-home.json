@@ -5,19 +5,19 @@
     "taglineShort": "Your chair is probably wrong for you.",
     "identity": {
       "palette": {
-        "primary": "#475569",
-        "accent": "#14B8A6",
-        "cream": "#F8FAFC",
-        "ink": "#0F172A"
+        "primary": "#1B4D6E",
+        "accent": "#8A4F2A",
+        "cream": "#F4EFE6",
+        "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Space Grotesk",
+        "display": "Fraunces",
         "body": "Inter",
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/chairwise.svg",
-        "svgPublicPath": "/brand/chairwise.svg",
+        "svgPath": "brand/chairwise-mark.png",
+        "svgPublicPath": "/brand/chairwise-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -28,7 +28,7 @@
       },
       "headerVariant": "minimal",
       "eyebrowText": "ERGONOMIC WORKSPACE REVIEWS",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap"
     }
   },
   "persona": {
@@ -65,7 +65,7 @@
     "ctaSecondaryLabel": "Build my workstation",
     "ctaSecondaryHref": "/pillars/workstation-builder",
     "trustLine": "We buy every product at retail. Test for 60 days minimum. Say skip it when we mean it. No manufacturer samples.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1611174743420-3d7df880ce32?w=1600&q=85"
+    "heroImageUrl": "/images/hero-chairwise.webp"
   },
   "about": {
     "headline": "Why ChairWise exists",

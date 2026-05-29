@@ -61,7 +61,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
           />
         </div>
         <div
-          class="absolute inset-0 bg-gradient-to-b from-black/95 via-black/98 to-black/40"
+          class="absolute inset-0 hero-scrim-strong"
           aria-hidden="true"
         ></div>
 
@@ -69,7 +69,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
           <p class="text-terracotta-600 font-semibold uppercase tracking-[0.18em] text-xs md:text-sm mb-5">
             {h.eyebrow}
           </p>
-          <h1 class="font-display text-4xl md:text-5xl text-white mb-5 leading-[1.08] drop-shadow-lg tracking-tight">
+          <h1 class="font-display text-4xl md:text-5xl hero-headline-safe mb-5 leading-[1.08] tracking-tight">
             {h.h1}
           </h1>
           <p class="text-base md:text-lg text-cream-50/90 max-w-[52ch] mx-auto leading-relaxed drop-shadow mb-7">
@@ -87,18 +87,18 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
     </div>
   </section>
 
-  <section class="py-10 md:py-14">
+  <section class="py-8 md:py-10">
     <div class="max-w-6xl mx-auto px-5">
       <div class="bg-white rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-12 md:py-14
                   grid md:grid-cols-3 gap-10 md:gap-6 text-center">
         <div class="px-4">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Honest</div>
+          <div class="trust-word text-3xl md:text-4xl font-display mb-3 leading-none">Honest</div>
           <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
             No sponsored reviews. We say skip it when we mean it.
           </p>
         </div>
         <div class="px-4 md:border-x border-cream-200/70">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Researched</div>
+          <div class="trust-word text-3xl md:text-4xl font-display mb-3 leading-none">Researched</div>
           <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
             {siteYmyl
               ? 'Peer-reviewed sources where they apply; we flag when evidence is limited.'
@@ -106,7 +106,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
           </p>
         </div>
         <div class="px-4">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Specific</div>
+          <div class="trust-word text-3xl md:text-4xl font-display mb-3 leading-none">Specific</div>
           <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
             Every recommendation tied to a specific problem at a specific price.
           </p>
@@ -146,7 +146,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
   )}
 
   {featured.length > 0 && (
-    <section class="py-10 md:py-14">
+    <section class="py-8 md:py-10">
       <div class="max-w-6xl mx-auto px-5">
         <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
           <div class="flex items-end justify-between mb-10">
@@ -194,7 +194,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
     </section>
   )}
 
-  <section class="py-10 md:py-14">
+  <section class="py-8 md:py-10">
     <div class="max-w-6xl mx-auto px-5">
       <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
         <div class="grid md:grid-cols-[auto,1fr] gap-8 md:gap-12 items-center max-w-3xl mx-auto">

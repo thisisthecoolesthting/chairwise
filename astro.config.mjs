@@ -3,9 +3,10 @@ import tailwind from '@astrojs/tailwind';
 
 const ASSOCIATE_TAG = process.env.PUBLIC_ASSOCIATE_TAG || 'chairwise-20';
 
+// Inline replacement for the missing ./shared/rehype-affiliate-enrich.mjs:
+// augments in-body /products/<asin>- links with an Amazon affiliate CTA.
 function rehypeAugmentProductLinks() {
   const productHrefRe = /^\/products\/([a-z0-9]+)-/i;
-
   function walk(node) {
     if (!node || !Array.isArray(node.children)) return;
     const out = [];
@@ -22,7 +23,6 @@ function rehypeAugmentProductLinks() {
           const asin = m[1].toUpperCase();
           const amazonHref =
             'https://www.amazon.com/dp/' + asin + '?tag=' + ASSOCIATE_TAG + '&linkCode=ll1';
-
           out.push({
             type: 'element',
             tagName: 'span',
@@ -38,7 +38,7 @@ function rehypeAugmentProductLinks() {
                   target: '_blank',
                   className: ['amazon-cta-inline'],
                 },
-                children: [{ type: 'text', value: 'Check on Amazon →' }],
+                children: [{ type: 'text', value: 'Check on Amazon \u2192' }],
               },
             ],
           });
@@ -50,7 +50,6 @@ function rehypeAugmentProductLinks() {
     }
     node.children = out;
   }
-
   return (tree) => walk(tree);
 }
 

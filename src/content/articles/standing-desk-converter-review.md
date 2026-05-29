@@ -5,7 +5,7 @@ metaTitle: 'Standing Desk Converter Review: Tested Workspace Solutions | ChairWi
 ogTitle: 'Standing Desk Converters: Budget-Friendly Testing'
 ogDescription: 'Testing proved $200 converters outperform $1,400 desks for certain body types. Stability under load, height range, durability data all tested.'
 publishedAt: '2026-04-28'
-excerpt: 'Standing desk converters promise a budget-friendly escape from all-day sitting,   but our 12-week testing revealed critical differences in stability, durability,   and ergonomic support. We pressure-mapped five popular models under $300 and identified   which ones cause postural strain after 6 months—and which one actually doesn't.'
+excerpt: 'Standing desk converters promise a budget-friendly escape from all-day sitting,   but our 12-week testing revealed critical differences in stability, durability,   and ergonomic support. We pressure-mapped five popular models under $300 and identified   which ones cause postural strain after 6 months—and which one actually doesn''t.'
 pillarSlug: 'standing-desk-solutions'
 status: 'published'
 heroImage: '/images/hero/standing-desk-converter-review.jpg'

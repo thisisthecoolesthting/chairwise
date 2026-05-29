@@ -5,12 +5,12 @@ metaTitle: 'Vertical Mouse for Tendonitis: Relief & Research Data | ChairWise'
 ogTitle: 'Vertical Mouse: Does It Really Help Tendonitis?'
 ogDescription: 'Pressure mapping tested forearm pronation angles. 3 of 5 vertical mice reduced RSI symptoms 64%. Grip diameter, weight distribution critical for relief.'
 publishedAt: '2026-04-28'
-excerpt: 'Vertical mice promise wrist relief, but most fail if they don't match your   tendonitis pattern. We tested 4 models across 8 hand sizes over 60 days to isolate   which angles and designs cut pain—and when a $30 trackball outperforms a $130 vertical   design.'
+excerpt: 'Vertical mice promise wrist relief, but most fail if they don''t match your   tendonitis pattern. We tested 4 models across 8 hand sizes over 60 days to isolate   which angles and designs cut pain—and when a $30 trackball outperforms a $130 vertical   design.'
 pillarSlug: 'ergonomic-accessories-guides'
 status: 'published'
 heroImage: '/images/hero/vertical-mouse-for-tendonitis.jpg'
 cardTitle: 'Best Ergonomic Chair for Wrist Pain Relief While Working'
-cardPick: 'Herman Miller Aeron's adjustable lumbar support and armrests reduce wrist   strain by promoting neutral spine alignment during long workdays.'
+cardPick: 'Herman Miller Aeron''s adjustable lumbar support and armrests reduce wrist   strain by promoting neutral spine alignment during long workdays.'
 subtopic: keyboards
 updatedAt: 2026-05-12
 ---

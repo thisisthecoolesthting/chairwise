@@ -3,7 +3,7 @@ title: 'The Best Ergonomic Chairs Under $500: Honest Reviews from an Occupationa
 metaDescription: 'Best ergonomic office chairs under $500: 37 models tested across 8 body types, 120+ hours. Lumbar support data, adjustability scores, durability ratings. No budget corners cut.'
 metaTitle: 'Ergonomic Chair Under $500: Lab-Tested Picks | ChairWise'
 ogTitle: 'Top Ergonomic Chairs Under $500 (Lab Tested)'
-ogDescription: 'Herman Miller Aeron beats 36 competitors in lumbar support. Testing across 5'2" to 6'7" showed mesh outperforms leather for breathability.'
+ogDescription: 'Herman Miller Aeron beats 36 competitors in lumbar support. Testing across 5''2" to 6''7" showed mesh outperforms leather for breathability.'
 publishedAt: '2026-04-28T00:00:00.000Z'
 excerpt: 'After testing 37 chairs across 8 body types and 120+ days of real-world use,   we recommend the best ergonomic office chairs under $500 for remote workers. Includes   detailed comparisons of lumbar support, seat adjustability, and long-term durability—plus   cost-per-day breakdowns.'
 pillarSlug: 'ergonomic-chair-reviews'

@@ -3,14 +3,14 @@ title: 'Herman Miller Aeron vs. Steelcase Leap: Which $1,000+ Chair Actually Fit
 metaDescription: 'Herman Miller Aeron vs Steelcase Leap: 60+ day head-to-head testing with pressure mapping. Lumbar support, adjustability, durability, cost per year analyzed.'
 metaTitle: 'Aeron vs Leap: Honest Chair Comparison by Real OT | ChairWise'
 ogTitle: 'Aeron vs Leap: Which Premium Chair Wins?'
-ogDescription: 'Aeron's 8Z lumbar matches more body types. Leap's flexible backrest adapts better for tall users. Testing across 8 body types reveals surprising winner.'
+ogDescription: 'Aeron''s 8Z lumbar matches more body types. Leap''s flexible backrest adapts better for tall users. Testing across 8 body types reveals surprising winner.'
 publishedAt: '2026-04-28'
 excerpt: 'We tested the Herman Miller Aeron and Steelcase Leap for 60+ days across   8 body types (5''2" to 6''4"). Here''s the honest breakdown: which chair actually   reduces back pain, who should buy mesh vs. foam, and whether either is worth $1,100–$1,500.'
 pillarSlug: 'ergonomic-chair-reviews'
 status: 'published'
 heroImage: '/images/hero/herman-miller-aeron-vs-steelcase-leap.jpg'
 cardTitle: 'Herman Miller Aeron vs. Steelcase Leap: Premium Chair Showdown'
-cardPick: 'Aeron's adjustable lumbar support and proven 12-year warranty solve chronic   back pain for desk-bound professionals.'
+cardPick: 'Aeron''s adjustable lumbar support and proven 12-year warranty solve chronic   back pain for desk-bound professionals.'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
