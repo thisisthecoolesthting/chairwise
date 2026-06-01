@@ -61,11 +61,38 @@
     "h1": "Your chair is wrong for you. Here's how to fix it.",
     "subhead": "Real-world reviews of ergonomic chairs, standing desks, monitor arms, split keyboards, and the small adjustments that stop the neck pain that started in 2020 and never went away. Tested across 8 body types, 3 working styles, 60-day minimum.",
     "ctaPrimaryLabel": "See top chairs",
-    "ctaPrimaryHref": "/pillars/ergonomic-chairs",
-    "ctaSecondaryLabel": "Build my workstation",
-    "ctaSecondaryHref": "/pillars/workstation-builder",
+    "ctaPrimaryHref": "/pillars/ergonomic-home-office-setup-guide",
+    "ctaSecondaryLabel": "Lumbar support guide",
+    "ctaSecondaryHref": "/pillars/lumbar-support-buyers-guide",
     "trustLine": "We buy every product at retail. Test for 60 days minimum. Say skip it when we mean it. No manufacturer samples.",
-    "heroImageUrl": "/images/hero-chairwise.webp"
+    "heroImageUrl": "/images/hero/home.jpg",
+    "comparePicks": [
+      {
+        "title": "NOUHAUS +Posture Ergonomic Rolling Office Chair",
+        "slug": "b07dfkbbmh-nouhaus-posture-ergonomic-chair",
+        "priceLabel": "$349.00",
+        "href": "/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/"
+      },
+      {
+        "title": "Kensington Memory Foam Seat Cushion with Non-Slip Base",
+        "slug": "b07ymd1zc2-kensington-memory-foam-seat-cushion",
+        "priceLabel": "$39.99",
+        "href": "/products/b07ymd1zc2-kensington-memory-foam-seat-cushion/"
+      },
+      {
+        "title": "VIVO Dual LCD Monitor Desk Mount Stand for Two Screens",
+        "slug": "b08cxrxwfg-vivo-dual-monitor-desk-mount",
+        "priceLabel": "$49.99",
+        "href": "/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/"
+      },
+      {
+        "title": "Autonomous ErgoChair Pro Ergonomic Office Chair",
+        "slug": "b08f4xlhln-autonomous-ergochair-pro",
+        "priceLabel": "$399.00",
+        "href": "/products/b08f4xlhln-autonomous-ergochair-pro/"
+      }
+    ],
+    "compareRowEnabled": true
   },
   "about": {
     "headline": "Why ChairWise exists",

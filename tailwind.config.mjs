@@ -27,6 +27,7 @@ export default {
         },
       },
       maxWidth: {
+        site: "72rem",
         prose: "68ch",
       },
             typography: {

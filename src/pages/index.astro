@@ -3,6 +3,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
+import HeroCompact from '@/components/HeroCompact.astro';
+import TrustStrip from '@/components/TrustStrip.astro';
 import home from '@/data/spawn-home.json';
 
 const h = home.homepage;
@@ -27,6 +29,22 @@ const featured = completeProducts
   .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
   .slice(0, 6);
 
+const compareRow = completeProducts
+  .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
+  .slice(0, 3);
+
+const dataStats = [
+  { num: '60', label: 'Day test minimum', sub: 'Retail purchase before publish.' },
+  { num: '8', label: 'Body types scored', sub: 'Height, weight, sitting style.' },
+  { num: `${completeProducts.length || '12'}+`, label: 'Gear reviewed', sub: 'Chairs, desks, arms, keyboards.' },
+];
+
+const trustItems = [
+  { label: 'Retail purchases only', icon: 'shield' as const },
+  { label: '60-day test standard', icon: 'clock' as const },
+  { label: 'No manufacturer samples', icon: 'ban' as const },
+];
+
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const featuredPillars = allPillars
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
@@ -49,71 +67,31 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
   title={b.fullName}
   description={dmeta}
 >
-  <section class="relative pt-6 md:pt-10">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="relative overflow-hidden rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft">
-        <div class="absolute inset-0">
-          <img
-            src={h.heroImageUrl}
-            alt=""
-            class="w-full h-full object-cover object-center"
-            loading="eager"
-          />
-        </div>
-        <div
-          class="absolute inset-0 hero-scrim-strong"
-          aria-hidden="true"
-        ></div>
+  <HeroCompact
+    eyebrow={h.eyebrow}
+    h1={h.h1}
+    subhead={h.subhead}
+    ctaPrimaryHref={h.ctaPrimaryHref}
+    ctaPrimaryLabel={h.ctaPrimaryLabel}
+    ctaSecondaryHref={h.ctaSecondaryHref}
+    ctaSecondaryLabel={h.ctaSecondaryLabel}
+    bullets={['Retail purchases only', '60-day test minimum', `${allArticles.length}+ articles`]}
+    stats={dataStats}
+    products={compareRow}
+    articleCount={allArticles.length}
+    gradient="bg-[radial-gradient(50%_80%_at_100%_0%,rgba(20,184,166,.16),transparent_55%),radial-gradient(40%_50%_at_0%_100%,rgba(71,85,105,.25),transparent_60%)]"
+    snapshot={{
+      panelLabel: 'Top ergonomic picks',
+      panelAriaLabel: 'Ergonomic workspace product snapshot',
+      trackedSuffix: 'reviews published',
+      footerNote: '8 body types · 3 work styles · skip-it when we mean it',
+      footerHref: '/pillars/standing-desk-transition-guide',
+      footerLinkText: 'Standing desk guide →',
+      productPlaceholder: 'Gear',
+    }}
+  />
 
-        <div class="relative max-w-4xl mx-auto px-6 py-12 md:py-16 text-center">
-          <p class="text-terracotta-600 font-semibold uppercase tracking-[0.18em] text-xs md:text-sm mb-5">
-            {h.eyebrow}
-          </p>
-          <h1 class="font-display text-4xl md:text-5xl hero-headline-safe mb-5 leading-[1.08] tracking-tight">
-            {h.h1}
-          </h1>
-          <p class="text-base md:text-lg text-cream-50/90 max-w-[52ch] mx-auto leading-relaxed drop-shadow mb-7">
-            {h.subhead}
-          </p>
-          <div class="flex flex-wrap justify-center gap-3">
-            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">{h.ctaPrimaryLabel}</a>
-            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">{h.ctaSecondaryLabel}</a>
-          </div>
-          <p class="mt-5 text-xs text-ink-500 uppercase tracking-[0.1em]">
-            {trustLineDisplay}
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="py-8 md:py-10">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="bg-white rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-12 md:py-14
-                  grid md:grid-cols-3 gap-10 md:gap-6 text-center">
-        <div class="px-4">
-          <div class="trust-word text-3xl md:text-4xl font-display mb-3 leading-none">Honest</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            No sponsored reviews. We say skip it when we mean it.
-          </p>
-        </div>
-        <div class="px-4 md:border-x border-cream-200/70">
-          <div class="trust-word text-3xl md:text-4xl font-display mb-3 leading-none">Researched</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            {siteYmyl
-              ? 'Peer-reviewed sources where they apply; we flag when evidence is limited.'
-              : 'Sources cited where they matter, with links you can check yourself.'}
-          </p>
-        </div>
-        <div class="px-4">
-          <div class="trust-word text-3xl md:text-4xl font-display mb-3 leading-none">Specific</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            Every recommendation tied to a specific problem at a specific price.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
+  <TrustStrip trustLine={trustLineDisplay} items={trustItems} methodologyHref="/how-we-test" methodologyLabel="How we test →" />
 
   {featuredPillars.length > 0 && (
     <section class="max-w-6xl mx-auto px-6 py-20">
