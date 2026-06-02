@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:34:43Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desk-exercises-to-complement-your-work-routine.webp
+heroImage: /images/hero/standing-desk-exercises-to-complement-your-work-routine.jpg
 subtopic: desks
 ---
 
@@ -111,3 +111,11 @@ By attentively pairing these exercises with a well-fitted ergonomic setup (corre
 
 **Q: Do I need special equipment to perform standing desk exercises?**  
 **A:** No. Most exercises require just your body weight and minimal space, making them easy to integrate anywhere at your desk.
+
+## Related reading
+
+- [18. Anti-fatigue mats for standing desks ranked by back effect](/articles/18-anti-fatigue-mats-for-standing-desks-ranked-by-back-effect/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [Using Standing Desks to Boost Calorie Burn and Energy Levels](/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)
+- [34. Setting chair height when you cannot stand without your laptop](/articles/34-setting-chair-height-when-you-cannot-stand-without-your-laptop/)

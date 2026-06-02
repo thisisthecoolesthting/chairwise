@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:24:28Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-led-desk-lighting-can-reduce-eye-strain-during-work.webp
+heroImage: /images/hero/how-led-desk-lighting-can-reduce-eye-strain-during-work.jpg
 subtopic: desks
 ---
 
@@ -98,3 +98,11 @@ A well-chosen LED desk lamp with adjustable brightness, color temperature, and f
 
 **Q: Is a clamp-mounted LED desk lamp better than one with a weighted base?**  
 **A:** Clamp-mounted lamps save desk space and offer flexible positioning, which is usually better for ergonomic setups. Weighted bases can be convenient for portability but may take up more surface area and be less adjustable.
+
+## Related reading
+
+- [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)
+- [Best Lighting Types to Reduce Eye Strain While Working](/articles/best-lighting-types-to-reduce-eye-strain-while-working/)
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+- [How Proper Lighting Reduces Mistakes and Enhances Accuracy](/articles/how-proper-lighting-reduces-mistakes-and-enhances-accuracy/)
+- [How to Combine Natural and Artificial Lighting Ergonomically](/articles/how-to-combine-natural-and-artificial-lighting-ergonomically/)

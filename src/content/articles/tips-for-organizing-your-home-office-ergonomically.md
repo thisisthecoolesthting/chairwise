@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:06:09Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/tips-for-organizing-your-home-office-ergonomically.webp
+heroImage: /images/hero/tips-for-organizing-your-home-office-ergonomically.jpg
 subtopic: chairs
 ---
 
@@ -106,3 +106,11 @@ Organizing your home office ergonomically is about more than buying a chair or s
 
 **Q: How often should I adjust my ergonomic setup?**  
 **A:** Regularly. Your body changes throughout the day and over months. Reassess your chair settings and monitor height after initial setup and whenever you feel discomfort or start new tasks. Movement breaks every 30-60 minutes are also beneficial.
+
+## Related reading
+
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+- [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:21:31Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products.webp
+heroImage: /images/hero/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products.jpg
 subtopic: chairs
 ---
 
@@ -112,3 +112,11 @@ Regular reassessment and tweaks aligned with your own feedback and any measurabl
 ---
 
 By focusing on measured fit, adjustability, and pressure distribution rather than marketing buzzwords, you can create a truly comfortable, fatigue-resistant ergonomic workspace with Chairwise products—one that feels good not just for a few minutes but for every hour of your workday.
+
+## Related reading
+
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
+- [Customizing Chairwise Chairs for Personalized Comfort and Support](/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
+- [Ergonomic Chair Features That Support Spinal Health](/articles/ergonomic-chair-features-that-support-spinal-health/)
+- [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)

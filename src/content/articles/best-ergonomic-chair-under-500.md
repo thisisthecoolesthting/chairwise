@@ -14,6 +14,7 @@ cardPick: 'Herman Miller Aeron wins with adjustable lumbar support and breathabl
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you've searched for "best ergonomic chair under 500," you're likely experiencing the telltale signs of improper sitting: lower back stiffness by 2 PM, neck tension creeping up your shoulders, or that nagging urge to shift positions every 20 minutes. The average remote worker spends 1,800 hours annually in their chair—equivalent to 75 full days—yet most settle for whatever was cheapest on sale.
@@ -136,6 +137,14 @@ For specialized needs:
 - The [Humanscale Headrest](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20) provides crucial neck support for video calls
 - Rollerblade-style casters ($29) improve mobility on carpet
 - Lumbar support cushions can upgrade basic chairs temporarily
+
+## Related reading
+
+- [How to Set Up an Ergonomic Workstation: A Former OT''s 60-Day Testing Guide](/articles/how-to-set-up-ergonomic-workstation/)
+- [Finding the Best Chair for Lower Back Pain in Your WFH Setup](/articles/best-chair-lower-back-pain-wfh/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-04/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-02/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
 
 ## FAQ
 

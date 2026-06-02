@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:33:13Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/choosing-mechanical-keyboards-for-durability-and-responsiveness.webp
+heroImage: /images/hero/choosing-mechanical-keyboards-for-durability-and-responsiveness.jpg
 subtopic: keyboards
 ---
 
@@ -108,3 +108,11 @@ Choosing a mechanical keyboard with lasting durability and satisfying responsive
 **A:** Some keyboards support hot-swappable switches for easy replacement, extending your keyboard’s lifespan without full replacement; check specs before buying.
 
 > **See also:** [Mechanical vs Membrane Keyboards for Office Efficiency](https://chairwise.app/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)
+
+## Related reading
+
+- [Top Quiet Keyboards to Improve Office Concentration](/articles/top-quiet-keyboards-to-improve-office-concentration/)
+- [30. Low profile mechanical vs rubber dome: the wrist data](/articles/30-low-profile-mechanical-vs-rubber-dome-the-wrist-data/)
+- [31. Keyboard latency and typing ergonomics: yes it matters](/articles/31-keyboard-latency-and-typing-ergonomics-yes-it-matters/)
+- [Choosing Keyboards with Backlighting for Low-Light Workspaces](/articles/choosing-keyboards-with-backlighting-for-low-light-workspaces/)
+- [Mechanical vs Membrane Keyboards for Office Efficiency](/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)

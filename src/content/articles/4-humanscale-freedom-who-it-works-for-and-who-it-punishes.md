@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T05:41:45Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/4-humanscale-freedom-who-it-works-for-and-who-it-punishes.webp
+heroImage: /images/hero/4-humanscale-freedom-who-it-works-for-and-who-it-punishes.jpg
 subtopic: chairs
 ---
 
@@ -147,3 +147,11 @@ In practice, the chair may demand more frequent repositioning or auxiliary lumba
 ---
 
 Choosing an ergonomic chair like the Humanscale Freedom is about understanding specific fit and adjustment needs that align with your body's dimensions and working style. While this chair is elegantly designed and invites movement, its limitations can make it less forgiving for many users over a full workday. Always prioritize measured fit—seat depth, lumbar adjustability range, and armrest travel—over glossy marketing copy for a truly ergonomic seating experience.
+
+## Related reading
+
+- [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
+- [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)
+- [5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times](/articles/5-hon-ignition-2-0-the-300-dollar-chair-that-beats-chairs-at-three-times-the-price/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [The Importance of Adjustable Desk Height for Home Offices](/articles/the-importance-of-adjustable-desk-height-for-home-offices/)

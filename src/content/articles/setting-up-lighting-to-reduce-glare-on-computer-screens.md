@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:27:38Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/setting-up-lighting-to-reduce-glare-on-computer-screens.webp
+heroImage: /images/hero/setting-up-lighting-to-reduce-glare-on-computer-screens.jpg
 subtopic: lighting
 ---
 
@@ -102,3 +102,11 @@ Lighting alone is only part of your ergonomic setup. Complement glare reduction 
 ---
 
 Setting up your lighting strategically to reduce glare can make your long hours at the desk far more comfortable and sustainable. Consider your environment, lighting types, and ergonomic fit carefully to build a glare-free, productive workspace.
+
+## Related reading
+
+- [Lighting Design Ideas to Create an Inviting Home Office](/articles/lighting-design-ideas-to-create-an-inviting-home-office/)
+- [Best Lighting Types to Reduce Eye Strain While Working](/articles/best-lighting-types-to-reduce-eye-strain-while-working/)
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
+- [Creating a Balanced Lighting Scheme for Video Calls](/articles/creating-a-balanced-lighting-scheme-for-video-calls/)
+- [How LED Desk Lighting Can Reduce Eye Strain During Work](/articles/how-led-desk-lighting-can-reduce-eye-strain-during-work/)

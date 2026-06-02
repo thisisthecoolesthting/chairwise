@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:53:39Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/31-keyboard-latency-and-typing-ergonomics-yes-it-matters.webp
+heroImage: /images/hero/31-keyboard-latency-and-typing-ergonomics-yes-it-matters.jpg
 subtopic: chairs
 ---
 
@@ -140,3 +140,11 @@ Keyboard latency isn’t just about raw performance; it factors into your daily 
 
 **Q:** How can I measure my keyboard latency at home?  
 **A:** There are online latency test tools and software that measure input lag, but subjective comfort and typing feel matter more over hours of use.
+
+## Related reading
+
+- [22. Keyboard trays: worth it for most people?](/articles/22-keyboard-trays-worth-it-for-most-people/)
+- [32. Mouse sensitivity settings that prevent wrist strain](/articles/32-mouse-sensitivity-settings-that-prevent-wrist-strain/)
+- [Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day Testing)](/articles/split-keyboard-for-wrist-pain/)
+- [28. Moonlander vs Dygma Defy vs ZSA Voyager split keyboards](/articles/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards/)
+- [Mechanical vs Membrane Keyboards for Office Efficiency](/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)

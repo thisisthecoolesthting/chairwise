@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:24:15Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desks-and-their-role-in-combating-sedentary-lifestyle.webp
+heroImage: /images/hero/standing-desks-and-their-role-in-combating-sedentary-lifestyle.jpg
 subtopic: desks
 ---
 
@@ -99,3 +99,11 @@ Integration of standing desks thus works best when combined with regular short m
 ---
 
 Standing desks are a valuable tool for combatting the health risks of prolonged sitting, but their effectiveness depends heavily on proper ergonomic setup, balanced use, and incorporation of movement. By taking a measured, data-driven approach to how you stand and sit during your workday, standing desks can be a practical part of a healthier, more comfortable, and more productive routine.
+
+## Related reading
+
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [Standing Desk Exercises to Complement Your Work Routine](/articles/standing-desk-exercises-to-complement-your-work-routine/)
+- [14. Electric vs manual crank desks: the real cost difference](/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)

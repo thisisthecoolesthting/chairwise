@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:10:05Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-combine-natural-and-artificial-lighting-ergonomically.webp
+heroImage: /images/hero/how-to-combine-natural-and-artificial-lighting-ergonomically.jpg
 subtopic: chairs
 ---
 
@@ -108,3 +108,11 @@ By understanding how natural and artificial lighting affect your work comfort an
 
 **Q: Is overhead lighting enough for long desk work sessions?**  
 **A:** No, overhead lighting often creates shadows and lacks flexibility. Adding an adjustable task lamp with 4D armrest-compatible movement provides focused, customizable light that reduces eye strain and supports ergonomic posture.
+
+## Related reading
+
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+- [Creating a Balanced Lighting Scheme for Video Calls](/articles/creating-a-balanced-lighting-scheme-for-video-calls/)
+- [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)
+- [Impact of Natural Lighting on Workplace Wellness and Output](/articles/impact-of-natural-lighting-on-workplace-wellness-and-output/)
+- [Daylight-Mimicking Desk Lamps to Improve Mood and Alertness](/articles/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness/)

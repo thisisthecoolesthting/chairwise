@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:47:23Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/17-l-shaped-corner-desks-the-hidden-ergonomic-trap.webp
+heroImage: /images/hero/17-l-shaped-corner-desks-the-hidden-ergonomic-trap.jpg
 subtopic: chairs
 ---
 
@@ -122,3 +122,11 @@ To summarize: the L-shaped corner desk can create ergonomic hazards because its 
 
 **Q: What seat depth range is best for use with corner desks?**  
 **A:** Aim for an adjustable seat depth between 15 and 18 inches, allowing you to sit fully back with support while keeping about 1-2 inches of clearance behind your knees. This helps maintain comfort on varying desk depths along the “L.”
+
+## Related reading
+
+- [Improving Posture with Ergonomic Home Office Furniture](/articles/improving-posture-with-ergonomic-home-office-furniture/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Best Standing Desk Converters for Small Home Workspaces](/articles/best-standing-desk-converters-for-small-home-workspaces/)
+- [Finding the Best Chair for Lower Back Pain in Your WFH Setup](/articles/best-chair-lower-back-pain-wfh/)
+- [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)

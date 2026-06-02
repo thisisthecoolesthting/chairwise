@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:27:57Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/customizing-chairwise-chairs-for-personalized-comfort-and-support.webp
+heroImage: /images/hero/customizing-chairwise-chairs-for-personalized-comfort-and-support.jpg
 subtopic: chairs
 ---
 
@@ -107,3 +107,11 @@ Customizing a Chairwise ergonomic chair requires attention to seat depth, lumbar
 
 **Q: Can customizing my chair eliminate all sitting discomfort?**  
 **A:** While good customizations greatly reduce discomfort and risk of strain, it’s also important to take regular breaks, move around, and vary posture throughout the day.
+
+## Related reading
+
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [43. Body types and ergonomic chairs: the 8 reference bodies explained](/articles/43-body-types-and-ergonomic-chairs-the-8-reference-bodies-explained/)
+- [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+- [Ergonomic Office Chairs with Breathable Mesh for Comfort](/articles/ergonomic-office-chairs-with-breathable-mesh-for-comfort/)
+- [Choosing Chairwise Chairs to Prevent Neck and Shoulder Pain](/articles/choosing-chairwise-chairs-to-prevent-neck-and-shoulder-pain/)

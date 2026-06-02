@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:56:04Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/38-sit-stand-ratio-the-number-most-people-get-wrong.webp
+heroImage: /images/hero/38-sit-stand-ratio-the-number-most-people-get-wrong.jpg
 subtopic: desks
 ---
 
@@ -116,3 +116,11 @@ The popular advice around sit-stand ratio—like standing 1 hour every 3 hours�
 ---
 
 By focusing on fit, comfort, and responsive posture switching rather than fixed ratios, you’ll make the most of your sit-stand workstation and feel better by the end of the day.
+
+## Related reading
+
+- [18. Anti-fatigue mats for standing desks ranked by back effect](/articles/18-anti-fatigue-mats-for-standing-desks-ranked-by-back-effect/)
+- [13. How tall should your desk be? A chart by height and workflow](/articles/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow/)
+- [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)

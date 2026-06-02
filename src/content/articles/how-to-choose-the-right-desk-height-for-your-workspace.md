@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:05:18Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-choose-the-right-desk-height-for-your-workspace.webp
+heroImage: /images/hero/how-to-choose-the-right-desk-height-for-your-workspace.jpg
 subtopic: desks
 ---
 
@@ -110,3 +110,11 @@ If possible, use pressure mapping tools or seat sensors in ergonomic assessments
 ---
 
 Choosing the right desk height is about matching your unique body dimensions and work habits, not just following averages or marketing buzz. Take a measured approach that incorporates chair settings, armrest adjustability, and dynamic work habits to create a setup that supports your health and productivity over the long haul.
+
+## Related reading
+
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [Top Monitor Setup Tips for an Ergonomic Home Workspace](/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
+- [15. Frame only vs complete desks: when to build your own](/articles/15-frame-only-vs-complete-desks-when-to-build-your-own/)
+- [Monitor Arms with Swivel and Tilt for Maximum Flexibility](/articles/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility/)

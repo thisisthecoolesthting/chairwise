@@ -14,6 +14,7 @@ cardPick: 'Herman Miller Aeron wins with proven lumbar support, adjustable arms,
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you've typed "standing desk vs chair" into Google, you're caught between two competing claims: standing desks reduce back pain and boost calorie burn, while ergonomic chairs prevent foot swelling and distraction. As a former occupational therapist who's tested 27 work setups over 12 years, I can tell you both camps oversimplify. The truth depends on your body proportions, work style, and—crucially—how you transition between positions.
@@ -123,6 +124,14 @@ Refill economics strongly favor chairs. Desk mat replacements cost $25–$75 ann
 - Disposal costs for old units
 - Time spent reassembling workstation
 - Peripheral reconfiguration needs
+
+## Related reading
+
+- [Standing Desk vs. Chair: The Ultimate Ergonomic Showdown](/articles/standing-desk-vs-chair-ergonomics/)
+- [Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers](/articles/standing-desk-benefits-and-drawbacks/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-02/)
+- [Finding Relief: Best Chairs for Lower Back Pain in Your WFH Setup](/articles/best-chair-for-lower-back-pain-wfh/)
 
 ## FAQ
 

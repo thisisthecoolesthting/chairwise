@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:14:21Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/tips-for-maintaining-good-posture-while-working-from-home.webp
+heroImage: /images/hero/tips-for-maintaining-good-posture-while-working-from-home.jpg
 subtopic: chairs
 ---
 
@@ -133,3 +133,11 @@ With careful attention to fit and behavior during your 8+ hour workday, your hom
 
 **Q:** Can I improve posture without buying an ergonomic chair?  
 **A:** Yes, by adjusting your current chair height, adding lumbar support cushions, using external keyboards or monitor risers, and emphasizing regular movement breaks, you can significantly improve posture even without a new chair.
+
+## Related reading
+
+- [Standing Desk Mats That Improve Comfort and Reduce Fatigue](/articles/standing-desk-mats-that-improve-comfort-and-reduce-fatigue/)
+- [39. How to sit for 8 hours without wrecking yourself](/articles/39-how-to-sit-for-8-hours-without-wrecking-yourself/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)

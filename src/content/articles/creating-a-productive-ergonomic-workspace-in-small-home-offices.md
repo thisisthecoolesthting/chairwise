@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:01:16Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/creating-a-productive-ergonomic-workspace-in-small-home-offices.webp
+heroImage: /images/hero/creating-a-productive-ergonomic-workspace-in-small-home-offices.jpg
 subtopic: chairs
 ---
 
@@ -126,3 +126,11 @@ This ergonomic setup approach is best for anyone working 6-8 hours daily in a sm
 
 **Q: How do I know if a chair seat depth is right if I can’t test it in person?**  
 **A:** Measure your thigh length (from back of buttocks to the back of your knee) and compare it to the chair’s seat depth specs. Ideally, the seat depth should be 2-3 inches shorter than this measurement to allow proper thigh and lumbar support.
+
+## Related reading
+
+- [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:10:33Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-prevent-neck-pain-with-proper-monitor-placement.webp
+heroImage: /images/hero/how-to-prevent-neck-pain-with-proper-monitor-placement.jpg
 subtopic: monitors
 ---
 
@@ -163,3 +163,11 @@ By focusing on these fundamentals, you can significantly reduce neck pain associ
 ---
 
 Proper monitor placement is a simple but essential step to protect your neck during long workdays. By paying attention to height, distance, and angle — combined with a suitable chair and mindful posture — you’ll stay comfortable and productive with less pain.
+
+## Related reading
+
+- [Top Monitor Setup Tips for an Ergonomic Home Workspace](/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
+- [Setting Up a Monitor at Eye Level for Neck Health](/articles/setting-up-a-monitor-at-eye-level-for-neck-health/)
+- [Guide to Proper Keyboard and Mouse Placement for Comfort](/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
+- [Monitor Arms That Boost Desk Space and Posture Alignment](/articles/monitor-arms-that-boost-desk-space-and-posture-alignment/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)

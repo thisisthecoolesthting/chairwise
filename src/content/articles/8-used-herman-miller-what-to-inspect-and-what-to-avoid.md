@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T05:43:17Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/8-used-herman-miller-what-to-inspect-and-what-to-avoid.webp
+heroImage: /images/hero/8-used-herman-miller-what-to-inspect-and-what-to-avoid.jpg
 subtopic: chairs
 ---
 
@@ -120,3 +120,11 @@ Used chairs make sense if:
 ---
 
 Buying a used Herman Miller chair can be a pragmatic choice to improve your ergonomic setup affordably—but it requires careful attention to fit, adjustability, and condition. By inspecting key features, testing comfort thoroughly, and avoiding common pitfalls, you can bring home a chair that supports healthy posture for your long working days.
+
+## Related reading
+
+- [Herman Miller Aeron vs. Steelcase Leap: Which $1,000+ Chair Actually Fits   Your Body?](/articles/herman-miller-aeron-vs-steelcase-leap/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](/articles/chairwise-article-01/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-07/)
+- [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)

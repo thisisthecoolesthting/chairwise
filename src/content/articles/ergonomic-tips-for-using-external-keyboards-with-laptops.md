@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:12:15Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-tips-for-using-external-keyboards-with-laptops.webp
+heroImage: /images/hero/ergonomic-tips-for-using-external-keyboards-with-laptops.jpg
 subtopic: chairs
 ---
 
@@ -115,3 +115,11 @@ Remember that “ergonomic” marketing claims don’t guarantee comfort after 8
 
 **Q: Should I always use a laptop stand when using an external keyboard?**  
 **A:** Yes, elevating your laptop screen to eye level is an essential part of an ergonomic workstation when using an external keyboard to avoid neck strain. A stand or separate monitor works best.
+
+## Related reading
+
+- [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+- [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+- [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)

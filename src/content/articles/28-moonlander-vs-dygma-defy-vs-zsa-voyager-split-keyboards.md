@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:52:17Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards.webp
+heroImage: /images/hero/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards.jpg
 subtopic: keyboards
 ---
 
@@ -117,3 +117,11 @@ All three offer hot-swappable mechanical switches, so you can experiment with di
 ---
 
 Split keyboards are a powerful ergonomic tool for desk workers, but maximizing their benefits depends on fit, adjustability, and realistic expectations about daily use. The Moonlander, Dygma Defy, and ZSA Voyager each provide thoughtful solutions with unique strengths—match those strengths to your work habits and ergonomic priorities for the best results.
+
+## Related reading
+
+- [26. Split keyboards for wrist pain: who they actually help](/articles/26-split-keyboards-for-wrist-pain-who-they-actually-help/)
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+- [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
+- [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
+- [Ergonomic Keyboards That Reduce Wrist Strain Effectively](/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)

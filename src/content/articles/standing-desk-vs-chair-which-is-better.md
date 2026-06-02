@@ -12,6 +12,7 @@ heroImage: '/images/hero/standing-desk-vs-chair-which-is-better.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 "Should I buy a standing desk or invest in a better chair?" This question plagues every remote worker after their third Zoom meeting with numb legs.
@@ -136,6 +137,14 @@ The [Herman Miller Aeron](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20)
 **Corporate Bulk Solutions**
 - Pallet deals on [Branch Verve](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) chairs drop unit cost to $429±30
 - Fleet pricing for [Uplift V2](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) desks starts at $619±45
+
+## Related reading
+
+- [Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers](/articles/standing-desk-benefits-and-drawbacks/)
+- [Standing Desk vs. Chair: The Ultimate Showdown for WFH Productivity](/articles/standing-desk-vs-chair/)
+- [11. Uplift V2 vs Fully Jarvis three years later](/articles/11-uplift-v2-vs-fully-jarvis-three-years-later/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [Standing Desk vs. Chair: The Ultimate Ergonomic Showdown](/articles/standing-desk-vs-chair-ergonomics/)
 
 ## FAQ
 

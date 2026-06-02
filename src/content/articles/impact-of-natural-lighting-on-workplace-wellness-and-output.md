@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:20:59Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/impact-of-natural-lighting-on-workplace-wellness-and-output.webp
+heroImage: /images/hero/impact-of-natural-lighting-on-workplace-wellness-and-output.jpg
 subtopic: lighting
 ---
 
@@ -112,3 +112,11 @@ Natural lighting should be a cornerstone of any office design, but especially wh
 ---
 
 Integrating natural lighting in office spaces is not an aesthetic luxury, but foundational for sustained wellness and productivity. True workplace comfort and focus come from measured fit — the right chair, proper desk height, and lighting that respects our biology. Prioritizing daylight thoughtfully, alongside ergonomic principles, sets the stage for healthier, happier, more productive desk workers.
+
+## Related reading
+
+- [How Standing Desks Improve Focus and Reduce Fatigue](/articles/how-standing-desks-improve-focus-and-reduce-fatigue/)
+- [Impact of Workspace Lighting Color Temperature on Productivity](/articles/impact-of-workspace-lighting-color-temperature-on-productivity/)
+- [Daylight-Mimicking Desk Lamps to Improve Mood and Alertness](/articles/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness/)
+- [How Lighting Color Temperature Affects Home Office Productivity](/articles/how-lighting-color-temperature-affects-home-office-productivity/)
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)

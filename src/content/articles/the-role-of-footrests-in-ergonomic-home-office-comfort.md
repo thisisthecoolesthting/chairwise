@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:11:06Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/the-role-of-footrests-in-ergonomic-home-office-comfort.webp
+heroImage: /images/hero/the-role-of-footrests-in-ergonomic-home-office-comfort.jpg
 subtopic: chairs
 ---
 
@@ -116,3 +116,11 @@ Using a footrest does not guarantee improved comfort unless appropriately integr
 ---
 
 Using a footrest is a deceptively simple yet effective way to enhance ergonomic home office comfort, especially when paired with a thoughtfully adjusted chair and desk. By understanding how measured fit and pressure distribution affect your posture and lower limb health, you can make smarter decisions that feel good throughout a full 8-hour workday.
+
+## Related reading
+
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+- [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)
+- [How to Set Up a Home Office for Back Pain Prevention](/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+- [Chairwise Chairs with Lumbar Support for Improved Posture](/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)

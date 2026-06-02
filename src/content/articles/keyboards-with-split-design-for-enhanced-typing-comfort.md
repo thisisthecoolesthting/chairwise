@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:23:15Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/keyboards-with-split-design-for-enhanced-typing-comfort.webp
+heroImage: /images/hero/keyboards-with-split-design-for-enhanced-typing-comfort.jpg
 subtopic: keyboards
 ---
 
@@ -105,3 +105,11 @@ Choosing a split keyboard is a worthwhile investment for desk workers committed 
 
 **Q: Do I need a special desk to use a split keyboard?**  
 **A:** No special desk is required, but a desk that allows ample space for positioning the keyboard halves and supporting accessories (like a mouse) helps maximize comfort.
+
+## Related reading
+
+- [26. Split keyboards for wrist pain: who they actually help](/articles/26-split-keyboards-for-wrist-pain-who-they-actually-help/)
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+- [Ergonomic Keyboards That Reduce Wrist Strain Effectively](/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
+- [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
+- [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)

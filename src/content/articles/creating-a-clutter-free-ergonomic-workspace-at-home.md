@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:08:26Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/creating-a-clutter-free-ergonomic-workspace-at-home.webp
+heroImage: /images/hero/creating-a-clutter-free-ergonomic-workspace-at-home.jpg
 subtopic: chairs
 ---
 
@@ -112,3 +112,11 @@ Ergonomics is not “set and forget.” Pay attention to discomfort signals and 
 ---
 
 Investing time in creating a clutter-free ergonomic workspace at home isn’t just about comfort; it’s about supporting your body through demanding work hours. Through careful measurement, furniture choices emphasizing adjustability, and intentional decluttering, you set the stage for higher productivity and healthier days at your desk.
+
+## Related reading
+
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [Creating a Productive Ergonomic Workspace in Small Home Offices](/articles/creating-a-productive-ergonomic-workspace-in-small-home-offices/)
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:05:44Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/improving-posture-with-ergonomic-home-office-furniture.webp
+heroImage: /images/hero/improving-posture-with-ergonomic-home-office-furniture.jpg
 subtopic: chairs
 ---
 
@@ -121,3 +121,11 @@ Good posture during long hours at a home office desk comes down to furniture tha
 
 **Q: Can I retrofit a non-ergonomic chair to improve posture?**  
 **A:** To some extent—lumbar cushions, seat pads, and adjustable armrests can help. However, for full support over 8+ hour workdays, investing in a truly ergonomic chair with sufficient adjustments is recommended.
+
+## Related reading
+
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [Chairwise Chairs with Lumbar Support for Improved Posture](/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
+- [39. How to sit for 8 hours without wrecking yourself](/articles/39-how-to-sit-for-8-hours-without-wrecking-yourself/)

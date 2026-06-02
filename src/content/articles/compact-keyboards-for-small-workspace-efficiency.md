@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:35:29Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/compact-keyboards-for-small-workspace-efficiency.webp
+heroImage: /images/hero/compact-keyboards-for-small-workspace-efficiency.jpg
 subtopic: keyboards
 ---
 
@@ -122,3 +122,11 @@ A compact keyboard can dramatically improve desk space efficiency and ergonomic 
 ---
 
 By aligning your workspace needs with the right compact keyboard layout and ergonomic features, you ensure your small desk remains a place of productivity, comfort, and efficient use of space.
+
+## Related reading
+
+- [Creating a Productive Ergonomic Workspace in Small Home Offices](/articles/creating-a-productive-ergonomic-workspace-in-small-home-offices/)
+- [Monitor Arms That Boost Desk Space and Posture Alignment](/articles/monitor-arms-that-boost-desk-space-and-posture-alignment/)
+- [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
+- [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
+- [Best Standing Desk Converters for Small Home Workspaces](/articles/best-standing-desk-converters-for-small-home-workspaces/)

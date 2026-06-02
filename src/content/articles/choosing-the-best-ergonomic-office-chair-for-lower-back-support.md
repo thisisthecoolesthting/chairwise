@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:17:26Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/choosing-the-best-ergonomic-office-chair-for-lower-back-support.webp
+heroImage: /images/hero/choosing-the-best-ergonomic-office-chair-for-lower-back-support.jpg
 subtopic: chairs
 ---
 
@@ -133,3 +133,11 @@ Use the step-by-step approach above to evaluate your needs and potential chairs 
 **A:** Vertical adjustment moves the support pad up or down to match your lumbar curve height, while depth adjustment changes how far the support presses into your back, customizing support firmness and contour match. Both are important for a comfortable fit.
 
 > **See also:** [Customizing Chairwise Chairs for Personalized Comfort and Support](https://chairwise.app/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
+
+## Related reading
+
+- [Chairwise Chairs with Lumbar Support for Improved Posture](/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+- [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)
+- [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+- [10. Gaming chairs vs office chairs: what you are actually buying](/articles/10-gaming-chairs-vs-office-chairs-what-you-are-actually-buying/)
+- [Customizing Chairwise Chairs for Personalized Comfort and Support](/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)

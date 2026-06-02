@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:20:13Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-select-the-perfect-monitor-arm-for-dual-screens.webp
+heroImage: /images/hero/how-to-select-the-perfect-monitor-arm-for-dual-screens.jpg
 subtopic: monitors
 ---
 
@@ -114,3 +114,11 @@ Test return policies and warranty terms before purchasing.
 ---
 
 Selecting a dual monitor arm that truly fits your ergonomic needs and workspace can transform your workday. By measuring carefully, prioritizing adjustability, checking load capacity, and avoiding common pitfalls, you’ll find the right arm to keep your screens perfectly positioned—and your work comfortable—for hours at a time.
+
+## Related reading
+
+- [Best Chairwise Monitor Arms for Multi-Monitor Workstations](/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+- [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)
+- [Monitor Arms with Swivel and Tilt for Maximum Flexibility](/articles/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility/)
+- [21. Single monitor vs dual monitor arms for the same workflow](/articles/21-single-monitor-vs-dual-monitor-arms-for-the-same-workflow/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:08:49Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desk-mats-that-improve-comfort-and-reduce-fatigue.webp
+heroImage: /images/hero/standing-desk-mats-that-improve-comfort-and-reduce-fatigue.jpg
 subtopic: desks
 ---
 
@@ -116,3 +116,11 @@ Standing desk mats are an essential ergonomic accessory for anyone aiming to red
 
 **Q:** How often should I replace my standing desk mat?  
 **A:** Depending on material and usage, replace mats every 2-4 years or if you notice compression, cracking, or loss of cushioning that reduces comfort.
+
+## Related reading
+
+- [18. Anti-fatigue mats for standing desks ranked by back effect](/articles/18-anti-fatigue-mats-for-standing-desks-ranked-by-back-effect/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+- [Standing Desk Exercises to Complement Your Work Routine](/articles/standing-desk-exercises-to-complement-your-work-routine/)
+- [14. Electric vs manual crank desks: the real cost difference](/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:04:49Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-desk-accessories-that-boost-home-office-efficiency.webp
+heroImage: /images/hero/ergonomic-desk-accessories-that-boost-home-office-efficiency.jpg
 subtopic: chairs
 ---
 
@@ -102,3 +102,11 @@ Optimizing your home office with well-chosen ergonomic desk accessories is less 
 
 **Q: Is a single accessory enough to improve my home office setup?**  
 **A:** Usually, a combination addressing multiple risk factors—such as chair, desk height, and wrist support—is needed for meaningful improvement. Prioritize based on your main discomfort areas and usage patterns.
+
+## Related reading
+
+- [29. Logitech MX Master vs MX Vertical: productivity vs pain](/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [Improving Posture with Ergonomic Home Office Furniture](/articles/improving-posture-with-ergonomic-home-office-furniture/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:29:01Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries.webp
+heroImage: /images/hero/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries.jpg
 subtopic: chairs
 ---
 
@@ -96,3 +96,11 @@ Ergonomic keyboard layouts minimize repetitive strain by addressing several key 
 
 **Q: Are split keyboards necessary to benefit from ergonomic layouts?**  
 **A:** Not strictly necessary, but highly recommended. Split keyboards combined with ergonomic layouts allow for natural shoulder width hand positioning and wrist angles, maximizing RSI prevention benefits.
+
+## Related reading
+
+- [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+- [Ergonomic Keyboards That Reduce Wrist Strain Effectively](/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
+- [Ergonomic Keyboard Accessories to Enhance Typing Posture](/articles/ergonomic-keyboard-accessories-to-enhance-typing-posture/)
+- [28. Moonlander vs Dygma Defy vs ZSA Voyager split keyboards](/articles/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards/)

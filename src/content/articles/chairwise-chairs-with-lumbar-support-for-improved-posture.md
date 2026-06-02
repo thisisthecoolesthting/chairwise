@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:31:38Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/chairwise-chairs-with-lumbar-support-for-improved-posture.webp
+heroImage: /images/hero/chairwise-chairs-with-lumbar-support-for-improved-posture.jpg
 subtopic: chairs
 ---
 
@@ -131,3 +131,11 @@ The right lumbar support isn’t a luxury; it’s a necessity for anyone committ
 
 **Q: How do I know if the lumbar adjustment on a chair is adequate for me?**  
 **A:** Measure the height of your lumbar curve (from seat pan to lower back curve) and check that the chair offers at least a 4-inch vertical adjustment. Also, test the depth adjustment (protrusion) to ensure comfort and support without pushing uncomfortably.
+
+## Related reading
+
+- [Improving Posture with Ergonomic Home Office Furniture](/articles/improving-posture-with-ergonomic-home-office-furniture/)
+- [The Role of Footrests in Ergonomic Home Office Comfort](/articles/the-role-of-footrests-in-ergonomic-home-office-comfort/)
+- [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
+- [17. L-shaped corner desks: the hidden ergonomic trap](/articles/17-l-shaped-corner-desks-the-hidden-ergonomic-trap/)
+- [How Chairwise Chairs Help Alleviate Sciatica and Hip Pain](/articles/how-chairwise-chairs-help-alleviate-sciatica-and-hip-pain/)

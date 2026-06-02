@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:22:33Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/choosing-chairwise-chairs-to-prevent-neck-and-shoulder-pain.webp
+heroImage: /images/hero/choosing-chairwise-chairs-to-prevent-neck-and-shoulder-pain.jpg
 subtopic: chairs
 ---
 
@@ -117,3 +117,11 @@ Neck and shoulder pain from desk work can erode well-being and productivity, but
 
 **Q: How do I know if a chair’s seat depth fits me correctly?**  
 **A:** Sit fully back with your back against the backrest. You should have about 1-2 inches of space between the seat edge and the back of your knees. This positioning helps maintain proper posture and circulation.
+
+## Related reading
+
+- [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+- [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+- [Customizing Chairwise Chairs for Personalized Comfort and Support](/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
+- [3. Secretlab Titan Evo vs Herman Miller Embody for tall users](/articles/3-secretlab-titan-evo-vs-herman-miller-embody-for-tall-users/)
+- [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)

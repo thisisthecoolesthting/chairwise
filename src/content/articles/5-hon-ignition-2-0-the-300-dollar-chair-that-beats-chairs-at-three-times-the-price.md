@@ -1,14 +1,12 @@
 ---
-title: '5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times
-  the price'
+title: '5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times the price'
 site: chairwise
-topic: '5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times
-  the price'
+topic: '5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times the price'
 tier: mvp
 updatedAt: '2026-05-12T05:42:08Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/5-hon-ignition-2-0-the-300-dollar-chair-that-beats-chairs-at-three-times-the-price.webp
+heroImage: /images/hero/5-hon-ignition-2-0-the-300-dollar-chair-that-beats-chairs-at-three-times-the-price.jpg
 subtopic: chairs
 ---
 
@@ -96,3 +94,11 @@ Ultimately, the Ignition 2.0 is an excellent entry-level ergonomic chair — a s
 
 **Q: How well does this chair support taller users over 6 feet?**  
 **A:** It supports users up to about 6’1” comfortably, but very tall users might find the seat depth and lumbar support range limiting.
+
+## Related reading
+
+- [The Best Ergonomic Chairs Under $500: Honest Reviews from an Occupational   Therapist](/articles/best-ergonomic-chair-under-500/)
+- [45. When to spend 1000 dollars on a chair and when 200 is enough](/articles/45-when-to-spend-1000-dollars-on-a-chair-and-when-200-is-enough/)
+- [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+- [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)
+- [Ergonomic Chair Features to Look for in 2024](/articles/ergonomic-chair-features-to-look-for-in-2024/)

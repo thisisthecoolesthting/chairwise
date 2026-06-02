@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:49:49Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/23-desk-height-vs-keyboard-tray-height-measure-this-not-that.webp
+heroImage: /images/hero/23-desk-height-vs-keyboard-tray-height-measure-this-not-that.jpg
 subtopic: desks
 ---
 
@@ -118,3 +118,11 @@ Ergonomic comfort when typing 8+ hours per day depends largely on keyboard tray 
 
 **Q: What if my monitors can’t be lowered to match my keyboard tray height?**  
 **A:** Consider monitor risers or adjustable monitor arms. Proper monitor height prevents neck strain even when your keyboard tray is set low for wrists.
+
+## Related reading
+
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [13. How tall should your desk be? A chart by height and workflow](/articles/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow/)
+- [22. Keyboard trays: worth it for most people?](/articles/22-keyboard-trays-worth-it-for-most-people/)
+- [Guide to Proper Keyboard and Mouse Placement for Comfort](/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:31:17Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/adjustable-desk-lighting-to-suit-different-work-tasks.webp
+heroImage: /images/hero/adjustable-desk-lighting-to-suit-different-work-tasks.jpg
 subtopic: desks
 ---
 
@@ -101,3 +101,11 @@ A: Cooler (daylight) light encourages alertness and is good during peak work hou
 ---
 
 By thoughtfully choosing and customizing your desk lighting, you create a work environment that supports your vision, concentration, and comfort—even during marathon workdays. Paying attention to arm reach, brightness range, color temperature control, and positioning are the practical steps to get lighting that truly fits your diverse desk tasks.
+
+## Related reading
+
+- [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)
+- [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
+- [The Importance of Adjustable Desk Height for Home Offices](/articles/the-importance-of-adjustable-desk-height-for-home-offices/)
+- [How LED Desk Lighting Can Reduce Eye Strain During Work](/articles/how-led-desk-lighting-can-reduce-eye-strain-during-work/)
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)

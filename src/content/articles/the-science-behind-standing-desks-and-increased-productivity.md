@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:29:14Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/the-science-behind-standing-desks-and-increased-productivity.webp
+heroImage: /images/hero/the-science-behind-standing-desks-and-increased-productivity.jpg
 subtopic: desks
 ---
 
@@ -108,3 +108,11 @@ In other words, standing desks are a tool—one of many—for improving producti
 ---
 
 Standing desks offer a scientifically supported method to break up sedentary time and potentially boost alertness and productivity—but only when ergonomically optimized and integrated mindfully into your work routine. Prioritize fit, movement, and gradual adjustment over hype to truly reap the benefits for your workday.
+
+## Related reading
+
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Using Standing Desks to Boost Calorie Burn and Energy Levels](/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)
+- [Standing Desks and Mental Health: Reducing Stress and Anxiety](/articles/standing-desks-and-mental-health-reducing-stress-and-anxiety/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)

@@ -12,6 +12,7 @@ heroImage: '/images/hero/chairwise-article-01.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you're reading this, you've probably typed "best ergonomic chair for back pain" into Google at 3 AM after another workday left you with aching shoulders and a stiff lower back. The Herman Miller Aeron and Steelcase Leap aren't just chairs — they're $1,000+ investments in your long-term spinal health. But which one actually delivers for 8-hour workdays?
@@ -84,6 +85,14 @@ For those needing intermediate options:
 - [SitOnIt Novo](https://www.amazon.com/dp/B0B3D96MN6?tag=chairwise-20) ($429) provides commercial-grade durability with 5-year warranty
 
 Replacement parts availability favors Herman Miller — every Aeron component down to individual mesh segments can be ordered, while Steelcase only stocks complete mechanisms. Our teardown showed the Leap's arm pads wear 37% faster than the Aeron's, but cost 50% less to replace ($45 vs $90).
+
+## Related reading
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-04/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-07/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
 
 ## FAQ
 

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:37:02Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/lighting-design-ideas-to-create-an-inviting-home-office.webp
+heroImage: /images/hero/lighting-design-ideas-to-create-an-inviting-home-office.jpg
 subtopic: lighting
 ---
 
@@ -101,3 +101,11 @@ For example, if working early mornings or late evenings, task lighting with a wa
 ---
 
 Thoughtful lighting design creates a comfortable, inviting home office that supports both your ergonomic setup and daily productivity needs. By layering ambient, task, and accent lighting—and choosing adjustable fixtures matched to your workspace dimensions—you'll enjoy working 8 hours or more without typical eye strain and fatigue.
+
+## Related reading
+
+- [Impact of Natural Lighting on Workplace Wellness and Output](/articles/impact-of-natural-lighting-on-workplace-wellness-and-output/)
+- [Creating a Productive Ergonomic Workspace in Small Home Offices](/articles/creating-a-productive-ergonomic-workspace-in-small-home-offices/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)

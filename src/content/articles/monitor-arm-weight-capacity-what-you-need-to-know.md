@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:32:19Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/monitor-arm-weight-capacity-what-you-need-to-know.webp
+heroImage: /images/hero/monitor-arm-weight-capacity-what-you-need-to-know.jpg
 subtopic: monitors
 ---
 
@@ -139,3 +139,11 @@ It’s tempting to focus on specs, but ergonomic comfort includes how easy it is
 
 **Q: How do I know if my monitor arm’s tension needs adjustment?**  
 **A:** If your monitor tilts down unexpectedly or requires force to move, the arm’s tension may be set too loose or tight. Many arms have built-in adjustment screws or knobs for this purpose.
+
+## Related reading
+
+- [19. The monitor arm test: 8 arms reviewed at 34-inch ultrawide](/articles/19-the-monitor-arm-test-8-arms-reviewed-at-34-inch-ultrawide/)
+- [How to Select the Perfect Monitor Arm for Dual Screens](/articles/how-to-select-the-perfect-monitor-arm-for-dual-screens/)
+- [Monitor Arm Compatibility with Ultra-Wide and Curved Displays](/articles/monitor-arm-compatibility-with-ultra-wide-and-curved-displays/)
+- [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)
+- [Best Chairwise Monitor Arms for Multi-Monitor Workstations](/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)

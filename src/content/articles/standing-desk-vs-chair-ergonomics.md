@@ -14,6 +14,7 @@ cardPick: 'A quality ergonomic chair provides consistent spinal support during 8
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 "Should I buy a standing desk or invest in a better chair?" This question plagues every remote worker who's started noticing that 3pm lower-back twinge. As a former occupational therapist who's evaluated over 300 home offices, I can confirm: your current setup is probably wrong for your body. But the solution isn't as simple as 'stand more' or 'sit better' - it's about matching equipment to your physiology, work patterns, and pain points.
@@ -167,6 +168,14 @@ The [Crandall Office](https://www.crandalloffice.com) refurbishment process adds
 - Reinforced frame welds
 
 For standing desks, avoid used motors and control boxes - these account for 83% of failures. Instead, consider buying just the frame and adding new electronics.
+
+## Related reading
+
+- [Standing Desk vs. Chair: The Ultimate Showdown for WFH Productivity](/articles/standing-desk-vs-chair/)
+- [Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers](/articles/standing-desk-benefits-and-drawbacks/)
+- [Standing Desk vs. Chair: A Comprehensive Comparison for WFH Professionals](/articles/standing-desk-vs-chair-which-is-better/)
+- [Finding Relief: Best Chairs for Lower Back Pain in Your WFH Setup](/articles/best-chair-for-lower-back-pain-wfh/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
 
 ## FAQ
 

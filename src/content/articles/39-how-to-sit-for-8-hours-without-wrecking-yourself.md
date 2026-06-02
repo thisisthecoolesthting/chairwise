@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:56:01Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/39-how-to-sit-for-8-hours-without-wrecking-yourself.webp
+heroImage: /images/hero/39-how-to-sit-for-8-hours-without-wrecking-yourself.jpg
 subtopic: chairs
 ---
 
@@ -104,3 +104,11 @@ Putting this all together, your ideal 8-hour sitting day includes:
 ---
 
 Sitting for 8 hours doesn’t have to wreck your body if you invest in a chair and setup designed for measured fit, adjust properly, and work with your body—not against it. The right features combined with mindful habits make all the difference day after day.
+
+## Related reading
+
+- [How to Set Up a Home Office for Back Pain Prevention](/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+- [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+- [2. The best ergonomic chair under 500 dollars reviewed across 5 body types](/articles/2-the-best-ergonomic-chair-under-500-dollars-reviewed-across-5-body-types/)
+- [How to Adjust Your Ergonomic Chair for Maximum Support](/articles/how-to-adjust-your-ergonomic-chair-for-maximum-support/)
+- [Chairwise Chairs with Lumbar Support for Improved Posture](/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)

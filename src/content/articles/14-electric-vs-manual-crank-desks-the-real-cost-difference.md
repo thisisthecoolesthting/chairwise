@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:46:10Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/14-electric-vs-manual-crank-desks-the-real-cost-difference.webp
+heroImage: /images/hero/14-electric-vs-manual-crank-desks-the-real-cost-difference.jpg
 subtopic: desks
 ---
 
@@ -111,3 +111,11 @@ Your best choice depends on how much you plan to switch between sitting and stan
 
 **Q: What maintenance do manual crank desks require?**  
 **A:** Manual desks need occasional lubrication of gears and bolts to prevent rust or stiffness. Otherwise, they have fewer components that require maintenance compared to electric desks.
+
+## Related reading
+
+- [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
+- [Standing Desks and Their Role in Combating Sedentary Lifestyle](/articles/standing-desks-and-their-role-in-combating-sedentary-lifestyle/)

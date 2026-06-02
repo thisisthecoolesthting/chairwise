@@ -14,6 +14,7 @@ cardPick: 'Aeron''s adjustable lumbar support and proven 12-year warranty solve 
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 # Introduction
 
 If you've spent more than four hours in a $200 office chair and noticed your lower back tightening, you're not alone. The Herman Miller Aeron and Steelcase Leap are the two most recommended high-end ergonomic chairs—both costing $1,000+—but with that price tag, you need to know which one actually fits *your* body and work style.
@@ -242,3 +243,11 @@ Mid-range chairs ($400–$800) use class-3 or class-4 cylinders, 2.2+ lb foam, a
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## Related reading
+
+- [1. Herman Miller Aeron size B vs Steelcase Leap v2 after 90 days in real bodies](/articles/1-herman-miller-aeron-size-b-vs-steelcase-leap-v2-after-90-days-in-real-bodies/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-02/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](/articles/chairwise-article-01/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller vs. Steelcase vs. Budget   Alternatives](/articles/chairwise-article-09/)

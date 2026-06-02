@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:52:48Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain.webp
+heroImage: /images/hero/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain.jpg
 subtopic: setup
 ---
 
@@ -115,3 +115,11 @@ Ultimately, both mice offer good ergonomic improvements over basic office mice, 
 
 **Q: Is the MX Master suitable for small hands?**  
 **A:** The MX Master is sized for medium to large hands. Small hands might find it less comfortable, so checking size fit before purchase is recommended.
+
+## Related reading
+
+- [27. Vertical mouse vs trackball vs trackpad for tendonitis](/articles/27-vertical-mouse-vs-trackball-vs-trackpad-for-tendonitis/)
+- [Ergonomic Desk Accessories That Boost Home Office Efficiency](/articles/ergonomic-desk-accessories-that-boost-home-office-efficiency/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)

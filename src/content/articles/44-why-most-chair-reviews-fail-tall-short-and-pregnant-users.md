@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:58:34Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/44-why-most-chair-reviews-fail-tall-short-and-pregnant-users.webp
+heroImage: /images/hero/44-why-most-chair-reviews-fail-tall-short-and-pregnant-users.jpg
 subtopic: chairs
 ---
 
@@ -121,3 +121,11 @@ Tall, short, and pregnant users face unique challenges finding ergonomic work ch
 
 **Q: Can I use lumbar pillows to fix poor chair support when pregnant?**  
 **A:** Yes, lumbar pillows can help add needed support and cushioning, especially if the chair’s built-in lumbar adjustment doesn’t cover the lower back curve changes during pregnancy.
+
+## Related reading
+
+- [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+- [3. Secretlab Titan Evo vs Herman Miller Embody for tall users](/articles/3-secretlab-titan-evo-vs-herman-miller-embody-for-tall-users/)
+- [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
+- [7. The best budget ergonomic chair under 250 dollars across six body types](/articles/7-the-best-budget-ergonomic-chair-under-250-dollars-across-six-body-types/)
+- [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)

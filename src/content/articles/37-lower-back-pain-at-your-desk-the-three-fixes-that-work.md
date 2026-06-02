@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:55:40Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/37-lower-back-pain-at-your-desk-the-three-fixes-that-work.webp
+heroImage: /images/hero/37-lower-back-pain-at-your-desk-the-three-fixes-that-work.jpg
 subtopic: desks
 ---
 
@@ -123,3 +123,11 @@ Pressure mapping offers unbiased data showing if your chair truly supports your 
 ---
 
 Lower back pain from chair use is rarely fixed by one change. Instead, focus on fit that respects your body shape, armrest adjustability that promotes whole-body relaxation, and data-driven feedback to fine-tune your setup. Over time, these fixes can make daily deskwork not only pain-free but more productive.
+
+## Related reading
+
+- [Ergonomic Chair Features to Look for in 2024](/articles/ergonomic-chair-features-to-look-for-in-2024/)
+- [33. The actual ergonomic setup checklist: 10 minutes, permanent fix](/articles/33-the-actual-ergonomic-setup-checklist-10-minutes-permanent-fix/)
+- [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+- [How Chairwise Chairs Help Alleviate Sciatica and Hip Pain](/articles/how-chairwise-chairs-help-alleviate-sciatica-and-hip-pain/)
+- [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)

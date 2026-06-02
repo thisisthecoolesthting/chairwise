@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:35:09Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain.webp
+heroImage: /images/hero/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain.jpg
 subtopic: monitors
 ---
 
@@ -124,3 +124,11 @@ Proper monitor arm positioning is essential for avoiding neck and eye strain dur
 
 **Q: Can a monitor arm reduce eye strain on its own?**  
 **A:** Positioning helps significantly by optimizing viewing angle and distance, but factors like screen brightness, ambient lighting, and regular breaks are also crucial.
+
+## Related reading
+
+- [Monitor Arms with Swivel and Tilt for Maximum Flexibility](/articles/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility/)
+- [Guide to Proper Keyboard and Mouse Placement for Comfort](/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
+- [Setting Up a Monitor at Eye Level for Neck Health](/articles/setting-up-a-monitor-at-eye-level-for-neck-health/)
+- [Top Monitor Setup Tips for an Ergonomic Home Workspace](/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)

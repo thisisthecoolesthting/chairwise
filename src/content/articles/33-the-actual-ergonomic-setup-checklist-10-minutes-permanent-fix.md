@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:53:58Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/33-the-actual-ergonomic-setup-checklist-10-minutes-permanent-fix.webp
+heroImage: /images/hero/33-the-actual-ergonomic-setup-checklist-10-minutes-permanent-fix.jpg
 subtopic: chairs
 ---
 
@@ -133,3 +133,11 @@ Before digging into specific steps, keep in mind these foundational ergonomic co
 ---
 
 With this practical, measured approach to ergonomic setup, you can create a workstation that truly supports your body for the long haul. Spend 10 focused minutes with this checklist, and you’ll be set for pain-free productivity—no gimmicks, no hype.
+
+## Related reading
+
+- [Maximizing Workspace Productivity with Chairwise Ergonomic Solutions](/articles/maximizing-workspace-productivity-with-chairwise-ergonomic-solutions/)
+- [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [39. How to sit for 8 hours without wrecking yourself](/articles/39-how-to-sit-for-8-hours-without-wrecking-yourself/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)

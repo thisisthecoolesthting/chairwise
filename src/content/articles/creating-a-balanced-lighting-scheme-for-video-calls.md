@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:15:43Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/creating-a-balanced-lighting-scheme-for-video-calls.webp
+heroImage: /images/hero/creating-a-balanced-lighting-scheme-for-video-calls.jpg
 subtopic: lighting
 ---
 
@@ -147,3 +147,11 @@ Testing and tuning your lighting scheme with real extended use is essential. Avo
 ---
 
 By investing effort into creating a balanced lighting scheme with ergonomic adjustments and realistic expectations, desk workers can improve both their comfort and professionalism during the lengthy video calls that define modern work life.
+
+## Related reading
+
+- [Adjustable Desk Lighting to Suit Different Work Tasks](/articles/adjustable-desk-lighting-to-suit-different-work-tasks/)
+- [Creating a Productive Ergonomic Workspace in Small Home Offices](/articles/creating-a-productive-ergonomic-workspace-in-small-home-offices/)
+- [Lighting Design Ideas to Create an Inviting Home Office](/articles/lighting-design-ideas-to-create-an-inviting-home-office/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+- [Best Lighting Types to Reduce Eye Strain While Working](/articles/best-lighting-types-to-reduce-eye-strain-while-working/)

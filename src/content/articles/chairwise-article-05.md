@@ -12,6 +12,7 @@ heroImage: '/images/hero/chairwise-article-05.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 # Introduction
 
 "Should I really spend $1500 on a Herman Miller Aeron, or will a $400 chair fix my back pain?" This is the question we hear daily from remote workers, developers, and desk-bound professionals. After testing 12 chairs across 8 body types (5'2" to 6'4", 110lbs to 280lbs) for 60+ days, we found most people are buying the wrong chair for their physiology and work style.
@@ -191,7 +192,7 @@ A sit-stand desk delivers this; a standing desk converted into 'stand all day' d
 
 
 
-> **See also:** [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
+> **See also:** [The Ultimate [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase](/articles/chairwise-article-04/) Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
 
 ## What to watch for before you buy
 
@@ -207,6 +208,14 @@ A sit-stand desk delivers this; a standing desk converted into 'stand all day' d
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## Related reading
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-04/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](/articles/chairwise-article-03/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller vs. Steelcase vs. Budget   Alternatives](/articles/chairwise-article-09/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
 
 ## FAQ  
 

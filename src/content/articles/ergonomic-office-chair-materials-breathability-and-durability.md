@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:26:03Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-office-chair-materials-breathability-and-durability.webp
+heroImage: /images/hero/ergonomic-office-chair-materials-breathability-and-durability.jpg
 subtopic: chairs
 ---
 
@@ -94,3 +94,11 @@ By focusing on factual material properties and testing chairs for fit over an ho
 ---
 
 Choosing an ergonomic chair with the right material is often a nuanced trade-off between breathability and durability. Prioritize materials that support your working conditions and physical needs, ensuring your chair remains comfortable and supportive after hours at your desk.
+
+## Related reading
+
+- [8. Used Herman Miller: what to inspect and what to avoid](/articles/8-used-herman-miller-what-to-inspect-and-what-to-avoid/)
+- [Finding the Best Chair for Lower Back Pain in Your WFH Setup](/articles/best-chair-lower-back-pain-wfh/)
+- [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)
+- [5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times](/articles/5-hon-ignition-2-0-the-300-dollar-chair-that-beats-chairs-at-three-times-the-price/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-07/)

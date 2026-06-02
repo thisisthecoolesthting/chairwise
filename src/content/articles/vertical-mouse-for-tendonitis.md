@@ -14,6 +14,7 @@ cardPick: 'Herman Miller Aeron''s adjustable lumbar support and armrests reduce 
 subtopic: keyboards
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you're reading this, you've probably hit the moment where wrist pain stops being a minor annoyance and starts derailing your workday. That sharp twinge when scrolling, the dull ache after four hours at your desk—tendonitis doesn't wait for a convenient time to flare up.
@@ -122,6 +123,14 @@ If tendonitis persists after 4 weeks of vertical mouse use, consider alternative
 **Hybrid approach:** Use a vertical mouse for general work (email, browsing) and switch to a trackball for focused tasks (design, coding) where precision matters less than pain reduction.
 
 **For travelers:** The Microsoft Sculpt Mobile folds and maintains a 30° angle, though it's not as robust as desk-based models.
+
+## Related reading
+
+- [27. Vertical mouse vs trackball vs trackpad for tendonitis](/articles/27-vertical-mouse-vs-trackball-vs-trackpad-for-tendonitis/)
+- [Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day Testing)](/articles/split-keyboard-for-wrist-pain/)
+- [29. Logitech MX Master vs MX Vertical: productivity vs pain](/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
 
 ## FAQ
 

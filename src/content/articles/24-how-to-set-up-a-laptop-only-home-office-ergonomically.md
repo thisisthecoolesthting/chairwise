@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:50:21Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/24-how-to-set-up-a-laptop-only-home-office-ergonomically.webp
+heroImage: /images/hero/24-how-to-set-up-a-laptop-only-home-office-ergonomically.jpg
 subtopic: chairs
 ---
 
@@ -105,3 +105,11 @@ Ergonomics in a laptop-only home office is about thoughtful adjustments and inve
 ---
 
 By focusing on measured ergonomics rather than gimmicks, you’ll build a laptop-only home office setup that keeps you comfortable, focused, and productive throughout the day.
+
+## Related reading
+
+- [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [25. External displays for laptop users: 24 vs 27 vs 32 inches](/articles/25-external-displays-for-laptop-users-24-vs-27-vs-32-inches/)

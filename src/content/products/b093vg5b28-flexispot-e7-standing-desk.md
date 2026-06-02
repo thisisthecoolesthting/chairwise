@@ -46,3 +46,10 @@ The included cable tray mounts under the desk. At 21", it's long enough for a 4-
 most monitor cables. The grommets are positioned well for monitor arms.
 
 <AffiliateCTA asin="B093VG5B28" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](/articles/chairwise-article-03/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-02/)

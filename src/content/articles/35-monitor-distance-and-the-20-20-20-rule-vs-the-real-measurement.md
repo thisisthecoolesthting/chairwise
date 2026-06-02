@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:54:55Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/35-monitor-distance-and-the-20-20-20-rule-vs-the-real-measurement.webp
+heroImage: /images/hero/35-monitor-distance-and-the-20-20-20-rule-vs-the-real-measurement.jpg
 subtopic: monitors
 ---
 
@@ -143,3 +143,11 @@ The 20-20-20 rule and the recommended monitor distance provide strong foundation
 
 **Q: How do I know if my monitor distance is wrong?**  
 **A:** Signs include frequent eye fatigue, headaches, blurred vision, or leaning forward or backward often. Adjust distance until text is comfortably clear and you maintain a natural posture.
+
+## Related reading
+
+- [21. Single monitor vs dual monitor arms for the same workflow](/articles/21-single-monitor-vs-dual-monitor-arms-for-the-same-workflow/)
+- [Monitor Arms That Boost Desk Space and Posture Alignment](/articles/monitor-arms-that-boost-desk-space-and-posture-alignment/)
+- [25. External displays for laptop users: 24 vs 27 vs 32 inches](/articles/25-external-displays-for-laptop-users-24-vs-27-vs-32-inches/)
+- [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)

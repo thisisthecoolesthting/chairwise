@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:17:45Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-standing-desks-improve-focus-and-reduce-fatigue.webp
+heroImage: /images/hero/how-standing-desks-improve-focus-and-reduce-fatigue.jpg
 subtopic: desks
 ---
 
@@ -98,3 +98,11 @@ Standing desks are not a cure-all, but when integrated thoughtfully into your wo
 
 **Q: How quickly should I transition to standing desks from sitting?**  
 **A:** Start gradually, standing 15-30 minutes every hour and increasing as your body adapts. Listen to your body and incorporate movement and stretching regularly.
+
+## Related reading
+
+- [38. Sit-stand ratio: the number most people get wrong](/articles/38-sit-stand-ratio-the-number-most-people-get-wrong/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Standing Desks and Mental Health: Reducing Stress and Anxiety](/articles/standing-desks-and-mental-health-reducing-stress-and-anxiety/)
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)

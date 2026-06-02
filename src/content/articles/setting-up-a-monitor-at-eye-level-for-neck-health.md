@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:14:44Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/setting-up-a-monitor-at-eye-level-for-neck-health.webp
+heroImage: /images/hero/setting-up-a-monitor-at-eye-level-for-neck-health.jpg
 subtopic: monitors
 ---
 
@@ -96,3 +96,11 @@ Tilt the monitor backward about 10–20 degrees to support comfortable viewing w
 ---
 
 A monitor placed thoughtfully at eye level is a foundation of ergonomic comfort for anyone working long hours at a desk. By measuring your personal eye height, adjusting your monitor position carefully, and considering overall desk setup, you’ll reduce neck strain noticeably. This practical approach helps you maintain neck health and avoid chronic pain long term.
+
+## Related reading
+
+- [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+- [13. How tall should your desk be? A chart by height and workflow](/articles/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow/)
+- [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
+- [Top Monitor Setup Tips for an Ergonomic Home Workspace](/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
+- [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)

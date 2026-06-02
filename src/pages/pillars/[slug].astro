@@ -1,10 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import LongformPageShell from '@/components/LongformPageShell.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
-import FeaturedProductsBlock from '@/components/FeaturedProductsBlock.astro';
-import StickyProductBar from '@/components/StickyProductBar.astro';
-import AuthorByline from '@/components/AuthorByline.astro';
-import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
@@ -24,14 +21,12 @@ const b = home.brand;
 const nl = home.newsletter;
 const siteYmyl = (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === true;
 const o = siteOrigin();
-const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'default-author';
+const defSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
 const relatedProducts = await getRelatedProductsFromBody(entry.body);
-const topProduct = relatedProducts[0];
 const publishedISO = new Date(entry.data.publishedAt).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
-const showMedical = siteYmyl;
 const orgPub = b.fullName;
 const orgUrl = o;
 const personSchema = author
@@ -57,6 +52,11 @@ const articleSchema = {
   image: entry.data.heroImage ? [entry.data.heroImage] : undefined,
   mainEntityOfPage: { '@type': 'WebPage', '@id': `${o}/pillars/${entry.slug}/` },
 };
+
+const currentYear = new Date().getFullYear();
+const h1Text = entry.data.targetKeyword
+  ? `${entry.data.title} — ${currentYear} Guide`
+  : entry.data.title;
 ---
 
 <BaseLayout
@@ -69,40 +69,24 @@ const articleSchema = {
   articleAuthor={author?.data.name ?? b.fullName}
   articleSection={entry.data.targetKeyword}
   articleTags={entry.data.tags}
+  sectionAds="guides"
+  sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
-  <article class="container-prose py-12 md:py-16 pb-28 md:pb-20">
-    {showMedical && <MedicalDisclaimer />}
+  <LongformPageShell
+    title={h1Text}
+    heroImage={entry.data.heroImage}
+    authorSlug={authorSlug}
+    publishedAt={entry.data.publishedAt}
+    reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
+    medicalBeforeBody={siteYmyl}
+    relatedProducts={relatedProducts}
+  >
+    <Content />
+  </LongformPageShell>
 
-    <header class="mb-8">
-      <h1 class="font-display text-4xl md:text-5xl text-ink-900 mb-3 !mt-0">{entry.data.title}</h1>
-    </header>
-
-    <AuthorByline
-      authorSlug={authorSlug}
-      publishedAt={entry.data.publishedAt}
-      reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
-    />
-
-    {entry.data.heroImage && (
-      <figure class="mb-10 -mx-4 md:mx-0">
-        <img
-          src={entry.data.heroImage}
-          alt={entry.data.title}
-          loading="eager"
-          class="w-full h-auto rounded-3xl object-cover aspect-[16/9] max-h-[540px] shadow-soft"
-        />
-      </figure>
-    )}
-
-    <div class="prose prose-lg prose-ink max-w-none">
-      <Content />
-    </div>
-
-    <FeaturedProductsBlock products={relatedProducts} />
+  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-20">
     <NewsletterForm variant="inline" title={nl.title} subtitle={nl.subtitle} />
-  </article>
-
-  {topProduct && <StickyProductBar product={topProduct} />}
+  </div>
 </BaseLayout>

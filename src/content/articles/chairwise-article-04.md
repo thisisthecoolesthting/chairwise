@@ -12,6 +12,7 @@ heroImage: '/images/hero/chairwise-article-04.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 "Why does my $1,400 Herman Miller Aeron hurt my back more than my old $200 chair?" This question from a 6'2" software developer sparked our 60-day ergonomic chair showdown. We recruited 12 participants across three body types (5'4", 5'11", and 6'3") with varying weight distributions and postural issues. A former occupational therapist team measured spinal alignment using motion capture technology every 7 days, tracking 17 pressure points and pelvic tilt angles.
@@ -90,6 +91,14 @@ The [Aeron's replacement mesh](https://www.amazon.com/dp/B0DHV7ZWH2?tag=chairwis
 - Authorized Herman Miller refurbishers (12-month warranty) at 40% off retail
 - Steelcase Factory Outlets with remanufactured mechanisms
 - Office liquidators for lightly used Clatinas under $250
+
+## Related reading
+
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller vs. Steelcase vs. Budget   Alternatives](/articles/chairwise-article-09/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](/articles/chairwise-article-01/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
 
 ## FAQ
 

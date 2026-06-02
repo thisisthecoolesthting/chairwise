@@ -12,6 +12,7 @@ heroImage: '/images/hero/chairwise-article-02.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you're reading this, you've probably typed some variation of "best chair for back pain" into Google after another day of stiffness. As a former occupational therapist who's tested 27 chairs over 3 years, I can confirm: most office chairs fail basic ergonomic standards, and price tags lie.
@@ -114,6 +115,14 @@ For those who can't stomach four-figure chairs but want legitimate ergonomic ben
    - $25 armrest pads reduced ulnar nerve pressure by 33% for typists
 
 Warning: Avoid "ergonomic" chairs under $150—our pressure maps show they often create new pressure points while solving none. The $129 Hbada Basics failed all 12 ergonomic criteria in our assessment.
+
+## Related reading
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](/articles/chairwise-article-01/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-04/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-07/)
 
 ## FAQ
 

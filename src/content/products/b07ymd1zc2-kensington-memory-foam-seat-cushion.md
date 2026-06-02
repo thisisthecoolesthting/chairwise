@@ -47,3 +47,10 @@ The Kensington's coccyx relief channel effectively reduces tailbone pressure for
 that specific pain point. This alone is worth the price for post-injury recovery seating.
 
 <AffiliateCTA asin="B07YMD1ZC2" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](/articles/chairwise-article-03/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-02/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:00:41Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/adjustable-lighting-solutions-for-a-comfortable-home-office.webp
+heroImage: /images/hero/adjustable-lighting-solutions-for-a-comfortable-home-office.jpg
 subtopic: lighting
 ---
 
@@ -106,3 +106,11 @@ Even with adjustable lighting options, common mistakes can reduce benefits or ev
 ---
 
 By investing in well-planned adjustable lighting, you can work more comfortably, reduce eye fatigue, and maintain productivity throughout long home office days. Focus on fitting lighting to your tasks, space, and personal comfort instead of just buying what looks good in marketing images. Your eyes and posture will thank you.
+
+## Related reading
+
+- [25. External displays for laptop users: 24 vs 27 vs 32 inches](/articles/25-external-displays-for-laptop-users-24-vs-27-vs-32-inches/)
+- [Lighting Design Ideas to Create an Inviting Home Office](/articles/lighting-design-ideas-to-create-an-inviting-home-office/)
+- [How LED Desk Lighting Can Reduce Eye Strain During Work](/articles/how-led-desk-lighting-can-reduce-eye-strain-during-work/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)

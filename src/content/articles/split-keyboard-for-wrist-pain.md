@@ -14,6 +14,7 @@ cardPick: 'Herman Miller Aeron reduces wrist and back strain through scientifica
 subtopic: keyboards
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If your wrists ache after a long typing session, you've probably wondered whether a split keyboard actually helps or just costs $100–$400 and collects dust. As a former occupational therapist, I tested five split keyboards over six months using pressure mapping and muscle-activity sensors across three hand sizes and three work styles (coding, writing, data entry). The verdict: two models genuinely reduced wrist strain during 8-hour workdays.
@@ -100,6 +101,14 @@ For those hesitant about a full split keyboard:
 - Rubber dome keyboards (Microsoft, Perixx): Non-refurbishable; plan for replacement every 2–3 years at $25–50
 - Warranties: All tested models except Matias included 2+ years; Kinesis offers 3 years
 - The [ErgoDox EZ](https://www.amazon.com/dp/B00NX0WXQI?tag=chairwise-20) supports hot-swappable switches ($0.50–$1.50 each) for customized feel
+
+## Related reading
+
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+- [Say Goodbye to Wrist Pain: The Best Split Keyboards for Ergonomics](/articles/split-keyboards-for-wrist-pain/)
+- [26. Split keyboards for wrist pain: who they actually help](/articles/26-split-keyboards-for-wrist-pain-who-they-actually-help/)
+- [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
+- [Vertical Mouse for Tendonitis: Which Models Actually Reduce Wrist Pain](/articles/vertical-mouse-for-tendonitis/)
 
 ## FAQ
 

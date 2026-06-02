@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:53:32Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/32-mouse-sensitivity-settings-that-prevent-wrist-strain.webp
+heroImage: /images/hero/32-mouse-sensitivity-settings-that-prevent-wrist-strain.jpg
 subtopic: keyboards
 ---
 
@@ -137,3 +137,11 @@ To facilitate this, use:
 ---
 
 Optimizing mouse sensitivity is a subtle but powerful way to manage wrist strain. Focus on balanced settings that minimize excessive wrist motion while maintaining control and comfort during long work sessions. Combined with proper ergonomics, arm support, and breaks, you’ll protect your wrists from repetitive strain without sacrificing productivity.
+
+## Related reading
+
+- [Guide to Proper Keyboard and Mouse Placement for Comfort](/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
+- [29. Logitech MX Master vs MX Vertical: productivity vs pain](/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)

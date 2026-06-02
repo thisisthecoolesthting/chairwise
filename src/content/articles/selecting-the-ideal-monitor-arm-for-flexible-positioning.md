@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:06:39Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/selecting-the-ideal-monitor-arm-for-flexible-positioning.webp
+heroImage: /images/hero/selecting-the-ideal-monitor-arm-for-flexible-positioning.jpg
 subtopic: monitors
 ---
 
@@ -120,3 +120,11 @@ Selecting the ideal monitor arm requires balancing your monitor specifications, 
 **A:** Gas spring arms typically offer smoother and easier adjustments. Friction arms may require manual tightening but can be cheaper. Choose based on desired smoothness and budget.
 
 > **See also:** [Maximizing Workspace Productivity with Chairwise Ergonomic Solutions](https://chairwise.app/articles/maximizing-workspace-productivity-with-chairwise-ergonomic-solutions/)
+
+## Related reading
+
+- [Monitor Arms with Swivel and Tilt for Maximum Flexibility](/articles/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility/)
+- [38. Sit-stand ratio: the number most people get wrong](/articles/38-sit-stand-ratio-the-number-most-people-get-wrong/)
+- [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)

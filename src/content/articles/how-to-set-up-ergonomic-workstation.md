@@ -14,6 +14,7 @@ cardPick: 'Herman Miller Aeron leads because its adjustable lumbar support and m
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you've ever stood up after a long work session and felt that telltale stiffness in your lower back or a crick in your neck, you're not alone. As a former occupational therapist who now tests ergonomic equipment, I see the same story daily: professionals investing in expensive chairs or desks that don't actually address their specific posture issues.
@@ -95,6 +96,14 @@ For those not ready for a full chair investment:
 - Generic armrest pads and casters from aftermarket suppliers cost significantly less than OEM replacements
 - Seat cushions can extend the life of entry-level chairs
 - Standing desk converters provide posture variety without replacing your existing setup
+
+## Related reading
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-04/)
+- [The Best Ergonomic Chairs Under $500: Honest Reviews from an Occupational   Therapist](/articles/best-ergonomic-chair-under-500/)
+- [The Complete Ergonomic Workstation Setup Guide: Stop Guessing, Start Testing](/articles/ergonomic-workstation-setup-guide/)
+- [Finding Relief: Best Chairs for Lower Back Pain in Your WFH Setup](/articles/best-chair-for-lower-back-pain-wfh/)
+- [Standing Desk vs. Chair: The Ultimate Showdown for WFH Productivity](/articles/standing-desk-vs-chair/)
 
 ## FAQ
 

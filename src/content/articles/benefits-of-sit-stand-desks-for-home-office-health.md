@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:01:42Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/benefits-of-sit-stand-desks-for-home-office-health.webp
+heroImage: /images/hero/benefits-of-sit-stand-desks-for-home-office-health.jpg
 subtopic: desks
 ---
 
@@ -95,3 +95,11 @@ A sit-stand desk can be an effective ergonomic tool to improve your home office 
 
 **Q: What ergonomic features should I look for along with a sit-stand desk?**  
 **A:** Adjustable lumbar support, 4D armrests, seat depth adjustment, and a properly positioned monitor at eye level.
+
+## Related reading
+
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [16. Treadmill desks: who they work for and who should skip](/articles/16-treadmill-desks-who-they-work-for-and-who-should-skip/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)

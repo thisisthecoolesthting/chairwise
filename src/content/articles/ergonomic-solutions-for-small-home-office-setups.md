@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:10:03Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-solutions-for-small-home-office-setups.webp
+heroImage: /images/hero/ergonomic-solutions-for-small-home-office-setups.jpg
 subtopic: chairs
 ---
 
@@ -111,3 +111,11 @@ Getting ergonomic furniture is just one part of the solution—you also need to 
 ---
 
 In summary, ergonomic small home office setups demand careful consideration of fit measurements and adjustable features to support your body throughout a full workday. Focusing on seat depth, lumbar support, and armrest range while optimizing desk size and placement can create comfortable, productive work zones even in the smallest rooms. Avoid hype-driven purchases by measuring your space and your body, and seek furniture that adapts to you rather than forcing you to adapt.
+
+## Related reading
+
+- [Creating a Productive Ergonomic Workspace in Small Home Offices](/articles/creating-a-productive-ergonomic-workspace-in-small-home-offices/)
+- [How to Set Up a Home Office for Back Pain Prevention](/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+- [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)

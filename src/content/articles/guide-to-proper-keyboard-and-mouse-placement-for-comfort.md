@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:02:59Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/guide-to-proper-keyboard-and-mouse-placement-for-comfort.webp
+heroImage: /images/hero/guide-to-proper-keyboard-and-mouse-placement-for-comfort.jpg
 subtopic: keyboards
 ---
 
@@ -120,3 +120,11 @@ Marketing copy often showcases a few ideal positions but doesn’t convey the fu
 ---
 
 Getting your keyboard and mouse positioned right lays the foundation for daily comfort, sustained productivity, and injury prevention. Spend time fitting, measuring, and adjusting—your wrists, shoulders, and back will thank you long term.
+
+## Related reading
+
+- [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)

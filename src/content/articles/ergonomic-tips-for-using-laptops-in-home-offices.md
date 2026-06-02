@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:07:12Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-tips-for-using-laptops-in-home-offices.webp
+heroImage: /images/hero/ergonomic-tips-for-using-laptops-in-home-offices.jpg
 subtopic: chairs
 ---
 
@@ -134,3 +134,11 @@ Laptop users in home offices face unique ergonomic challenges due to the fixed s
 
 **Q: Are adjustable armrests really necessary for laptop ergonomics?**  
 **A:** Adjustable armrests help reduce shoulder strain by supporting your arms in a natural position and allowing you to relax shoulder muscles. Look for 4D adjustability for the best fit.
+
+## Related reading
+
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+- [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [The Importance of Adjustable Desk Height for Home Offices](/articles/the-importance-of-adjustable-desk-height-for-home-offices/)

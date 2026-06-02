@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:51:41Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/27-vertical-mouse-vs-trackball-vs-trackpad-for-tendonitis.webp
+heroImage: /images/hero/27-vertical-mouse-vs-trackball-vs-trackpad-for-tendonitis.jpg
 subtopic: keyboards
 ---
 
@@ -122,3 +122,11 @@ Trackpads are common but tricky for tendonitis. They minimize forearm and wrist 
 ---
 
 Choosing between a vertical mouse, trackball, or trackpad when managing tendonitis comes down to which tendons are affected and your workspace setup. By prioritizing neutral wrist posture, adjusting device fit, and combining with good workspace ergonomics, you can significantly ease symptoms and improve comfort over an 8-hour workday.
+
+## Related reading
+
+- [Vertical Mouse for Tendonitis: Which Models Actually Reduce Wrist Pain](/articles/vertical-mouse-for-tendonitis/)
+- [29. Logitech MX Master vs MX Vertical: productivity vs pain](/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
+- [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)

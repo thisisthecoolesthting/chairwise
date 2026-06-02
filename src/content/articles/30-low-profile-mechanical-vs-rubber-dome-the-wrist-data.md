@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:53:11Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/30-low-profile-mechanical-vs-rubber-dome-the-wrist-data.webp
+heroImage: /images/hero/30-low-profile-mechanical-vs-rubber-dome-the-wrist-data.jpg
 subtopic: keyboards
 ---
 
@@ -125,3 +125,11 @@ Low profile mechanical keyboards generally offer better feedback for controlled 
 
 **Q: How can I reduce wrist pain if I must use a rubber dome keyboard?**  
 **A:** Focus on lighter keystrokes, use a wrist rest to maintain neutral alignment, optimize your desk and chair height, and take frequent breaks to stretch and recover.
+
+## Related reading
+
+- [Mechanical vs Membrane Keyboards for Office Efficiency](/articles/mechanical-vs-membrane-keyboards-for-office-efficiency/)
+- [Top Quiet Keyboards to Improve Office Concentration](/articles/top-quiet-keyboards-to-improve-office-concentration/)
+- [28. Moonlander vs Dygma Defy vs ZSA Voyager split keyboards](/articles/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards/)
+- [Say Goodbye to Wrist Pain: The Best Split Keyboards for Ergonomics](/articles/split-keyboards-for-wrist-pain/)
+- [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)

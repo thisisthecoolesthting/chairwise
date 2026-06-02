@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:59:42Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-set-up-an-ergonomic-standing-desk-at-home.webp
+heroImage: /images/hero/how-to-set-up-an-ergonomic-standing-desk-at-home.jpg
 subtopic: chairs
 ---
 
@@ -124,3 +124,11 @@ Setting up an ergonomic standing desk at home involves measuring your body, choo
 
 **Q: Do I need special shoes for a standing desk?**  
 **A:** Supportive shoes with good arch support and cushioning help reduce foot and leg fatigue when standing. Avoid very flat or unsupportive shoes, and use an anti-fatigue mat for additional comfort.
+
+## Related reading
+
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [34. Setting chair height when you cannot stand without your laptop](/articles/34-setting-chair-height-when-you-cannot-stand-without-your-laptop/)

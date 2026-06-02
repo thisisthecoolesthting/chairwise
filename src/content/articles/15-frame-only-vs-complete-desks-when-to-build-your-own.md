@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:46:30Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/15-frame-only-vs-complete-desks-when-to-build-your-own.webp
+heroImage: /images/hero/15-frame-only-vs-complete-desks-when-to-build-your-own.jpg
 subtopic: desks
 ---
 
@@ -105,3 +105,11 @@ Choosing between a frame only desk and a complete desk boils down to how much co
 
 **Q: Are complete desks less durable?**  
 **A:** Not necessarily. Durability depends on materials and construction quality. Some complete desks are made with purpose-matched components offering great longevity, but frame-only builds allow you to pick premium materials if desired.
+
+## Related reading
+
+- [14. Electric vs manual crank desks: the real cost difference](/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [11. Uplift V2 vs Fully Jarvis three years later](/articles/11-uplift-v2-vs-fully-jarvis-three-years-later/)
+- [Creating a Clutter-Free Ergonomic Workspace at Home](/articles/creating-a-clutter-free-ergonomic-workspace-at-home/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)

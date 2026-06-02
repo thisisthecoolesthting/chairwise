@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:19:50Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/benefits-of-adjustable-standing-desks-for-home-offices.webp
+heroImage: /images/hero/benefits-of-adjustable-standing-desks-for-home-offices.jpg
 subtopic: desks
 ---
 
@@ -100,3 +100,11 @@ Adjustable standing desks offer significant ergonomic benefits for home office w
 
 **Q: What else do I need besides a standing desk for good ergonomics?**  
 **A:** A good ergonomic chair with adjustable 4D armrests, a supportive anti-fatigue mat, properly positioned monitor(s), and regular movement breaks all complement the benefits of an adjustable standing desk.
+
+## Related reading
+
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
+- [The Importance of Adjustable Desk Height for Home Offices](/articles/the-importance-of-adjustable-desk-height-for-home-offices/)
+- [14. Electric vs manual crank desks: the real cost difference](/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:49:52Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/22-keyboard-trays-worth-it-for-most-people.webp
+heroImage: /images/hero/22-keyboard-trays-worth-it-for-most-people.jpg
 subtopic: keyboards
 ---
 
@@ -121,3 +121,11 @@ Measurement-based fitting, including attention to seat depth, arm and wrist angl
 
 **Q: Will a keyboard tray work on all desk types?**  
 **A:** No, keyboard trays require a desk with robust edges and enough knee clearance underneath for mounting. Desks with drawers directly under or very thin desktops may not accommodate most trays comfortably. Measurements before purchase are crucial.
+
+## Related reading
+
+- [How to Select a Keyboard Tray for Ergonomic Typing](/articles/how-to-select-a-keyboard-tray-for-ergonomic-typing/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+- [Ergonomic Keyboard Accessories to Enhance Typing Posture](/articles/ergonomic-keyboard-accessories-to-enhance-typing-posture/)
+- [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)

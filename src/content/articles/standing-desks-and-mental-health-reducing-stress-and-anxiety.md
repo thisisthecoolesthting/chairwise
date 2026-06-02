@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:36:09Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desks-and-mental-health-reducing-stress-and-anxiety.webp
+heroImage: /images/hero/standing-desks-and-mental-health-reducing-stress-and-anxiety.jpg
 subtopic: desks
 ---
 
@@ -120,3 +120,11 @@ Standing desks can be a valuable tool in reducing workplace stress and anxietyâ€
 ---
 
 By focusing on measured ergonomic fit, regular movement, and realistic use patterns, standing desks can be a practical part of reducing stress and anxiety for desk workers.
+
+## Related reading
+
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Creating a Clutter-Free Ergonomic Workspace at Home](/articles/creating-a-clutter-free-ergonomic-workspace-at-home/)
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [36. Fixing neck pain that started in 2020 and never left](/articles/36-fixing-neck-pain-that-started-in-2020-and-never-left/)
+- [How Standing Desks Improve Focus and Reduce Fatigue](/articles/how-standing-desks-improve-focus-and-reduce-fatigue/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:26:21Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/using-standing-desks-to-boost-calorie-burn-and-energy-levels.webp
+heroImage: /images/hero/using-standing-desks-to-boost-calorie-burn-and-energy-levels.jpg
 subtopic: desks
 ---
 
@@ -97,3 +97,11 @@ Standing desks can play a valuable role in improving energy levels and increasin
 
 **Q:** How do I know if my standing desk is set at the right height?  
 **A:** Your elbows should form about a 90-degree angle when typing, and your wrists should be straight. The monitor should be at or just below eye level about 20-30 inches away.
+
+## Related reading
+
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Standing Desk vs. Ergonomic Chair: Which Actually Prevents Back Pain (Real   Data)](/articles/standing-desk-vs-chair-health-benefits/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers](/articles/standing-desk-benefits-and-drawbacks/)

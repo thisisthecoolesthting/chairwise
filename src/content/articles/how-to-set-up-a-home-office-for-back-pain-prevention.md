@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:11:47Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-set-up-a-home-office-for-back-pain-prevention.webp
+heroImage: /images/hero/how-to-set-up-a-home-office-for-back-pain-prevention.jpg
 subtopic: chairs
 ---
 
@@ -89,3 +89,11 @@ Movement helps reset your posture and reduces the cumulative strain on spinal st
 ---
 
 Configuring your home office with these measured, practical considerations in mind sets the foundation for a pain-free workday. Beyond the marketing buzz, fit, adjustability, and how your body feels after hours of use are the true measures of ergonomic success. Start with these steps, listen to your body, and make incremental improvements for lasting spinal health.
+
+## Related reading
+
+- [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)
+- [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)

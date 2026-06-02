@@ -12,6 +12,7 @@ heroImage: '/images/hero/best-chair-lower-back-pain-wfh.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you're reading this, you've probably tried stretching, standing desks, and maybe even physical therapy — but your lower back still aches after 3 hours in your current chair. You're not alone: 65% of remote workers report new or worsened back pain since transitioning to WFH setups. The problem isn't just sitting; it's sitting in chairs designed for occasional office use, not 8-10 hour coding marathons or endless Zoom calls.
@@ -95,6 +96,14 @@ For those needing interim solutions:
 - Aftermarket seat cushions improved comfort scores by 28-41% but reduced usable seat depth
 - Lumbar rolls helped most when placed at the natural waistline (iliac crest height)
 - Standing converters only provided relief when used ≥40 minutes per 2-hour block
+
+## Related reading
+
+- [Finding Relief: Best Chairs for Lower Back Pain in Your WFH Setup](/articles/best-chair-for-lower-back-pain-wfh/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [How to Set Up an Ergonomic Workstation: A Former OT''s 60-Day Testing Guide](/articles/how-to-set-up-ergonomic-workstation/)
+- [Standing Desk vs. Chair: The Ultimate Ergonomic Showdown](/articles/standing-desk-vs-chair-ergonomics/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
 
 ## FAQ
 

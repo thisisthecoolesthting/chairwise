@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:54:15Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/34-setting-chair-height-when-you-cannot-stand-without-your-laptop.webp
+heroImage: /images/hero/34-setting-chair-height-when-you-cannot-stand-without-your-laptop.jpg
 subtopic: chairs
 ---
 
@@ -110,3 +110,11 @@ If possible, consider a professional ergonomic assessment, especially if you hav
 ---
 
 Adjusting your chair height without standing may seem tricky, but by relying on seated measurements like popliteal height, paying attention to foot support and pressure distribution, and optimizing adjustable features like seat depth and lumbar support, you can create a stable, comfortable workspace. This approach prioritizes sustained comfort and health for desk workers who need seated adjustment strategies rather than standing-based ones.
+
+## Related reading
+
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+- [16. Treadmill desks: who they work for and who should skip](/articles/16-treadmill-desks-who-they-work-for-and-who-should-skip/)
+- [How to Adjust Your Ergonomic Chair for Maximum Support](/articles/how-to-adjust-your-ergonomic-chair-for-maximum-support/)

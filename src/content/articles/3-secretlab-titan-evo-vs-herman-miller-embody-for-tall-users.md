@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T05:41:15Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/3-secretlab-titan-evo-vs-herman-miller-embody-for-tall-users.webp
+heroImage: /images/hero/3-secretlab-titan-evo-vs-herman-miller-embody-for-tall-users.jpg
 subtopic: chairs
 ---
 
@@ -113,3 +113,11 @@ Choosing the right chair means matching your body dimensions to seat depth and a
 
 **Q: Can the Herman Miller Embody be modified with taller or deeper seats?**  
 **A:** The Embody does not offer multiple seat depth sizes, but it includes a seat slider to adjust depth slightly. For significantly taller users, this may still feel short compared to chairs designed with deeper seats.
+
+## Related reading
+
+- [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
+- [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+- [1. Herman Miller Aeron size B vs Steelcase Leap v2 after 90 days in real bodies](/articles/1-herman-miller-aeron-size-b-vs-steelcase-leap-v2-after-90-days-in-real-bodies/)
+- [How to Set Up an Ergonomic Workstation: A Former OT''s 60-Day Testing Guide](/articles/how-to-set-up-ergonomic-workstation/)
+- [44. Why most chair reviews fail tall, short, and pregnant users](/articles/44-why-most-chair-reviews-fail-tall-short-and-pregnant-users/)

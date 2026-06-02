@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:57:37Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/42-the-research-behind-standing-desks-actually-summarized.webp
+heroImage: /images/hero/42-the-research-behind-standing-desks-actually-summarized.jpg
 subtopic: desks
 ---
 
@@ -123,3 +123,11 @@ Maximizing the benefits of a standing desk involves understanding your own comfo
 ---
 
 Standing desks can be valuable ergonomic tools for desk workers aiming to reduce sedentary time and improve comfort. Yet their benefits are heavily tied to how well they fit your body and work habits over a full day. Research confirms small but meaningful gains in health metrics and pain reduction, but only when combined with proper posture, varied movement, and realistic expectations. Understanding the real science behind standing desks helps you make a practical, customized choice—not get swept up in hype.
+
+## Related reading
+
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [16. Treadmill desks: who they work for and who should skip](/articles/16-treadmill-desks-who-they-work-for-and-who-should-skip/)
+- [Standing Desks and Their Role in Combating Sedentary Lifestyle](/articles/standing-desks-and-their-role-in-combating-sedentary-lifestyle/)
+- [Using Standing Desks to Boost Calorie Burn and Energy Levels](/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:13:08Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-lighting-color-temperature-affects-home-office-productivity.webp
+heroImage: /images/hero/how-lighting-color-temperature-affects-home-office-productivity.jpg
 subtopic: lighting
 ---
 
@@ -121,3 +121,11 @@ By pairing adjustable lighting with ergonomically measured seating features such
 
 **Q:** Is it enough to just have adjustable lighting to stay productive?  
 **A:** Adjustable lighting helps, but should be paired with ergonomic furniture like chairs that support seat depth, lumbar adjustment, and armrest mobility for complete comfort and productivity during long desk sessions.
+
+## Related reading
+
+- [Impact of Workspace Lighting Color Temperature on Productivity](/articles/impact-of-workspace-lighting-color-temperature-on-productivity/)
+- [Impact of Natural Lighting on Workplace Wellness and Output](/articles/impact-of-natural-lighting-on-workplace-wellness-and-output/)
+- [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
+- [How Proper Lighting Reduces Mistakes and Enhances Accuracy](/articles/how-proper-lighting-reduces-mistakes-and-enhances-accuracy/)

@@ -14,6 +14,7 @@ cardPick: 'Ergonomic chairs with lumbar support reduce back pain without the cos
 subtopic: desks
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 "Should I really spend $600 on a standing desk?" This question plagues remote workers noticing neck stiffness or lower back pain after marathon coding sessions. As a former occupational therapist, I tested 14 desks and chairs across body types (5'2" to 6'4") and workflows (coding, writing, design) to separate evidence from hype. Standing desks aren't magic—poorly configured, they exacerbate knee and circulation issues.
@@ -28,7 +29,7 @@ Key findings after 60+ days:
 
 
 
-> **See also:** [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
+> **See also:** [The Ultimate [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase](/articles/chairwise-article-05/) Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
 
 ## Why this matters
 
@@ -96,6 +97,14 @@ Other access options:
 - Crandall Office offers leased standing desks including maintenance
 - Local coworking spaces provide access to commercial-grade desks—ideal for testing before purchasing
 - Some health insurance plans offer reimbursements for ergonomic equipment with clinical documentation
+
+## Related reading
+
+- [The 5 Best Ergonomic Chairs Under $500: Comfort on a Budget](/articles/best-ergonomic-chairs-under-500/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [Finding the Best Chair for Lower Back Pain in Your WFH Setup](/articles/best-chair-lower-back-pain-wfh/)
 
 ## FAQ
 

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:32:44Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desks-as-a-solution-to-improve-circulation-at-work.webp
+heroImage: /images/hero/standing-desks-as-a-solution-to-improve-circulation-at-work.jpg
 subtopic: desks
 ---
 
@@ -103,3 +103,11 @@ By integrating standing into your workday thoughtfully—matching desk and body 
 
 **Q: What footwear or flooring works best with standing desks?**  
 **A:** Supportive, cushioned shoes and an anti-fatigue mat with enough cushioning reduce foot and leg discomfort during standing.
+
+## Related reading
+
+- [Standing Desks and Their Role in Combating Sedentary Lifestyle](/articles/standing-desks-and-their-role-in-combating-sedentary-lifestyle/)
+- [Standing Desk Exercises to Complement Your Work Routine](/articles/standing-desk-exercises-to-complement-your-work-routine/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [How Standing Desks Improve Focus and Reduce Fatigue](/articles/how-standing-desks-improve-focus-and-reduce-fatigue/)

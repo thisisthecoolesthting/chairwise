@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:58:08Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/43-body-types-and-ergonomic-chairs-the-8-reference-bodies-explained.webp
+heroImage: /images/hero/43-body-types-and-ergonomic-chairs-the-8-reference-bodies-explained.jpg
 subtopic: chairs
 ---
 
@@ -118,3 +118,11 @@ Selecting an ergonomic chair based on the 8 reference bodies framework is a prac
 
 **Q: How do I know if the lumbar support height fits me?**  
 **A:** Measure from your seat to the bottom of your rib cage or the curve in your lower back. Check chair lumbar adjustability specs to ensure the pad aligns with your natural lumbar curve.
+
+## Related reading
+
+- [44. Why most chair reviews fail tall, short, and pregnant users](/articles/44-why-most-chair-reviews-fail-tall-short-and-pregnant-users/)
+- [1. Herman Miller Aeron size B vs Steelcase Leap v2 after 90 days in real bodies](/articles/1-herman-miller-aeron-size-b-vs-steelcase-leap-v2-after-90-days-in-real-bodies/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
+- [Herman Miller Aeron vs. Steelcase Leap: Which $1,000+ Chair Actually Fits   Your Body?](/articles/herman-miller-aeron-vs-steelcase-leap/)
+- [7. The best budget ergonomic chair under 250 dollars across six body types](/articles/7-the-best-budget-ergonomic-chair-under-250-dollars-across-six-body-types/)

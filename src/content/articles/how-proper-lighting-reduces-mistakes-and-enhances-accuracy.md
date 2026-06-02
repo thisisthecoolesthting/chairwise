@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:35:28Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-proper-lighting-reduces-mistakes-and-enhances-accuracy.webp
+heroImage: /images/hero/how-proper-lighting-reduces-mistakes-and-enhances-accuracy.jpg
 subtopic: lighting
 ---
 
@@ -118,3 +118,11 @@ Good lighting complements adjustable chairs and desks by keeping your head and n
 ---
 
 Proper lighting, just like adjustable chairs and desks, is a practical investment in improving your daily work accuracy and comfort. By adjusting brightness, color temperature, and positioning task lighting correctly, you prevent common causes of error and fatigue—helping you stay sharp and precise during long hours at your workstation.
+
+## Related reading
+
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [Setting Up Lighting to Reduce Glare on Computer Screens](/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+- [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
+- [How to Combine Natural and Artificial Lighting Ergonomically](/articles/how-to-combine-natural-and-artificial-lighting-ergonomically/)

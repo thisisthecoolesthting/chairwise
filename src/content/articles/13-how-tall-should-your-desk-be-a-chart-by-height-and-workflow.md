@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:05:11Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow.webp
+heroImage: /images/hero/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow.jpg
 subtopic: desks
 ---
 
@@ -129,3 +129,11 @@ Manufacturers often tout "ergonomic" desks without clear measurement ranges or c
 ---
 
 Finding the right desk height tailored to your *actual* body metrics and type of work is a foundational step toward reducing fatigue and maintaining ergonomic health over long days at your workstation. Using the guidelines above, measurement, and appropriate furniture adjustments, you can bridge the gap between marketing copy and what really feels comfortable during those 8+ hours at your desk.
+
+## Related reading
+
+- [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+- [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)
+- [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)

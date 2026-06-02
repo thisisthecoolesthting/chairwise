@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:25:43Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-proper-lighting-influences-cognitive-performance-at-work.webp
+heroImage: /images/hero/how-proper-lighting-influences-cognitive-performance-at-work.jpg
 subtopic: lighting
 ---
 
@@ -104,3 +104,11 @@ While ergonomic furniture aids physical comfort and reduces distractions, proper
 ---
 
 Optimizing your workspace lighting with attentiveness to intensity, color temperature, and adjustability can transform your daily cognitive experience. When combined with ergonomic furniture considerations, this holistic approach sustains mental agility, reduces fatigue, and supports lasting productivity through your workload.
+
+## Related reading
+
+- [Setting Up Lighting to Reduce Glare on Computer Screens](/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+- [How Proper Lighting Reduces Mistakes and Enhances Accuracy](/articles/how-proper-lighting-reduces-mistakes-and-enhances-accuracy/)
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+- [How to Combine Natural and Artificial Lighting Ergonomically](/articles/how-to-combine-natural-and-artificial-lighting-ergonomically/)
+- [Best Lighting Types to Reduce Eye Strain While Working](/articles/best-lighting-types-to-reduce-eye-strain-while-working/)

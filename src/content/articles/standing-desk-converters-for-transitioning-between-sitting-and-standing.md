@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:30:25Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desk-converters-for-transitioning-between-sitting-and-standing.webp
+heroImage: /images/hero/standing-desk-converters-for-transitioning-between-sitting-and-standing.jpg
 subtopic: desks
 ---
 
@@ -159,3 +159,11 @@ Common scenarios include:
 ---
 
 Standing desk converters are a sound middle ground for desk workers looking to sit less and stand more without a big investment. The key to success is choosing a model with sufficient measured fit, stability, and adjustability—not just hype—to make sure it feels right over a full 8-hour workday. By applying these practical guidelines, you can find a converter that truly supports your health and productivity.
+
+## Related reading
+
+- [12. Standing desk converters that do not wobble, tested six units](/articles/12-standing-desk-converters-that-do-not-wobble-tested-six-units/)
+- [Best Standing Desk Converters for Small Home Workspaces](/articles/best-standing-desk-converters-for-small-home-workspaces/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [14. Electric vs manual crank desks: the real cost difference](/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)

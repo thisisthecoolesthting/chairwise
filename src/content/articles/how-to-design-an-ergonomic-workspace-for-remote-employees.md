@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:16:54Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-design-an-ergonomic-workspace-for-remote-employees.webp
+heroImage: /images/hero/how-to-design-an-ergonomic-workspace-for-remote-employees.jpg
 subtopic: chairs
 ---
 
@@ -133,3 +133,11 @@ Designing an ergonomic remote workspace requires a careful balance of personaliz
 
 **Q: How often should remote workers take breaks to prevent discomfort?**  
 **A:** Ideally, take microbreaks every 20-30 minutes to stand, stretch, and reset posture. This reduces muscle fatigue and improves circulation.
+
+## Related reading
+
+- [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+- [Ergonomic Chair Features That Support Spinal Health](/articles/ergonomic-chair-features-that-support-spinal-health/)
+- [Best Practices for Cable Management in Ergonomic Workspaces](/articles/best-practices-for-cable-management-in-ergonomic-workspaces/)
+- [Improving Posture with Ergonomic Home Office Furniture](/articles/improving-posture-with-ergonomic-home-office-furniture/)

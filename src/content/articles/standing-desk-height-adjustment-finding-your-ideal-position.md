@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:22:18Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/standing-desk-height-adjustment-finding-your-ideal-position.webp
+heroImage: /images/hero/standing-desk-height-adjustment-finding-your-ideal-position.jpg
 subtopic: desks
 ---
 
@@ -115,3 +115,11 @@ Standing desk height adjustment is not a set-it-and-forget-it affair. It require
 
 **Q: What if I feel tired standing, even at the correct desk height?**  
 **A:** Fatigue can stem from standing too long without breaks, poor flooring, or no footwear support. Use anti-fatigue mats, wear comfortable shoes, and alternate sitting/standing frequently.
+
+## Related reading
+
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+- [36. Fixing neck pain that started in 2020 and never left](/articles/36-fixing-neck-pain-that-started-in-2020-and-never-left/)
+- [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
+- [13. How tall should your desk be? A chart by height and workflow](/articles/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow/)

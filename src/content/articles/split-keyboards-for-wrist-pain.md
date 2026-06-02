@@ -14,6 +14,7 @@ cardPick: 'Adjustable lumbar support prevents lower-back strain during eight-hou
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 If you're reading this, you've probably reached the point where your wrists ache after a long typing session. That familiar dull throb that starts at the base of your palms and radiates up your forearms isn't just annoying - it's your body warning you that something's wrong. As a former occupational therapist who now tests ergonomic equipment, I've seen how the wrong keyboard can accelerate repetitive strain injuries (RSI) in as little as 3 months of regular use.
@@ -133,6 +134,14 @@ For those not ready for full splits or needing supplemental solutions:
 - Voice typing software (Dragon NaturallySpeaking) reduced daily keystrokes by 30-40% when used alternately with splits
 - Forearm compression sleeves (2XU, $35) helped maintain circulation during marathon typing sessions
 - Keyboardio's palm key add-ons ($40) redistributed thumb strain for heavy keyboard shortcuts users
+
+## Related reading
+
+- [Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day Testing)](/articles/split-keyboard-for-wrist-pain/)
+- [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
+- [26. Split keyboards for wrist pain: who they actually help](/articles/26-split-keyboards-for-wrist-pain-who-they-actually-help/)
+- [28. Moonlander vs Dygma Defy vs ZSA Voyager split keyboards](/articles/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards/)
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
 
 ## FAQ
 

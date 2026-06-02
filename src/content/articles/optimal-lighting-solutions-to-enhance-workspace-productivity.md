@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:19:25Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/optimal-lighting-solutions-to-enhance-workspace-productivity.webp
+heroImage: /images/hero/optimal-lighting-solutions-to-enhance-workspace-productivity.jpg
 subtopic: lighting
 ---
 
@@ -135,3 +135,11 @@ Taking the time to measure, test, and adjust your lighting setup will pay divide
 **A:** Yes. Overhead lighting alone often creates shadows, glare, or insufficient brightness for tasks. A flexible desk lamp allows precise control where you need it most.
 
 > **See also:** [Setting Up Lighting to Reduce Glare on Computer Screens](https://chairwise.app/articles/setting-up-lighting-to-reduce-glare-on-computer-screens/)
+
+## Related reading
+
+- [How to Combine Natural and Artificial Lighting Ergonomically](/articles/how-to-combine-natural-and-artificial-lighting-ergonomically/)
+- [Daylight-Mimicking Desk Lamps to Improve Mood and Alertness](/articles/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness/)
+- [How Lighting Color Temperature Affects Home Office Productivity](/articles/how-lighting-color-temperature-affects-home-office-productivity/)
+- [Impact of Workspace Lighting Color Temperature on Productivity](/articles/impact-of-workspace-lighting-color-temperature-on-productivity/)
+- [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)

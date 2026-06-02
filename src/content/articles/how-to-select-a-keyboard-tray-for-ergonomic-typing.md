@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:15:17Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-select-a-keyboard-tray-for-ergonomic-typing.webp
+heroImage: /images/hero/how-to-select-a-keyboard-tray-for-ergonomic-typing.jpg
 subtopic: chairs
 ---
 
@@ -143,3 +143,11 @@ These measurements inform the adjustability range your tray needs.
 ---
 
 Selecting a keyboard tray is a blend of understanding your body dimensions, your workspace constraints, and looking beyond flashy marketing to real adjustability and fit. By prioritizing measured fit, sufficient adjustability, and stable build, you can find a keyboard tray that makes your 8+ hours typing sessions comfortable and sustainable.
+
+## Related reading
+
+- [22. Keyboard trays: worth it for most people?](/articles/22-keyboard-trays-worth-it-for-most-people/)
+- [Choosing Keyboards with Backlighting for Low-Light Workspaces](/articles/choosing-keyboards-with-backlighting-for-low-light-workspaces/)
+- [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)

@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:46:59Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/16-treadmill-desks-who-they-work-for-and-who-should-skip.webp
+heroImage: /images/hero/16-treadmill-desks-who-they-work-for-and-who-should-skip.jpg
 subtopic: desks
 ---
 
@@ -134,3 +134,11 @@ Treadmill desks offer a promising way to reduce sedentary time and improve healt
 
 **Q: Are treadmill desks better than standing desks?**  
 **A:** They reduce sedentary time more effectively by adding movement but come with a higher learning curve and space requirements. Standing desks are simpler and usually better for precision tasks.
+
+## Related reading
+
+- [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+- [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)

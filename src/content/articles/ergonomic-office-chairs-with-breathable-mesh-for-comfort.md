@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:35:50Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/ergonomic-office-chairs-with-breathable-mesh-for-comfort.webp
+heroImage: /images/hero/ergonomic-office-chairs-with-breathable-mesh-for-comfort.jpg
 subtopic: chairs
 ---
 
@@ -109,3 +109,11 @@ If your office is climate controlled and cool, mesh’s high breathability may b
 ---
 
 Selecting an ergonomic office chair with breathable mesh requires balancing airflow with fit and adjustability. Prioritize seat depth, lumbar range, and multiaxis armrests alongside mesh quality for long-lasting day-to-day comfort. Taking time to test or carefully evaluate specs helps avoid trade-offs that only show up after an 8-hour workday.
+
+## Related reading
+
+- [5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times](/articles/5-hon-ignition-2-0-the-300-dollar-chair-that-beats-chairs-at-three-times-the-price/)
+- [Customizing Chairwise Chairs for Personalized Comfort and Support](/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
+- [4. Humanscale Freedom: who it works for and who it punishes](/articles/4-humanscale-freedom-who-it-works-for-and-who-it-punishes/)
+- [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)
+- [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)

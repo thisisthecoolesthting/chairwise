@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:02:08Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-position-dual-monitors-ergonomically-in-your-home-office.webp
+heroImage: /images/hero/how-to-position-dual-monitors-ergonomically-in-your-home-office.jpg
 subtopic: chairs
 ---
 
@@ -110,3 +110,11 @@ By following these steps, you can expect reduced discomfort, prolonged productiv
 
 **Q:** What if my desk doesn’t have enough space for side-by-side monitors?  
 **A:** Consider a stacked (vertical) setup or use mount arms that allow you to position one monitor above the other. Just be aware that vertical arrangements may increase neck flexion, so height adjustability is crucial.
+
+## Related reading
+
+- [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
+- [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
+- [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)

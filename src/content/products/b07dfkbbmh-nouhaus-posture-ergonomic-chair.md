@@ -46,3 +46,10 @@ Best match: users who sit more than 6 hours/day in warmer environments and don't
 support. Graphic designers and coders in un-air-conditioned offices consistently rate this highly.
 
 <AffiliateCTA asin="B07DFKBBMH" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](/articles/chairwise-article-03/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-02/)

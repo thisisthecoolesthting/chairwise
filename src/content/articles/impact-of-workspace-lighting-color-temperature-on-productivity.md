@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:33:36Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/impact-of-workspace-lighting-color-temperature-on-productivity.webp
+heroImage: /images/hero/impact-of-workspace-lighting-color-temperature-on-productivity.jpg
 subtopic: lighting
 ---
 
@@ -101,3 +101,11 @@ Adjustable color temperature lamps or smart lighting systems allow workers to tu
 ---
 
 By paying attention to workspace lighting color temperature alongside ergonomics like chair fit and desk setup, desk workers can create healthier, more productive work environments that support all-day comfort and performance.
+
+## Related reading
+
+- [How Lighting Color Temperature Affects Home Office Productivity](/articles/how-lighting-color-temperature-affects-home-office-productivity/)
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
+- [Daylight-Mimicking Desk Lamps to Improve Mood and Alertness](/articles/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness/)
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+- [Impact of Natural Lighting on Workplace Wellness and Output](/articles/impact-of-natural-lighting-on-workplace-wellness-and-output/)

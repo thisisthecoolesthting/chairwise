@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:26:56Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility.webp
+heroImage: /images/hero/monitor-arms-with-swivel-and-tilt-for-maximum-flexibility.jpg
 subtopic: chairs
 ---
 
@@ -135,3 +135,11 @@ A monitor arm with swivel and tilt is a cornerstone of ergonomic desk setups, gi
 
 **Q: How do I know if my monitor is VESA compatible?**  
 **A:** Check the back of your monitor for four screw holes arranged in a square pattern (usually 75x75mm or 100x100mm). Your monitor’s manual or manufacturer website will also specify VESA compatibility.
+
+## Related reading
+
+- [Selecting the Ideal Monitor Arm for Flexible Positioning](/articles/selecting-the-ideal-monitor-arm-for-flexible-positioning/)
+- [35. Monitor distance and the 20-20-20 rule vs the real measurement](/articles/35-monitor-distance-and-the-20-20-20-rule-vs-the-real-measurement/)
+- [Monitor Arm Installation Tricks for a Clutter-Free Desk](/articles/monitor-arm-installation-tricks-for-a-clutter-free-desk/)
+- [19. The monitor arm test: 8 arms reviewed at 34-inch ultrawide](/articles/19-the-monitor-arm-test-8-arms-reviewed-at-34-inch-ultrawide/)
+- [Monitor Arms That Boost Desk Space and Posture Alignment](/articles/monitor-arms-that-boost-desk-space-and-posture-alignment/)

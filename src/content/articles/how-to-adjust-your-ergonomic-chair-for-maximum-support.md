@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:07:34Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/how-to-adjust-your-ergonomic-chair-for-maximum-support.webp
+heroImage: /images/hero/how-to-adjust-your-ergonomic-chair-for-maximum-support.jpg
 subtopic: chairs
 ---
 
@@ -99,3 +99,11 @@ While chairs claim features like “memory foam” or “perfect lumbar support,
 ---
 
 Proper ergonomic chair adjustment is an iterative process and key for maintaining comfort and productivity during long desk hours. By focusing on measurable fit factors like seat depth, lumbar positioning, and armrest manipulation, you can create a sustainable sitting posture that minimizes strain and supports your workday.
+
+## Related reading
+
+- [How to Set Up a Home Office for Back Pain Prevention](/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+- [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
+- [The Role of Footrests in Ergonomic Home Office Comfort](/articles/the-role-of-footrests-in-ergonomic-home-office-comfort/)
+- [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)

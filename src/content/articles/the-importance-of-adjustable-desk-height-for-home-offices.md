@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:15:14Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/the-importance-of-adjustable-desk-height-for-home-offices.webp
+heroImage: /images/hero/the-importance-of-adjustable-desk-height-for-home-offices.jpg
 subtopic: desks
 ---
 
@@ -100,3 +100,11 @@ Follow these steps for an optimal, comfortable workstation set up:
 
 **Q: Do I need an ergonomic chair if I have an adjustable desk?**  
 **A:** Absolutely. An adjustable desk works best in conjunction with an ergonomic chair featuring adjustable seat depth, lumbar support, and 4D armrests to create a balanced and comfortable workstation setup.
+
+## Related reading
+
+- [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+- [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+- [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+- [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+- [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)

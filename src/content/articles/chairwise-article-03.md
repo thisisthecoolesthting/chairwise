@@ -12,6 +12,7 @@ heroImage: '/images/hero/chairwise-article-03.jpg'
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 "Should I really spend $1400 on an Herman Miller Aeron when this $400 chair has similar features?" This is the question we hear daily from remote workers experiencing back pain. As a former occupational therapist, I've tested 8 popular ergonomic chairs across body types ranging from 5'2" to 6'5", logging 300+ hours of actual work sessions across writing, coding, and video call scenarios. The truth?
@@ -115,6 +116,14 @@ For those not ready to commit to premium chairs, we tested these alternative app
 - Add a balance board ($59) to engage core muscles during calls
 
 **Warning**: Third-party replacement parts often void warranties. A $50 knockoff Aeron gas cylinder failed catastrophically in our drop tests (collapsed from 24" height), while OEM cylinders withstood 48" drops. Always purchase through authorized dealers.
+
+## Related reading
+
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-07/)
+- [Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers](/articles/standing-desk-benefits-and-drawbacks/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-04/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-06/)
 
 ## FAQ
 

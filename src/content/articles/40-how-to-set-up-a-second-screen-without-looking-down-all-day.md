@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:56:38Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/40-how-to-set-up-a-second-screen-without-looking-down-all-day.webp
+heroImage: /images/hero/40-how-to-set-up-a-second-screen-without-looking-down-all-day.jpg
 subtopic: chairs
 ---
 
@@ -157,3 +157,11 @@ In short, trust your body feedback, measure carefully, and don’t accept a setu
 
 **Q: Why do I feel more neck pain even though my monitors are “adjustable”?**  
 **A:** Adjustable doesn’t guarantee correct movement or fit. Often, poor chair fit, fixed desks, or not fine-tuning armrests and monitor tilt cause subtle posture stresses that add up over hours — ensure all ergonomic factors align for your body size and workflow.
+
+## Related reading
+
+- [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+- [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
+- [Lighting Design Ideas to Create an Inviting Home Office](/articles/lighting-design-ideas-to-create-an-inviting-home-office/)
+- [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+- [Monitor Arm Cable Management Solutions for a Tidy Workspace](/articles/monitor-arm-cable-management-solutions-for-a-tidy-workspace/)

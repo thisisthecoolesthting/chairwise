@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T06:02:48Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/9-kneeling-chairs-the-physical-therapy-take.webp
+heroImage: /images/hero/9-kneeling-chairs-the-physical-therapy-take.jpg
 subtopic: chairs
 ---
 
@@ -126,3 +126,11 @@ The consensus is kneeling chairs are best used as part of a varied seating strat
 ---
 
 Kneeling chairs offer an interesting, physically grounded approach to improving desk posture but require careful fit, mindful use, and realistic expectations. Consider them as part of a broader ergonomic strategy, not a standalone solution.
+
+## Related reading
+
+- [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
+- [Ergonomic Chair Features to Look for in 2024](/articles/ergonomic-chair-features-to-look-for-in-2024/)
+- [Finding the Best Chair for Lower Back Pain in Your WFH Setup](/articles/best-chair-lower-back-pain-wfh/)
+- [Improving Posture with Ergonomic Home Office Furniture](/articles/improving-posture-with-ergonomic-home-office-furniture/)
+- [The Ultimate Ergonomic Chair Showdown: Herman Miller vs. Steelcase vs. Budget   Alternatives](/articles/chairwise-article-09/)

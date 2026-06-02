@@ -6,7 +6,7 @@ tier: mvp
 updatedAt: '2026-05-12T07:29:34Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness.webp
+heroImage: /images/hero/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness.jpg
 subtopic: desks
 ---
 
@@ -92,3 +92,11 @@ Daylight-mimicking desk lamps are a practical investment for anyone spending ext
 
 **Q: Are there risks of too much blue light exposure from these lamps?**  
 **A:** High levels of blue light in the evening can disrupt melatonin production and sleep. Use blue light–rich lamps during morning and midday, and switch to warmer, dimmer lighting later in the day to mitigate this risk.
+
+## Related reading
+
+- [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+- [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
+- [Impact of Workspace Lighting Color Temperature on Productivity](/articles/impact-of-workspace-lighting-color-temperature-on-productivity/)
+- [How Lighting Color Temperature Affects Home Office Productivity](/articles/how-lighting-color-temperature-affects-home-office-productivity/)
+- [Adjustable Lighting Solutions for a Comfortable Home Office](/articles/adjustable-lighting-solutions-for-a-comfortable-home-office/)

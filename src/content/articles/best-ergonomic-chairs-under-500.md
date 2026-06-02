@@ -14,6 +14,7 @@ cardPick: 'Top pick combines lumbar support, adjustable armrests, and breathable
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
+
 ## Introduction
 
 "Why does my back still hurt after spending $300 on an 'ergonomic' chair?" This is the question we hear most from remote workers who've been burned by marketing claims. As a former occupational therapist with 11 years of clinical experience treating work-related musculoskeletal disorders, I designed this test to expose the real-world performance of budget ergonomic chairs.
@@ -36,7 +37,7 @@ Through this exhaustive testing, we identified 5 chairs that genuinely meet ergo
 
 
 
-> **See also:** [The Ultimate Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
+> **See also:** [The Ultimate [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase](/articles/chairwise-article-01/) Leap   vs. Budget Alternatives](https://chairwise.app/articles/chairwise-article-03/)
 
 ## Why This Matters
 
@@ -149,6 +150,14 @@ Important tradeoffs to consider:
 - Hybrid solutions require more space and frequent position changes
 
 The [Flash Furniture Chair](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) becomes a viable option when paired with $118 in upgrades (lumbar pillow + seat cushion + armrest pads), but this brings total investment to $418 - nearly the price of our top pick Ticova that requires no modifications.
+
+## Related reading
+
+- [Ergonomic Chair Showdown: The Best Seats for 8+ Hour Workdays](/articles/chairwise-article-08/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](/articles/chairwise-article-01/)
+- [The Best Ergonomic Chairs Under $500: Honest Reviews from an Occupational   Therapist](/articles/best-ergonomic-chair-under-500/)
+- [5. HON Ignition 2.0: the 300 dollar chair that beats chairs at three times](/articles/5-hon-ignition-2-0-the-300-dollar-chair-that-beats-chairs-at-three-times-the-price/)
+- [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-10/)
 
 ## FAQ
 
