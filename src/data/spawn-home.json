@@ -97,5 +97,27 @@
   "about": {
     "headline": "Why ChairWise exists",
     "body": "Home-office ergonomics went from an HR topic to a household crisis in 2020, and nobody is coming to fix it. We test the chairs, desks, arms, and keyboards that matter, rate them for specific bodies and specific work \u2014 not average users and not influencer gift bags \u2014 and tell you where the real price-quality cliffs are."
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
 }

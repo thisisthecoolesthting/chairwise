@@ -28,7 +28,7 @@ const fromCatalog: BottomAmazonPick[] = catalog
       subtitle:
         (p.data as { cardPick?: string }).cardPick ||
         p.data.metaDescription?.slice(0, 120) ||
-        'Tracked on ChairWise — compare before you restock.',
+        'Reviewed on ChairWise — real retail tests.',
       priceLabel: price > 0 ? `From ~$${price.toFixed(0)}` : 'See Amazon price',
       badge: 'On our watchlist',
       imageUrl: p.data.imageUrl,

@@ -4,13 +4,6 @@
  * Regenerate: SPINE_SYNC_SITE=<slug> python scripts/sync_amazon_inline_image_map.py
  */
 export const AMAZON_INLINE_IMAGE_BY_ASIN = {
-  B000WKWMWS: 'https://m.media-amazon.com/images/I/51rRWjWC7bL.jpg',
-  B00C2O7C7O: 'https://m.media-amazon.com/images/I/515nKDNSU5L.jpg',
-  B00HHQX0BQ: 'https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg',
-  B00NQ1CLTI: 'https://m.media-amazon.com/images/I/41Em5XfxbwL.jpg',
-  B01N5IB20Q: 'https://m.media-amazon.com/images/I/41VtUi6pMDL.jpg',
-  B07QR6Z1JB: 'https://m.media-amazon.com/images/I/51OpfxMruwL.jpg',
-  B082Y7X9H5: 'https://m.media-amazon.com/images/I/41KzfM5S8ML.jpg',
 };
 
 export function amazonInlineImageUrl(asin) {
