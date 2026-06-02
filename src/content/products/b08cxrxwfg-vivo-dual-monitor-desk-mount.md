@@ -13,6 +13,7 @@ reviewCount: 32480
 bsr: 72
 commissionPerSale: 0.0
 score: 49.2
+imageUrl: "/images/amazon-picks/B08CXRXWFG.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08CXRXWFG?tag=chairwise-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"
