@@ -1,0 +1,1 @@
+import"./hoisted.k7HZ-5pS.js";(function(){const t=document.querySelector("[data-sticky-product-bar]"),e=document.querySelector("[data-sticky-dismiss]");!t||!e||e.addEventListener("click",()=>{t.style.display="none"})})();

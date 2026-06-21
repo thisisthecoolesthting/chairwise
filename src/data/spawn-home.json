@@ -40,9 +40,9 @@
     "author_slug": "nate-brennan",
     "methodology": [
       "Every chair, desk, and arm is purchased at retail and tested for at least 60 days; manufacturer samples are not accepted.",
-      "Each product is evaluated across 8 body types (height + weight + sitting style) and 3 working styles (focused-typing, meeting-heavy, mixed) \u2014 never reduced to an average user.",
+      "Each product is evaluated across 8 body types (height + weight + sitting style) and 3 working styles (focused-typing, meeting-heavy, mixed) — never reduced to an average user.",
       "Ergonomic claims are checked against current OT/PT guidance and our reviewer's clinical training; we cite the source for any pain or posture claim.",
-      "We name the price-quality cliff for each category \u2014 the point above which more dollars stop buying more comfort \u2014 and tell you when the cheaper pick wins.",
+      "We name the price-quality cliff for each category — the point above which more dollars stop buying more comfort — and tell you when the cheaper pick wins.",
       "Partner links use the retailer where we actually bought the product; we do not chase the highest commission rate.",
       "Pulled-from-rotation picks are tracked in a public 'no longer recommended' archive with the reason and the date."
     ],
@@ -96,7 +96,7 @@
   },
   "about": {
     "headline": "Why ChairWise exists",
-    "body": "Home-office ergonomics went from an HR topic to a household crisis in 2020, and nobody is coming to fix it. We test the chairs, desks, arms, and keyboards that matter, rate them for specific bodies and specific work \u2014 not average users and not influencer gift bags \u2014 and tell you where the real price-quality cliffs are."
+    "body": "Home-office ergonomics went from an HR topic to a household crisis in 2020, and nobody is coming to fix it. We test the chairs, desks, arms, and keyboards that matter, rate them for specific bodies and specific work — not average users and not influencer gift bags — and tell you where the real price-quality cliffs are."
   },
   "navigation": [
     {
@@ -119,5 +119,10 @@
       "href": "/about",
       "label": "About"
     }
-  ]
+  ],
+  "analytics": {
+    "ga_measurement_id": "G-9188R3W7KH",
+    "ga_property_id": "536752478",
+    "search_console_property": "https://chairwise.app/"
+  }
 }
