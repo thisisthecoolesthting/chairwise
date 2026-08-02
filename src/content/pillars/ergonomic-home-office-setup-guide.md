@@ -1,5 +1,5 @@
 ---
-title: The Essential Ergonomic Home Office Setup Guide for Comfort and Productivity
+title: "Ergonomic Home Office Guide for Comfort & Productivity"
 metaDescription: Discover how to create the perfect ergonomic home office setup with our comprehensive guide. Learn what to look for and explore our top picks for a healthier workspace.
 publishedAt: '2026-08-02'
 updatedAt: '2026-08-02'
