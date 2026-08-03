@@ -121,3 +121,12 @@ Choosing the right chair means matching your body dimensions to seat depth and a
 - [1. Herman Miller Aeron size B vs Steelcase Leap v2 after 90 days in real bodies](/articles/1-herman-miller-aeron-size-b-vs-steelcase-leap-v2-after-90-days-in-real-bodies/)
 - [How to Set Up an Ergonomic Workstation: A Former OT''s 60-Day Testing Guide](/articles/how-to-set-up-ergonomic-workstation/)
 - [44. Why most chair reviews fail tall, short, and pregnant users](/articles/44-why-most-chair-reviews-fail-tall-short-and-pregnant-users/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[Massage Office Chair, 500LBS Ergonomic Rocking Executive Desk Chairs with 4 Poin](/products/massage-office-chair-500lbs-ergonomic-rocking-executive/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Ch](/products/massage-office-chair-with-foot-rest-6-point-vibration-h/)** — see current price and specs.
+

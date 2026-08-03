@@ -1,25 +1,26 @@
 ---
-asin: "B0GPRHFGPQ"
-title: "750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Office Chairs for Heavy People,Computer Desk Chair with 4D Armrests,Adjustable Lumbar Support for Long Hours Daliy Work"
-seoTitle: "750lbs Big and Tall Office Chair with Wide Thick Seat Cushio, Review"
-metaDescription: "Editorial overview of 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio — who it fits and where to check availability on Amazon."
-cardTitle: "750lbs Big and Tall Office Chair with Wide Thick Seat Cushio"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "home-kitchen"
+asin: B0GPRHFGPQ
+title: 750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Office Chairs for Heavy People,Computer Desk Chair with 4D Armrests,Adjustable Lumbar Support for Long Hours Daliy Work
+seoTitle: 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio, Review
+metaDescription: Editorial overview of 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio — who it fits and where to check availability on Amazon.
+cardTitle: 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio
+cardPick: Ranked catalog pick (unified harvester pool).
+category: home-kitchen
 price: 129.98
 rating: 4.7
 reviewCount: 44
 bsr: 139002
 commissionPerSale: 0.0
 score: 183.23
-imageUrl: "https://m.media-amazon.com/images/I/716UZTqarfL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GPRHFGPQ?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/716UZTqarfL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0GPRHFGPQ?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T13:15:09+00:00"
-lastSeen: "2026-06-09T13:15:09+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T13:15:09+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # 750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Office Chairs for Heavy People,Computer Des
 

@@ -129,3 +129,12 @@ Tall, short, and pregnant users face unique challenges finding ergonomic work ch
 - [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
 - [7. The best budget ergonomic chair under 250 dollars across six body types](/articles/7-the-best-budget-ergonomic-chair-under-250-dollars-across-six-body-types/)
 - [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Massage Office Chair, 500LBS Ergonomic Rocking Executive Desk Chairs with 4 Poin](/products/massage-office-chair-500lbs-ergonomic-rocking-executive/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Ch](/products/massage-office-chair-with-foot-rest-6-point-vibration-h/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Cha](/products/massage-office-chair-with-foot-rest-6-points-vibration-/)** — see current price and specs.
+

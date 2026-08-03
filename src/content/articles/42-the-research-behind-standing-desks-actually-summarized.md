@@ -131,3 +131,12 @@ Standing desks can be valuable ergonomic tools for desk workers aiming to reduce
 - [16. Treadmill desks: who they work for and who should skip](/articles/16-treadmill-desks-who-they-work-for-and-who-should-skip/)
 - [Standing Desks and Their Role in Combating Sedentary Lifestyle](/articles/standing-desks-and-their-role-in-combating-sedentary-lifestyle/)
 - [Using Standing Desks to Boost Calorie Burn and Energy Levels](/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+

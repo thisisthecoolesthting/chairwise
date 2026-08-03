@@ -109,3 +109,12 @@ By thoughtfully choosing and customizing your desk lighting, you create a work e
 - [The Importance of Adjustable Desk Height for Home Offices](/articles/the-importance-of-adjustable-desk-height-for-home-offices/)
 - [How LED Desk Lighting Can Reduce Eye Strain During Work](/articles/how-led-desk-lighting-can-reduce-eye-strain-during-work/)
 - [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+

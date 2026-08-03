@@ -1,25 +1,26 @@
 ---
-asin: "B0GPF3B1NK"
-title: "KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adjustable Lumbar Support for Back Pain,High Back Desk Chair with Wide Seat for Home Office"
-seoTitle: "KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec, Review"
-metaDescription: "Editorial overview of KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec — who it fits and where to check availability on Amazon."
-cardTitle: "KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec"
-cardPick: "Catalog export from unified harvester pool."
-category: "home-kitchen"
+asin: B0GPF3B1NK
+title: KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adjustable Lumbar Support for Back Pain,High Back Desk Chair with Wide Seat for Home Office
+seoTitle: KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec, Review
+metaDescription: Editorial overview of KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec — who it fits and where to check availability on Amazon.
+cardTitle: KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec
+cardPick: Catalog export from unified harvester pool.
+category: home-kitchen
 price: null
 rating: 1.6
 reviewCount: 50
 bsr: 15
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GPF3B1NK?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GPF3B1NK?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adjustable Lumbar Support for Back Pain,Hig
 

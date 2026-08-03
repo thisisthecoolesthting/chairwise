@@ -115,3 +115,12 @@ Choosing between 24, 27, and 32-inch external displays for your laptop boils dow
 - [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
 - [Monitor Arm Compatibility with Ultra-Wide and Curved Displays](/articles/monitor-arm-compatibility-with-ultra-wide-and-curved-displays/)
 - [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+
+## Our picks worth a closer look
+
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+

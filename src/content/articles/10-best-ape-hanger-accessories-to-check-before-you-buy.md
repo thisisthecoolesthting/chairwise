@@ -160,3 +160,8 @@ Equipping your ape hangers with the right accessories is more than just a style 
 - [Mofun Chrome 12\" Rise Handlebar 1-1/4\" Bagger Handlebar Ape Hanger Compatible with Harley Touring Street Glide Electra Glide Models 1986-2023 with Batwing Fairing, Ultra Limited 2024](/products/b09bcwy4gb-mofun-chrome-12-rise-handlebar-1-1-4-bagger-handlebar-ape-ha/)
 - [bylikeho Saddlebag Locks,Theft Deterrent Saddlebag Locks,Car Accessories Black Motorcycle Saddlebag Locks Mounting Screw Bolt Mounting Hardware,Fit for Touring Street Glide,Electra Glide,Road Glide](/products/b0cxhp2v6c-bylikeho-saddlebag-locks-theft-deterrent-saddlebag-locks-car/)
 - [Original Bike Spirits Spray Cleaner and Polish - 14 Ounce - 1039615 - The Ultimate Motorcycle Cleaner in a Can to Make Any Vehicle Shine, Cleans, Polishes and Protects](/products/b007kpx7hq-original-bike-spirits-spray-cleaner-and-polish-14-ounce-1039/)
+
+## Our picks worth a closer look
+
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+

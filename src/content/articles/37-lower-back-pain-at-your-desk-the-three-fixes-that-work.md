@@ -131,3 +131,12 @@ Lower back pain from chair use is rarely fixed by one change. Instead, focus on 
 - [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
 - [How Chairwise Chairs Help Alleviate Sciatica and Hip Pain](/articles/how-chairwise-chairs-help-alleviate-sciatica-and-hip-pain/)
 - [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adj](/products/kwksv-500lbs-big-and-tall-office-chair-comfy-heavy-duty/)** — see current price and specs.
+- **[QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Fo](/products/qltplus-office-desk-chair-for-long-hours-back-pain-reli/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+

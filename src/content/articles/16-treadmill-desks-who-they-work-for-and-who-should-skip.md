@@ -142,3 +142,11 @@ Treadmill desks offer a promising way to reduce sedentary time and improve healt
 - [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
 - [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
 - [Benefits of Sit-Stand Desks for Home Office Health](/articles/benefits-of-sit-stand-desks-for-home-office-health/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+

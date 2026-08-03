@@ -125,3 +125,8 @@ Split keyboards are a powerful ergonomic tool for desk workers, but maximizing t
 - [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
 - [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
 - [Ergonomic Keyboards That Reduce Wrist Strain Effectively](/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
+
+## Our picks worth a closer look
+
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+

@@ -124,3 +124,12 @@ By focusing on fit, comfort, and responsive posture switching rather than fixed 
 - [6. Why the Aeron is wrong for most people who bought it](/articles/6-why-the-aeron-is-wrong-for-most-people-who-bought-it/)
 - [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives](/articles/chairwise-article-05/)
 - [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
+## Our picks worth a closer look
+
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+- **[Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He](/products/huuger-electric-standing-desk-with-power-outlets-and-us/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des](/products/oukmic-32-stable-standing-desk-converter-height-adjusta/)** — see current price and specs.
+

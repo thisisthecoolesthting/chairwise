@@ -1,25 +1,26 @@
 ---
-asin: "B0GS7T23Q8"
-title: "ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tracker, Health Tracker with Heart Rate Monitor, Sleep Tracker,1.10''AMOLED Touch Color Screen, Pedometer Watch for Women Men"
-seoTitle: "ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Review"
-metaDescription: "Editorial overview of ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch — who it fits and where to check availability on Amazon."
-cardTitle: "ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "sports-outdoors"
+asin: B0GS7T23Q8
+title: ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tracker, Health Tracker with Heart Rate Monitor, Sleep Tracker,1.10''AMOLED Touch Color Screen, Pedometer Watch for Women Men
+seoTitle: ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Review
+metaDescription: Editorial overview of ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch — who it fits and where to check availability on Amazon.
+cardTitle: ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch
+cardPick: Ranked catalog pick (unified harvester pool).
+category: sports-outdoors
 price: 26.09
 rating: 2.6
 reviewCount: 42
 bsr: 1586
 commissionPerSale: 0.0
 score: 132.56
-imageUrl: "https://m.media-amazon.com/images/I/61fbSaW3vUL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GS7T23Q8?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/61fbSaW3vUL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0GS7T23Q8?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T14:15:12+00:00"
-lastSeen: "2026-06-09T14:15:12+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T14:15:12+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tracker, Health Tracker with Heart Rate Monitor, 
 

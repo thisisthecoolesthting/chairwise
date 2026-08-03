@@ -1,25 +1,26 @@
 ---
-asin: "B0GVCPYQT1"
-title: "FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Office, Sit Stand Computer Workstation for Laptop & Dual Monitor Setup, Black"
-seoTitle: 'FLEXISPOT 32" Standing Desk Converter, Space-Saving Desktop , Review'
-metaDescription: 'Editorial overview of FLEXISPOT 32" Standing Desk Converter, Space-Saving Desktop  — who it fits and where to check availability on Amazon.'
+asin: B0GVCPYQT1
+title: FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Office, Sit Stand Computer Workstation for Laptop & Dual Monitor Setup, Black
+seoTitle: FLEXISPOT 32" Standing Desk Converter, Space-Saving Desktop , Review
+metaDescription: Editorial overview of FLEXISPOT 32" Standing Desk Converter, Space-Saving Desktop  — who it fits and where to check availability on Amazon.
 cardTitle: 'FLEXISPOT 32" Standing Desk Converter, Space-Saving Desktop '
-cardPick: "Catalog export from unified harvester pool."
-category: "office-products"
+cardPick: Catalog export from unified harvester pool.
+category: office-products
 price: null
 rating: 0.6
 reviewCount: 50
 bsr: 16
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GVCPYQT1?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GVCPYQT1?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # FLEXISPOT 32" Standing Desk Converter, Space-Saving Desktop Riser for Home Office, Sit Stand Computer Workstation for La
 

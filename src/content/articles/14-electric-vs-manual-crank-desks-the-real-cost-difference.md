@@ -119,3 +119,12 @@ Your best choice depends on how much you plan to switch between sitting and stan
 - [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
 - [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
 - [Standing Desks and Their Role in Combating Sedentary Lifestyle](/articles/standing-desks-and-their-role-in-combating-sedentary-lifestyle/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer ](/products/bestand-real-fan-white-noise-machine-sleep-sound-machin/)** — see current price and specs.
+- **[FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Creams & Oils,Muscular Ac](/products/fei-fah-electric-medibalm-net-2-45-oz-70g-ointments-cre/)** — see current price and specs.
+- **[Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He](/products/huuger-electric-standing-desk-with-power-outlets-and-us/)** — see current price and specs.
+- **[WOOLALA Heated Wrist Brace with Massager USB Portable Electric Heating Pad for C](/products/woolala-heated-wrist-brace-with-massager-usb-portable-e/)** — see current price and specs.
+

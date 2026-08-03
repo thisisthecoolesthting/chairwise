@@ -128,3 +128,12 @@ If you want a chair that supports you from the first sit to quit time, a measure
 - [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
 - [The Ultimate Ergonomic Chair Showdown: Herman Miller vs. Steelcase vs. Budget   Alternatives](/articles/chairwise-article-09/)
 - [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Ch](/products/massage-office-chair-with-foot-rest-6-point-vibration-h/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Cha](/products/massage-office-chair-with-foot-rest-6-points-vibration-/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+

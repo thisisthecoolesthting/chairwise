@@ -1,25 +1,26 @@
 ---
-asin: "B07KMKFFXX"
-title: "Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Compatible with ZD420t and ZD620t Thermal Transfer Desktop Printers 1 Set P1080383-231"
-seoTitle: "Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Comp, Review"
-metaDescription: "Editorial overview of Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Comp — who it fits and where to check availability on Amazon."
-cardTitle: "Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Comp"
-cardPick: "Catalog export from unified harvester pool."
-category: "office-products"
+asin: B07KMKFFXX
+title: Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Compatible with ZD420t and ZD620t Thermal Transfer Desktop Printers 1 Set P1080383-231
+seoTitle: Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Comp, Review
+metaDescription: Editorial overview of Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Comp — who it fits and where to check availability on Amazon.
+cardTitle: Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Comp
+cardPick: Catalog export from unified harvester pool.
+category: office-products
 price: null
 rating: 0.3
 reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07KMKFFXX?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B07KMKFFXX?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Compatible with ZD420t and ZD620t Thermal Transfer Desktop Print
 

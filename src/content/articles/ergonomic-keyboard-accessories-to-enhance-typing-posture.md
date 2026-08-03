@@ -109,3 +109,12 @@ Healthy, pain-free typing over long hours depends as much on measured posture fi
 - [26. Split keyboards for wrist pain: who they actually help](/articles/26-split-keyboards-for-wrist-pain-who-they-actually-help/)
 - [How to Select a Keyboard Tray for Ergonomic Typing](/articles/how-to-select-a-keyboard-tray-for-ergonomic-typing/)
 - [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
+
+## Our picks worth a closer look
+
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

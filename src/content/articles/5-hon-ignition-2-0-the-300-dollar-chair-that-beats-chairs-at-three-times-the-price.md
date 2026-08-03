@@ -102,3 +102,12 @@ Ultimately, the Ignition 2.0 is an excellent entry-level ergonomic chair — a s
 - [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
 - [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)
 - [Ergonomic Chair Features to Look for in 2024](/articles/ergonomic-chair-features-to-look-for-in-2024/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

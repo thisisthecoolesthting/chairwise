@@ -93,3 +93,12 @@ Choosing between the Herman Miller Aeron Size B and the Steelcase Leap V2 ultima
 - [How to Set Up an Ergonomic Workstation: A Former OT''s 60-Day Testing Guide](/articles/how-to-set-up-ergonomic-workstation/)
 - [Standing Desk vs. Sitting: Real Health Trade-offs for Remote Workers](/articles/standing-desk-benefits-and-drawbacks/)
 - [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
+
+## Our picks worth a closer look
+
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
+- **[Steelcase Leap Chair V2 In Black Fabric](/products/steelcase-leap-chair-v2-in-black-fabric/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+

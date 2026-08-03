@@ -94,3 +94,12 @@ Choosing between a single and dual monitor arm hinges on matching ergonomic prin
 - [Best Chairwise Monitor Arms for Multi-Monitor Workstations](/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)
 - [Monitor Arms That Boost Desk Space and Posture Alignment](/articles/monitor-arms-that-boost-desk-space-and-posture-alignment/)
 - [How to Select the Perfect Monitor Arm for Dual Screens](/articles/how-to-select-the-perfect-monitor-arm-for-dual-screens/)
+
+## Our picks worth a closer look
+
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ul](/products/ergofocus-heavy-duty-single-monitor-mount-for-max-49-in/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+- **[Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke](/products/height-adjustable-standing-desk-converter-computer-keyb/)** — see current price and specs.
+- **[OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des](/products/oukmic-32-stable-standing-desk-converter-height-adjusta/)** — see current price and specs.
+

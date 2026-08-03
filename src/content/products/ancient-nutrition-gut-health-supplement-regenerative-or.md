@@ -1,25 +1,26 @@
 ---
-asin: "B0C7HJCN36"
-title: "Ancient Nutrition Gut Health Supplement, Regenerative Organic Certified Leaky Gut Capsules, Formulated with Lion’s Mane, Fermented Licorice Root and Spearmint, Gluten Free, Paleo and Keto Friendly, 90"
-seoTitle: "Ancient Nutrition Gut Health Supplement, Regenerative Organi, Review"
-metaDescription: "Editorial overview of Ancient Nutrition Gut Health Supplement, Regenerative Organi — who it fits and where to check availability on Amazon."
-cardTitle: "Ancient Nutrition Gut Health Supplement, Regenerative Organi"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "health-household"
+asin: B0C7HJCN36
+title: Ancient Nutrition Gut Health Supplement, Regenerative Organic Certified Leaky Gut Capsules, Formulated with Lion’s Mane, Fermented Licorice Root and Spearmint, Gluten Free, Paleo and Keto Friendly, 90
+seoTitle: Ancient Nutrition Gut Health Supplement, Regenerative Organi, Review
+metaDescription: Editorial overview of Ancient Nutrition Gut Health Supplement, Regenerative Organi — who it fits and where to check availability on Amazon.
+cardTitle: Ancient Nutrition Gut Health Supplement, Regenerative Organi
+cardPick: Ranked catalog pick (unified harvester pool).
+category: health-household
 price: 33.96
 rating: 2.6
 reviewCount: 40
 bsr: 109020
 commissionPerSale: 0.0
 score: 121.2
-imageUrl: "https://m.media-amazon.com/images/I/712nKpMZgXL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0C7HJCN36?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/712nKpMZgXL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0C7HJCN36?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T15:15:09+00:00"
-lastSeen: "2026-06-09T15:15:09+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T15:15:09+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Ancient Nutrition Gut Health Supplement, Regenerative Organic Certified Leaky Gut Capsules, Formulated with Lion’s Mane,
 

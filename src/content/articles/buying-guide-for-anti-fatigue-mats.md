@@ -98,3 +98,12 @@ A well-maintained, high-quality anti-fatigue mat can last for many years, provid
 ## Bottom Line
 
 An anti-fatigue mat is not a luxury; it's an essential ergonomic tool for anyone using a standing desk for more than an hour or two a day. It works by promoting subtle movement, improving circulation, and absorbing shock, thereby mitigating the cumulative stress of static standing. When selecting a mat, prioritize high-density polyurethane construction for durability and consistent support. Look for features like beveled edges for safety, anti-slip backing, and appropriate size for your workspace. While flat mats are effective, topographical mats like the Ergodriven Topo can offer enhanced engagement and dynamic comfort. Don't let the benefits of your standing desk be undermined by standing on an unforgiving surface; invest in a quality mat and pair it with [proper standing posture](INTERNAL:standing-posture-guide) and frequent movement.
+
+## Our picks worth a closer look
+
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
+

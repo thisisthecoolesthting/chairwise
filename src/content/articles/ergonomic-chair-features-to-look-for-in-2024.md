@@ -148,3 +148,12 @@ Choosing the right ergonomic chair in 2024 means looking past marketing hype and
 - [9. Kneeling chairs: the physical therapy take](/articles/9-kneeling-chairs-the-physical-therapy-take/)
 - [45. When to spend 1000 dollars on a chair and when 200 is enough](/articles/45-when-to-spend-1000-dollars-on-a-chair-and-when-200-is-enough/)
 - [39. How to sit for 8 hours without wrecking yourself](/articles/39-how-to-sit-for-8-hours-without-wrecking-yourself/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+

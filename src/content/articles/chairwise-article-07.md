@@ -1,14 +1,14 @@
 ---
 title: 'Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap vs. Budget   Alternatives'
-metaDescription: 'Seat depth testing across 8 body types revealed crucial comfort factors. 60+ day analysis of lumbar support angles, thigh pressure, circulation impact.'
+metaDescription: Seat depth testing across 8 body types revealed crucial comfort factors. 60+ day analysis of lumbar support angles, thigh pressure, circulation impact.
 metaTitle: 'Seat Depth & Pain: Why Size Matters for Your Body | ChairWise'
 ogTitle: 'Seat Depth: The Forgotten Ergonomic Factor'
-ogDescription: 'Proper seat depth reduced leg numbness 78%. Pressure mapping showed 3-inch variance across body types. Detailed measurement guide included for your frame.'
+ogDescription: Proper seat depth reduced leg numbness 78%. Pressure mapping showed 3-inch variance across body types. Detailed measurement guide included for your frame.
 publishedAt: '2026-04-29T10:00:00Z'
-excerpt: 'After 180 hours of testing with occupational therapists, we compare the Herman   Miller Aeron, Steelcase Leap, and three sub-$500 chairs to reveal which back support   features actually matter for 8-hour workdays.'
-pillarSlug: 'chairwise-pillar-1'
-status: 'published'
-heroImage: '/images/hero/chairwise-article-07.jpg'
+excerpt: After 180 hours of testing with occupational therapists, we compare the Herman   Miller Aeron, Steelcase Leap, and three sub-$500 chairs to reveal which back support   features actually matter for 8-hour workdays.
+pillarSlug: chairwise-pillar-1
+status: published
+heroImage: /images/hero/chairwise-article-07.jpg
 subtopic: chairs
 updatedAt: 2026-05-12
 ---
@@ -204,3 +204,12 @@ A: The Herman Miller Aeron comes in three sizes (A, B, C), making it a better op
 
 **Q: Can I find refurbished versions of the Aeron or Leap to save money?**  
 A: Yes, both Herman Miller and Steelcase chairs are often available refurbished through authorized dealers, offering significant savings while maintaining quality.
+
+## Our picks worth a closer look
+
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+

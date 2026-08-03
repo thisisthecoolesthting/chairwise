@@ -1,29 +1,29 @@
 ---
-asin: "B07YMD1ZC2"
-slug: "b07ymd1zc2-kensington-memory-foam-seat-cushion"
-title: "Kensington Memory Foam Seat Cushion with Non-Slip Base"
-seoTitle: "Kensington Memory Foam Cushion Review | ChairWise"
-metaDescription: "A $35 seat cushion can extend the usable life of a mediocre chair. We test the Kensington against three competitors."
-cardTitle: "Kensington Seat Cushion"
-cardPick: "Best upgrade for chairs under $200"
-category: "seat-cushions"
+asin: B07YMD1ZC2
+slug: b07ymd1zc2-kensington-memory-foam-seat-cushion
+title: Kensington Memory Foam Seat Cushion with Non-Slip Base
+seoTitle: Kensington Memory Foam Cushion Review | ChairWise
+metaDescription: A $35 seat cushion can extend the usable life of a mediocre chair. We test the Kensington against three competitors.
+cardTitle: Kensington Seat Cushion
+cardPick: Best upgrade for chairs under $200
+category: seat-cushions
 price: 39.99
 rating: 4.5
 reviewCount: 18960
 bsr: 95
 commissionPerSale: 0.0
 score: 46.9
-imageUrl: "/images/amazon-picks/B07YMD1ZC2.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07YMD1ZC2?tag=chairwise-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B07YMD1ZC2.jpg
+affiliateUrl: https://www.amazon.com/dp/B07YMD1ZC2?tag=chairwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
 tags:
-  - seat-cushion
-  - memory-foam
-  - coccyx-relief
-author: "nate-chairwise"
+- seat-cushion
+- memory-foam
+- coccyx-relief
+author: nate-chairwise
 ---
 # Kensington Memory Foam Cushion — Worth It Before Buying a New Chair?
 

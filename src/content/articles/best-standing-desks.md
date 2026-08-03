@@ -36,3 +36,12 @@ Weight capacity isn't just about the static load (monitors, CPU, accessories); i
 One size does *not* fit all. An effective standing desk must accommodate your specific standing and sitting heights. For standing, your elbows should be at approximately a 90-100 degree angle when your hands are on the keyboard, with your shoulders relaxed. For sitting, your feet should be flat on the floor (or a footrest), knees at 90-100 degrees, and hips slightly higher than your knees.
 
 Many standing desks cater to an "average" height range, but if you're particularly
+
+## Our picks worth a closer look
+
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
+

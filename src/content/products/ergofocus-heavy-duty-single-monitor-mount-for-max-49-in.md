@@ -1,25 +1,26 @@
 ---
-asin: "B0FCLGCFHH"
-title: "ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ultrawide Screens, Premium Monitor Arm for Samsung Odyssey G9 and More, Adjustable Gas Spring Desk Stand, VESA Mount"
-seoTitle: "ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H, Review"
-metaDescription: "Editorial overview of ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H — who it fits and where to check availability on Amazon."
-cardTitle: "ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "electronics"
+asin: B0FCLGCFHH
+title: ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ultrawide Screens, Premium Monitor Arm for Samsung Odyssey G9 and More, Adjustable Gas Spring Desk Stand, VESA Mount
+seoTitle: ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H, Review
+metaDescription: Editorial overview of ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H — who it fits and where to check availability on Amazon.
+cardTitle: ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H
+cardPick: Ranked catalog pick (unified harvester pool).
+category: electronics
 price: 69.99
 rating: 4.9
 reviewCount: 46
 bsr: null
 commissionPerSale: 0.0
 score: 141.33
-imageUrl: "https://m.media-amazon.com/images/I/61hjyzzQZ+L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FCLGCFHH?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/61hjyzzQZ+L.jpg
+affiliateUrl: https://www.amazon.com/dp/B0FCLGCFHH?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T13:30:14+00:00"
-lastSeen: "2026-06-09T13:30:14+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T13:30:14+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ultrawide Screens, Premium Monitor Arm for
 

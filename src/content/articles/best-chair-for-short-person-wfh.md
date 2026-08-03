@@ -102,3 +102,12 @@ Once your chair and desk are set, your monitor needs to be adjusted. The top of 
 ## Bottom Line
 
 Finding the best WFH chair when you're short isn't about finding a "small" chair; it's about finding a chair with the right *adjustments* to fit your specific anthropometry. Prioritize adjustable seat depth, a low minimum seat height, and highly adjustable armrests. The Steelcase Gesture, Herman Miller Sayl, Eurotech Ergohuman Petite, and X-Chair X-Project Small/Petite are all excellent starting points. Remember, your chair is an investment in your long-term health and productivity. Don't settle for discomfort; your body will thank you. [Investing in proper ergonomics](INTERNAL:why-ergonomics-matters) can prevent years of pain and lost productivity.
+
+## Our picks worth a closer look
+
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
+

@@ -121,3 +121,12 @@ Beyond choosing a chair suited for long hours, optimize your workstation with th
 - [Ergonomic Office Chairs with Breathable Mesh for Comfort](/articles/ergonomic-office-chairs-with-breathable-mesh-for-comfort/)
 - [Ergonomic Chair Features to Look for in 2024](/articles/ergonomic-chair-features-to-look-for-in-2024/)
 - [Best Office Chairs for Tall People (6''2"+): Seat Depth, Lumbar Support ](/articles/office-chair-for-tall-person/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

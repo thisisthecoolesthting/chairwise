@@ -103,3 +103,12 @@ A sit-stand desk can be an effective ergonomic tool to improve your home office 
 - [42. The research behind standing desks, actually summarized](/articles/42-the-research-behind-standing-desks-actually-summarized/)
 - [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
 - [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
+
+## Our picks worth a closer look
+
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+- **[Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He](/products/huuger-electric-standing-desk-with-power-outlets-and-us/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des](/products/oukmic-32-stable-standing-desk-converter-height-adjusta/)** — see current price and specs.
+- **[Raathionty Height Adjustable Standing Desk Converter, Computer Keyboard Stand fo](/products/raathionty-height-adjustable-standing-desk-converter-co/)** — see current price and specs.
+

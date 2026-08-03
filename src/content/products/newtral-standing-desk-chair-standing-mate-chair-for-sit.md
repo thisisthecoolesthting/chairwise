@@ -1,25 +1,26 @@
 ---
-asin: "B0GVS6S9RB"
-title: "Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leaning Perch Chair with Anti-Fatigue Mat, Standing Desk Stool, Horse Saddle Chair, Height Adjustable Home Office Posture Seat"
-seoTitle: "Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta, Review"
-metaDescription: "Editorial overview of Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta — who it fits and where to check availability on Amazon."
-cardTitle: "Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta"
-cardPick: "Catalog export from unified harvester pool."
-category: "home-kitchen"
+asin: B0GVS6S9RB
+title: Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leaning Perch Chair with Anti-Fatigue Mat, Standing Desk Stool, Horse Saddle Chair, Height Adjustable Home Office Posture Seat
+seoTitle: Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta, Review
+metaDescription: Editorial overview of Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta — who it fits and where to check availability on Amazon.
+cardTitle: Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta
+cardPick: Catalog export from unified harvester pool.
+category: home-kitchen
 price: null
 rating: 0.4
 reviewCount: 50
 bsr: 11
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GVS6S9RB?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GVS6S9RB?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leaning Perch Chair with Anti-Fatigue Mat, Sta
 

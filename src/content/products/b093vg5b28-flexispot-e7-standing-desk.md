@@ -1,29 +1,29 @@
 ---
-asin: "B093VG5B28"
-slug: "b093vg5b28-flexispot-e7-standing-desk"
-title: "FlexiSpot E7 Pro Plus Electric Standing Desk 55x28"
-seoTitle: "FlexiSpot E7 Standing Desk Review | ChairWise"
-metaDescription: "FlexiSpot E7 standing desk review: dual motors, height memory, and whether it wobbles at standing height."
-cardTitle: "FlexiSpot E7"
-cardPick: "Best motorized desk under $500"
-category: "standing-desks"
+asin: B093VG5B28
+slug: b093vg5b28-flexispot-e7-standing-desk
+title: FlexiSpot E7 Pro Plus Electric Standing Desk 55x28
+seoTitle: FlexiSpot E7 Standing Desk Review | ChairWise
+metaDescription: 'FlexiSpot E7 standing desk review: dual motors, height memory, and whether it wobbles at standing height.'
+cardTitle: FlexiSpot E7
+cardPick: Best motorized desk under $500
+category: standing-desks
 price: 499.0
 rating: 4.6
 reviewCount: 5280
 bsr: 210
 commissionPerSale: 0.0
 score: 46.5
-imageUrl: "/images/amazon-picks/B093VG5B28.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B093VG5B28?tag=chairwise-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B093VG5B28.jpg
+affiliateUrl: https://www.amazon.com/dp/B093VG5B28?tag=chairwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
 tags:
-  - standing-desk
-  - motorized
-  - home-office
-author: "nate-chairwise"
+- standing-desk
+- motorized
+- home-office
+author: nate-chairwise
 ---
 # FlexiSpot E7 Electric Standing Desk — Stability Test
 

@@ -117,3 +117,12 @@ Choosing the right anti-fatigue mat for your standing desk is a balance between 
 - [Standing Desk Mats That Improve Comfort and Reduce Fatigue](/articles/standing-desk-mats-that-improve-comfort-and-reduce-fatigue/)
 - [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
 - [Standing Desk vs. Chair: The Ultimate Ergonomic Showdown](/articles/standing-desk-vs-chair-ergonomics/)
+
+## Our picks worth a closer look
+
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Bluelog Shower Chair for Inside Shower with Arms and Back, 550lbs Capacity Heigh](/products/bluelog-shower-chair-for-inside-shower-with-arms-and-ba/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+

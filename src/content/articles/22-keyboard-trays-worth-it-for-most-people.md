@@ -129,3 +129,12 @@ Measurement-based fitting, including attention to seat depth, arm and wrist angl
 - [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
 - [Ergonomic Keyboard Accessories to Enhance Typing Posture](/articles/ergonomic-keyboard-accessories-to-enhance-typing-posture/)
 - [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+- **[Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke](/products/height-adjustable-standing-desk-converter-computer-keyb/)** — see current price and specs.
+- **[Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboard sold Separately)](/products/kinesis-freestyle2-vip-accessory-features-ac820-blk-key/)** — see current price and specs.
+

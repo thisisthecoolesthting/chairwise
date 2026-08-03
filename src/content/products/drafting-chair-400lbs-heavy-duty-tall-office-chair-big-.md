@@ -1,25 +1,26 @@
 ---
-asin: "B0G3X472K9"
-title: "Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standing Desk Chair with Lumbar Support and Adjustable Footrest Ring, Comfy Mesh Wide Chair with Flip-up Armrests, Black"
-seoTitle: "Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T, Review"
-metaDescription: "Editorial overview of Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T — who it fits and where to check availability on Amazon."
-cardTitle: "Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "office-products"
+asin: B0G3X472K9
+title: Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standing Desk Chair with Lumbar Support and Adjustable Footrest Ring, Comfy Mesh Wide Chair with Flip-up Armrests, Black
+seoTitle: Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T, Review
+metaDescription: Editorial overview of Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T — who it fits and where to check availability on Amazon.
+cardTitle: Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T
+cardPick: Ranked catalog pick (unified harvester pool).
+category: office-products
 price: 171.99
 rating: 2.8
 reviewCount: 49
 bsr: 35464
 commissionPerSale: 0.0
 score: 132.85
-imageUrl: "https://m.media-amazon.com/images/I/71Wd8mdOHnL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0G3X472K9?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/71Wd8mdOHnL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0G3X472K9?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T14:00:14+00:00"
-lastSeen: "2026-06-09T14:00:14+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T14:00:14+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standing Desk Chair with Lumbar Support and Ad
 

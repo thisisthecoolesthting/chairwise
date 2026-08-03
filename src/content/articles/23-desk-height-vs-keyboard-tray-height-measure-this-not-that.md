@@ -126,3 +126,12 @@ Ergonomic comfort when typing 8+ hours per day depends largely on keyboard tray 
 - [22. Keyboard trays: worth it for most people?](/articles/22-keyboard-trays-worth-it-for-most-people/)
 - [Guide to Proper Keyboard and Mouse Placement for Comfort](/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
 - [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+
+## Our picks worth a closer look
+
+- **[OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des](/products/oukmic-32-stable-standing-desk-converter-height-adjusta/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+- **[Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke](/products/height-adjustable-standing-desk-converter-computer-keyb/)** — see current price and specs.
+- **[Raathionty Height Adjustable Standing Desk Converter, Computer Keyboard Stand fo](/products/raathionty-height-adjustable-standing-desk-converter-co/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+

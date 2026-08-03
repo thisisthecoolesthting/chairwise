@@ -1,29 +1,29 @@
 ---
-asin: "B08F4XLHLN"
-slug: "b08f4xlhln-autonomous-ergochair-pro"
-title: "Autonomous ErgoChair Pro Ergonomic Office Chair"
-seoTitle: "Autonomous ErgoChair Pro Review | ChairWise"
-metaDescription: "Full breakdown of the ErgoChair Pro: lumbar adjustment, seat depth, arm position, and who it fits best."
-cardTitle: "ErgoChair Pro"
-cardPick: "Best adjustable-everything under $400"
-category: "ergonomic-chairs"
+asin: B08F4XLHLN
+slug: b08f4xlhln-autonomous-ergochair-pro
+title: Autonomous ErgoChair Pro Ergonomic Office Chair
+seoTitle: Autonomous ErgoChair Pro Review | ChairWise
+metaDescription: 'Full breakdown of the ErgoChair Pro: lumbar adjustment, seat depth, arm position, and who it fits best.'
+cardTitle: ErgoChair Pro
+cardPick: Best adjustable-everything under $400
+category: ergonomic-chairs
 price: 399.0
 rating: 4.5
 reviewCount: 12450
 bsr: 120
 commissionPerSale: 0.0
 score: 46.2
-imageUrl: "/images/amazon-picks/B08F4XLHLN.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B08F4XLHLN?tag=chairwise-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B08F4XLHLN.jpg
+affiliateUrl: https://www.amazon.com/dp/B08F4XLHLN?tag=chairwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
 tags:
-  - ergonomic-chair
-  - lumbar-support
-  - home-office
-author: "nate-chairwise"
+- ergonomic-chair
+- lumbar-support
+- home-office
+author: nate-chairwise
 ---
 # Autonomous ErgoChair Pro — Full Adjustment Review
 

@@ -1,25 +1,26 @@
 ---
-asin: "B0G1H21HPR"
-title: "Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer & LED Display for Better Sleep, Office Privacy, Travel & Baby (White)"
-seoTitle: "Bestand Real Fan White Noise Machine Sleep Sound Machine wit, Review"
-metaDescription: "Editorial overview of Bestand Real Fan White Noise Machine Sleep Sound Machine wit — who it fits and where to check availability on Amazon."
-cardTitle: "Bestand Real Fan White Noise Machine Sleep Sound Machine wit"
-cardPick: "Catalog export from unified harvester pool."
-category: "health-household"
+asin: B0G1H21HPR
+title: Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer & LED Display for Better Sleep, Office Privacy, Travel & Baby (White)
+seoTitle: Bestand Real Fan White Noise Machine Sleep Sound Machine wit, Review
+metaDescription: Editorial overview of Bestand Real Fan White Noise Machine Sleep Sound Machine wit — who it fits and where to check availability on Amazon.
+cardTitle: Bestand Real Fan White Noise Machine Sleep Sound Machine wit
+cardPick: Catalog export from unified harvester pool.
+category: health-household
 price: null
 rating: 0.3
 reviewCount: 50
 bsr: 9
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0G1H21HPR?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0G1H21HPR?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer & LED Display for Better Sleep, Office P
 

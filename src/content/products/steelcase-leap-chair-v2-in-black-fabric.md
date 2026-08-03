@@ -1,25 +1,26 @@
 ---
-asin: "B073G1K465"
-title: "Steelcase Leap Chair V2 In Black Fabric"
-seoTitle: "Steelcase Leap Chair V2 In Black Fabric, Review"
-metaDescription: "Editorial overview of Steelcase Leap Chair V2 In Black Fabric — who it fits and where to check availability on Amazon."
-cardTitle: "Steelcase Leap Chair V2 In Black Fabric"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "home-kitchen"
+asin: B073G1K465
+title: Steelcase Leap Chair V2 In Black Fabric
+seoTitle: Steelcase Leap Chair V2 In Black Fabric, Review
+metaDescription: Editorial overview of Steelcase Leap Chair V2 In Black Fabric — who it fits and where to check availability on Amazon.
+cardTitle: Steelcase Leap Chair V2 In Black Fabric
+cardPick: Ranked catalog pick (unified harvester pool).
+category: home-kitchen
 price: 1350.96
 rating: 4.7
 reviewCount: 34
 bsr: 1094227
 commissionPerSale: 0.0
 score: 133.92
-imageUrl: "https://m.media-amazon.com/images/I/21wp82eNtIL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B073G1K465?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/21wp82eNtIL.jpg
+affiliateUrl: https://www.amazon.com/dp/B073G1K465?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T14:00:14+00:00"
-lastSeen: "2026-06-09T14:00:14+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T14:00:14+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Steelcase Leap Chair V2 In Black Fabric
 

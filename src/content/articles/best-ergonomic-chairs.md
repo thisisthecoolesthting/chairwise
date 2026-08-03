@@ -77,3 +77,12 @@ The goal is to encourage movement and allow you to shift postures throughout the
 ## Bottom Line
 
 Investing in a truly ergonomic chair is an investment in your long-term health and productivity. It's not about finding the cheapest option or the one with the most flashy features, but rather the chair that offers the precise adjustments and support your unique body needs to thrive during long hours of work. Focus on adjustable lumbar support, multi-directional armrests, a depth-adjustable seat pan, and a versatile tilt mechanism. While chairs like the Herman Miller Embody and Steelcase Gesture represent the pinnacle of ergonomic design, there are increasingly well-designed options in the mid-range that incorporate many of these critical features. Prioritize adjustability over aesthetics, and your body will thank you. For further guidance on setting up your entire workstation, check out our guide on [optimizing your home office ergonomics](INTERNAL:home-office-setup-guide).
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+

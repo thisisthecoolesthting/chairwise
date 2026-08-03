@@ -140,3 +140,8 @@ Keeping cables in check is an often overlooked but crucial part of true ergonomi
 - [Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)
 - [NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)
 - [Kensington Memory Foam Seat Cushion with Non-Slip Base](/products/b07ymd1zc2-kensington-memory-foam-seat-cushion/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+

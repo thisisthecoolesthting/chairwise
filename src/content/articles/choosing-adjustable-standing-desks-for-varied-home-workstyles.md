@@ -118,3 +118,12 @@ Keeping practical comfort at the forefront will help your home workspace improve
 - [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
 - [14. Electric vs manual crank desks: the real cost difference](/articles/14-electric-vs-manual-crank-desks-the-real-cost-difference/)
 - [The Importance of Adjustable Desk Height for Home Offices](/articles/the-importance-of-adjustable-desk-height-for-home-offices/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He](/products/huuger-electric-standing-desk-with-power-outlets-and-us/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des](/products/oukmic-32-stable-standing-desk-converter-height-adjusta/)** — see current price and specs.
+- **[Raathionty Height Adjustable Standing Desk Converter, Computer Keyboard Stand fo](/products/raathionty-height-adjustable-standing-desk-converter-co/)** — see current price and specs.
+

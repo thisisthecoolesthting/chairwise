@@ -109,3 +109,12 @@ We specifically look for keyboards that allow users to maintain a straight wrist
 ## Bottom Line
 
 Don't underestimate the impact of your keyboard on your long-term health and productivity. A generic, flat keyboard is a recipe for musculoskeletal issues, especially with 8-10 hours of daily use. Invest time in understanding your needs and trying different form factors and switch types. For most WFH professionals, starting with a Tenkeyless (TKL) mechanical keyboard with tactile switches is a significant upgrade. If you experience persistent wrist or forearm pain, a split and tentable keyboard is often the next logical step. Your hands and wrists will thank you. For further reading on workstation setup, check out [Optimizing Your Monitor Setup](INTERNAL:optimizing-monitor-setup).
+
+## Our picks worth a closer look
+
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
+

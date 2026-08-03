@@ -1,29 +1,29 @@
 ---
-asin: "B08CXRXWFG"
-slug: "b08cxrxwfg-vivo-dual-monitor-desk-mount"
-title: "VIVO Dual LCD Monitor Desk Mount Stand for Two Screens"
-seoTitle: "VIVO Dual Monitor Mount Review | ChairWise"
-metaDescription: "VIVO dual monitor arm: load rating, tilt range, and how well it holds position under desk vibration."
-cardTitle: "VIVO Dual Monitor Arm"
-cardPick: "Best value dual-arm under $50"
-category: "desk-accessories"
+asin: B08CXRXWFG
+slug: b08cxrxwfg-vivo-dual-monitor-desk-mount
+title: VIVO Dual LCD Monitor Desk Mount Stand for Two Screens
+seoTitle: VIVO Dual Monitor Mount Review | ChairWise
+metaDescription: 'VIVO dual monitor arm: load rating, tilt range, and how well it holds position under desk vibration.'
+cardTitle: VIVO Dual Monitor Arm
+cardPick: Best value dual-arm under $50
+category: desk-accessories
 price: 49.99
 rating: 4.6
 reviewCount: 32480
 bsr: 72
 commissionPerSale: 0.0
 score: 49.2
-imageUrl: "/images/amazon-picks/B08CXRXWFG.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B08CXRXWFG?tag=chairwise-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B08CXRXWFG.jpg
+affiliateUrl: https://www.amazon.com/dp/B08CXRXWFG?tag=chairwise-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
 tags:
-  - monitor-arm
-  - dual-monitors
-  - desk-mount
-author: "nate-chairwise"
+- monitor-arm
+- dual-monitors
+- desk-mount
+author: nate-chairwise
 ---
 # VIVO Dual Monitor Mount — Setting Up Eye-Level Screens Correctly
 

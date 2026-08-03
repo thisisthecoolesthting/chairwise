@@ -1,25 +1,26 @@
 ---
-asin: "B000RBBMNG"
-title: "Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboard sold Separately)"
-seoTitle: "Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa, Review"
-metaDescription: "Editorial overview of Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa — who it fits and where to check availability on Amazon."
-cardTitle: "Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "electronics"
+asin: B000RBBMNG
+title: Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboard sold Separately)
+seoTitle: Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa, Review
+metaDescription: Editorial overview of Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa — who it fits and where to check availability on Amazon.
+cardTitle: Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa
+cardPick: Ranked catalog pick (unified harvester pool).
+category: electronics
 price: 55.64
 rating: 3.9
 reviewCount: 41
 bsr: null
 commissionPerSale: 0.0
 score: 121.81
-imageUrl: "https://m.media-amazon.com/images/I/61737G4ZcgS.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B000RBBMNG?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/61737G4ZcgS.jpg
+affiliateUrl: https://www.amazon.com/dp/B000RBBMNG?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T15:15:09+00:00"
-lastSeen: "2026-06-09T15:15:09+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T15:15:09+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboard sold Separately)
 

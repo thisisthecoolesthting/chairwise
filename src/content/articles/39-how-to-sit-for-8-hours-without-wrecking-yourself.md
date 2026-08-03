@@ -112,3 +112,12 @@ Sitting for 8 hours doesn’t have to wreck your body if you invest in a chair a
 - [2. The best ergonomic chair under 500 dollars reviewed across 5 body types](/articles/2-the-best-ergonomic-chair-under-500-dollars-reviewed-across-5-body-types/)
 - [How to Adjust Your Ergonomic Chair for Maximum Support](/articles/how-to-adjust-your-ergonomic-chair-for-maximum-support/)
 - [Chairwise Chairs with Lumbar Support for Improved Posture](/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+

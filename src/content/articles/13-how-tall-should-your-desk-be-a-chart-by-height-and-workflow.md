@@ -137,3 +137,12 @@ Finding the right desk height tailored to your *actual* body metrics and type of
 - [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
 - [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
 - [How to Position Dual Monitors Ergonomically in Your Home Office](/articles/how-to-position-dual-monitors-ergonomically-in-your-home-office/)
+
+## Our picks worth a closer look
+
+- **[Drafting Chair,Executive Tall Office Chair Flip-up Armrests for Counter Height D](/products/drafting-chair-executive-tall-office-chair-flip-up-armr/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

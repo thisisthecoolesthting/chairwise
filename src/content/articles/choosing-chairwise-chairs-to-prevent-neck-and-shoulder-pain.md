@@ -125,3 +125,12 @@ Neck and shoulder pain from desk work can erode well-being and productivity, but
 - [Customizing Chairwise Chairs for Personalized Comfort and Support](/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
 - [3. Secretlab Titan Evo vs Herman Miller Embody for tall users](/articles/3-secretlab-titan-evo-vs-herman-miller-embody-for-tall-users/)
 - [37. Lower back pain at your desk: the three fixes that work](/articles/37-lower-back-pain-at-your-desk-the-three-fixes-that-work/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Creams & Oils,Muscular Ac](/products/fei-fah-electric-medibalm-net-2-45-oz-70g-ointments-cre/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+

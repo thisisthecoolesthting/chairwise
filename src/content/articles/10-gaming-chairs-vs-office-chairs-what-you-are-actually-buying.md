@@ -109,3 +109,12 @@ Choosing between a gaming chair and an office chair hinges on your typical daily
 - [Choosing the Best Ergonomic Office Chair for Lower Back Support](/articles/choosing-the-best-ergonomic-office-chair-for-lower-back-support/)
 - [4. Humanscale Freedom: who it works for and who it punishes](/articles/4-humanscale-freedom-who-it-works-for-and-who-it-punishes/)
 - [How to Set Up a Home Office for Back Pain Prevention](/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

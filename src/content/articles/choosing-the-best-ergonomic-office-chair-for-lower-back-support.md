@@ -141,3 +141,12 @@ Use the step-by-step approach above to evaluate your needs and potential chairs 
 - [Ergonomic Office Chairs Designed for Long Hours at Work](/articles/ergonomic-office-chairs-designed-for-long-hours-at-work/)
 - [10. Gaming chairs vs office chairs: what you are actually buying](/articles/10-gaming-chairs-vs-office-chairs-what-you-are-actually-buying/)
 - [Customizing Chairwise Chairs for Personalized Comfort and Support](/articles/customizing-chairwise-chairs-for-personalized-comfort-and-support/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar Support,High Back D](/products/nexthro-ergonomic-office-chair-mesh-office-chair-with-l/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+

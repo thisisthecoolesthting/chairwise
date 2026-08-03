@@ -1,25 +1,26 @@
 ---
-asin: "B0DN97KX1J"
-title: "SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Free Standing Wall Mounted for Homes, Bedrooms, Bathrooms, Offices, Hotels"
-seoTitle: "SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre, Review"
-metaDescription: "Editorial overview of SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre — who it fits and where to check availability on Amazon."
-cardTitle: "SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "health-household"
+asin: B0DN97KX1J
+title: SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Free Standing Wall Mounted for Homes, Bedrooms, Bathrooms, Offices, Hotels
+seoTitle: SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre, Review
+metaDescription: Editorial overview of SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre — who it fits and where to check availability on Amazon.
+cardTitle: SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre
+cardPick: Ranked catalog pick (unified harvester pool).
+category: health-household
 price: 49.99
 rating: 3.9
 reviewCount: 38
 bsr: 357207
 commissionPerSale: 0.0
 score: 145.14
-imageUrl: "https://m.media-amazon.com/images/I/71T2flO4-EL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0DN97KX1J?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/71T2flO4-EL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0DN97KX1J?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T13:30:14+00:00"
-lastSeen: "2026-06-09T13:30:14+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T13:30:14+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Free Standing Wall Mounted for Homes, Bedrooms, Bathrooms, Offi
 

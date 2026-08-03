@@ -145,3 +145,11 @@ Optimizing mouse sensitivity is a subtle but powerful way to manage wrist strain
 - [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
 - [29. Logitech MX Master vs MX Vertical: productivity vs pain](/articles/29-logitech-mx-master-vs-mx-vertical-productivity-vs-pain/)
 - [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+
+## Our picks worth a closer look
+
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[WOOLALA Heated Wrist Brace with Massager USB Portable Electric Heating Pad for C](/products/woolala-heated-wrist-brace-with-massager-usb-portable-e/)** — see current price and specs.
+- **[Zaioo Ultrasonic Pest & Insect Repeller, Ultrasonic Repellent for Roach, Rodent,](/products/zaioo-ultrasonic-pest-insect-repeller-ultrasonic-repell/)** — see current price and specs.
+

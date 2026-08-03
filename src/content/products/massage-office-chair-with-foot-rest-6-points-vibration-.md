@@ -1,25 +1,26 @@
 ---
-asin: "B0GWTJTDGP"
-title: "Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Chairs,Big and Tall Leather Office Chair 500LBS,Ergonomic Desk Chair for Heavy People,Home and Office Computer Chair,Black"
-seoTitle: "Massage Office Chair with Foot Rest,6 Points Vibration&Heat , Review"
-metaDescription: "Editorial overview of Massage Office Chair with Foot Rest,6 Points Vibration&Heat  — who it fits and where to check availability on Amazon."
-cardTitle: "Massage Office Chair with Foot Rest,6 Points Vibration&Heat "
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "office-products"
+asin: B0GWTJTDGP
+title: Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Chairs,Big and Tall Leather Office Chair 500LBS,Ergonomic Desk Chair for Heavy People,Home and Office Computer Chair,Black
+seoTitle: Massage Office Chair with Foot Rest,6 Points Vibration&Heat , Review
+metaDescription: Editorial overview of Massage Office Chair with Foot Rest,6 Points Vibration&Heat  — who it fits and where to check availability on Amazon.
+cardTitle: 'Massage Office Chair with Foot Rest,6 Points Vibration&Heat '
+cardPick: Ranked catalog pick (unified harvester pool).
+category: office-products
 price: 139.99
 rating: 2.8
 reviewCount: 48
 bsr: 8003
 commissionPerSale: 0.0
 score: 135.31
-imageUrl: "https://m.media-amazon.com/images/I/81ljwVaWpbL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GWTJTDGP?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/81ljwVaWpbL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0GWTJTDGP?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T13:45:13+00:00"
-lastSeen: "2026-06-09T13:45:13+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T13:45:13+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Chairs,Big and Tall Leather Office Chair 50
 

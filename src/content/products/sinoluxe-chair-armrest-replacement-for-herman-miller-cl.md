@@ -1,25 +1,26 @@
 ---
-asin: "B0F83KRJBQ"
-title: "SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Office Chair Arm Pads Replacement Black-1 Pair"
-seoTitle: "SINOLUXE Chair Armrest Replacement for Herman Miller Classic, Review"
-metaDescription: "Editorial overview of SINOLUXE Chair Armrest Replacement for Herman Miller Classic — who it fits and where to check availability on Amazon."
-cardTitle: "SINOLUXE Chair Armrest Replacement for Herman Miller Classic"
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "office-products"
+asin: B0F83KRJBQ
+title: SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Office Chair Arm Pads Replacement Black-1 Pair
+seoTitle: SINOLUXE Chair Armrest Replacement for Herman Miller Classic, Review
+metaDescription: Editorial overview of SINOLUXE Chair Armrest Replacement for Herman Miller Classic — who it fits and where to check availability on Amazon.
+cardTitle: SINOLUXE Chair Armrest Replacement for Herman Miller Classic
+cardPick: Ranked catalog pick (unified harvester pool).
+category: office-products
 price: 18.99
 rating: 3.5
 reviewCount: 38
 bsr: 120360
 commissionPerSale: 0.0
 score: 161.62
-imageUrl: "https://m.media-amazon.com/images/I/61VFExHS2EL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0F83KRJBQ?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/61VFExHS2EL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0F83KRJBQ?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T12:47:34+00:00"
-lastSeen: "2026-06-09T12:47:34+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T12:47:34+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Office Chair Arm Pads Replacement Black-1 Pai
 

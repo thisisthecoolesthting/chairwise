@@ -118,3 +118,12 @@ Adjusting your chair height without standing may seem tricky, but by relying on 
 - [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
 - [16. Treadmill desks: who they work for and who should skip](/articles/16-treadmill-desks-who-they-work-for-and-who-should-skip/)
 - [How to Adjust Your Ergonomic Chair for Maximum Support](/articles/how-to-adjust-your-ergonomic-chair-for-maximum-support/)
+
+## Our picks worth a closer look
+
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+- **[Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke](/products/height-adjustable-standing-desk-converter-computer-keyb/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+

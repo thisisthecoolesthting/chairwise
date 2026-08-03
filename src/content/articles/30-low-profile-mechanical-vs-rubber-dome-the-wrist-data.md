@@ -133,3 +133,9 @@ Low profile mechanical keyboards generally offer better feedback for controlled 
 - [28. Moonlander vs Dygma Defy vs ZSA Voyager split keyboards](/articles/28-moonlander-vs-dygma-defy-vs-zsa-voyager-split-keyboards/)
 - [Say Goodbye to Wrist Pain: The Best Split Keyboards for Ergonomics](/articles/split-keyboards-for-wrist-pain/)
 - [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
+
+## Our picks worth a closer look
+
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[WOOLALA Heated Wrist Brace with Massager USB Portable Electric Heating Pad for C](/products/woolala-heated-wrist-brace-with-massager-usb-portable-e/)** — see current price and specs.
+

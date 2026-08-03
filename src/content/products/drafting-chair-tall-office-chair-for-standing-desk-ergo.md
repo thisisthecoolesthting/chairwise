@@ -1,25 +1,26 @@
 ---
-asin: "B0FYFG7FNW"
-title: "Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Chair with Flip-up Armrests, Counter Height Office Chair with Footrest and Adjustable Lumbar Support"
-seoTitle: "Drafting Chair, Tall Office Chair for Standing Desk, Ergonom, Review"
-metaDescription: "Editorial overview of Drafting Chair, Tall Office Chair for Standing Desk, Ergonom — who it fits and where to check availability on Amazon."
-cardTitle: "Drafting Chair, Tall Office Chair for Standing Desk, Ergonom"
-cardPick: "Catalog export from unified harvester pool."
-category: "office-products"
+asin: B0FYFG7FNW
+title: Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Chair with Flip-up Armrests, Counter Height Office Chair with Footrest and Adjustable Lumbar Support
+seoTitle: Drafting Chair, Tall Office Chair for Standing Desk, Ergonom, Review
+metaDescription: Editorial overview of Drafting Chair, Tall Office Chair for Standing Desk, Ergonom — who it fits and where to check availability on Amazon.
+cardTitle: Drafting Chair, Tall Office Chair for Standing Desk, Ergonom
+cardPick: Catalog export from unified harvester pool.
+category: office-products
 price: null
 rating: 1.4
 reviewCount: 50
 bsr: 12
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0FYFG7FNW?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0FYFG7FNW?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Chair with Flip-up Armrests, Counter Height
 

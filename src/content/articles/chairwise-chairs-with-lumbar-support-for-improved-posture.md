@@ -139,3 +139,12 @@ The right lumbar support isn’t a luxury; it’s a necessity for anyone committ
 - [23. Desk height vs keyboard tray height: measure this, not that](/articles/23-desk-height-vs-keyboard-tray-height-measure-this-not-that/)
 - [17. L-shaped corner desks: the hidden ergonomic trap](/articles/17-l-shaped-corner-desks-the-hidden-ergonomic-trap/)
 - [How Chairwise Chairs Help Alleviate Sciatica and Hip Pain](/articles/how-chairwise-chairs-help-alleviate-sciatica-and-hip-pain/)
+
+## Our picks worth a closer look
+
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+

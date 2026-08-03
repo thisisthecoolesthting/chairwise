@@ -1,25 +1,26 @@
 ---
-asin: "B0GVCDDCYG"
-title: "FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Riser Sit Stand Computer Workstation, Spacious Stand Up Desk Converter for Laptop Keyboard and Monitor Setup, Black"
-seoTitle: 'FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj, Review'
-metaDescription: 'Editorial overview of FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj — who it fits and where to check availability on Amazon.'
-cardTitle: 'FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj'
-cardPick: "Catalog export from unified harvester pool."
-category: "office-products"
+asin: B0GVCDDCYG
+title: FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Riser Sit Stand Computer Workstation, Spacious Stand Up Desk Converter for Laptop Keyboard and Monitor Setup, Black
+seoTitle: FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj, Review
+metaDescription: Editorial overview of FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj — who it fits and where to check availability on Amazon.
+cardTitle: FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj
+cardPick: Catalog export from unified harvester pool.
+category: office-products
 price: null
 rating: 0.6
 reviewCount: 50
 bsr: 19
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GVCDDCYG?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GVCDDCYG?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adjustable Desktop Riser Sit Stand Computer Workstation, Spacio
 

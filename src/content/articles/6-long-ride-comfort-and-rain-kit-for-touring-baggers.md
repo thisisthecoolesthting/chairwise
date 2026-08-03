@@ -220,3 +220,11 @@ The best part? These upgrades don't just help on marathon runs. They make short 
 Spend your first touring season collecting the basics: a solid rain suit, weatherproof storage, and basic recovery gear. Then listen to your body. If your hands hurt, upgrade the grips. If your back aches, test a lumbar pad. If you're cold, layer up with a merino base layer. That feedback loop—riding, observing, adjusting—is how you build the kit that actually matches *your* bike and *your* body.
 
 Your bagger is built for cruising and looking good while doing it. A thoughtful comfort kit just makes sure you enjoy the whole ride.
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[Fuspower 9V Batteries 12 Pack, 9 Volt Batteries, 3 Years Shelf Life, Long Lastin](/products/fuspower-9v-batteries-12-pack-9-volt-batteries-3-years-/)** — see current price and specs.
+- **[QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Fo](/products/qltplus-office-desk-chair-for-long-hours-back-pain-reli/)** — see current price and specs.
+

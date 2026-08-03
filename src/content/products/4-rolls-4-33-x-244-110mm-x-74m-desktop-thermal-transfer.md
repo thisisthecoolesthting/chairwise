@@ -1,25 +1,26 @@
 ---
-asin: "B0DPFZ8W5C"
-title: "4 Rolls 4.33' x 244'(110mm x 74m) Desktop Thermal Transfer Ribbons - Premium Enhanced Wax, 0.5” Core, with Empty Reel, for Zebra Desktop Printer"
-seoTitle: '4 Rolls 4.33" x 244''(110mm x 74m) Desktop Thermal Transfer R, Review'
-metaDescription: 'Editorial overview of 4 Rolls 4.33" x 244''(110mm x 74m) Desktop Thermal Transfer R — who it fits and where to check availability on Amazon.'
-cardTitle: '4 Rolls 4.33" x 244''(110mm x 74m) Desktop Thermal Transfer R'
-cardPick: "Catalog export from unified harvester pool."
-category: "office-products"
+asin: B0DPFZ8W5C
+title: 4 Rolls 4.33' x 244'(110mm x 74m) Desktop Thermal Transfer Ribbons - Premium Enhanced Wax, 0.5” Core, with Empty Reel, for Zebra Desktop Printer
+seoTitle: 4 Rolls 4.33" x 244'(110mm x 74m) Desktop Thermal Transfer R, Review
+metaDescription: Editorial overview of 4 Rolls 4.33" x 244'(110mm x 74m) Desktop Thermal Transfer R — who it fits and where to check availability on Amazon.
+cardTitle: 4 Rolls 4.33" x 244'(110mm x 74m) Desktop Thermal Transfer R
+cardPick: Catalog export from unified harvester pool.
+category: office-products
 price: null
 rating: 0.5
 reviewCount: 50
 bsr: 1
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0DPFZ8W5C?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0DPFZ8W5C?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # 4 Rolls 4.33" x 244'(110mm x 74m) Desktop Thermal Transfer Ribbons - Premium Enhanced Wax, 0.5” Core, with Empty Reel, f
 

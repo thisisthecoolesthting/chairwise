@@ -1,25 +1,26 @@
 ---
-asin: "B0GK7FVTR4"
-title: "HUANUO FlowLift™ Pro Monitor Arm for 13–32' Screens, MechaSpring Monitor Mount, Fully-Adjustable Monitor Stand with Tilt/Swivel/Rotation, Tool-Free VESA Mount, C-Clamp/Grommet Base, Max Load 19.8 lbs"
-seoTitle: 'HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp, Review'
-metaDescription: 'Editorial overview of HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp — who it fits and where to check availability on Amazon.'
-cardTitle: 'HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp'
-cardPick: "Catalog export from unified harvester pool."
-category: "electronics"
+asin: B0GK7FVTR4
+title: HUANUO FlowLift™ Pro Monitor Arm for 13–32' Screens, MechaSpring Monitor Mount, Fully-Adjustable Monitor Stand with Tilt/Swivel/Rotation, Tool-Free VESA Mount, C-Clamp/Grommet Base, Max Load 19.8 lbs
+seoTitle: HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp, Review
+metaDescription: Editorial overview of HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp — who it fits and where to check availability on Amazon.
+cardTitle: HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp
+cardPick: Catalog export from unified harvester pool.
+category: electronics
 price: null
 rating: 0.6
 reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GK7FVTR4?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GK7FVTR4?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T02:25:21+00:00"
-lastSeen: "2026-06-09T02:25:21+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T02:25:21+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSpring Monitor Mount, Fully-Adjustable Monitor Stand with Tilt
 

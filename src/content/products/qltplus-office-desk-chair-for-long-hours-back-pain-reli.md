@@ -1,25 +1,26 @@
 ---
-asin: "B0F93N3HJG"
-title: "QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Foam Cushion, Enhanced Lumbar Support, Padded Flip-up Armrests, Ideal for Office or Study, Dark Gray"
-seoTitle: "QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief , Review"
-metaDescription: "Editorial overview of QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief  — who it fits and where to check availability on Amazon."
-cardTitle: "QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief "
-cardPick: "Ranked catalog pick (unified harvester pool)."
-category: "home-kitchen"
+asin: B0F93N3HJG
+title: QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Foam Cushion, Enhanced Lumbar Support, Padded Flip-up Armrests, Ideal for Office or Study, Dark Gray
+seoTitle: QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief , Review
+metaDescription: Editorial overview of QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief  — who it fits and where to check availability on Amazon.
+cardTitle: 'QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief '
+cardPick: Ranked catalog pick (unified harvester pool).
+category: home-kitchen
 price: 149.99
 rating: 4.5
 reviewCount: 47
 bsr: 349567
 commissionPerSale: 0.0
 score: 159.47
-imageUrl: "https://m.media-amazon.com/images/I/71pRxG6YDaL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0F93N3HJG?tag=chairwise-20&linkCode=ll1"
-amazonUrl: ""
+imageUrl: https://m.media-amazon.com/images/I/71pRxG6YDaL.jpg
+affiliateUrl: https://www.amazon.com/dp/B0F93N3HJG?tag=chairwise-20&linkCode=ll1
+amazonUrl: ''
 isPrime: false
-status: "published"
-firstSeen: "2026-06-09T12:47:34+00:00"
-lastSeen: "2026-06-09T12:47:34+00:00"
-tags: ["catalog-export"]
+status: published
+firstSeen: '2026-06-09T12:47:34+00:00'
+lastSeen: '2026-08-03T15:06:19+00:00'
+tags:
+- catalog-export
 ---
 # QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Foam Cushion, Enhanced Lumbar Support, Pad
 

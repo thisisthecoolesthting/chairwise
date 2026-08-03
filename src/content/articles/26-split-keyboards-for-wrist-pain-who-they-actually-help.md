@@ -131,3 +131,12 @@ However, adoption requires an ergonomic mindset, a willingness to learn new typi
 - [Ergonomic Keyboard Accessories to Enhance Typing Posture](/articles/ergonomic-keyboard-accessories-to-enhance-typing-posture/)
 - [Ergonomic Keyboards That Reduce Wrist Strain Effectively](/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
 - [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
+
+## Our picks worth a closer look
+
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Support,O](/products/jiporier-lumbar-support-pillow-for-office-chair-seat-cu/)** — see current price and specs.
+- **[KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adj](/products/kwksv-500lbs-big-and-tall-office-chair-comfy-heavy-duty/)** — see current price and specs.
+- **[QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Fo](/products/qltplus-office-desk-chair-for-long-hours-back-pain-reli/)** — see current price and specs.
+
