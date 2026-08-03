@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B093VG5B28?tag=chairwise-20&linkCode=ll1
 isPrime: true
 status: published
 firstSeen: '2026-05-13T00:00:00+00:00'
-lastSeen: '2026-08-03T15:07:03+00:00'
+lastSeen: '2026-08-03T15:08:31+00:00'
 tags:
 - standing-desk
 - motorized
