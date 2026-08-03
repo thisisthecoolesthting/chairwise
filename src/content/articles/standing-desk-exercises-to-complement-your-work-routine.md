@@ -119,3 +119,12 @@ By attentively pairing these exercises with a well-fitted ergonomic setup (corre
 - [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
 - [Using Standing Desks to Boost Calorie Burn and Energy Levels](/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)
 - [34. Setting chair height when you cannot stand without your laptop](/articles/34-setting-chair-height-when-you-cannot-stand-without-your-laptop/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+

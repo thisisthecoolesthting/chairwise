@@ -99,3 +99,12 @@ Even the best ergonomic chair won’t help if you don’t move. Follow these add
 - **Strengthen Core Muscles** – A stronger core supports better posture naturally.  
 
 By combining an ergonomic chair with mindful sitting habits, you can reduce discomfort and improve long-term well-being. Invest in a chair that fits your body and work style—your back will thank you.
+
+## Our picks worth a closer look
+
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+

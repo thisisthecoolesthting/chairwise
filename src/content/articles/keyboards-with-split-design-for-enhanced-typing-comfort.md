@@ -113,3 +113,10 @@ Choosing a split keyboard is a worthwhile investment for desk workers committed 
 - [Ergonomic Keyboards That Reduce Wrist Strain Effectively](/articles/ergonomic-keyboards-that-reduce-wrist-strain-effectively/)
 - [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
 - [Ergonomic Keyboard Layouts That Minimize Repetitive Strain Injuries](/articles/ergonomic-keyboard-layouts-that-minimize-repetitive-strain-injuries/)
+
+## Our picks worth a closer look
+
+- **[4 Rolls 4.33' x 244'(110mm x 74m) Desktop Thermal Transfer Ribbons - Premium Enh](/products/4-rolls-4-33-x-244-110mm-x-74m-desktop-thermal-transfer/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Fo](/products/qltplus-office-desk-chair-for-long-hours-back-pain-reli/)** — see current price and specs.
+

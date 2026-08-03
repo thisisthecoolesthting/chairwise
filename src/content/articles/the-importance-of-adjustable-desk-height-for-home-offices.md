@@ -108,3 +108,12 @@ Follow these steps for an optimal, comfortable workstation set up:
 - [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
 - [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
 - [Choosing Adjustable Standing Desks for Varied Home Workstyles](/articles/choosing-adjustable-standing-desks-for-varied-home-workstyles/)
+
+## Our picks worth a closer look
+
+- **[Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He](/products/huuger-electric-standing-desk-with-power-outlets-and-us/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des](/products/oukmic-32-stable-standing-desk-converter-height-adjusta/)** — see current price and specs.
+- **[Raathionty Height Adjustable Standing Desk Converter, Computer Keyboard Stand fo](/products/raathionty-height-adjustable-standing-desk-converter-co/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+

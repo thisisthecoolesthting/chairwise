@@ -104,3 +104,12 @@ A monitor placed thoughtfully at eye level is a foundation of ergonomic comfort 
 - [How to Prevent Neck Pain with Proper Monitor Placement](/articles/how-to-prevent-neck-pain-with-proper-monitor-placement/)
 - [Top Monitor Setup Tips for an Ergonomic Home Workspace](/articles/top-monitor-setup-tips-for-an-ergonomic-home-workspace/)
 - [40. How to set up a second screen without looking down all day](/articles/40-how-to-set-up-a-second-screen-without-looking-down-all-day/)
+
+## Our picks worth a closer look
+
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Creams & Oils,Muscular Ac](/products/fei-fah-electric-medibalm-net-2-45-oz-70g-ointments-cre/)** — see current price and specs.
+- **[ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tracker, ](/products/st-care-fitness-tracker-with-step-counter-calories-stop/)** — see current price and specs.
+- **[Ancient Nutrition Gut Health Supplement, Regenerative Organic Certified Leaky Gu](/products/ancient-nutrition-gut-health-supplement-regenerative-or/)** — see current price and specs.
+- **[AOAO Women's Body Powder, Talc-Free Cashmere Dusting Powder for Women, Sweat & C](/products/aoao-women-s-body-powder-talc-free-cashmere-dusting-pow/)** — see current price and specs.
+

@@ -118,3 +118,11 @@ Choosing a keyboard is a highly personal decision, but by focusing on ergonomic 
 - [Keyboards with Split Design for Enhanced Typing Comfort](/articles/keyboards-with-split-design-for-enhanced-typing-comfort/)
 - [26. Split keyboards for wrist pain: who they actually help](/articles/26-split-keyboards-for-wrist-pain-who-they-actually-help/)
 - [Split Keyboards for Wrist Pain: Which Models Actually Work (Lab + 60-Day Testing)](/articles/split-keyboard-for-wrist-pain/)
+
+## Our picks worth a closer look
+
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[Leonyo Oversized 2 Person Camping Chair, Double Camping Loveseat Chair for Adult](/products/leonyo-oversized-2-person-camping-chair-double-camping-/)** — see current price and specs.
+- **[Office Chair, Desk Chair with Lumbar Support Arms, Adjustable Computer Chair wit](/products/office-chair-desk-chair-with-lumbar-support-arms-adjust/)** — see current price and specs.
+- **[WOOLALA Heated Wrist Brace with Massager USB Portable Electric Heating Pad for C](/products/woolala-heated-wrist-brace-with-massager-usb-portable-e/)** — see current price and specs.
+

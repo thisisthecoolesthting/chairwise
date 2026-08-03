@@ -123,3 +123,12 @@ Remember that “ergonomic” marketing claims don’t guarantee comfort after 8
 - [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
 - [Ergonomic Solutions for Small Home Office Setups](/articles/ergonomic-solutions-for-small-home-office-setups/)
 - [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+

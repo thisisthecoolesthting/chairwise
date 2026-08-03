@@ -151,3 +151,12 @@ Selecting a keyboard tray is a blend of understanding your body dimensions, your
 - [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
 - [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
 - [Choosing the Best Ergonomic Keyboard for Typing Comfort](/articles/choosing-the-best-ergonomic-keyboard-for-typing-comfort/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

@@ -128,3 +128,12 @@ Getting your keyboard and mouse positioned right lays the foundation for daily c
 - [Top Keyboards for Comfortable Typing and Reduced Wrist Strain](/articles/top-keyboards-for-comfortable-typing-and-reduced-wrist-strain/)
 - [How to Set Up an Ergonomic Standing Desk at Home](/articles/how-to-set-up-an-ergonomic-standing-desk-at-home/)
 - [Ergonomic Tips for Using External Keyboards with Laptops](/articles/ergonomic-tips-for-using-external-keyboards-with-laptops/)
+
+## Our picks worth a closer look
+
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+- **[Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke](/products/height-adjustable-standing-desk-converter-computer-keyb/)** — see current price and specs.
+- **[Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboard sold Separately)](/products/kinesis-freestyle2-vip-accessory-features-ac820-blk-key/)** — see current price and specs.
+

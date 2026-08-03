@@ -60,3 +60,12 @@ While the Leap V2 is a well-regarded chair, it's prudent to consider a few point
 *   **Warranty:** Understand the warranty terms, especially if purchasing used or refurbished. A robust warranty reflects the manufacturer's confidence in the product's longevity.
 
 The Steelcase Leap V2 in black fabric offers a comprehensive suite of ergonomic adjustments aimed at supporting prolonged sitting. For those experiencing common WFH-related discomforts, its features are designed to mitigate these issues through tailored support and encouragement of healthy posture. Your personal experience will ultimately be the deciding factor, emphasizing the importance of thorough research and, if feasible, a personal trial.
+
+## Our picks worth a closer look
+
+- **[Steelcase Leap Chair V2 In Black Fabric](/products/steelcase-leap-chair-v2-in-black-fabric/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair,Executive Tall Office Chair Flip-up Armrests for Counter Height D](/products/drafting-chair-executive-tall-office-chair-flip-up-armr/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+

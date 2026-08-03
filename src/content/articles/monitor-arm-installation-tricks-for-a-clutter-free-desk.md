@@ -120,3 +120,12 @@ Installing a monitor arm well requires more than just tightening a clamp and han
 - [33. The actual ergonomic setup checklist: 10 minutes, permanent fix](/articles/33-the-actual-ergonomic-setup-checklist-10-minutes-permanent-fix/)
 - [Selecting the Ideal Monitor Arm for Flexible Positioning](/articles/selecting-the-ideal-monitor-arm-for-flexible-positioning/)
 - [Best Chairwise Monitor Arms for Multi-Monitor Workstations](/articles/best-chairwise-monitor-arms-for-multi-monitor-workstations/)
+
+## Our picks worth a closer look
+
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ul](/products/ergofocus-heavy-duty-single-monitor-mount-for-max-49-in/)** — see current price and specs.
+- **[HUANUO FlowLift™ Pro Monitor Arm for 13–32' Screens, MechaSpring Monitor Mount, ](/products/huanuo-flowlift-pro-monitor-arm-for-13-32-screens-mecha/)** — see current price and specs.
+- **[VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 35 inch Screens, Hold](/products/vivo-dual-pneumatic-arm-ultra-wide-monitor-mount-for-up/)** — see current price and specs.
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+

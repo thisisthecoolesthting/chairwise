@@ -123,3 +123,12 @@ Standing desk height adjustment is not a set-it-and-forget-it affair. It require
 - [36. Fixing neck pain that started in 2020 and never left](/articles/36-fixing-neck-pain-that-started-in-2020-and-never-left/)
 - [Ergonomic Chair Adjustments for Users of Different Heights](/articles/ergonomic-chair-adjustments-for-users-of-different-heights/)
 - [13. How tall should your desk be? A chart by height and workflow](/articles/13-how-tall-should-your-desk-be-a-chart-by-height-and-workflow/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+- **[Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke](/products/height-adjustable-standing-desk-converter-computer-keyb/)** — see current price and specs.
+- **[Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He](/products/huuger-electric-standing-desk-with-power-outlets-and-us/)** — see current price and specs.
+

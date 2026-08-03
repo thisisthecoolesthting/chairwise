@@ -110,3 +110,12 @@ Setting up your lighting strategically to reduce glare can make your long hours 
 - [How Proper Lighting Influences Cognitive Performance at Work](/articles/how-proper-lighting-influences-cognitive-performance-at-work/)
 - [Creating a Balanced Lighting Scheme for Video Calls](/articles/creating-a-balanced-lighting-scheme-for-video-calls/)
 - [How LED Desk Lighting Can Reduce Eye Strain During Work](/articles/how-led-desk-lighting-can-reduce-eye-strain-during-work/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

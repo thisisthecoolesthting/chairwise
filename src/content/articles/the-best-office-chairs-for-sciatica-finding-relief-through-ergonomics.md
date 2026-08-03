@@ -77,3 +77,12 @@ While not traditional office chairs, some ergonomic recliners (like the **Human 
 Choosing the right office chair for sciatica involves prioritizing lumbar support, adjustability, and movement-friendly features. High-back ergonomic chairs, kneeling chairs, and saddle chairs are among the best options, depending on personal comfort preferences. Pairing your chair with proper posture habits and regular movement will maximize pain relief and long-term spinal health.  
 
 If sciatica persists, consult a healthcare professional to address underlying causes beyond seating.
+
+## Our picks worth a closer look
+
+- **[JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Support,O](/products/jiporier-lumbar-support-pillow-for-office-chair-seat-cu/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

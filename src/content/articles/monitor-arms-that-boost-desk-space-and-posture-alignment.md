@@ -140,3 +140,12 @@ Monitor arms are a straightforward, effective way to reclaim desk space and esta
 - [Selecting the Ideal Monitor Arm for Flexible Positioning](/articles/selecting-the-ideal-monitor-arm-for-flexible-positioning/)
 - [Using Standing Desks to Boost Calorie Burn and Energy Levels](/articles/using-standing-desks-to-boost-calorie-burn-and-energy-levels/)
 - [21. Single monitor vs dual monitor arms for the same workflow](/articles/21-single-monitor-vs-dual-monitor-arms-for-the-same-workflow/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+- **[Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar Support,High Back D](/products/nexthro-ergonomic-office-chair-mesh-office-chair-with-l/)** — see current price and specs.
+- **[Office Chair, Desk Chair with Lumbar Support Arms, Adjustable Computer Chair wit](/products/office-chair-desk-chair-with-lumbar-support-arms-adjust/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+

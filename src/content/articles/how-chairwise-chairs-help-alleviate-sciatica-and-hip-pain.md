@@ -139,3 +139,12 @@ Choosing the right ergonomic chair means looking past marketing buzz and testing
 - [Tips for Setting Up an Ergonomic Workspace with Chairwise Products](/articles/tips-for-setting-up-an-ergonomic-workspace-with-chairwise-products/)
 - [Ergonomic Chair Features That Support Spinal Health](/articles/ergonomic-chair-features-that-support-spinal-health/)
 - [9. Kneeling chairs: the physical therapy take](/articles/9-kneeling-chairs-the-physical-therapy-take/)
+
+## Our picks worth a closer look
+
+- **[JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Support,O](/products/jiporier-lumbar-support-pillow-for-office-chair-seat-cu/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+

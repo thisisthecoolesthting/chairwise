@@ -119,3 +119,12 @@ In summary, ergonomic small home office setups demand careful consideration of f
 - [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
 - [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
 - [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Cha](/products/massage-office-chair-with-foot-rest-6-points-vibration-/)** — see current price and specs.
+

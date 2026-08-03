@@ -124,3 +124,12 @@ Using a footrest is a deceptively simple yet effective way to enhance ergonomic 
 - [Choosing the Best Ergonomic Chair for Long Home Office Hours](/articles/choosing-the-best-ergonomic-chair-for-long-home-office-hours/)
 - [How to Set Up a Home Office for Back Pain Prevention](/articles/how-to-set-up-a-home-office-for-back-pain-prevention/)
 - [Chairwise Chairs with Lumbar Support for Improved Posture](/articles/chairwise-chairs-with-lumbar-support-for-improved-posture/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Cha](/products/massage-office-chair-with-foot-rest-6-points-vibration-/)** — see current price and specs.
+

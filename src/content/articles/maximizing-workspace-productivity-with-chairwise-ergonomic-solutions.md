@@ -119,3 +119,12 @@ By focusing on measurable, adjustable comfort features and realistic daily use r
 - [Creating a Productive Ergonomic Workspace in Small Home Offices](/articles/creating-a-productive-ergonomic-workspace-in-small-home-offices/)
 - [How to Combine Natural and Artificial Lighting Ergonomically](/articles/how-to-combine-natural-and-artificial-lighting-ergonomically/)
 - [Monitor Arm Installation Tricks for a Clutter-Free Desk](/articles/monitor-arm-installation-tricks-for-a-clutter-free-desk/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+

@@ -97,3 +97,12 @@ Configuring your home office with these measured, practical considerations in mi
 - [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
 - [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
 - [Standing Desk Height Adjustment: Finding Your Ideal Position](/articles/standing-desk-height-adjustment-finding-your-ideal-position/)
+
+## Our picks worth a closer look
+
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Support,O](/products/jiporier-lumbar-support-pillow-for-office-chair-seat-cu/)** — see current price and specs.
+- **[KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adj](/products/kwksv-500lbs-big-and-tall-office-chair-comfy-heavy-duty/)** — see current price and specs.
+- **[Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar Support,High Back D](/products/nexthro-ergonomic-office-chair-mesh-office-chair-with-l/)** — see current price and specs.
+

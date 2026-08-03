@@ -171,3 +171,12 @@ Proper monitor placement is a simple but essential step to protect your neck dur
 - [Guide to Proper Keyboard and Mouse Placement for Comfort](/articles/guide-to-proper-keyboard-and-mouse-placement-for-comfort/)
 - [Monitor Arms That Boost Desk Space and Posture Alignment](/articles/monitor-arms-that-boost-desk-space-and-posture-alignment/)
 - [Tips for Maintaining Good Posture While Working from Home](/articles/tips-for-maintaining-good-posture-while-working-from-home/)
+
+## Our picks worth a closer look
+
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ul](/products/ergofocus-heavy-duty-single-monitor-mount-for-max-49-in/)** — see current price and specs.
+- **[FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Creams & Oils,Muscular Ac](/products/fei-fah-electric-medibalm-net-2-45-oz-70g-ointments-cre/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+

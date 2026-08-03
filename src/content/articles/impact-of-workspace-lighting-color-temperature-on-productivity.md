@@ -109,3 +109,10 @@ By paying attention to workspace lighting color temperature alongside ergonomics
 - [Daylight-Mimicking Desk Lamps to Improve Mood and Alertness](/articles/daylight-mimicking-desk-lamps-to-improve-mood-and-alertness/)
 - [Optimal Lighting Solutions to Enhance Workspace Productivity](/articles/optimal-lighting-solutions-to-enhance-workspace-productivity/)
 - [Impact of Natural Lighting on Workplace Wellness and Output](/articles/impact-of-natural-lighting-on-workplace-wellness-and-output/)
+
+## Our picks worth a closer look
+
+- **[Fargo 45100 Full Color Ribbon - YMCKO - 250 Prints](/products/fargo-45100-full-color-ribbon-ymcko-250-prints/)** — see current price and specs.
+- **[HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack) | Works DeskJet 10](/products/hp-original-61-tri-color-61xl-black-ink-cartridges-2-pa/)** — see current price and specs.
+- **[ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tracker, ](/products/st-care-fitness-tracker-with-step-counter-calories-stop/)** — see current price and specs.
+

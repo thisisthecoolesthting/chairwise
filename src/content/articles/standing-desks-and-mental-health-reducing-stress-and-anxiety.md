@@ -128,3 +128,12 @@ By focusing on measured ergonomic fit, regular movement, and realistic use patte
 - [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
 - [36. Fixing neck pain that started in 2020 and never left](/articles/36-fixing-neck-pain-that-started-in-2020-and-never-left/)
 - [How Standing Desks Improve Focus and Reduce Fatigue](/articles/how-standing-desks-improve-focus-and-reduce-fatigue/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Free Standing Wall Moun](/products/shengyiwa-6-pack-automatic-air-freshener-spray-dispense/)** — see current price and specs.
+- **[Ancient Nutrition Gut Health Supplement, Regenerative Organic Certified Leaky Gu](/products/ancient-nutrition-gut-health-supplement-regenerative-or/)** — see current price and specs.
+- **[AOAO Women's Body Powder, Talc-Free Cashmere Dusting Powder for Women, Sweat & C](/products/aoao-women-s-body-powder-talc-free-cashmere-dusting-pow/)** — see current price and specs.
+- **[Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer ](/products/bestand-real-fan-white-noise-machine-sleep-sound-machin/)** — see current price and specs.
+

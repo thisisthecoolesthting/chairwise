@@ -106,3 +106,12 @@ Standing desks are not a cure-all, but when integrated thoughtfully into your wo
 - [Standing Desks and Mental Health: Reducing Stress and Anxiety](/articles/standing-desks-and-mental-health-reducing-stress-and-anxiety/)
 - [The Science Behind Standing Desks and Increased Productivity](/articles/the-science-behind-standing-desks-and-increased-productivity/)
 - [Benefits of Adjustable Standing Desks for Home Offices](/articles/benefits-of-adjustable-standing-desks-for-home-offices/)
+
+## Our picks worth a closer look
+
+- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
+- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
+- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
+- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+

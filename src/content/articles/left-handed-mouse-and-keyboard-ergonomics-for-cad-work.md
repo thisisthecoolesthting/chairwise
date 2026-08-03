@@ -124,3 +124,12 @@ Mechanical switches like Cherry MX Brown or Clear strike a good balance with tac
 ---
 
 Finding left-handed mouse and keyboard ergonomics for CAD work demanded some trial and error for me, but the payoff has been huge. When your gear fits your dominant hand naturally, blends seamlessly into your workflow, and supports your posture, you work smarter—not just harder. If you’re lefty and serious about CAD, investing in ergonomic peripherals isn’t just a nice-to-have; it’s essential for performance and long-term health.
+
+## Our picks worth a closer look
+
+- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+- **[FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Desktop Rise](/products/flexispot-standing-desk-converter-36-desk-riser-height-/)** — see current price and specs.
+

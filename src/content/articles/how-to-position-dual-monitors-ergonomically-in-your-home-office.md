@@ -118,3 +118,12 @@ By following these steps, you can expect reduced discomfort, prolonged productiv
 - [Ergonomic Tips for Using Laptops in Home Offices](/articles/ergonomic-tips-for-using-laptops-in-home-offices/)
 - [Tips for Organizing Your Home Office Ergonomically](/articles/tips-for-organizing-your-home-office-ergonomically/)
 - [24. How to set up a laptop-only home office ergonomically](/articles/24-how-to-set-up-a-laptop-only-home-office-ergonomically/)
+
+## Our picks worth a closer look
+
+- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
+- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
+- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
+- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
+- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
+

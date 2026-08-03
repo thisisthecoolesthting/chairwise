@@ -128,3 +128,12 @@ Selecting the ideal monitor arm requires balancing your monitor specifications, 
 - [Monitor Arm Positioning Tips to Avoid Neck and Eye Strain](/articles/monitor-arm-positioning-tips-to-avoid-neck-and-eye-strain/)
 - [How to Design an Ergonomic Workspace for Remote Employees](/articles/how-to-design-an-ergonomic-workspace-for-remote-employees/)
 - [20. Ergotron LX vs Amazon Basics monitor arm: is the 5x price real?](/articles/20-ergotron-lx-vs-amazon-basics-monitor-arm-is-the-5x-price-real/)
+
+## Our picks worth a closer look
+
+- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
+- **[ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ul](/products/ergofocus-heavy-duty-single-monitor-mount-for-max-49-in/)** — see current price and specs.
+- **[HUANUO FlowLift™ Pro Monitor Arm for 13–32' Screens, MechaSpring Monitor Mount, ](/products/huanuo-flowlift-pro-monitor-arm-for-13-32-screens-mecha/)** — see current price and specs.
+- **[VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 35 inch Screens, Hold](/products/vivo-dual-pneumatic-arm-ultra-wide-monitor-mount-for-up/)** — see current price and specs.
+- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
+
