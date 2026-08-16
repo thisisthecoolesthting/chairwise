@@ -13,7 +13,7 @@ bsr: 105382
 commissionPerSale: 0.0
 score: 166.18
 imageUrl: https://m.media-amazon.com/images/I/71nQEZJogfS.jpg
-affiliateUrl: https://www.amazon.com/dp/B0048BHOEC?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0048BHOEC
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Fargo 45100 Full Color Ribbon - YMCKO - 250 Prints is a catalog pick for this ni
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0048BHOEC" url="https://www.amazon.com/dp/B0048BHOEC?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0048BHOEC" url="https://www.amazon.com/dp/B0048BHOEC" label="Check price on Amazon" />
 

@@ -13,7 +13,7 @@ bsr: 139002
 commissionPerSale: 0.0
 score: 183.23
 imageUrl: "https://m.media-amazon.com/images/I/716UZTqarfL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GPRHFGPQ?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GPRHFGPQ"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ We added this listing from our harvested product pool so readers can compare a v
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GPRHFGPQ" url="https://www.amazon.com/dp/B0GPRHFGPQ?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GPRHFGPQ" url="https://www.amazon.com/dp/B0GPRHFGPQ" label="Check price on Amazon" />
 

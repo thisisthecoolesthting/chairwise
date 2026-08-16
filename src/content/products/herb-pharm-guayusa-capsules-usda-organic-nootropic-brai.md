@@ -13,7 +13,7 @@ bsr: 227374
 commissionPerSale: 0.0
 score: 162.39
 imageUrl: https://m.media-amazon.com/images/I/71NXftS-rpL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0D23QBYBD?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0D23QBYBD
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Herb Pharm Guayusa Capsules: USDA Organic Nootropic Brain Supplements for Focus,
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0D23QBYBD" url="https://www.amazon.com/dp/B0D23QBYBD?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0D23QBYBD" url="https://www.amazon.com/dp/B0D23QBYBD" label="Check price on Amazon" />
 

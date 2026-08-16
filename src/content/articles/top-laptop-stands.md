@@ -56,17 +56,17 @@ Based on our extensive testing, here are some of our top recommendations, cateri
 For those with a permanent desk setup, stability and maximum adjustability are key. These stands are often made from robust materials and offer a wide range of height and tilt options, designed to stay put and support your laptop reliably for 8+ hours a day.
 
 The **Rain Design mStand** is a classic for a reason. Crafted from a single piece of aluminum, it’s incredibly stable and matches the aesthetic of many popular laptops. While it offers a fixed height and angle, that height (around 6 inches of elevation) is often ideal for 15-inch laptops, bringing the screen to a comfortable viewing level for average-height users when paired with a good [ergonomic office chair](INTERNAL:best-ergonomic-office-chairs). Its open design also promotes excellent airflow. We've found its stability to be unmatched in its category, holding even heavier 17-inch laptops without a hint of wobble. Its simplicity is its strength; there are no hinges or complex mechanisms to fail.
-[Rain Design mStand](https://www.amazon.com/dp/B000OOYECC/?tag=chairwise-20)
+Rain Design mStand
 
 For users needing more precise adjustability, the **OMOTON C4 Laptop Stand** provides continuous height and angle adjustment through a robust dual-hinge design. Made from aluminum, it feels solid and secure, even at its maximum height. The hinges are stiff enough to hold position without slipping, a critical factor for long-term use. We particularly appreciate the wide base and large anti-slip pads which keep both the stand and the laptop firmly in place. Its ability to fold down relatively flat also makes it a versatile option for those who might occasionally need to move their setup. Our testers, ranging from 5'2" to 6'4", found it adaptable enough to achieve proper screen height, which is a rare feat for a single product.
-[OMOTON C4 Laptop Stand](https://www.amazon.com/dp/B0B69F2C7Q/?tag=chairwise-20)
+OMOTON C4 Laptop Stand
 
 ### For the Agile Worker: Portable and Packable Power
 
 If your workspace is fluid—moving from kitchen table to home office, or even to a coffee shop—portability becomes a primary concern. These stands balance adjustability with a compact, lightweight design, allowing you to maintain good ergonomics wherever you land.
 
 The **Roost Laptop Stand** (or similar clones, as the original patent has expired) is a benchmark for portability. It collapses into a surprisingly small, lightweight stick, making it easy to toss into a laptop bag. Its unique "hook" design elevates the laptop significantly, offering excellent screen height. While it doesn't offer angle adjustment for the screen itself (the laptop rests on prongs), it does have multiple height settings. The trade-off for its extreme portability is that it's less stable than a fixed aluminum stand, and some users find the prongs can feel a bit flimsy if not set up correctly. However, for a user who prioritizes packing light and quick setup, it’s an excellent choice. Our testing confirmed it’s remarkably stable *for its class* once the laptop is seated properly, and its elevation geometry naturally encourages a more upright posture.
-[Roost Laptop Stand (Original or equivalent)](https://www.amazon.com/dp/B01N0P4C11/?tag=chairwise-20)
+Roost Laptop Stand (Original or equivalent)
 
 Another strong contender in the portable category is the **Nulaxy C3 Laptop Stand**. It's a bit heavier and bulkier than the Roost but offers a more conventional platform design with continuous height and angle adjustment via a single, strong hinge. Made from aluminum, it folds flat for transport and provides a very stable base when deployed. The key advantage here is the platform design, which can feel more secure for some users compared to the prongs of the Roost. Its adjustability range is impressive for a portable unit, making it suitable for both sitting and occasional standing use (though a full standing desk is always preferable for prolonged standing).
 

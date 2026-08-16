@@ -13,7 +13,7 @@ bsr: 120360
 commissionPerSale: 0.0
 score: 161.62
 imageUrl: "https://m.media-amazon.com/images/I/61VFExHS2EL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0F83KRJBQ?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0F83KRJBQ"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0F83KRJBQ" url="https://www.amazon.com/dp/B0F83KRJBQ?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0F83KRJBQ" url="https://www.amazon.com/dp/B0F83KRJBQ" label="Check price on Amazon" />
 

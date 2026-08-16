@@ -82,19 +82,19 @@ After testing dozens of monitor arms, these models consistently perform well acr
 
 The Ergotron LX has been an industry standard for years, and for good reason. It's built like a tank, offers exceptional range of motion, and its gas spring mechanism provides buttery-smooth, one-handed adjustment. It easily accommodates monitors up to 34 inches and 25 lbs, making it suitable for most standard and ultrawide displays. We've found its depth extension particularly useful for users with deeper desks or those who frequently switch between focused work and more relaxed viewing. The build quality is evident; there's no wobble or sag even after prolonged use. While it's pricier than some budget options, its durability and superior adjustability make it a worthwhile investment that won't need replacing.
 
-[Ergotron LX Desk Monitor Arm, Tall Pole](https://www.amazon.com/Ergotron-Monitor-Arm-Tall-Pole/dp/B01HQZ9G8G/?tag=chairwise-20) (There are various versions; the tall pole offers more vertical range.)
+Ergotron LX Desk Monitor Arm, Tall Pole (There are various versions; the tall pole offers more vertical range.)
 
 ### For Dual Monitor Users Needing Independent Adjustment: HX Desk Monitor Arm
 
 Many dual monitor arms link the monitors together, restricting independent depth and lateral movement. This can lead to awkward compromises in positioning, especially if your monitors are different sizes or you have specific viewing angle needs. The HX Desk Monitor Arm (from Ergotron, like the LX) solves this by allowing each monitor to articulate independently. This means you can perfectly align each screen for your unique posture and task. It supports heavier monitors than the LX, often up to 30 lbs per arm, and has a clean, integrated cable management system. We recommend this for users running two large monitors, or two ultrawides, who prioritize precise, independent positioning for each screen.
 
-[Ergotron HX Dual Monitor Arm](https://www.amazon.com/Ergotron-HX-Desk-Monitor-Arm/dp/B079J1B51P/?tag=chairwise-20)
+Ergotron HX Dual Monitor Arm
 
 ### For Budget-Conscious Single Monitor Users: HUANUO Single Monitor Arm
 
 While we generally advocate investing in quality, the HUANUO Single Monitor Arm provides a surprisingly good value for its price point. It uses a gas spring system that, while not as refined as Ergotron's, still allows for relatively easy height and depth adjustments. It supports monitors up to 32 inches and 17.6 lbs, which covers many common WFH displays. Cable management is decent, and it offers both C-clamp and grommet mounting options. The range of motion is respectable, though the overall build feels less robust than premium options. This is a solid choice if you're looking for a significant ergonomic upgrade from a static stand without breaking the bank, and your monitor falls within its weight limits. Just be aware that the long-term durability might not match the higher-end models.
 
-[HUANUO Single Monitor Arm](https://www.amazon.com/HUANUO-Adjustable-Monitor-Mount-HNSS6/dp/B07QR4K34W/?tag=chairwise-20)
+HUANUO Single Monitor Arm
 
 ### For Standing Desk Users: Look for Extra Reach and Stability
 

@@ -24,7 +24,7 @@ We mounted 12 arms (from $35 to $350) with 8-42 lb loads, testing:
 - Compatibility with curved monitors like the Samsung Odyssey G9 and flat panels in vertical orientation
 - Temperature stress testing from 50°F to 95°F to simulate seasonal changes
 
-The results surprised us - some $80 arms like the [VIVO Premium](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) outperformed $300 models in vibration dampening, while popular Amazon choices failed basic stability tests within two weeks. Here's what actually works for monitors over 25 lbs based on 400+ hours of lab testing and real-world usage scenarios including:
+The results surprised us - some $80 arms like the VIVO Premium outperformed $300 models in vibration dampening, while popular Amazon choices failed basic stability tests within two weeks. Here's what actually works for monitors over 25 lbs based on 400+ hours of lab testing and real-world usage scenarios including:
 - Standing desk users who adjust height 4+ times daily
 - Creative professionals with frequent screen rotation
 - Multi-monitor setups with asymmetrical weight distribution
@@ -41,12 +41,12 @@ Poor weight distribution causes three visible failures we measured with laser le
 - **Pan drift**: Monitor rotates sideways 5-10° during typing sessions, requiring constant repositioning
 - **Height creep**: Arm gradually sinks 1-2 inches daily, disrupting ergonomic sightlines
 
-In our accelerated lifespan testing, the [Ergotron LX](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) showed zero measurable drift after 10,000 height adjustments (simulating 10 years of use), while budget arms failed within 500 cycles. For heavy monitors, paying for commercial-grade components isn't luxury - it's preventing $800+ monitor replacements when cheap arms fail.
+In our accelerated lifespan testing, the Ergotron LX showed zero measurable drift after 10,000 height adjustments (simulating 10 years of use), while budget arms failed within 500 cycles. For heavy monitors, paying for commercial-grade components isn't luxury - it's preventing $800+ monitor replacements when cheap arms fail.
 
 We also found:
 - Arms using aluminum alloy joints lasted 3x longer than plastic/pot metal
 - Gas spring models maintained consistent tension across 50°F temperature swings
-- Counterbalanced arms like the [Ergotron HX](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) showed no wear even at maximum 42 lb loads
+- Counterbalanced arms like the Ergotron HX showed no wear even at maximum 42 lb loads
 
 # Head-to-head comparison
 
@@ -54,16 +54,16 @@ We tested 12 arms across 30+ metrics. Here are the top performers for heavy moni
 
 | Model | Max Weight | VESA | Tilt Range | Key Feature | Price |
 |-------|------------|------|------------|-------------|-------|
-| [Ergotron HX](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) | 42 lbs | 100x100-200x200 | ±80° | Industrial pivot, 10yr warranty | $349 |
-| [AmazonBasics Premium](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) | 25 lbs | 75x75-100x100 | ±45° | Tool-free install, 3yr warranty | $99 |
-| [HUANUO Triple Monitor](https://www.amazon.com/dp/B0F54TYKF9?tag=chairwise-20) | 22 lbs/arm | 75x75 | ±15° | Space-saving, steel reinforcement | $159 |
-| [VIVO Premium](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) | 30 lbs | 75x75-100x100 | ±75° | Smooth panning, 5yr warranty | $129 |
+| Ergotron HX | 42 lbs | 100x100-200x200 | ±80° | Industrial pivot, 10yr warranty | $349 |
+| AmazonBasics Premium | 25 lbs | 75x75-100x100 | ±45° | Tool-free install, 3yr warranty | $99 |
+| HUANUO Triple Monitor | 22 lbs/arm | 75x75 | ±15° | Space-saving, steel reinforcement | $159 |
+| VIVO Premium | 30 lbs | 75x75-100x100 | ±75° | Smooth panning, 5yr warranty | $129 |
 
 Critical findings from our stress tests:
 - The Ergotron HX handled our 38-inch 42 lb test monitor effortlessly during simulated earthquake testing (4.5 Richter scale vibrations), while the AmazonBasics model developed 12° tilt sag at just 19 lbs
-- Only the [Ergotron LX](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) maintained perfect vertical alignment (±0.3°) when mounted on a wobbling standing desk adjusted 50 times/hour
-- For multi-monitor setups, the [HUANUO](https://www.amazon.com/dp/B0F54TYKF9?tag=chairwise-20) provided the most stable base (0.8mm deflection under load) but required tools for tilt adjustments
-- The [VIVO Premium](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) offered the best cable routing for thick 8K HDMI 2.1 cables with 15mm internal channels
+- Only the Ergotron LX maintained perfect vertical alignment (±0.3°) when mounted on a wobbling standing desk adjusted 50 times/hour
+- For multi-monitor setups, the HUANUO provided the most stable base (0.8mm deflection under load) but required tools for tilt adjustments
+- The VIVO Premium offered the best cable routing for thick 8K HDMI 2.1 cables with 15mm internal channels
 
 Unexpected performance differentiators:
 - Models with bronze bushings outlasted nylon by 4:1 in pivot joints
@@ -75,7 +75,7 @@ Unexpected performance differentiators:
 After 60 days of real-world testing by our team of 12 remote workers:
 
 **Gas spring arms**
-- [Ergotron HX](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) showed <0.5% force reduction after 5,000 adjustments
+- Ergotron HX showed <0.5% force reduction after 5,000 adjustments
 - Zero reported cases of height creep or tilt sag
 - Perfect for users with 32-42" monitors who frequently switch between sitting/standing
 
@@ -85,14 +85,14 @@ After 60 days of real-world testing by our team of 12 remote workers:
 - Best for static setups where position changes are infrequent
 
 Common failure points observed:
-- The [North Bayou F80](https://www.amazon.com/dp/B085VZPR2Y?tag=chairwise-20) developed audible creaking at 15 lbs load due to plastic friction pads
+- The North Bayou F80 developed audible creaking at 15 lbs load due to plastic friction pads
 - 70% of sub-$100 arms showed visible metal fatigue at pivot points after 60 days
 - Clamp mounts cracked particleboard desks when exceeding 25 lbs without reinforcement
 
 For specialized use cases:
-- **Ultrawide monitors**: The [VIVO Premium](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) provided the smoothest panning but required monthly bolt tightening
-- **Vertical orientation**: Only the [Ergotron LX](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) maintained perfect 90° alignment for coding setups
-- **Glass desks**: The [Ergotron Threaded Grommet](https://www.amazon.com/dp/B0C7SX1H6J?tag=chairwise-20) prevented stress fractures better than clamps
+- **Ultrawide monitors**: The VIVO Premium provided the smoothest panning but required monthly bolt tightening
+- **Vertical orientation**: Only the Ergotron LX maintained perfect 90° alignment for coding setups
+- **Glass desks**: The Ergotron Threaded Grommet prevented stress fractures better than clamps
 
 # Cost math
 
@@ -105,8 +105,8 @@ Breakdown for a 34-inch monitor (avg 18 lbs) over 10 years:
 | $250+ | 7-10 years | $29 | Low (8%) | <5% |
 
 Key findings from our cost analysis:
-- The [AmazonBasics Premium](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) offers the best mid-range value at $0.23/day over 5 years
-- The [Ergotron HX](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) becomes cheaper than replacements after 4 years when factoring in monitor protection
+- The AmazonBasics Premium offers the best mid-range value at $0.23/day over 5 years
+- The Ergotron HX becomes cheaper than replacements after 4 years when factoring in monitor protection
 - Budget arms cost 2.5x more long-term due to frequent replacements
 - Commercial-grade arms retain 40-60% resale value after 5 years
 
@@ -118,9 +118,9 @@ Hidden costs to consider:
 # Alternatives and refills
 
 For non-standard setups:
-- **Corner desks**: [HUANUO Corner Stand](https://www.amazon.com/dp/B0CGW48C3G?tag=chairwise-20) with 360° rotation and reinforced L-bracket
-- **Glass desks**: Use [Ergotron Threaded Grommet](https://www.amazon.com/dp/B0C7SX1H6J?tag=chairwise-20) with silicone padding to distribute weight
-- **Portable setups**: [North Bayou Quick Release](https://www.amazon.com/dp/B085VZPR2Y?tag=chairwise-20) plate system for frequent moves (tested 200+ installs)
+- **Corner desks**: HUANUO Corner Stand with 360° rotation and reinforced L-bracket
+- **Glass desks**: Use Ergotron Threaded Grommet with silicone padding to distribute weight
+- **Portable setups**: North Bayou Quick Release plate system for frequent moves (tested 200+ installs)
 - **Super heavy monitors**: Custom counterweight systems from Ergotron (up to 65 lbs capacity)
 
 Third-party accessories that extend lifespan:
@@ -138,12 +138,12 @@ Not recommended - uneven tension causes dangerous wobble. Our tests showed:
 - 40% faster joint wear due to asymmetrical loading
 - Increased risk of VESA mount damage
 
-Single arms rated for 1.5x your monitor's weight provide better stability. For 40+ lb monitors, consider the [Ergotron HX Heavy Duty](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) with its 42 lb capacity.
+Single arms rated for 1.5x your monitor's weight provide better stability. For 40+ lb monitors, consider the Ergotron HX Heavy Duty with its 42 lb capacity.
 
 ### Do monitor arms work with standing desks?
 
 Yes, but choose arms with <0.5° deflection during movement. We recommend:
-- [Ergotron LX](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) for electric desks (tested with 50+ models)
+- Ergotron LX for electric desks (tested with 50+ models)
 - Minimum 18" of vertical travel for full sit-stand range
 - Avoid arms with friction-based height adjustment
 
@@ -172,11 +172,11 @@ Clamp mounts work for 95% of desks under 1.5" thick. For problematic surfaces:
 
 After 400+ hours of testing, our recommendations by use case:
 
-**Under 25 lbs**: The [AmazonBasics Premium](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) delivers exceptional value at $99 with its tool-free installation and 3-year warranty. Perfect for standard 27-32" monitors.
+**Under 25 lbs**: The AmazonBasics Premium delivers exceptional value at $99 with its tool-free installation and 3-year warranty. Perfect for standard 27-32" monitors.
 
-**25-35 lbs**: The [VIVO Premium](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) at $129 handles heavier ultrawides with superior cable management and smoother articulation than competitors at this price.
+**25-35 lbs**: The VIVO Premium at $129 handles heavier ultrawides with superior cable management and smoother articulation than competitors at this price.
 
-**35+ lbs**: Only the industrial-grade [Ergotron HX](https://www.amazon.com/dp/B0CB75LML9?tag=chairwise-20) at $349 provides reliable support for massive monitors. Its military-grade components and 10-year warranty justify the cost for professionals.
+**35+ lbs**: Only the industrial-grade Ergotron HX at $349 provides reliable support for massive monitors. Its military-grade components and 10-year warranty justify the cost for professionals.
 
 Avoid 'heavy duty' arms using plastic tension gears - we found 7 models that couldn't hold their rated weight after 90 days. Invest in proper support to protect your expensive display and your posture.
 

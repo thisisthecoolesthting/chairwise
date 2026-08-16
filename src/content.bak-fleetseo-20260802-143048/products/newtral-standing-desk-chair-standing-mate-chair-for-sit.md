@@ -13,7 +13,7 @@ bsr: 11
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GVS6S9RB?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GVS6S9RB"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GVS6S9RB" url="https://www.amazon.com/dp/B0GVS6S9RB?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GVS6S9RB" url="https://www.amazon.com/dp/B0GVS6S9RB" label="Check price on Amazon" />
 

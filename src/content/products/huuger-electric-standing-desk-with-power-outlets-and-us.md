@@ -13,7 +13,7 @@ bsr: 14503
 commissionPerSale: 0.0
 score: 137.48
 imageUrl: https://m.media-amazon.com/images/I/71zNDqwvs3L.jpg
-affiliateUrl: https://www.amazon.com/dp/B0GS9B1X5X?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GS9B1X5X
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 Inch He
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GS9B1X5X" url="https://www.amazon.com/dp/B0GS9B1X5X?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GS9B1X5X" url="https://www.amazon.com/dp/B0GS9B1X5X" label="Check price on Amazon" />
 

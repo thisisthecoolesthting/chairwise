@@ -76,7 +76,7 @@ The Ergotron HX is a perennial favorite for a reason. It's built like a tank and
     *   **Extensive Range of Motion:** Offers 11.5 inches (29.2 cm) of height adjustment, 75 degrees of tilt, and 360 degrees of rotation.
     *   **Integrated Cable Management:** Channels run along the underside of the arm, keeping cables out of sight.
 *   **Our Take:** If you have a premium, heavy monitor and want zero compromises on adjustability and stability, the Ergotron HX is the gold standard. It's an investment, but one that pays dividends in terms of ergonomic comfort and peace of mind. Its adjustability is truly best-in-class for heavy loads.
-*   **Where to Buy:** [Ergotron HX Desk Monitor Arm](https://www.amazon.com/dp/B075S1WR4N/?tag=chairwise-20)
+*   **Where to Buy:** Ergotron HX Desk Monitor Arm
 
 ### 2. Fully Jarvis Monitor Arm (Heavy Duty)
 
@@ -89,7 +89,7 @@ Fully, known for its popular Jarvis standing desks, also offers a heavy-duty arm
     *   **Clamp and Grommet Mount Included:** Offers flexibility in how you attach it to your desk.
     *   **Clean Aesthetic:** Available in silver, black, and white, it blends well with various office decor.
 *   **Our Take:** The Fully Jarvis Heavy Duty arm is an excellent choice for those seeking a robust solution without the top-tier price tag of the Ergotron HX. It performs admirably, holding heavy monitors securely, though initial tension adjustment might take a moment to dial in perfectly. It's a reliable workhorse for most heavy-monitor scenarios.
-*   **Where to Buy:** [Fully Jarvis Monitor Arm (Heavy Duty)](https://www.amazon.com/dp/B07R7Q2V1Y/?tag=chairwise-20)
+*   **Where to Buy:** Fully Jarvis Monitor Arm (Heavy Duty)
 
 ### 3. Mount-It! Heavy Duty Monitor Arm
 
@@ -102,7 +102,7 @@ For users with extremely heavy or older, bulkier monitors, Mount-It! offers a su
     *   **Wide VESA Compatibility:** Often includes adapters for larger VESA patterns, accommodating a broader range of monitors.
     *   **Desk Clamp and Grommet Mount:** Both options are usually included.
 *   **Our Take:** If your primary concern is simply holding a very heavy monitor securely at a fixed height, and you don't need frequent, dynamic height adjustments, the Mount-It! Heavy Duty arm is a strong contender. It's less about effortless movement and more about unyielding support. It's particularly good for older professional displays or large TVs repurposed as monitors.
-*   **Where to Buy:** [Mount-It! Heavy Duty Monitor Arm](https://www.amazon.com/dp/B0755GBCV5/?tag=chairwise-20)
+*   **Where to Buy:** Mount-It! Heavy Duty Monitor Arm
 
 ## Installation and Setup Tips for Heavy Monitor Arms
 

@@ -46,7 +46,7 @@ For a vertical mouse, pay particular attention to:
 *   **Width/Girth:** How much your hand wraps around the body of the mouse. There should be enough support for your palm, allowing your thumb and pinky to rest naturally without dragging or gripping excessively.
 *   **Angle:** The vertical angle of the mouse. Some users find a more gradual slope (e.g., 45-60 degrees) more comfortable initially, while others prefer the full 90-degree "handshake" posture. This is highly personal and often requires trial and error.
 
-**Our Recommendation for Medium Hands:** For users with palm lengths between 6.5 and 7.5 inches (16.5-19 cm), the [Logitech MX Vertical](https://www.amazon.com/Logitech-Vertical-Ergonomic-Mouse-Rechargeable/dp/B078JHJSCN/?tag=chairwise-20) is often a good starting point. Its 57-degree angle is a good compromise for many, and its overall dimensions accommodate a wide range of medium-sized hands without being too bulky or too small. We've found it allows for a relaxed grip and easy button access for this hand size range.
+**Our Recommendation for Medium Hands:** For users with palm lengths between 6.5 and 7.5 inches (16.5-19 cm), the Logitech MX Vertical is often a good starting point. Its 57-degree angle is a good compromise for many, and its overall dimensions accommodate a wide range of medium-sized hands without being too bulky or too small. We've found it allows for a relaxed grip and easy button access for this hand size range.
 
 ### Wired vs. Wireless: Connectivity and Workflow
 
@@ -61,7 +61,7 @@ The choice between wired and wireless often comes down to convenience versus pot
 
 For most WFH professionals, especially those using a [standing desk](INTERNAL:standing-desk-guide), a wireless vertical mouse offers superior flexibility. The ability to move your mouse freely without tugging a cable is a significant quality-of-life improvement. Modern wireless mice have excellent battery life, often lasting weeks or months on a single charge or set of batteries.
 
-**Our Recommendation for Wireless Flexibility:** The [Logitech Lift Vertical Ergonomic Mouse](https://www.amazon.com/Logitech-Vertical-Ergonomic-Wireless-Bluetooth/dp/B09V117M3Y/?tag=chairwise-20) is an excellent wireless option, particularly for smaller to medium hands. It connects via Bluetooth or a Logi Bolt USB receiver, offering robust connectivity and multi-device pairing. Its compact size and comfortable 57-degree tilt make it highly portable and suitable for various setups.
+**Our Recommendation for Wireless Flexibility:** The Logitech Lift Vertical Ergonomic Mouse is an excellent wireless option, particularly for smaller to medium hands. It connects via Bluetooth or a Logi Bolt USB receiver, offering robust connectivity and multi-device pairing. Its compact size and comfortable 57-degree tilt make it highly portable and suitable for various setups.
 
 ### Buttons, Scroll Wheels, and Customization: Beyond the Click
 
@@ -76,7 +76,7 @@ Beyond the basic left and right click, the placement and functionality of additi
 
 The ability to customize button functions can significantly enhance your workflow and further reduce repetitive strain. For instance, assigning "copy" and "paste" to thumb buttons eliminates the need for keyboard shortcuts, keeping your non-mousing hand free and reducing the overall input burden.
 
-**Our Recommendation for Customization:** The [Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.amazon.com/Anker-Wireless-Vertical-Ergonomic-Optical/dp/B00BIFNTMC/?tag=chairwise-20) is a budget-friendly option that still offers decent button placement for basic navigation. While it lacks the advanced software customization of premium models, its core design provides a good ergonomic foundation for those looking to try a vertical mouse without significant investment. It has dedicated forward/back buttons and a DPI switch on top, which are generally well-placed.
+**Our Recommendation for Customization:** The Anker 2.4G Wireless Vertical Ergonomic Optical Mouse is a budget-friendly option that still offers decent button placement for basic navigation. While it lacks the advanced software customization of premium models, its core design provides a good ergonomic foundation for those looking to try a vertical mouse without significant investment. It has dedicated forward/back buttons and a DPI switch on top, which are generally well-placed.
 
 ### Tracking Performance and Surface Compatibility
 

@@ -13,7 +13,7 @@ bsr: 349567
 commissionPerSale: 0.0
 score: 159.47
 imageUrl: https://m.media-amazon.com/images/I/71pRxG6YDaL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0F93N3HJG?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0F93N3HJG
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molde
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0F93N3HJG" url="https://www.amazon.com/dp/B0F93N3HJG?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0F93N3HJG" url="https://www.amazon.com/dp/B0F93N3HJG" label="Check price on Amazon" />
 

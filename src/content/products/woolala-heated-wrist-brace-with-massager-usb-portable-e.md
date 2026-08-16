@@ -13,7 +13,7 @@ bsr: 457973
 commissionPerSale: 0.0
 score: 133.73
 imageUrl: https://m.media-amazon.com/images/I/61oCQNxalLL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0CMZ9P41X?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0CMZ9P41X
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ WOOLALA Heated Wrist Brace with Massager USB Portable Electric Heating Pad for C
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0CMZ9P41X" url="https://www.amazon.com/dp/B0CMZ9P41X?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0CMZ9P41X" url="https://www.amazon.com/dp/B0CMZ9P41X" label="Check price on Amazon" />
 

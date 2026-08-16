@@ -13,7 +13,7 @@ bsr: 453536
 commissionPerSale: 0.0
 score: 146.34
 imageUrl: "https://m.media-amazon.com/images/I/71uIkT46fmL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0D18BW38G?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0D18BW38G"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Flame Air Diffuser, Humidifier, Essential Oil Diffuser - 7 Colors, 180mL Capacit
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0D18BW38G" url="https://www.amazon.com/dp/B0D18BW38G?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0D18BW38G" url="https://www.amazon.com/dp/B0D18BW38G" label="Check price on Amazon" />
 

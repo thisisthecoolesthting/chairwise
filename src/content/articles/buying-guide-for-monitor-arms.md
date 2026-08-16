@@ -58,7 +58,7 @@ Don't overlook these critical specifications.
 *   **Weight Capacity:** Every monitor arm has a maximum weight it can support. This is crucial. Weigh your monitor (often found in its specifications or by using a bathroom scale). Do not exceed the arm's stated capacity. An overloaded arm will sag, be difficult to adjust, and can eventually fail, potentially damaging your monitor or desk.
 *   **Screen Size:** While weight is primary, screen size matters for arm reach and stability. An arm rated for a 27-inch monitor might physically hold a 34-inch ultrawide by weight, but its reach might be too short, or the monitor might feel unstable at the extremes of its articulation. Look for arms that specify support for your monitor's diagonal size.
 
-For example, the popular [Ergotron LX Desk Monitor Arm](https://www.amazon.com/dp/B0036QGPXM/?tag=chairwise-20) supports monitors up to 34 inches and 25 lbs, making it a robust choice for many single-monitor setups. If you have a very heavy or large ultrawide, you might need a heavy-duty arm like the [HX Desk Monitor Arm](https://www.amazon.com/dp/B07R9D96Q9/?tag=chairwise-20) from the same brand.
+For example, the popular Ergotron LX Desk Monitor Arm supports monitors up to 34 inches and 25 lbs, making it a robust choice for many single-monitor setups. If you have a very heavy or large ultrawide, you might need a heavy-duty arm like the HX Desk Monitor Arm from the same brand.
 
 ### 3. Adjustability and Range of Motion
 
@@ -81,7 +81,7 @@ If you use more than one monitor, a dual monitor arm is often more efficient and
 *   **Ultrawide Considerations:** If one of your monitors is an ultrawide, ensure the arm has sufficient reach and weight capacity. Some ultrawides are heavy enough to require a heavy-duty single arm, even if paired with a lighter secondary monitor.
 *   **Future-Proofing:** If you currently use one monitor but anticipate adding a second, consider a single arm that can be upgraded with an additional arm attachment, or invest in a dual arm from the start, even if you only use one side initially.
 
-For a robust dual-monitor setup, the [Fully Jarvis Dual Monitor Arm](https://www.amazon.com/dp/B0B6476Q58/?tag=chairwise-20) is a solid performer, offering independent adjustment for two screens up to 32 inches each, and excellent cable management.
+For a robust dual-monitor setup, the Fully Jarvis Dual Monitor Arm is a solid performer, offering independent adjustment for two screens up to 32 inches each, and excellent cable management.
 
 ### 5. Cable Management
 

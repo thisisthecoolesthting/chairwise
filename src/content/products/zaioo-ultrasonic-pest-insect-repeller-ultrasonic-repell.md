@@ -13,7 +13,7 @@ bsr: 438037
 commissionPerSale: 0.0
 score: 150.46
 imageUrl: https://m.media-amazon.com/images/I/51yt793Z2NL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0DKNPRXY2?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0DKNPRXY2
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Zaioo Ultrasonic Pest & Insect Repeller, Ultrasonic Repellent for Roach, Rodent,
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0DKNPRXY2" url="https://www.amazon.com/dp/B0DKNPRXY2?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0DKNPRXY2" url="https://www.amazon.com/dp/B0DKNPRXY2" label="Check price on Amazon" />
 

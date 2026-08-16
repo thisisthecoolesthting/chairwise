@@ -13,7 +13,7 @@ bsr: 76211
 commissionPerSale: 0.0
 score: 168.51
 imageUrl: "https://m.media-amazon.com/images/I/81o6taUIWuL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GRVMTNKP?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GRVMTNKP"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GRVMTNKP" url="https://www.amazon.com/dp/B0GRVMTNKP?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GRVMTNKP" url="https://www.amazon.com/dp/B0GRVMTNKP" label="Check price on Amazon" />
 

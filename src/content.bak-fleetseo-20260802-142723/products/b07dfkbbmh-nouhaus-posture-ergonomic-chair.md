@@ -14,7 +14,7 @@ bsr: 185
 commissionPerSale: 0.0
 score: 44.8
 imageUrl: "/images/amazon-picks/B07DFKBBMH.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07DFKBBMH?tag=chairwise-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B07DFKBBMH&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-05-13T00:00:00+00:00"

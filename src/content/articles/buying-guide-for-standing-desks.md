@@ -40,7 +40,7 @@ This is paramount. A wobbly desk is not only distracting but can also be genuine
 *   **Crossbar/Support:** A horizontal crossbar between the legs significantly enhances lateral stability. Many modern desks omit this for aesthetic reasons or to allow more under-desk space, but it's a trade-off. If you prioritize absolute stability, a desk with a crossbar is often superior.
 *   **Weight Capacity:** This isn't just about the motor's lifting power; it's also an indicator of the frame's robustness. Desks with higher weight capacities (e.g., 200+ lbs) usually have more substantial frames.
 
-*Recommendation:* The [UPLIFT V2 Standing Desk](https://www.amazon.com/dp/B0B68X1J92/?tag=chairwise-20) is consistently one of the most stable desks we've tested, even at its full height. Its robust frame and various crossbar options contribute to this.
+*Recommendation:* The UPLIFT V2 Standing Desk is consistently one of the most stable desks we've tested, even at its full height. Its robust frame and various crossbar options contribute to this.
 
 ### 2. Height Range: Accommodating Your Body (and Others')
 
@@ -75,7 +75,7 @@ The tabletop is where you interact with the desk daily.
     *   **Width:** Do you use multiple monitors? A laptop and an external monitor? A 48-inch wide desk is a bare minimum for most, while 60-72 inches provides ample space for a multi-monitor setup or for spreading out papers.
     *   **Depth:** 24 inches is common, but 30 inches offers a significant advantage, especially if you have larger monitors. It allows you to maintain a healthy viewing distance (typically arm's length) without feeling cramped. This is crucial for reducing eye strain and neck forward posture.
 
-*Recommendation:* For a solid, dependable, and customizable option that balances features and price, the [FlexiSpot E7 Pro](https://www.amazon.com/dp/B0C399YF7K/?tag=chairwise-20) is a strong contender. It offers excellent stability, a good height range, and a quiet dual-motor system.
+*Recommendation:* For a solid, dependable, and customizable option that balances features and price, the FlexiSpot E7 Pro is a strong contender. It offers excellent stability, a good height range, and a quiet dual-motor system.
 
 ### 5. Ergonomic Accessories: Completing the Setup
 

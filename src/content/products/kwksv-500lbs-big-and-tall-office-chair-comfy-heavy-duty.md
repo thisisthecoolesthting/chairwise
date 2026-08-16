@@ -13,7 +13,7 @@ bsr: 15
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0GPF3B1NK?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GPF3B1NK
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adj
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GPF3B1NK" url="https://www.amazon.com/dp/B0GPF3B1NK?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GPF3B1NK" url="https://www.amazon.com/dp/B0GPF3B1NK" label="Check price on Amazon" />
 

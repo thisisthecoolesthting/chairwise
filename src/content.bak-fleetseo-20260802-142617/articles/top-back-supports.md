@@ -48,7 +48,7 @@ These are perhaps the most common and recognizable type of back support. They ty
 
 **Who it's for:** Individuals looking for basic, gentle lumbar support on a budget, or those who need something portable for various chairs (e.g., in a car or at different workstations). It's a good starting point for mild, generalized lower back discomfort.
 
-A solid example in this category is the [LoveHome Lumbar Support Pillow](https://www.amazon.com/dp/B07R45K32L/?tag=chairwise-20). While labeled a "pillow," its structured mesh design and adjustable strap make it function more like a mesh backrest. It offers a firm, but not overly aggressive, push into the lumbar curve and the mesh provides decent ventilation. Its strap system is relatively robust, helping it stay in place on most office chairs.
+A solid example in this category is the LoveHome Lumbar Support Pillow. While labeled a "pillow," its structured mesh design and adjustable strap make it function more like a mesh backrest. It offers a firm, but not overly aggressive, push into the lumbar curve and the mesh provides decent ventilation. Its strap system is relatively robust, helping it stay in place on most office chairs.
 
 ### 2. Memory Foam or Contoured Foam Cushions
 
@@ -68,7 +68,7 @@ These supports are essentially shaped pillows made from high-density foam, often
 
 **Who it's for:** People who prefer a softer, more conforming feel, or those with specific pressure points that firmer supports exacerbate. It's also a good choice for individuals needing more substantial support than a basic mesh option.
 
-The [Everlasting Comfort Lumbar Support Pillow](https://www.amazon.com/dp/B01IJ47XG0/?tag=chairwise-20) is a popular memory foam option. It's substantial in size, providing support across a wider area of the lower back. The memory foam is dense enough to offer firm support without feeling rigid, and it does a good job of contouring. Like many memory foam options, it can feel a bit warm over long periods, but the removable cover is washable.
+The Everlasting Comfort Lumbar Support Pillow is a popular memory foam option. It's substantial in size, providing support across a wider area of the lower back. The memory foam is dense enough to offer firm support without feeling rigid, and it does a good job of contouring. Like many memory foam options, it can feel a bit warm over long periods, but the removable cover is washable.
 
 ### 3. Adjustable or Dynamic Supports
 
@@ -86,7 +86,7 @@ These are more sophisticated options, often incorporating air bladders, adjustab
 
 **Who it's for:** Individuals with specific or fluctuating back pain, those who want precise control over their lumbar support, or anyone looking to upgrade a chair that lacks adequate built-in adjustability. This is often the closest you can get to replicating the benefits of a high-end ergonomic chair's lumbar system.
 
-While not a standalone product, the concept of dynamic support is often integrated into higher-end chair designs. For an external solution that approaches this, consider a product like the **Sacro-Ease back support**. (Note: A direct ASIN for a standalone, truly dynamic external support is harder to find on Amazon without being part of a full cushion system. Many "adjustable" products offer only height adjustment, not dynamic firmness/shape. For a truly dynamic experience, look for products with internal air bladders or tensioning systems, though these are less common as standalone, affordable external supports.) A good example of a more customizable *fixed* external support, which bridges the gap between foam and truly dynamic, is the [ObusForme Lowback Backrest Support](https://www.amazon.com/dp/B000G7926M/?tag=chairwise-20). It has a unique S-shape that promotes spinal alignment and comes in different sizes. While not dynamically adjustable, its rigid internal frame and contoured shape provide consistent and firm support, and its shape is based on sound ergonomic principles.
+While not a standalone product, the concept of dynamic support is often integrated into higher-end chair designs. For an external solution that approaches this, consider a product like the **Sacro-Ease back support**. (Note: A direct ASIN for a standalone, truly dynamic external support is harder to find on Amazon without being part of a full cushion system. Many "adjustable" products offer only height adjustment, not dynamic firmness/shape. For a truly dynamic experience, look for products with internal air bladders or tensioning systems, though these are less common as standalone, affordable external supports.) A good example of a more customizable *fixed* external support, which bridges the gap between foam and truly dynamic, is the ObusForme Lowback Backrest Support. It has a unique S-shape that promotes spinal alignment and comes in different sizes. While not dynamically adjustable, its rigid internal frame and contoured shape provide consistent and firm support, and its shape is based on sound ergonomic principles.
 
 ## Choosing the Right Back Support for You
 

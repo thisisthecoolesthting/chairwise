@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 129.6
 imageUrl: https://m.media-amazon.com/images/I/61TVzyYgegL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0GVJ7VG89?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0GVJ7VG89
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GVJ7VG89" url="https://www.amazon.com/dp/B0GVJ7VG89?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GVJ7VG89" url="https://www.amazon.com/dp/B0GVJ7VG89" label="Check price on Amazon" />
 

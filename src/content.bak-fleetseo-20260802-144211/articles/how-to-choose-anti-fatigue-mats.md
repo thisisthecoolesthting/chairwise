@@ -47,7 +47,7 @@ Beveled edges are a non-negotiable safety feature. A mat with straight, abrupt e
 Consider the footprint of your standing desk and how much you tend to move around.
 *   **Standard rectangular mats** (typically 20"x32" or 24"x36") are suitable for most single-monitor setups where movement is minimal.
 *   **Larger mats** (24"x48" or even 36"x60") are beneficial if you have a wide desk, multiple monitors, or tend to shift your weight and position frequently. More surface area allows for greater freedom of movement, which further promotes circulation.
-*   **Ergonomic mats with topographical features** (e.g., foot massage mounds, balance bars) are gaining popularity. These mats encourage dynamic standing, prompting you to change foot positions, stretch your calves, and engage different muscle groups. While some users find these highly beneficial for active standing, others prefer a flat surface. Our testing found that individuals with specific foot issues (e.g., arch pain) often respond very well to these dynamic mats, but they require a period of adjustment. A good example of a dynamic mat is the [Topo Mini by Ergodriven](https://www.amazon.com/dp/B010Q3E70W/?tag=chairwise-20), which we've found to be a well-designed entry point into active standing.
+*   **Ergonomic mats with topographical features** (e.g., foot massage mounds, balance bars) are gaining popularity. These mats encourage dynamic standing, prompting you to change foot positions, stretch your calves, and engage different muscle groups. While some users find these highly beneficial for active standing, others prefer a flat surface. Our testing found that individuals with specific foot issues (e.g., arch pain) often respond very well to these dynamic mats, but they require a period of adjustment. A good example of a dynamic mat is the Topo Mini by Ergodriven, which we've found to be a well-designed entry point into active standing.
 
 ### Durability and Ease of Cleaning
 
@@ -59,19 +59,19 @@ Ease of cleaning is also important, especially if you eat or drink at your stand
 
 Based on our rigorous testing across various body types and working styles, these mats consistently perform well in terms of comfort, durability, and ergonomic benefit.
 
-### For All-Around Comfort and Support: The [Cushion Mat by Notrax](https://www.amazon.com/dp/B000F93F74/?tag=chairwise-20)
+### For All-Around Comfort and Support: The Cushion Mat by Notrax
 
 The Notrax Cushion Mat is our top recommendation for most users seeking a straightforward, highly effective anti-fatigue solution. It's made from a dense, closed-cell nitrile rubber compound that provides excellent cushioning without sacrificing support. At 5/8" thick, it strikes a great balance, preventing bottoming out while still feeling soft underfoot. The beveled edges are pronounced and effective, minimizing tripping hazards.
 
 We tested the 2'x3' size, and it offered ample space for a typical standing workstation. Its durable construction held up well to 60 days of daily use, showing no signs of compression or wear. It's also remarkably easy to clean, resisting coffee spills and crumbs with just a quick wipe. While not the cheapest option on the market, its longevity and consistent performance make it a worthwhile investment.
 
-### For Active Standing and Dynamic Movement: The [Topo Anti-Fatigue Mat by Ergodriven](https://www.amazon.com/dp/B010Q3E70W/?tag=chairwise-20)
+### For Active Standing and Dynamic Movement: The Topo Anti-Fatigue Mat by Ergodriven
 
 If you find yourself fidgeting or constantly shifting your weight while standing, the Ergodriven Topo mat is an excellent choice. This mat moves beyond simple cushioning by introducing a varied terrain of mounds, ridges, and slopes. These topographical features encourage you to naturally shift your feet, stretch your calves, and engage different muscle groups throughout the day.
 
 Our reviewers initially found the Topo required a short adjustment period, but after a few days, they reported significantly less static fatigue compared to flat mats. The ability to passively stretch and move while working was a major benefit. Its polyurethane construction is dense and resilient, providing both comfort and durability. While its price point is higher, the ergonomic benefits of active standing make it a strong contender for those willing to embrace a more dynamic approach to their standing desk experience.
 
-### For Budget-Conscious Durability: The [Sky Solutions Anti Fatigue Mat](https://www.amazon.com/dp/B07X992MTR/?tag=chairwise-20)
+### For Budget-Conscious Durability: The Sky Solutions Anti Fatigue Mat
 
 For those looking for a quality anti-fatigue mat without breaking the bank, the Sky Solutions mat is a solid performer. While it doesn't offer the specialized features of the Topo or the industrial-grade durability of the Notrax, it provides excellent value. At 3/4" thick, it offers good cushioning from its proprietary foam, and its beveled edges are effective.
 

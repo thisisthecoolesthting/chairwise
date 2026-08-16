@@ -13,7 +13,7 @@ bsr: 172695
 commissionPerSale: 0.0
 score: 118.96
 imageUrl: https://m.media-amazon.com/images/I/71OfKoHjr4L.jpg
-affiliateUrl: https://www.amazon.com/dp/B0G4V4JYFS?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0G4V4JYFS
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Support,O
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0G4V4JYFS" url="https://www.amazon.com/dp/B0G4V4JYFS?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0G4V4JYFS" url="https://www.amazon.com/dp/B0G4V4JYFS" label="Check price on Amazon" />
 

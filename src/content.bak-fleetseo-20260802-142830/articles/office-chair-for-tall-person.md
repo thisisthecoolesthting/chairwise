@@ -25,7 +25,7 @@ After testing 37 chairs over 14 months with testers ranging from 6'2" to 6'11", 
 2. **Lumbar support adjustable above 9" from the seat** (supports L1-L3 vertebrae for taller spines)
 3. **Backrest height ≥30"** (provides support without forcing forward neck posture)
 
-The [Steelcase Leap](https://www.amazon.com/dp/B00NX0XMZY?tag=chairwise-20) and [Herman Miller Aeron Size C](https://www.amazon.com/dp/B0017HYB2I?tag=chairwise-20) both meet these benchmarks—but at very different price points and with meaningful trade-offs for your body type.
+The Steelcase Leap and Herman Miller Aeron Size C both meet these benchmarks—but at very different price points and with meaningful trade-offs for your body type.
 
 
 
@@ -37,18 +37,18 @@ For tall individuals, sitting in a chair with insufficient seat depth forces rou
 
 Over months or years, this can lead to numbness, reduced circulation, and compensatory postures that strain the lower back.
 
-The second critical factor is lumbar support placement. Most chairs position support for average-height users at 7–8" above the seat, leaving taller spines (L1–L3 vertebrae) unsupported. In our testing, chairs with adjustable lumbar height—like the [Humanscale Freedom](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20)—reduced reported mid-back pain by 62% compared to fixed-position designs.
+The second critical factor is lumbar support placement. Most chairs position support for average-height users at 7–8" above the seat, leaving taller spines (L1–L3 vertebrae) unsupported. In our testing, chairs with adjustable lumbar height—like the Humanscale Freedom—reduced reported mid-back pain by 62% compared to fixed-position designs.
 
-Finally, headrests matter once you exceed 6'4", but only if they adjust high enough. The [HON Ignition 2.0](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20) headrest tops out at 22", meaning it fails to support necks taller than 6'2"—rendering it nearly useless for your actual neck.
+Finally, headrests matter once you exceed 6'4", but only if they adjust high enough. The HON Ignition 2.0 headrest tops out at 22", meaning it fails to support necks taller than 6'2"—rendering it nearly useless for your actual neck.
 
 ## Head-to-head comparison table
 
 | Model | Seat Depth | Max Lumbar Height | Backrest Height | Weight Capacity | Price |
 |-------|------------|-------------------|-----------------|-----------------|-------|
-| [Steelcase Leap](https://www.amazon.com/dp/B00NX0XMZY?tag=chairwise-20) | 20.5" | 9.8" | 30.5" | 400 lbs | $1,099 |
-| [Herman Miller Aeron C](https://www.amazon.com/dp/B0017HYB2I?tag=chairwise-20) | 20.25" | 10.1" | 29.75" | 350 lbs | $1,495 |
-| [Humanscale Freedom](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20) | 19.75" | 9.2" | 28.5" | 300 lbs | $849 |
-| [HON Ignition 2.0](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20) | 18.5" | 8.9" | 27" | 275 lbs | $499 |
+| Steelcase Leap | 20.5" | 9.8" | 30.5" | 400 lbs | $1,099 |
+| Herman Miller Aeron C | 20.25" | 10.1" | 29.75" | 350 lbs | $1,495 |
+| Humanscale Freedom | 19.75" | 9.2" | 28.5" | 300 lbs | $849 |
+| HON Ignition 2.0 | 18.5" | 8.9" | 27" | 275 lbs | $499 |
 
 **Key findings:** The Steelcase Leap offers the most customizable fit for tall frames, thanks to its sliding seat pan and independently adjustable lumbar support. While the Aeron C has excellent mesh breathability, its fixed seat depth caused discomfort in 3 of our 6'4"+ testers during sessions longer than 4 hours. The Freedom's auto-adjusting recline works well for users between 6'2"–6'5", but taller testers needed supplemental lumbar pillows to fill gaps.
 
@@ -56,7 +56,7 @@ Finally, headrests matter once you exceed 6'4", but only if they adjust high eno
 
 After 60 days of 8-hour daily use, the Steelcase Leap showed minimal foam compression—just 0.3" versus 0.8" in the HON Ignition—maintaining consistent thigh support. However, the Leap's armrest pads wore noticeably faster than the Aeron's; our 230 lb tester saw visible indentation after 45 days.
 
-For users over 6'6", the [Aeron's reinforced frame](https://www.amazon.com/dp/B0017HYB2I?tag=chairwise-20) handled lateral stresses better during reclining, with no detectable wobble at full extension (versus 0.5° play in the Leap). One unexpected finding: the Humanscale Freedom's tilt mechanism required recalibration every 3–4 weeks for users above 220 lbs, suggesting its self-adjusting system works best for average-weight tall individuals.
+For users over 6'6", the Aeron's reinforced frame handled lateral stresses better during reclining, with no detectable wobble at full extension (versus 0.5° play in the Leap). One unexpected finding: the Humanscale Freedom's tilt mechanism required recalibration every 3–4 weeks for users above 220 lbs, suggesting its self-adjusting system works best for average-weight tall individuals.
 
 ## Cost analysis: price per hour of use
 
@@ -64,11 +64,11 @@ At $1,099, the Steelcase Leap costs 26% more than the Humanscale Freedom ($849),
 
 The Aeron C's $1,495 price only makes sense if you specifically need maximum Pellicle mesh breathability. Our testing showed no measurable posture benefits over the Leap for tall users.
 
-**Budget option:** The [HON Ignition](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20) at $499 works for users 6'2"–6'4" if paired with a $40 seat depth extender—though this is a temporary measure, not a permanent solution.
+**Budget option:** The HON Ignition at $499 works for users 6'2"–6'4" if paired with a $40 seat depth extender—though this is a temporary measure, not a permanent solution.
 
 ## Alternatives and third-party upgrades
 
-For those between chair sizes, the [Steelcase Gesture](https://www.amazon.com/dp/B00NX0WXQI?tag=chairwise-20) offers a 19.5" seat depth with superior arm adjustability. Its 360° arm movement benefited our tall graphic designers who frequently shift positions.
+For those between chair sizes, the Steelcase Gesture offers a 19.5" seat depth with superior arm adjustability. Its 360° arm movement benefited our tall graphic designers who frequently shift positions.
 
 Third-party solutions like the Purple Double Seat Cushion can add 1.5" of firm support to existing chairs, though they reduce effective backrest height. We do not recommend "big & tall" gaming chairs; their 18" seat depths and fixed lumbar support often exacerbate posture issues despite marketing claims.
 
@@ -92,7 +92,7 @@ Only in hot or humid climates. Mesh reduces thigh pressure by roughly 15%, but r
 
 ### Can I modify an existing chair for better fit?
 
-Seat depth extenders work temporarily but shift weight distribution backward, potentially worsening lower back strain. For permanent solutions, prioritize chairs with native 20"+ seat depths like the [Humanscale Freedom](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20).
+Seat depth extenders work temporarily but shift weight distribution backward, potentially worsening lower back strain. For permanent solutions, prioritize chairs with native 20"+ seat depths like the Humanscale Freedom.
 
 ## Bottom line
 

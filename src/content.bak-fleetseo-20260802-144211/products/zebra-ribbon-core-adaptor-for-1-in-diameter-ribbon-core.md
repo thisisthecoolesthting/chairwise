@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07KMKFFXX?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B07KMKFFXX"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Zebra Ribbon Core Adaptor for 1 in Diameter Ribbon Core Compatible with ZD420t a
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B07KMKFFXX" url="https://www.amazon.com/dp/B07KMKFFXX?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B07KMKFFXX" url="https://www.amazon.com/dp/B07KMKFFXX" label="Check price on Amazon" />
 

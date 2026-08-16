@@ -13,7 +13,7 @@ bsr: 16
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GVDRTB5S?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GVDRTB5S"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ OUKMIC 32" Stable Standing Desk Converter, Height Adjustable Sit to Stand Up Des
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GVDRTB5S" url="https://www.amazon.com/dp/B0GVDRTB5S?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GVDRTB5S" url="https://www.amazon.com/dp/B0GVDRTB5S" label="Check price on Amazon" />
 

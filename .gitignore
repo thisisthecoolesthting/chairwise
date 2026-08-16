@@ -5,3 +5,4 @@ dist/
 .env
 .DS_Store
 _archive_duped/
+.amz_strip_backup/

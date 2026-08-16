@@ -13,7 +13,7 @@ bsr: 357207
 commissionPerSale: 0.0
 score: 145.14
 imageUrl: https://m.media-amazon.com/images/I/71T2flO4-EL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0DN97KX1J?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0DN97KX1J
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Free Standing Wall Moun
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0DN97KX1J" url="https://www.amazon.com/dp/B0DN97KX1J?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0DN97KX1J" url="https://www.amazon.com/dp/B0DN97KX1J" label="Check price on Amazon" />
 

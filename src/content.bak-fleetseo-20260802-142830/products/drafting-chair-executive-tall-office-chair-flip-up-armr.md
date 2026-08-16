@@ -13,7 +13,7 @@ bsr: 28927
 commissionPerSale: 0.0
 score: 122.02
 imageUrl: "https://m.media-amazon.com/images/I/91WYxaqUIiL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GHXVNPMD?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GHXVNPMD"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Drafting Chair,Executive Tall Office Chair Flip-up Armrests for Counter Height D
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GHXVNPMD" url="https://www.amazon.com/dp/B0GHXVNPMD?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GHXVNPMD" url="https://www.amazon.com/dp/B0GHXVNPMD" label="Check price on Amazon" />
 

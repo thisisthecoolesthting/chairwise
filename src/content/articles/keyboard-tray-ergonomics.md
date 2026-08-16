@@ -47,7 +47,7 @@ This is paramount. Look for trays that offer:
 ### Sturdiness and Stability
 
 A wobbly keyboard tray is worse than no tray at all. Constant movement forces your hands and wrists to compensate, leading to fatigue and strain. The tray should feel solid when typing, with no noticeable bounce or flex.
-*   **Mounting Mechanism:** Look at how it attaches to your desk. C-clamp designs (like the [VIVO Large C-clamp Keyboard Tray](https://www.amazon.com/dp/B072F4H25H/?tag=chairwise-20)) are easy to install but might not be as stable as screw-mounted options. Screw-mounted trays offer superior stability but require drilling into your desk.
+*   **Mounting Mechanism:** Look at how it attaches to your desk. C-clamp designs (like the VIVO Large C-clamp Keyboard Tray) are easy to install but might not be as stable as screw-mounted options. Screw-mounted trays offer superior stability but require drilling into your desk.
 *   **Arm Quality:** The arm connecting the tray to the desk is where much of the stability comes from. Metal construction is preferred over plastic. Avoid thin, flimsy arms.
 *   **Tray Material:** A solid, rigid tray surface (e.g., MDF, phenolic resin) will prevent flex during typing.
 
@@ -63,7 +63,7 @@ Consider the size of your keyboard and mouse.
 *   **Desk Material:** If screw-mounting, ensure your desk material can handle drilling (e.g., solid wood, thick MDF). Glass desks, for example, are generally not suitable for screw-mounted trays.
 *   **Clearance:** Make sure there's enough clear space under your desk for the tray and its arm mechanism to operate without hitting crossbars, drawers, or other obstructions.
 
-For users seeking robust adjustability and proven stability, the [3M Adjustable Keyboard Tray AKT150LE](https://www.amazon.com/dp/B00006B7S3/?tag=chairwise-20) consistently performs well in our tests. It offers excellent vertical travel, negative tilt, and a sturdy platform for both keyboard and mouse. For a more budget-friendly option that still provides good ergonomic range, the [Humanscale Float Keyboard System](https://www.amazon.com/dp/B00XXXXXXXX/?tag=chairwise-20) (note: this ASIN is a placeholder as Humanscale often sells through specialized dealers, but they do make excellent trays) is also a strong contender, though its mounting can be more involved.
+For users seeking robust adjustability and proven stability, the 3M Adjustable Keyboard Tray AKT150LE consistently performs well in our tests. It offers excellent vertical travel, negative tilt, and a sturdy platform for both keyboard and mouse. For a more budget-friendly option that still provides good ergonomic range, the Humanscale Float Keyboard System (note: this ASIN is a placeholder as Humanscale often sells through specialized dealers, but they do make excellent trays) is also a strong contender, though its mounting can be more involved.
 
 ## Integrating Your Keyboard Tray for Optimal Ergonomics
 

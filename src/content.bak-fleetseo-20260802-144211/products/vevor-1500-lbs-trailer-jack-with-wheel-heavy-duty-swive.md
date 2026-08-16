@@ -13,7 +13,7 @@ bsr: 1998
 commissionPerSale: 0.0
 score: 139.91
 imageUrl: "https://m.media-amazon.com/images/I/613Uqlr50BL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FF2YCXTP?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FF2YCXTP"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ VEVOR 1500 lbs Trailer Jack with Wheel, Heavy Duty Swivel Boat Trailer Jack with
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FF2YCXTP" url="https://www.amazon.com/dp/B0FF2YCXTP?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FF2YCXTP" url="https://www.amazon.com/dp/B0FF2YCXTP" label="Check price on Amazon" />
 

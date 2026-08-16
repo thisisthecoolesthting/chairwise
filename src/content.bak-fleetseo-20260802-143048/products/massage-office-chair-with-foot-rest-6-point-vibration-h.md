@@ -13,7 +13,7 @@ bsr: 15369
 commissionPerSale: 0.0
 score: 127.09
 imageUrl: "https://m.media-amazon.com/images/I/91QfIe5CG3L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GVJFHR4Y?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GVJFHR4Y"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Ch
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GVJFHR4Y" url="https://www.amazon.com/dp/B0GVJFHR4Y?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GVJFHR4Y" url="https://www.amazon.com/dp/B0GVJFHR4Y" label="Check price on Amazon" />
 

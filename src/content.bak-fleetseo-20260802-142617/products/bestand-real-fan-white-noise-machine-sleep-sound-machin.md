@@ -13,7 +13,7 @@ bsr: 9
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0G1H21HPR?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0G1H21HPR"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0G1H21HPR" url="https://www.amazon.com/dp/B0G1H21HPR?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0G1H21HPR" url="https://www.amazon.com/dp/B0G1H21HPR" label="Check price on Amazon" />
 

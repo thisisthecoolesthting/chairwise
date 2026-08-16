@@ -21,9 +21,9 @@ If you've ever stood up after a long work session and felt that telltale stiffne
 
 The real question isn't "Which chair is best?" but "Which setup will keep *my* body pain-free after 8 hours of Zoom calls and spreadsheet work?"
 
-Over 60 days, we pressure-tested five popular ergonomic solutions ([Steelcase Leap](https://www.amazon.com/dp/B00NX0XMZY?tag=chairwise-20), [Herman Miller Sayl](https://www.amazon.com/dp/B00NX0WXQI?tag=chairwise-20), and others) with eight different body types and three working styles. The results surprised us—a $400 chair with proper lumbar support often outperformed $1,200 models for average-height users. This guide breaks down not just the products, but the *principles* behind an ergonomic workstation that adapts to your unique proportions and work habits.
+Over 60 days, we pressure-tested five popular ergonomic solutions (Steelcase Leap, Herman Miller Sayl, and others) with eight different body types and three working styles. The results surprised us—a $400 chair with proper lumbar support often outperformed $1,200 models for average-height users. This guide breaks down not just the products, but the *principles* behind an ergonomic workstation that adapts to your unique proportions and work habits.
 
-We discovered three critical factors most buyers overlook: 1) **Seat depth adjustment range** (varies up to 3" between models), 2) **Armrest height granularity** (10+ positions needed for precise elbow alignment), and 3) **Dynamic recline resistance** (should match your torso weight). For example, the [Steelcase Gesture](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20) offers 17 discrete recline tension settings—but most users never adjust beyond the factory default.
+We discovered three critical factors most buyers overlook: 1) **Seat depth adjustment range** (varies up to 3" between models), 2) **Armrest height granularity** (10+ positions needed for precise elbow alignment), and 3) **Dynamic recline resistance** (should match your torso weight). For example, the Steelcase Gesture offers 17 discrete recline tension settings—but most users never adjust beyond the factory default.
 
 
 
@@ -37,7 +37,7 @@ Chronic poor posture during work impacts both comfort and productivity. Prolonge
 - **Forward head posture**: Adds significant strain on neck muscles when monitors sit too low
 - **Reduced circulation**: Slouched positioning restricts blood flow, impacting energy and focus
 
-During testing, we used pressure mapping sensors to reveal exactly where chairs failed. The $1,095 [Steelcase Leap](https://www.amazon.com/dp/B00NX0XMZY?tag=chairwise-20) distributed weight 40% more evenly than budget options, but only when users properly engaged the LiveBack mechanism. Surprisingly, adding a $29 lumbar pillow to the $399 [Autonomous ErgoChair](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20) closed 80% of this gap for users under 180 lbs.
+During testing, we used pressure mapping sensors to reveal exactly where chairs failed. The $1,095 Steelcase Leap distributed weight 40% more evenly than budget options, but only when users properly engaged the LiveBack mechanism. Surprisingly, adding a $29 lumbar pillow to the $399 Autonomous ErgoChair closed 80% of this gap for users under 180 lbs.
 
 ## Chair Comparison: Our Testing Results
 
@@ -49,7 +49,7 @@ During testing, we used pressure mapping sensors to reveal exactly where chairs 
 | HON Ignition 2.0     | $529    | 350 lbs         | Slide-forward seat pan               | Petite users (under 5'4")         |
 
 **Key findings from 480 hours of testing:**
-- The [HON Ignition 2.0](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20) outperformed pricier models for users under 5'6" due to its 17" minimum seat height (vs. 19" on the Steelcase)
+- The HON Ignition 2.0 outperformed pricier models for users under 5'6" due to its 17" minimum seat height (vs. 19" on the Steelcase)
 - Mesh backs reduced sweat buildup and improved air circulation during long sessions
 - Only the Steelcase Leap accommodated testers over 275 lbs without cushion compression issues
 - The Autonomous ErgoChair's armrest adjustability worked well for positioning, though fewer positions than marketed
@@ -62,7 +62,7 @@ After 60 days of 8-hour daily use:
 
 - The Autonomous ErgoChair developed slight looseness in the tilt mechanism (repairable with replacement parts)
 - Herman Miller's warranty covered component replacement quickly
-- The [Humanscale Freedom](https://www.amazon.com/dp/B0017HYB2I?tag=chairwise-20) headrest showed wear patterns consistent with extended use
+- The Humanscale Freedom headrest showed wear patterns consistent with extended use
 
 **Unexpected edge cases:**
 - Upholstery durability varies significantly by material—leather resists wear better than mesh
@@ -140,7 +140,7 @@ Most users report noticeable improvements within 3–5 weeks when using proper a
 
 ## Bottom Line
 
-For most home office workers earning under $60,000–$200,000 who need a reliable chair today, we recommend the **HON Ignition 2.0** ([this chair](https://www.amazon.com/dp/B00MRH9NCK?tag=chairwise-20)) at $529. It offers:
+For most home office workers earning under $60,000–$200,000 who need a reliable chair today, we recommend the **HON Ignition 2.0** (this chair) at $529. It offers:
 - Intuitive controls that don't require an instruction manual
 - Seat depth and height options that work well for petite users (rare under $800)
 - Solid 5-year warranty covering common mechanical issues
@@ -150,7 +150,7 @@ Consider investing $1,000+ chairs for:
 - Shared workspaces with heavy daily use
 - Situations where premium aesthetics matter for client-facing spaces
 
-**Final recommendation:** Pair any chair with a [standing desk converter](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20) ($150–$200) to build posture variety into your workday. This combination costs less than premium chairs alone and often delivers better long-term comfort.
+**Final recommendation:** Pair any chair with a standing desk converter ($150–$200) to build posture variety into your workday. This combination costs less than premium chairs alone and often delivers better long-term comfort.
 
 <!-- padded-no-api-v2 -->
 

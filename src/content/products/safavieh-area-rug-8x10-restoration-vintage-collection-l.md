@@ -13,7 +13,7 @@ bsr: 345476
 commissionPerSale: 0.0
 score: 148.19
 imageUrl: https://m.media-amazon.com/images/I/A1P9n60JDLL.jpg
-affiliateUrl: https://www.amazon.com/dp/B08DP3ZHQ6?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B08DP3ZHQ6
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ SAFAVIEH Area Rug 8x10 - Restoration Vintage Collection - Large - Beige & Sand, 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B08DP3ZHQ6" url="https://www.amazon.com/dp/B08DP3ZHQ6?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B08DP3ZHQ6" url="https://www.amazon.com/dp/B08DP3ZHQ6" label="Check price on Amazon" />
 

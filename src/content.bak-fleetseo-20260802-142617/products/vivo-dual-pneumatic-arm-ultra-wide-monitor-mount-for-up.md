@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 125.71
 imageUrl: "https://m.media-amazon.com/images/I/61ob9Jc6NUL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FGKTC4CQ?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FGKTC4CQ"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 35 inch Screens, Hold
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FGKTC4CQ" url="https://www.amazon.com/dp/B0FGKTC4CQ?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FGKTC4CQ" url="https://www.amazon.com/dp/B0FGKTC4CQ" label="Check price on Amazon" />
 

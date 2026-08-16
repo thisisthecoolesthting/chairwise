@@ -38,7 +38,7 @@ These chairs have consistently performed well in our rigorous testing across div
 
 ### 1. The Dynamic Workhorse: Steelcase Gesture
 
-The [Steelcase Gesture](https://www.amazon.com/dp/B073Z1K8T1/?tag=chairwise-20) consistently ranks as a top performer for its comprehensive adjustability and exceptional support for modern working postures, especially those involving multiple devices. Its standout feature is the "3D LiveBack" technology, which flexes and conforms to the user's spine as they change posture. We've observed this effectively supporting the natural spinal curve across various recline positions and sitting styles.
+The Steelcase Gesture consistently ranks as a top performer for its comprehensive adjustability and exceptional support for modern working postures, especially those involving multiple devices. Its standout feature is the "3D LiveBack" technology, which flexes and conforms to the user's spine as they change posture. We've observed this effectively supporting the natural spinal curve across various recline positions and sitting styles.
 
 **What we like:**
 *   **Armrests:** The Gesture's armrests are arguably the best in the industry. They offer an unparalleled range of motion, moving in every conceivable direction (height, depth, width, pivot, and even rotate) to support forearms and shoulders whether you're typing at a keyboard, swiping on a tablet, or holding a phone. This is particularly valuable for users who frequently switch between devices or adopt non-traditional postures.
@@ -53,7 +53,7 @@ The [Steelcase Gesture](https://www.amazon.com/dp/B073Z1K8T1/?tag=chairwise-20) 
 
 ### 2. The Balanced Performer: Herman Miller Embody
 
-The [Herman Miller Embody](https://www.amazon.com/dp/B08P1Q1G9D/?tag=chairwise-20) is designed around the concept of "pixelated support," where a matrix of flexible "pixels" in the backrest and seat adapts to your micro-movements. This chair excels at distributing pressure evenly and promoting subtle movement, which is critical for preventing static load on tissues.
+The Herman Miller Embody is designed around the concept of "pixelated support," where a matrix of flexible "pixels" in the backrest and seat adapts to your micro-movements. This chair excels at distributing pressure evenly and promoting subtle movement, which is critical for preventing static load on tissues.
 
 **What we like:**
 *   **Pressure Distribution:** Our testing confirmed Embody's exceptional ability to reduce pressure points. Users reported feeling "cradled" and less fatigued after long hours, particularly in the lower back and glutes. This is attributed to the flexible seat and back that move with the body, promoting healthy circulation. *Reference: Grandjean, E. (1988). Fitting the task to the man: A textbook of occupational ergonomics (4th ed.).*
@@ -69,7 +69,7 @@ The [Herman Miller Embody](https://www.amazon.com/dp/B08P1Q1G9D/?tag=chairwise-2
 
 ### 3. The Value Champion: Ergohuman by Eurotech Seating
 
-For those seeking robust ergonomic features without the premium price tag of Steelcase or Herman Miller, the [Ergohuman by Eurotech Seating](https://www.amazon.com/dp/B078XW4M12/?tag=chairwise-20) offers a compelling balance of adjustability and comfort. It's often recommended as a strong contender in the mid-high range.
+For those seeking robust ergonomic features without the premium price tag of Steelcase or Herman Miller, the Ergohuman by Eurotech Seating offers a compelling balance of adjustability and comfort. It's often recommended as a strong contender in the mid-high range.
 
 **What we like:**
 *   **Highly Adjustable Lumbar Support:** The Ergohuman features a prominent, independently adjustable lumbar support that can be raised, lowered, and provides significant depth. This is a major plus for users who require targeted and firm lower back support.

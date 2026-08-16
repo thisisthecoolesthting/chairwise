@@ -13,7 +13,7 @@ bsr: 35464
 commissionPerSale: 0.0
 score: 132.85
 imageUrl: "https://m.media-amazon.com/images/I/71Wd8mdOHnL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0G3X472K9?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0G3X472K9"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0G3X472K9" url="https://www.amazon.com/dp/B0G3X472K9?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0G3X472K9" url="https://www.amazon.com/dp/B0G3X472K9" label="Check price on Amazon" />
 

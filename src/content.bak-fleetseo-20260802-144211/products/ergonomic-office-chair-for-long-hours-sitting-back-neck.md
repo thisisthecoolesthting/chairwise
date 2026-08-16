@@ -13,7 +13,7 @@ bsr: 505025
 commissionPerSale: 0.0
 score: 128.01
 imageUrl: "https://m.media-amazon.com/images/I/71lWw3j5H1L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GY9FXJZY?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GY9FXJZY"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjus
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GY9FXJZY" url="https://www.amazon.com/dp/B0GY9FXJZY?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GY9FXJZY" url="https://www.amazon.com/dp/B0GY9FXJZY" label="Check price on Amazon" />
 

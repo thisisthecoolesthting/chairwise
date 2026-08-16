@@ -32,7 +32,7 @@ When evaluating chairs, look for:
 
 For a budget-conscious approach, focus on chairs that offer these core adjustments, even if they lack some of the premium materials or micro-adjustments of high-end models. Skip anything labeled "gaming chair" unless it explicitly details ergonomic adjustments beyond recline and lumbar pillows. Often, these prioritize aesthetics over true support.
 
-Our top budget recommendation for a truly ergonomic chair is the **[Sihoo M57](https://www.amazon.com/dp/B0B6L48375/?tag=chairwise-20)**. It consistently performs well in our 60-day testing across various body types, providing solid lumbar support and adjustable arms at a fraction of the cost of its premium competitors. For those needing a slightly wider seat or more robust build for heavier users, the **[Ticova Ergonomic Office Chair](https://www.amazon.com/dp/B0B6L48375/?tag=chairwise-20)** is a strong contender.
+Our top budget recommendation for a truly ergonomic chair is the **Sihoo M57**. It consistently performs well in our 60-day testing across various body types, providing solid lumbar support and adjustable arms at a fraction of the cost of its premium competitors. For those needing a slightly wider seat or more robust build for heavier users, the **Ticova Ergonomic Office Chair** is a strong contender.
 
 ### The Desk: Stability and Height (If Not Adjustable)
 
@@ -52,7 +52,7 @@ Incorrect monitor placement is a primary driver of neck and upper back pain. You
 
 The distance should be roughly an arm's length away. If you have multiple monitors, ensure the primary monitor is directly in front of you, with secondary monitors angled slightly.
 
-If your monitor stand isn't high enough, a stack of sturdy books or reams of paper can serve as a temporary riser. For a more permanent and adjustable solution, a **[single monitor arm](https://www.amazon.com/dp/B07P4Q731G/?tag=chairwise-20)** or **[dual monitor arm](https://www.amazon.com/dp/B07P4Q731G/?tag=chairwise-20)** is a worthwhile investment. These allow for precise height, tilt, and swivel adjustments, ensuring optimal positioning regardless of your sitting or standing posture. We've found that even budget monitor arms perform well, offering significant ergonomic benefits for minimal cost.
+If your monitor stand isn't high enough, a stack of sturdy books or reams of paper can serve as a temporary riser. For a more permanent and adjustable solution, a **single monitor arm** or **dual monitor arm** is a worthwhile investment. These allow for precise height, tilt, and swivel adjustments, ensuring optimal positioning regardless of your sitting or standing posture. We've found that even budget monitor arms perform well, offering significant ergonomic benefits for minimal cost.
 
 ## Essential Ergonomic Accessories (Under $100 Each)
 

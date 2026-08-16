@@ -63,7 +63,7 @@ The Kinesis Freestyle Pro is a workhorse in the split keyboard world and a fanta
 Across all our testers, especially those with pre-existing wrist discomfort, the Freestyle Pro (with the Lift Kit) made an immediate positive impact. The ability to perfectly align each half with forearm trajectory was transformative. Tenting felt less necessary for some users, but for those with elbow or forearm pain, it was a game-changer. The mechanical switches were a hit with developers and writers alike. The biggest downside is that the essential ergonomic features (tenting, negative tilt) are add-ons, increasing the overall cost.
 
 **Recommendation:**
-If you're experiencing significant wrist pain and are ready for a serious ergonomic upgrade, the Kinesis Freestyle Pro with the [Kinesis Freestyle Pro Lift Kit](https://www.amazon.com/dp/B073X3R4QJ/?tag=chairwise-20) is an excellent choice. It requires a commitment to learn a new setup, but the long-term benefits for wrist health are substantial.
+If you're experiencing significant wrist pain and are ready for a serious ergonomic upgrade, the Kinesis Freestyle Pro with the Kinesis Freestyle Pro Lift Kit is an excellent choice. It requires a commitment to learn a new setup, but the long-term benefits for wrist health are substantial.
 
 ### 2. ErgoDox EZ (or Moonlander Mark I)
 
@@ -80,7 +80,7 @@ For the truly adventurous and those seeking ultimate customization, the ErgoDox 
 The learning curve for an ortholinear layout is steep. Expect a significant drop in typing speed for the first 1-2 weeks. However, testers who committed to it reported a noticeable reduction in finger travel and a more relaxed hand posture. The deep programmability was a double-edged sword: incredibly powerful for power users, but overwhelming for those who just want to plug and play. The Moonlander's integrated palm rests and superior tenting mechanism were particularly praised for comfort.
 
 **Recommendation:**
-The ErgoDox EZ ([ErgoDox EZ on Amazon](https://www.amazon.com/dp/B0B57JCNF8/?tag=chairwise-20)) or Moonlander Mark I are premium, highly specialized tools. They are ideal for users who are comfortable with deep customization, willing to invest time in adapting to a new layout, and prioritize maximum ergonomic flexibility. If you're a programmer, writer, or data entry professional who spends every working hour at the keyboard and has chronic pain, this could be your endgame.
+The ErgoDox EZ (ErgoDox EZ on Amazon) or Moonlander Mark I are premium, highly specialized tools. They are ideal for users who are comfortable with deep customization, willing to invest time in adapting to a new layout, and prioritize maximum ergonomic flexibility. If you're a programmer, writer, or data entry professional who spends every working hour at the keyboard and has chronic pain, this could be your endgame.
 
 ### 3. Microsoft Sculpt Ergonomic Keyboard
 
@@ -96,7 +96,7 @@ If the idea of fully separated halves feels too radical, or your budget is tight
 The Sculpt was consistently rated as "good enough" for many users experiencing mild to moderate wrist discomfort. The fixed split and domed shape offered a noticeable improvement over standard keyboards. The integrated palm rest was comfortable for many, though some preferred to hover. The negative tilt attachment was a simple but effective addition. However, the chiclet keys were polarizing; some found them perfectly acceptable, while others missed the tactile feedback of mechanical switches. It’s also a membrane keyboard, so the longevity might not match mechanical options.
 
 **Recommendation:**
-For a budget-friendly, fixed-split option that still delivers significant ergonomic benefits, the [Microsoft Sculpt Ergonomic Keyboard](https://www.amazon.com/dp/B00CYX26AM/?tag=chairwise-20) is a solid choice. It's an excellent stepping stone for those new to ergonomic keyboards or who prefer a more traditional aesthetic with ergonomic improvements. It might not solve severe pain, but it's a huge upgrade from a standard keyboard.
+For a budget-friendly, fixed-split option that still delivers significant ergonomic benefits, the Microsoft Sculpt Ergonomic Keyboard is a solid choice. It's an excellent stepping stone for those new to ergonomic keyboards or who prefer a more traditional aesthetic with ergonomic improvements. It might not solve severe pain, but it's a huge upgrade from a standard keyboard.
 
 ## Adapting to a Split Keyboard: The Learning Curve
 

@@ -13,7 +13,7 @@ bsr: 32593
 commissionPerSale: 0.0
 score: 180.66
 imageUrl: "https://m.media-amazon.com/images/I/61YxCLb25iL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0F6CFJMTM?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0F6CFJMTM"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Desktop,Ke
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0F6CFJMTM" url="https://www.amazon.com/dp/B0F6CFJMTM?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0F6CFJMTM" url="https://www.amazon.com/dp/B0F6CFJMTM" label="Check price on Amazon" />
 

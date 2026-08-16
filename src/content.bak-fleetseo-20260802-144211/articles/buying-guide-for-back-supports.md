@@ -38,7 +38,7 @@ These are the most basic and often the most effective for pure lumbar support. T
 
 *   **Materials:** Memory foam is common, conforming to your shape. High-density foam offers more rigid support. Inflatable options allow for adjustable firmness.
 *   **Attachment:** Most use elastic straps to secure to the chair back. This is crucial; a support that constantly slips out of place is useless.
-*   **Testing Notes:** We've found that for individuals with a pronounced lumbar curve or those who tend to slouch heavily, a firmer, denser foam or even an air-filled lumbar roll provides more consistent support than softer memory foam, which can compress too much. The [McKenzie Lumbar Roll](https://www.amazon.com/dp/B000EZ572E/?tag=chairwise-20) is a classic example of a firm, effective D-roll that many physical therapists recommend. For those needing a slightly softer, yet still supportive option, a high-density molded foam like the one used in the [LoveHome Memory Foam Lumbar Support Pillow](https://www.amazon.com/dp/B07DNQ4M8Y/?tag=chairwise-20) can work well.
+*   **Testing Notes:** We've found that for individuals with a pronounced lumbar curve or those who tend to slouch heavily, a firmer, denser foam or even an air-filled lumbar roll provides more consistent support than softer memory foam, which can compress too much. The McKenzie Lumbar Roll is a classic example of a firm, effective D-roll that many physical therapists recommend. For those needing a slightly softer, yet still supportive option, a high-density molded foam like the one used in the LoveHome Memory Foam Lumbar Support Pillow can work well.
 
 #### 2. Full-Back Supports (Mesh/Molded Panels): Comprehensive Spinal Alignment
 
@@ -46,7 +46,7 @@ These supports extend higher up the back, often covering the entire lumbar and l
 
 *   **Materials:** Breathable mesh is popular for airflow, while molded foam or plastic shells offer more structured support.
 *   **Design:** Some are simple mesh overlays, others feature contoured designs to mimic the natural S-curve of the spine. Some include adjustable height mechanisms.
-*   **Testing Notes:** Full-back supports are often a good choice for kitchen chairs, dining chairs, or older office chairs that offer very little inherent contour. For someone with a longer torso, ensuring the support extends high enough is critical. The downside can be bulkiness, especially if your chair already has some curvature. We found that the adjustability of models like the [Samsonite Ergonomic Lumbar Support Pillow](https://www.amazon.com/dp/B07N556214/?tag=chairwise-20) is key, allowing users to fine-tune the height of the lumbar prominence to their specific spinal curve.
+*   **Testing Notes:** Full-back supports are often a good choice for kitchen chairs, dining chairs, or older office chairs that offer very little inherent contour. For someone with a longer torso, ensuring the support extends high enough is critical. The downside can be bulkiness, especially if your chair already has some curvature. We found that the adjustability of models like the Samsonite Ergonomic Lumbar Support Pillow is key, allowing users to fine-tune the height of the lumbar prominence to their specific spinal curve.
 
 #### 3. Seat Cushions with Integrated Lumbar Support: Addressing Combined Issues
 

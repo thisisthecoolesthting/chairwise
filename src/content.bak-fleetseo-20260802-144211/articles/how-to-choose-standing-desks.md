@@ -27,7 +27,7 @@ This is arguably the most important factor. A wobbly desk at standing height is 
 *   **Frame Material and Girders:** Heavy-gauge steel frames with robust cross-girders significantly improve stability. Some desks use thinner metal or omit cross-girders entirely to cut costs, leading to noticeable wobble.
 *   **Weight Capacity:** While often advertised as a primary feature, weight capacity primarily indicates motor strength, not necessarily stability. A desk might lift 300 lbs, but if its frame design is poor, it will still wobble with 50 lbs of equipment. Our focus is on the *feel* of stability under typical working loads.
 
-For example, the [FlexiSpot E7 Pro](https://www.amazon.com/dp/B0BP7Q979Y/?tag=chairwise-20) consistently performs well in our stability tests across various heights and user weights, attributed to its robust three-stage leg design and solid frame.
+For example, the FlexiSpot E7 Pro consistently performs well in our stability tests across various heights and user weights, attributed to its robust three-stage leg design and solid frame.
 
 ### Adjustment Speed and Smoothness
 
@@ -45,7 +45,7 @@ An ergonomic standing desk must accommodate both your seated and standing height
 *   **Maximum Height:** When standing, your elbows should again be at a 90-100 degree angle to your keyboard. A desk that goes too high is less common but equally problematic for very tall users (over 6'4").
 *   **Your Personal Range:** To determine your ideal range, sit comfortably with good posture (feet flat, elbows at 90 degrees) and measure the distance from the floor to the top of your keyboard. This is your seated desk height. Then, stand with good posture and repeat the measurement. Your chosen desk should comfortably span this range.
 
-Many desks struggle with the lower end of the spectrum. For shorter individuals or those using ergonomic chairs with lower minimum seat heights, a desk like the [UPLIFT V2 Commercial](https://www.amazon.com/dp/B0B647G33K/?tag=chairwise-20) (check for current ASIN) often provides a sufficient low range.
+Many desks struggle with the lower end of the spectrum. For shorter individuals or those using ergonomic chairs with lower minimum seat heights, a desk like the UPLIFT V2 Commercial (check for current ASIN) often provides a sufficient low range.
 
 ## Desktop Material and Size: Beyond the Legs
 
@@ -90,7 +90,7 @@ A messy desk is a distracting desk. Effective cable management is crucial.
 *   **Grommets:** Holes in the desktop with covers allow cables to pass through neatly.
 *   **Cable Ties/Sleeves:** While not built-in, these are indispensable for taming the remaining visible cables.
 
-Many desks, like the [Jarvis Bamboo Standing Desk](https://www.amazon.com/dp/B0B6L5465W/?tag=chairwise-20) (check for current ASIN), offer optional cable management trays that integrate well with their frames.
+Many desks, like the Jarvis Bamboo Standing Desk (check for current ASIN), offer optional cable management trays that integrate well with their frames.
 
 ### Anti-Collision System
 

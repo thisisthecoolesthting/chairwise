@@ -13,7 +13,7 @@ bsr: 422299
 commissionPerSale: 0.0
 score: 135.57
 imageUrl: https://m.media-amazon.com/images/I/5123TnDpJWL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0DPMC9F71?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0DPMC9F71
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Fitness Full Body Traction Bed, Massage Cervical Traction Table & Lumbar Tractio
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0DPMC9F71" url="https://www.amazon.com/dp/B0DPMC9F71?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0DPMC9F71" url="https://www.amazon.com/dp/B0DPMC9F71" label="Check price on Amazon" />
 

@@ -84,7 +84,7 @@ These are the foundation of any good cable management strategy. Don't just grab 
 
 *   **Adequate outlets:** Count your devices and add a few extra for future expansion.
 *   **Surge protection:** Essential for protecting your electronics from power spikes. Look for a joule rating of at least 1000.
-*   **Spacing:** Wide-spaced outlets or rotating outlets are invaluable for accommodating bulky power bricks (wall warts) without blocking adjacent ports. Consider a model like the [Anker Power Strip with USB C](https://www.amazon.com/dp/B08P1QG7J6/?tag=chairwise-20) for its combination of AC outlets and convenient USB charging ports.
+*   **Spacing:** Wide-spaced outlets or rotating outlets are invaluable for accommodating bulky power bricks (wall warts) without blocking adjacent ports. Consider a model like the Anker Power Strip with USB C for its combination of AC outlets and convenient USB charging ports.
 *   **Cable length:** Ensure the power strip's cord is long enough to reach your wall outlet without being taut.
 *   **Mountability:** Many power strips have keyhole slots on the back, allowing them to be mounted to the underside of your desk.
 
@@ -92,7 +92,7 @@ These are the foundation of any good cable management strategy. Don't just grab 
 
 These are your primary tools for getting cables off the floor and out of sight.
 
-*   **Under-desk cable trays:** These mesh or metal baskets attach to the underside of your desk and provide a spacious channel for power strips, power bricks, and excess cable length. They are excellent for keeping the bulk of your wiring contained. I typically recommend a sturdy metal tray like the [Vivo Under Desk Cable Management Tray](https://www.amazon.com/dp/B07FFGD45B/?tag=chairwise-20) for its robust construction and generous capacity.
+*   **Under-desk cable trays:** These mesh or metal baskets attach to the underside of your desk and provide a spacious channel for power strips, power bricks, and excess cable length. They are excellent for keeping the bulk of your wiring contained. I typically recommend a sturdy metal tray like the Vivo Under Desk Cable Management Tray for its robust construction and generous capacity.
 *   **Cable raceways/channels:** These are plastic or aluminum channels that adhere to walls or the underside of desks to hide individual runs of cable. They're particularly useful for routing a single cable neatly from a monitor to the power strip, or for concealing cables that run along a wall to an outlet.
 *   **Spine cable organizers:** For standing desks, a flexible cable spine is a must. It allows cables to move freely with the desk's height adjustments, preventing snagging and maintaining a tidy appearance.
 
@@ -129,7 +129,7 @@ With your tools in hand, here's how to systematically tackle your cable mess:
 5.  **Route Power Cables First:** Plug all your power bricks and plugs into the power strip. Use Velcro ties to bundle these together neatly within the cable tray.
 6.  **Route Data Cables:** Connect your monitors, peripherals, and other devices to your computer/docking station. Route these cables into the tray or along designated raceways.
 7.  **Manage Excess Length:** For cables that are still too long, gently coil the excess and secure it with Velcro ties within the tray. Avoid tight coiling, which can damage cables over time.
-8.  **Secure "Reach" Cables:** For cables you need to access regularly, use cable clips or a desktop cable holder to keep them from falling behind the desk but still within easy reach. The [OHILL Cable Clips](https://www.amazon.com/dp/B08C7872H4/?tag=chairwise-20) are a simple, effective solution for keeping charging cables on your desk surface.
+8.  **Secure "Reach" Cables:** For cables you need to access regularly, use cable clips or a desktop cable holder to keep them from falling behind the desk but still within easy reach. The OHILL Cable Clips are a simple, effective solution for keeping charging cables on your desk surface.
 9.  **Test & Adjust:** Plug everything back in. Test all your devices. Adjust cable routing as needed. Sit at your desk and perform your usual movements. Do your feet have clearance? Are you snagging anything? Is everything accessible?
 
 Remember, cable management is not a one-time event. As you add or remove devices, you'll need to revisit and adjust your system. The key is to create a flexible and maintainable setup. For more advanced desk setups, consider our guide on [optimizing your multi-monitor display](INTERNAL:optimizing-multi-monitor-display) or our deep dive into [standing desk ergonomics](INTERNAL:standing-desk-ergonomics).

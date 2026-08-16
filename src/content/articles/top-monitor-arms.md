@@ -36,13 +36,13 @@ Our testing protocol for monitor arms involves mounting them on various desks (f
 The choice between a single and dual monitor arm largely depends on your workflow.
 
 **Single Monitor Arms:**
-If you primarily use one monitor, a single arm is straightforward. The key considerations are weight capacity and range of motion. For most users with a standard 24-27 inch monitor, an arm like the [Ergotron LX Desk Monitor Arm](https://www.amazon.com/dp/B0036QCSU8/?tag=chairwise-20) is an excellent, robust choice. It supports monitors up to 25 lbs and offers a full 13 inches of height adjustment, which accommodates a wide range of user heights and desk setups. We’ve tested the LX with 34-inch ultrawides as well, and it holds them securely, though the depth adjustment can feel slightly limited with very wide screens.
+If you primarily use one monitor, a single arm is straightforward. The key considerations are weight capacity and range of motion. For most users with a standard 24-27 inch monitor, an arm like the Ergotron LX Desk Monitor Arm is an excellent, robust choice. It supports monitors up to 25 lbs and offers a full 13 inches of height adjustment, which accommodates a wide range of user heights and desk setups. We’ve tested the LX with 34-inch ultrawides as well, and it holds them securely, though the depth adjustment can feel slightly limited with very wide screens.
 
 **Dual Monitor Arms:**
 For two monitors, you have two main options: two separate single arms or one dual-arm unit.
 
 *   **Two Separate Single Arms:** This setup offers the most flexibility. Each monitor can be positioned independently, which is ideal if your monitors are different sizes, or if you frequently adjust one screen more than the other (e.g., one for focused work, one for reference). It also allows for greater separation between monitors if your workflow demands it. However, it requires more desk clamp space and can be slightly more expensive.
-*   **One Dual-Arm Unit:** These units typically share a central pole or clamp. They are generally more space-efficient on the desk and can be more aesthetically pleasing. However, the range of independent adjustment for each monitor can be more limited, especially for depth and side-to-side movement. If your monitors are identical and you prefer them closely aligned, a dual-arm unit is a good choice. The [Vivo Dual Monitor Desk Mount](https://www.amazon.com/dp/B082L2L53P/?tag=chairwise-20) is a well-regarded budget-friendly option that performs surprisingly well for its price point, supporting two monitors up to 17.6 lbs each. We found it stable, though its cable management is less refined than premium options.
+*   **One Dual-Arm Unit:** These units typically share a central pole or clamp. They are generally more space-efficient on the desk and can be more aesthetically pleasing. However, the range of independent adjustment for each monitor can be more limited, especially for depth and side-to-side movement. If your monitors are identical and you prefer them closely aligned, a dual-arm unit is a good choice. The Vivo Dual Monitor Desk Mount is a well-regarded budget-friendly option that performs surprisingly well for its price point, supporting two monitors up to 17.6 lbs each. We found it stable, though its cable management is less refined than premium options.
 
 ## Key Features to Evaluate in a Monitor Arm
 
@@ -83,7 +83,7 @@ For users who primarily work on a laptop but want the ergonomic benefits of an e
 ### Multiple Monitors & Ultrawides
 For complex setups involving three or more monitors, or very large ultrawides (e.g., a 49-inch super ultrawide), standard dual arms may not suffice.
 *   **Triple Monitor Arms:** These are available but often have more limited individual adjustability. They work best if all three monitors are identical in size and weight.
-*   **Heavy-Duty Arms:** For a single very large ultrawide, look for arms specifically rated for higher weights and larger diagonal screen sizes. The [Herman Miller Flo Monitor Arm](https://www.amazon.com/dp/B0XXXXXXXX/?tag=chairwise-20) (note: this is a placeholder ASIN, Flo is not sold on Amazon typically) is an example of a premium arm that can handle heavier loads with exceptional smoothness and range, though it comes at a higher price point. It’s particularly adept at fine-tuning position without drift.
+*   **Heavy-Duty Arms:** For a single very large ultrawide, look for arms specifically rated for higher weights and larger diagonal screen sizes. The Herman Miller Flo Monitor Arm (note: this is a placeholder ASIN, Flo is not sold on Amazon typically) is an example of a premium arm that can handle heavier loads with exceptional smoothness and range, though it comes at a higher price point. It’s particularly adept at fine-tuning position without drift.
 
 ## Bottom Line
 

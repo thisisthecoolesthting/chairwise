@@ -35,7 +35,7 @@ After extensive testing across various hand sizes and working styles, these vert
 
 ### For the All-Around Performer: Logitech MX Vertical
 
-The [Logitech MX Vertical](https://www.amazon.com/dp/B07FL1Y11B/?tag=chairwise-20) is often the first vertical mouse I recommend, and for good reason. It hits a sweet spot for most users, particularly those with medium to large hands. Its 57-degree vertical angle is a thoughtful compromise, providing significant pronation relief without feeling too "radical" for first-time vertical mouse users. This angle allows for a natural handshake grip, promoting a neutral wrist posture.
+The Logitech MX Vertical is often the first vertical mouse I recommend, and for good reason. It hits a sweet spot for most users, particularly those with medium to large hands. Its 57-degree vertical angle is a thoughtful compromise, providing significant pronation relief without feeling too "radical" for first-time vertical mouse users. This angle allows for a natural handshake grip, promoting a neutral wrist posture.
 
 **Testing Notes:**
 *   **Ergonomics:** The textured rubber surface provides excellent grip, preventing accidental slips. The thumb rest is generously sized and well-placed, reducing the tendency to grip the mouse too tightly. We found it particularly effective for individuals experiencing early signs of carpal tunnel or general wrist fatigue, delivering noticeable relief within a week of consistent use.
@@ -46,7 +46,7 @@ The [Logitech MX Vertical](https://www.amazon.com/dp/B07FL1Y11B/?tag=chairwise-2
 
 ### For Smaller Hands & Travel: Anker 2.4G Wireless Vertical Ergonomic Optical Mouse
 
-Finding a truly ergonomic vertical mouse for smaller hands can be a challenge. Many options are designed with a "one-size-fits-most" philosophy that often caters to larger hands. The [Anker 2.4G Wireless Vertical Ergonomic Optical Mouse](https://www.amazon.com/dp/B00BIFNTMC/?tag=chairwise-20) stands out as an affordable and effective option for those with smaller hands or for a travel setup.
+Finding a truly ergonomic vertical mouse for smaller hands can be a challenge. Many options are designed with a "one-size-fits-most" philosophy that often caters to larger hands. The Anker 2.4G Wireless Vertical Ergonomic Optical Mouse stands out as an affordable and effective option for those with smaller hands or for a travel setup.
 
 **Testing Notes:**
 *   **Ergonomics:** Its more compact footprint and slightly narrower grip make it a much better fit for users with smaller hands, allowing for a more relaxed, less stretched grip. The plastic build feels less premium than the MX Vertical, but it's still comfortable and lightweight. The angle is quite vertical, providing significant pronation relief.
@@ -57,7 +57,7 @@ Finding a truly ergonomic vertical mouse for smaller hands can be a challenge. M
 
 ### For Maximum Verticality & Precision: Evoluent VerticalMouse 4
 
-When someone is experiencing significant wrist or forearm pain and needs the most upright posture possible, the [Evoluent VerticalMouse 4](https://www.amazon.com/dp/B0042R8GJC/?tag=chairwise-20) is often the recommendation. It’s one of the original vertical mice and remains a benchmark for its truly vertical design.
+When someone is experiencing significant wrist or forearm pain and needs the most upright posture possible, the Evoluent VerticalMouse 4 is often the recommendation. It’s one of the original vertical mice and remains a benchmark for its truly vertical design.
 
 **Testing Notes:**
 *   **Ergonomics:** The Evoluent 4 boasts a near-90-degree vertical angle, which provides the most substantial reduction in forearm pronation among the mice we tested. The contoured shape and integrated lip for the pinky finger are crucial for maintaining a relaxed grip. We noticed immediate and sustained relief for testers with diagnosed conditions like moderate carpal tunnel syndrome or severe forearm tension.

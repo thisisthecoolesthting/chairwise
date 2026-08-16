@@ -13,7 +13,7 @@ bsr: 1586
 commissionPerSale: 0.0
 score: 132.56
 imageUrl: "https://m.media-amazon.com/images/I/61fbSaW3vUL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GS7T23Q8?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GS7T23Q8"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tracker, 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GS7T23Q8" url="https://www.amazon.com/dp/B0GS7T23Q8?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GS7T23Q8" url="https://www.amazon.com/dp/B0GS7T23Q8" label="Check price on Amazon" />
 

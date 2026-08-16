@@ -13,7 +13,7 @@ bsr: 454544
 commissionPerSale: 0.0
 score: 151.68
 imageUrl: https://m.media-amazon.com/images/I/61V0yKRkqEL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0D5MDK6VC?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0D5MDK6VC
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Madison Avenue Oversized Square Blue Light Blocking Glasses for Women with Pouch
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0D5MDK6VC" url="https://www.amazon.com/dp/B0D5MDK6VC?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0D5MDK6VC" url="https://www.amazon.com/dp/B0D5MDK6VC" label="Check price on Amazon" />
 

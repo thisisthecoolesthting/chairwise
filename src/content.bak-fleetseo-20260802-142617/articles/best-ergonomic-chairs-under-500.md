@@ -27,7 +27,7 @@ Our testing methodology included:
 - Kinematic analysis of user movements
 - Subjective pain reporting from testers
 
-The results were startling: 83% of chairs marketed as "ergonomic" failed to provide adequate lumbar support after 4 weeks of use. The [Flash Furniture Chair](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) demonstrated particularly poor durability - our pressure sensors showed a 47% reduction in lumbar support after just 90 days of simulated use. Meanwhile, the popular [AmazonBasics Chair](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) created significant ergonomic risks for shorter users, with fixed armrests that forced 5'4" testers into shoulder elevation that increased trapezius strain by 28% compared to adjustable models.
+The results were startling: 83% of chairs marketed as "ergonomic" failed to provide adequate lumbar support after 4 weeks of use. The Flash Furniture Chair demonstrated particularly poor durability - our pressure sensors showed a 47% reduction in lumbar support after just 90 days of simulated use. Meanwhile, the popular AmazonBasics Chair created significant ergonomic risks for shorter users, with fixed armrests that forced 5'4" testers into shoulder elevation that increased trapezius strain by 28% compared to adjustable models.
 
 Through this exhaustive testing, we identified 5 chairs that genuinely meet ergonomic standards without hidden compromises. These chairs were selected based on their ability to:
 1. Maintain proper spinal alignment for 8+ hours
@@ -49,11 +49,11 @@ Chronic back pain isn't just uncomfortable - it's economically devastating for k
 
 Our testing revealed three critical failure points in budget chairs that directly contribute to these health risks:
 
-1. **Lumbar collapse**: 68% of chairs under $300 showed 20%+ foam compression after 30 days, with some models like the [Hbada Chair](https://www.amazon.com/dp/B0F54TYKF9?tag=chairwise-20) losing all supportive properties by day 45
+1. **Lumbar collapse**: 68% of chairs under $300 showed 20%+ foam compression after 30 days, with some models like the Hbada Chair losing all supportive properties by day 45
 2. **Armrest misalignment**: 54% of chairs caused measurable shoulder hunching in users under 5'8", increasing neck strain by an average of 17 degrees from neutral position
 3. **Seat pan tilt**: Only 3 of 12 chairs maintained proper thigh support past 6 months, with most developing a forward tilt that increased pressure on the ischial tuberosities by 22%
 
-The [Ticova Ergonomic Chair](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20) emerged as a standout performer, with its steel-reinforced lumbar mechanism maintaining 98% of its support integrity through our 60-day test. This performance surpassed several chairs priced at $800+, including models from premium brands. In contrast, the [Hbada Chair](https://www.amazon.com/dp/B0F54TYKF9?tag=chairwise-20) failed our tall-user protocol when the headrest created painful pressure points on the C7 vertebrae of 6'2" testers during reclining motions.
+The Ticova Ergonomic Chair emerged as a standout performer, with its steel-reinforced lumbar mechanism maintaining 98% of its support integrity through our 60-day test. This performance surpassed several chairs priced at $800+, including models from premium brands. In contrast, the Hbada Chair failed our tall-user protocol when the headrest created painful pressure points on the C7 vertebrae of 6'2" testers during reclining motions.
 
 ## Head-to-Head Comparison
 
@@ -73,9 +73,9 @@ We developed a comprehensive 27-point evaluation system to compare the top conte
 
 Key findings from our expanded testing:
 
-The [Nouhaus Chair](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) offers exceptional breathability for hot climates with its patented 3D mesh back that reduced back sweat by 63% compared to traditional mesh in our climate-controlled testing. However, this comes at the cost of lumbar support longevity - the mesh showed 15% more stretch deformation than the Ticova's hybrid design.
+The Nouhaus Chair offers exceptional breathability for hot climates with its patented 3D mesh back that reduced back sweat by 63% compared to traditional mesh in our climate-controlled testing. However, this comes at the cost of lumbar support longevity - the mesh showed 15% more stretch deformation than the Ticova's hybrid design.
 
-The [Gabrylly Chair](https://www.amazon.com/dp/B0CGW48C3G?tag=chairwise-20) demonstrated superior tilt tension control for users who frequently recline, with a unique 5-stage tension knob that accommodated weights from 110-250 lbs without adjustment. This made it ideal for dynamic workers who shift positions often.
+The Gabrylly Chair demonstrated superior tilt tension control for users who frequently recline, with a unique 5-stage tension knob that accommodated weights from 110-250 lbs without adjustment. This made it ideal for dynamic workers who shift positions often.
 
 Neither of these chairs matched the Ticova's comprehensive lumbar support system for heavier users (200+ lbs). Our pressure mapping showed the Ticova distributed weight 22% more evenly across the lumbar region than its competitors when tested with 250 lb subjects.
 
@@ -97,7 +97,7 @@ We also identified several unexpected issues in specific usage scenarios:
 - **In humid climates**: Nouhaus's open mesh design collected 18% more dust and allergens than fabric alternatives, requiring weekly vacuuming to maintain hygiene
 - **For plus-size users**: The Hbada's seat width (19.5") proved inadequate for users with broader hip structures, creating pressure points on the greater trochanters that led to discomfort within 2 hours
 
-The [Hbada Chair](https://www.amazon.com/dp/B0F54TYKF9?tag=chairwise-20) performed worst in our durability testing - its gas cylinder failed catastrophically after just 42 days of simulated 200+ lb use, dropping the seat height abruptly during testing. This safety concern alone disqualifies it for heavier users despite its otherwise decent feature set.
+The Hbada Chair performed worst in our durability testing - its gas cylinder failed catastrophically after just 42 days of simulated 200+ lb use, dropping the seat height abruptly during testing. This safety concern alone disqualifies it for heavier users despite its otherwise decent feature set.
 
 ## Cost Math
 
@@ -117,7 +117,7 @@ This analysis yields several important insights:
    - Bearing repairs every 14 months ($38)
    - Armrest cover replacements ($40)
    - No warranty coverage after year 1
-2. The [Gabrylly Chair](https://www.amazon.com/dp/B0CGW48C3G?tag=chairwise-20) offers exceptional value at $349, with included 5-year coverage on all mechanisms and only requiring $25 in caster replacements for most users
+2. The Gabrylly Chair offers exceptional value at $349, with included 5-year coverage on all mechanisms and only requiring $25 in caster replacements for most users
 3.
 
 Time costs matter - chairs requiring frequent maintenance like the Nouhaus add hidden labor costs that many remote workers don't factor into purchases
@@ -134,9 +134,9 @@ For buyers willing to consider non-traditional options, we identified several al
    - Haworth Zody: $275-350 in corporate liquidation sales
 
 2. **Chair Upgrades**:
-   - [Purple Double Seat Cushion](https://www.amazon.com/dp/B07Z6TV9Y7?tag=chairwise-20): Adds 3+ years to basic chairs ($59)
-   - [Lumbar Support Pillow](https://www.amazon.com/dp/B08PDT1G5M?tag=chairwise-20): Corrects poor lumbar design ($39)
-   - [Adjustable Armrest Add-ons](https://www.amazon.com/dp/B09Q12FJ25?tag=chairwise-20): Fixes fixed armrest issues ($69)
+   - Purple Double Seat Cushion: Adds 3+ years to basic chairs ($59)
+   - Lumbar Support Pillow: Corrects poor lumbar design ($39)
+   - Adjustable Armrest Add-ons: Fixes fixed armrest issues ($69)
 
 3. **Hybrid Solutions**:
    - Standing desk converters ($150) paired with a basic stool
@@ -149,7 +149,7 @@ Important tradeoffs to consider:
 - Aftermarket cushions typically reduce seat depth by 1-2", potentially creating new ergonomic issues
 - Hybrid solutions require more space and frequent position changes
 
-The [Flash Furniture Chair](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) becomes a viable option when paired with $118 in upgrades (lumbar pillow + seat cushion + armrest pads), but this brings total investment to $418 - nearly the price of our top pick Ticova that requires no modifications.
+The Flash Furniture Chair becomes a viable option when paired with $118 in upgrades (lumbar pillow + seat cushion + armrest pads), but this brings total investment to $418 - nearly the price of our top pick Ticova that requires no modifications.
 
 ## Related reading
 

@@ -77,7 +77,7 @@ After extensive testing across various setups, these lights consistently perform
 
 ### 1. BenQ ScreenBar Halo Monitor Light
 
-The [BenQ ScreenBar Halo](https://www.amazon.com/dp/B09G3B6X3J/?tag=chairwise-20) is a game-changer for anyone struggling with desk space or screen glare. This isn't a traditional desk lamp; it's a monitor-mounted light bar. It sits discreetly on top of your monitor, illuminating your desk surface directly in front of your screen, but crucially, without shining *onto* your screen.
+The BenQ ScreenBar Halo is a game-changer for anyone struggling with desk space or screen glare. This isn't a traditional desk lamp; it's a monitor-mounted light bar. It sits discreetly on top of your monitor, illuminating your desk surface directly in front of your screen, but crucially, without shining *onto* your screen.
 
 **Why it stands out:**
 *   **Zero Glare:** Its asymmetric optical design ensures light is directed solely onto your desk, eliminating screen reflections. This feature alone is worth the investment for many.
@@ -89,7 +89,7 @@ The [BenQ ScreenBar Halo](https://www.amazon.com/dp/B09G3B6X3J/?tag=chairwise-20
 
 ### 2. IKEA FORSÅ Work Lamp
 
-Sometimes, simplicity and adjustability are key, especially if you need a more traditional lamp form factor. The [IKEA FORSÅ Work Lamp](https://www.amazon.com/dp/B0B551Y73R/?tag=chairwise-20) is a surprisingly versatile and budget-friendly option when paired with the right bulb.
+Sometimes, simplicity and adjustability are key, especially if you need a more traditional lamp form factor. The IKEA FORSÅ Work Lamp is a surprisingly versatile and budget-friendly option when paired with the right bulb.
 
 **Why it stands out:**
 *   **Highly Adjustable:** Its classic spring-loaded arm design allows for precise positioning of the light, making it easy to direct illumination exactly where you need it, whether you're typing, reading a physical book, or sketching.
@@ -100,7 +100,7 @@ Sometimes, simplicity and adjustability are key, especially if you need a more t
 
 ### 3. Lumiy Lightblade 1500S Desk Lamp
 
-For those who want an all-in-one, high-performance desk lamp with a sleek aesthetic, the [Lumiy Lightblade 1500S](https://www.amazon.com/dp/B07P746M6G/?tag=chairwise-20) is an excellent choice.
+For those who want an all-in-one, high-performance desk lamp with a sleek aesthetic, the Lumiy Lightblade 1500S is an excellent choice.
 
 **Why it stands out:**
 *   **Exceptional Brightness and Coverage:** It delivers a powerful 1500 lumens, capable of illuminating a large workspace evenly. Its wide head ensures broad light distribution, minimizing hot spots and shadows.

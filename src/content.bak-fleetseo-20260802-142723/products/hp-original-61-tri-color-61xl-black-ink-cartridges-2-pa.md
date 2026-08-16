@@ -13,7 +13,7 @@ bsr: 24586
 commissionPerSale: 0.0
 score: 125.14
 imageUrl: "https://m.media-amazon.com/images/I/71WQyfL4u5L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FQPQJHSC?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FQPQJHSC"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack) | Works DeskJet 10
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FQPQJHSC" url="https://www.amazon.com/dp/B0FQPQJHSC?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FQPQJHSC" url="https://www.amazon.com/dp/B0FQPQJHSC" label="Check price on Amazon" />
 

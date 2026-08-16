@@ -13,7 +13,7 @@ bsr: 63102
 commissionPerSale: 0.0
 score: 194.42
 imageUrl: "https://m.media-amazon.com/images/I/71N9YvjYAzL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0DY7KK7WJ?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0DY7KK7WJ"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0DY7KK7WJ" url="https://www.amazon.com/dp/B0DY7KK7WJ?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0DY7KK7WJ" url="https://www.amazon.com/dp/B0DY7KK7WJ" label="Check price on Amazon" />
 

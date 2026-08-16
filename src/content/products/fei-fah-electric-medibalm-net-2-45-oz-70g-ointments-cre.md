@@ -13,7 +13,7 @@ bsr: 172648
 commissionPerSale: 0.0
 score: 122.05
 imageUrl: https://m.media-amazon.com/images/I/71CS-QUa6hL.jpg
-affiliateUrl: https://www.amazon.com/dp/B075RNVNM8?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B075RNVNM8
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Creams & Oils,Muscular Ac
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B075RNVNM8" url="https://www.amazon.com/dp/B075RNVNM8?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B075RNVNM8" url="https://www.amazon.com/dp/B075RNVNM8" label="Check price on Amazon" />
 

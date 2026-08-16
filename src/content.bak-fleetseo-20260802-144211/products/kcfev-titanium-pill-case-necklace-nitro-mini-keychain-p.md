@@ -13,7 +13,7 @@ bsr: 431897
 commissionPerSale: 0.0
 score: 155.74
 imageUrl: "https://m.media-amazon.com/images/I/51CPXSIeBSL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0CP95QPPQ?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0CP95QPPQ"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ KCFEV Titanium Pill Case Necklace Nitro Mini Keychain Pill Holder Lightweight Pe
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0CP95QPPQ" url="https://www.amazon.com/dp/B0CP95QPPQ?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0CP95QPPQ" url="https://www.amazon.com/dp/B0CP95QPPQ" label="Check price on Amazon" />
 

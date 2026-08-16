@@ -13,7 +13,7 @@ bsr: 506692
 commissionPerSale: 0.0
 score: 142.25
 imageUrl: "https://m.media-amazon.com/images/I/81+NLB0N0gL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FPF1C3QM?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FPF1C3QM"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FPF1C3QM" url="https://www.amazon.com/dp/B0FPF1C3QM?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FPF1C3QM" url="https://www.amazon.com/dp/B0FPF1C3QM" label="Check price on Amazon" />
 

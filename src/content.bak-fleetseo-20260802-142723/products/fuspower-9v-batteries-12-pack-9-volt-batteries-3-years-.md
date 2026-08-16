@@ -13,7 +13,7 @@ bsr: 95839
 commissionPerSale: 0.0
 score: 176.75
 imageUrl: "https://m.media-amazon.com/images/I/61JD5ZXGvgL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GH11V8WZ?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0GH11V8WZ"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Fuspower 9V Batteries 12 Pack, 9 Volt Batteries, 3 Years Shelf Life, Long Lastin
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0GH11V8WZ" url="https://www.amazon.com/dp/B0GH11V8WZ?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0GH11V8WZ" url="https://www.amazon.com/dp/B0GH11V8WZ" label="Check price on Amazon" />
 

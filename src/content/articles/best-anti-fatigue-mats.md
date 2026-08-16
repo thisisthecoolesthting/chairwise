@@ -49,7 +49,7 @@ Not all anti-fatigue mats are created equal. When evaluating options, look beyon
 
 A common misconception is that thicker always means better. While a mat needs sufficient thickness, it's the *density* of the material that truly matters for energy return and longevity. A mat that's too soft and thick will feel like standing on a pillow – comfortable for a few minutes, but ultimately unstable and lacking supportive rebound. Conversely, a mat that's too thin and dense will offer little cushioning.
 
-We've found that mats between 3/4 inch and 1 inch thick, made from high-density closed-cell foam, provide the optimal balance. For example, the **[CumulusPRO Commercial Grade Anti-Fatigue Mat](https://www.amazon.com/dp/B002Z790A4/?tag=chairwise-20)** is 3/4 inch thick and consistently performs well across various body types, maintaining its supportive properties over prolonged use. Its polyurethane core offers excellent energy return without feeling squishy.
+We've found that mats between 3/4 inch and 1 inch thick, made from high-density closed-cell foam, provide the optimal balance. For example, the **CumulusPRO Commercial Grade Anti-Fatigue Mat** is 3/4 inch thick and consistently performs well across various body types, maintaining its supportive properties over prolonged use. Its polyurethane core offers excellent energy return without feeling squishy.
 
 ### Material Quality and Durability
 
@@ -67,7 +67,7 @@ Additionally, the underside of the mat should have a non-slip backing to prevent
 
 Consider the footprint of your standing desk and your typical movement patterns. A mat that's too small will force you to stand partially off the mat, negating its benefits. A common size is 20"x32" or 24"x36", which generally accommodates most users at a single-monitor standing desk. If you have a larger workstation or tend to move around more, a wider mat might be beneficial.
 
-For users who frequently shift their feet or prefer more dynamic standing, mats with topographical features can be beneficial. Products like the **[Topo Anti-Fatigue Mat by Ergodriven](https://www.amazon.com/dp/B01F6E8Q08/?tag=chairwise-20)** incorporate mounds, edges, and slopes that encourage different foot positions and stretches, promoting even greater movement and reducing static standing. We've found these particularly useful for highly focused tasks where users might otherwise forget to shift position.
+For users who frequently shift their feet or prefer more dynamic standing, mats with topographical features can be beneficial. Products like the **Topo Anti-Fatigue Mat by Ergodriven** incorporate mounds, edges, and slopes that encourage different foot positions and stretches, promoting even greater movement and reducing static standing. We've found these particularly useful for highly focused tasks where users might otherwise forget to shift position.
 
 ## Our Top Anti-Fatigue Mat Recommendations
 
@@ -83,7 +83,7 @@ For those who want to take dynamic standing to the next level, the Topo mat is a
 
 ### 3. Sky Solutions Anti-Fatigue Mat
 
-If you're looking for a more budget-friendly option that still delivers tangible ergonomic benefits, the **[Sky Solutions Anti-Fatigue Mat](https://www.amazon.com/dp/B07R45J564/?tag=chairwise-20)** is a strong contender. While it's not as robust as the CumulusPRO or as dynamic as the Topo, it offers a noticeable improvement over standing on a bare floor. It's typically 3/4 inch thick, often made from a comfortable blend of foam and PVC, and features good anti-slip properties and beveled edges. We've found it to be a solid entry-level option for users new to standing desks or those with lighter usage patterns. Its main drawback is that its energy return might diminish slightly faster than its premium counterparts under heavy, daily use, but for its price point, it offers excellent value.
+If you're looking for a more budget-friendly option that still delivers tangible ergonomic benefits, the **Sky Solutions Anti-Fatigue Mat** is a strong contender. While it's not as robust as the CumulusPRO or as dynamic as the Topo, it offers a noticeable improvement over standing on a bare floor. It's typically 3/4 inch thick, often made from a comfortable blend of foam and PVC, and features good anti-slip properties and beveled edges. We've found it to be a solid entry-level option for users new to standing desks or those with lighter usage patterns. Its main drawback is that its energy return might diminish slightly faster than its premium counterparts under heavy, daily use, but for its price point, it offers excellent value.
 
 ## Integrating Your Mat for Optimal Ergonomics
 

@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 141.33
 imageUrl: "https://m.media-amazon.com/images/I/61hjyzzQZ+L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FCLGCFHH?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FCLGCFHH"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ul
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FCLGCFHH" url="https://www.amazon.com/dp/B0FCLGCFHH?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FCLGCFHH" url="https://www.amazon.com/dp/B0FCLGCFHH" label="Check price on Amazon" />
 

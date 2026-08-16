@@ -13,7 +13,7 @@ bsr: 159945
 commissionPerSale: 0.0
 score: 166.12
 imageUrl: https://m.media-amazon.com/images/I/41ClEJ6R4VL.jpg
-affiliateUrl: https://www.amazon.com/dp/B01N3XGFNY?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B01N3XGFNY
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Vanguard AIR Force Ribbon Unit: Outstanding Unit is a catalog pick for this nich
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B01N3XGFNY" url="https://www.amazon.com/dp/B01N3XGFNY?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B01N3XGFNY" url="https://www.amazon.com/dp/B01N3XGFNY" label="Check price on Amazon" />
 

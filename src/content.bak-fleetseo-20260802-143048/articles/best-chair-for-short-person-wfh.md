@@ -57,7 +57,7 @@ The Steelcase Gesture is a top-tier recommendation for its exceptional adjustabi
 
 *   *Why it's good for short people:* Excellent seat depth adjustment, wide range of armrest height adjustment, good minimum seat height.
 *   *Potential drawback:* Price point.
-*   *Find it here:* [Steelcase Gesture Chair](https://www.amazon.com/dp/B073XQLZ6M/?tag=chairwise-20)
+*   *Find it here:* Steelcase Gesture Chair
 
 ### 2. Herman Miller Sayl (with Adjustable Lumbar and Seat Depth)
 
@@ -65,7 +65,7 @@ The Herman Miller Sayl stands out for its unique Y-Tower design and flexible ela
 
 *   *Why it's good for short people:* Lower minimum seat height, adjustable seat depth, compact design.
 *   *Potential drawback:* Armrests are good but not as robustly adjustable as some higher-end options.
-*   *Find it here:* [Herman Miller Sayl Chair](https://www.amazon.com/dp/B07FF219D3/?tag=chairwise-20)
+*   *Find it here:* Herman Miller Sayl Chair
 
 ### 3. Eurotech Ergohuman (Petite Version)
 
@@ -73,7 +73,7 @@ The Ergohuman chair, particularly its "Petite" version, is specifically designed
 
 *   *Why it's good for short people:* Specifically designed "Petite" model, shorter seat pan depth, lower seat height range, highly adjustable lumbar.
 *   *Potential drawback:* Aesthetics might not appeal to everyone.
-*   *Find it here:* [Eurotech Ergohuman Petite](https://www.amazon.com/dp/B07Q6P42L3/?tag=chairwise-20) (Note: Ensure you select the 'Petite' model when purchasing).
+*   *Find it here:* Eurotech Ergohuman Petite (Note: Ensure you select the 'Petite' model when purchasing).
 
 ### 4. X-Chair X-Project (Small/Petite)
 
@@ -81,7 +81,7 @@ X-Chair offers a range of chairs, and their X-Project in the "Small/Petite" size
 
 *   *Why it's good for short people:* Available in a dedicated "Small/Petite" size, lower minimum seat height, adjustable lumbar and 4D armrests.
 *   *Potential drawback:* Can be on the firmer side for some users.
-*   *Find it here:* [X-Chair X-Project Small/Petite](https://www.amazon.com/dp/B0B57497G9/?tag=chairwise-20)
+*   *Find it here:* X-Chair X-Project Small/Petite
 
 ## Beyond the Chair: Optimizing Your Entire Workstation
 

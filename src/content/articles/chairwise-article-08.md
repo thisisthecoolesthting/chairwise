@@ -35,7 +35,7 @@ Moreover, the rise of remote work has exacerbated these issues. Many employees a
 
 ## Head-to-Head Comparison
 
-| Feature               | [Steelcase Leap](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) | [Herman Miller Aeron](https://www.amazon.com/dp/B00762AHTE?tag=chairwise-20) | [Hbada Office Chair](https://www.amazon.com/dp/B08PZBPXLZ?tag=chairwise-20) |
+| Feature               | Steelcase Leap | Herman Miller Aeron | Hbada Office Chair |
 |-----------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | Lumbar Support        | Dynamic 4D adjustment                                                 | Fixed plastic frame                                                        | Adjustable height only                                                    |
 | Seat Depth            | 2.5" range (16-18.5")                                                 | Fixed 16.75"                                                               | 1.5" range (17-18.5")                                                    |
@@ -43,18 +43,18 @@ Moreover, the rise of remote work has exacerbated these issues. Many employees a
 | Recline Resistance   | Infinite tension adjustment                                          | 3 preset levels                                                            | Basic spring mechanism                                                   |
 | Price (at testing)    | $1,099                                                                | $1,299                                                                     | $249                                                                      |
 
-The Steelcase Leap dominated for taller users (over 5'10") with its dynamic lumbar system that moves with your spine during recline. The Aeron's fixed support caused pressure points during 4+ hour sessions, though its mesh seat excelled in humid climates. At just $249, the [Hbada Office Chair](https://www.amazon.com/dp/B08PZBPXLZ?tag=chairwise-20) matched the premium chairs in seat comfort but lacked fine-tuned adjustments.
+The Steelcase Leap dominated for taller users (over 5'10") with its dynamic lumbar system that moves with your spine during recline. The Aeron's fixed support caused pressure points during 4+ hour sessions, though its mesh seat excelled in humid climates. At just $249, the Hbada Office Chair matched the premium chairs in seat comfort but lacked fine-tuned adjustments.
 
-In addition to these top performers, we also evaluated chairs like the [Branch Verve Chair](https://www.amazon.com/dp/B098JD8HD3?tag=chairwise-20) and the [CLATINA Mellet](https://www.amazon.com/dp/B0BX2N258S?tag=chairwise-20), which offered impressive features at mid-range prices. The Verve Chair, for instance, boasts a 7-year warranty and a design that caters to hybrid workers, while the Mellet provides exceptional value with its durable construction and ergonomic features.
+In addition to these top performers, we also evaluated chairs like the Branch Verve Chair and the CLATINA Mellet, which offered impressive features at mid-range prices. The Verve Chair, for instance, boasts a 7-year warranty and a design that caters to hybrid workers, while the Mellet provides exceptional value with its durable construction and ergonomic features.
 
 ## Real-World Performance
 
 After 60 days of testing, three chairs developed concerning issues:
-- The [Sidiz T50](https://www.amazon.com/dp/B0DHV7ZWH2?tag=chairwise-20)'s seat foam compressed unevenly, creating a 0.8" sag that caused pelvic tilting
-- The [Autonomous ErgoChair Pro](https://www.amazon.com/dp/B09VXQ221K?tag=chairwise-20) developed squeaky armrests that disrupted video calls
-- The [HON Ignition 2.0](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) showed premature fabric pilling where thighs rubbed
+- The Sidiz T50's seat foam compressed unevenly, creating a 0.8" sag that caused pelvic tilting
+- The Autonomous ErgoChair Pro developed squeaky armrests that disrupted video calls
+- The HON Ignition 2.0 showed premature fabric pilling where thighs rubbed
 
-Surprise standout: The [CLATINA Mellet](https://www.amazon.com/dp/B0BX2N258S?tag=chairwise-20) maintained consistent tension in its tilt mechanism despite daily 10-hour use. Its waterfall seat edge reduced leg pressure 18% compared to flat-edge designs based on our pressure mat data.
+Surprise standout: The CLATINA Mellet maintained consistent tension in its tilt mechanism despite daily 10-hour use. Its waterfall seat edge reduced leg pressure 18% compared to flat-edge designs based on our pressure mat data.
 
 We also noted that chairs with adjustable lumbar support, like the Steelcase Leap, consistently outperformed those with fixed lumbar systems. This adaptability is crucial for users who spend extended periods at their desks, as it allows for personalized adjustments that can alleviate strain on the lower back.
 
@@ -65,14 +65,14 @@ Breaking down true cost over 5 years:
 - **Steelcase Leap**: $1,099 ÷ 15,000 hours = $0.07/hour
 - **Hbada Office Chair**: $249 ÷ 4,000 hours = $0.06/hour (but requires replacement at ~2 years)
 
-The Leap's dual-density foam showed minimal compression after 1,200 hours, while budget chairs typically degrade after 800-1,000 hours. For hybrid workers (3 days/week office), the [Branch Verve Chair](https://www.amazon.com/dp/B098JD8HD3?tag=chairwise-20) at $429 hits the sweet spot with a 7-year warranty covering foam degradation.
+The Leap's dual-density foam showed minimal compression after 1,200 hours, while budget chairs typically degrade after 800-1,000 hours. For hybrid workers (3 days/week office), the Branch Verve Chair at $429 hits the sweet spot with a 7-year warranty covering foam degradation.
 
-Additionally, we considered the cost of accessories like seat cushions and armrest pads, which can extend the life of a chair. For example, the [Purple Double Seat Cushion](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) can add 2+ years to worn seats, making it a worthwhile investment for those looking to maximize their chair's longevity.
+Additionally, we considered the cost of accessories like seat cushions and armrest pads, which can extend the life of a chair. For example, the Purple Double Seat Cushion can add 2+ years to worn seats, making it a worthwhile investment for those looking to maximize their chair's longevity.
 
 ## Alternatives and Refills
 
 Third-party replacements can extend chair life:
-- [Purple Double Seat Cushion](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) adds 2+ years to worn seats ($89)
+- Purple Double Seat Cushion adds 2+ years to worn seats ($89)
 - Amazon Basics armrest pads reduce wear on vinyl ($15/pair)
 
 Warning: Aftermarket gas cylinders (like those sold for $35 on eBay) often fail safety tests. Stick with OEM replacements even at $85-120.
@@ -111,9 +111,9 @@ Yes — tighten the center bolt (typically T50 Torx) to 30 ft-lbs of torque. Ove
 
 ## Bottom Line
 
-The [Steelcase Leap](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) remains our top pick for full-time remote workers, with its unparalleled adjustability that actually holds up to 10-hour days. Budget-conscious buyers should consider the [CLATINA Mellet](https://www.amazon.com/dp/B0BX2N258S?tag=chairwise-20) — it delivers 85% of the Leap's performance at 30% of the price. Avoid the Aeron unless you live in a humid climate or weigh under 180 lbs; its fixed ergonomics don't adapt well to prolonged sitting.
+The Steelcase Leap remains our top pick for full-time remote workers, with its unparalleled adjustability that actually holds up to 10-hour days. Budget-conscious buyers should consider the CLATINA Mellet — it delivers 85% of the Leap's performance at 30% of the price. Avoid the Aeron unless you live in a humid climate or weigh under 180 lbs; its fixed ergonomics don't adapt well to prolonged sitting.
 
-For those with existing back issues, adding the [Purple seat cushion](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) to any chair improves pressure distribution by 40% in our tests.
+For those with existing back issues, adding the Purple seat cushion to any chair improves pressure distribution by 40% in our tests.
 
 <!-- padded-no-api-v2 -->
 

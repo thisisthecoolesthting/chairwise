@@ -13,7 +13,7 @@ bsr: 438982
 commissionPerSale: 0.0
 score: 132.52
 imageUrl: https://m.media-amazon.com/images/I/819QE2hG0IL.jpg
-affiliateUrl: https://www.amazon.com/dp/B0CSMMK6DR?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B0CSMMK6DR
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ Office Chair, Desk Chair with Lumbar Support Arms, Adjustable Computer Chair wit
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0CSMMK6DR" url="https://www.amazon.com/dp/B0CSMMK6DR?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0CSMMK6DR" url="https://www.amazon.com/dp/B0CSMMK6DR" label="Check price on Amazon" />
 

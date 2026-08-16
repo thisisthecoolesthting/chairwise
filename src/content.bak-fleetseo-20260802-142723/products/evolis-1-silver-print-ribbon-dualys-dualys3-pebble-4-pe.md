@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0013N0LGG?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0013N0LGG"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Evolis 1 - Silver - Print Ribbon Dualys, Dualys3, Pebble 4, Pebble4, Quantum, Se
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0013N0LGG" url="https://www.amazon.com/dp/B0013N0LGG?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0013N0LGG" url="https://www.amazon.com/dp/B0013N0LGG" label="Check price on Amazon" />
 

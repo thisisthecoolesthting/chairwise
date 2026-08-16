@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 142.53
 imageUrl: "https://m.media-amazon.com/images/I/71Z5MLjZE6L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0FPR2GR6F?tag=chairwise-20&linkCode=ll1"
+affiliateUrl: "https://www.amazon.com/dp/B0FPR2GR6F"
 amazonUrl: ""
 isPrime: false
 status: "published"
@@ -31,5 +31,5 @@ Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless 
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B0FPR2GR6F" url="https://www.amazon.com/dp/B0FPR2GR6F?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B0FPR2GR6F" url="https://www.amazon.com/dp/B0FPR2GR6F" label="Check price on Amazon" />
 

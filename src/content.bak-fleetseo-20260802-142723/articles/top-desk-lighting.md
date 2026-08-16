@@ -57,9 +57,9 @@ The traditional workhorse of desk lighting, task lamps provide focused illuminat
 
 **Our Picks for Desk Lamps:**
 
-For a robust and highly adjustable option, the [BenQ e-Reading LED Desk Lamp](https://www.amazon.com/dp/B073X9G71Q/?tag=chairwise-20) stands out. Its unique curved head provides a wide, even spread of light, reducing glare and hot spots. It offers both brightness and color temperature adjustment, along with an auto-dimming feature that adapts to ambient light. While an investment, its performance justifies the cost for serious users.
+For a robust and highly adjustable option, the BenQ e-Reading LED Desk Lamp stands out. Its unique curved head provides a wide, even spread of light, reducing glare and hot spots. It offers both brightness and color temperature adjustment, along with an auto-dimming feature that adapts to ambient light. While an investment, its performance justifies the cost for serious users.
 
-If space is at a premium and you need excellent adjustability without breaking the bank, consider a lamp like the [Phive LED Desk Lamp with Clamp](https://www.amazon.com/dp/B08XJ9BP23/?tag=chairwise-20). Its multi-jointed arm allows for precise positioning, and the clamp design frees up valuable desk real estate. It typically offers dimming and color temperature controls, making it a versatile choice.
+If space is at a premium and you need excellent adjustability without breaking the bank, consider a lamp like the Phive LED Desk Lamp with Clamp. Its multi-jointed arm allows for precise positioning, and the clamp design frees up valuable desk real estate. It typically offers dimming and color temperature controls, making it a versatile choice.
 
 ### 2. Monitor Light Bars (ScreenBar)
 
@@ -75,9 +75,9 @@ A relatively newer innovation, monitor light bars are designed specifically to i
 
 **Our Picks for Monitor Light Bars:**
 
-The [BenQ ScreenBar Plus](https://www.amazon.com/dp/B07DP7RYXB/?tag=chairwise-20) (or the standard ScreenBar if you prefer button controls over the wired dial) is widely considered the gold standard. It excels in asymmetrical lighting, completely eliminating screen glare while bathing your desk in uniform light. The auto-dimming feature, which adjusts brightness based on ambient light, is particularly effective at maintaining a comfortable visual balance.
+The BenQ ScreenBar Plus (or the standard ScreenBar if you prefer button controls over the wired dial) is widely considered the gold standard. It excels in asymmetrical lighting, completely eliminating screen glare while bathing your desk in uniform light. The auto-dimming feature, which adjusts brightness based on ambient light, is particularly effective at maintaining a comfortable visual balance.
 
-For a more budget-friendly option that still delivers on core functionality, the [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.com/dp/B08GP943S9/?tag=chairwise-20) is a strong contender. It offers good asymmetrical lighting, dimming, and color temperature adjustment, making it a solid choice for those who want the benefits of a screen bar without the premium price tag.
+For a more budget-friendly option that still delivers on core functionality, the Xiaomi Mi Computer Monitor Light Bar is a strong contender. It offers good asymmetrical lighting, dimming, and color temperature adjustment, making it a solid choice for those who want the benefits of a screen bar without the premium price tag.
 
 ### 3. Ambient Lighting (Indirect Lighting)
 

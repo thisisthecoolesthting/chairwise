@@ -13,7 +13,7 @@ bsr: null
 commissionPerSale: 0.0
 score: 9000.0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B001D4E576?tag=chairwise-20&linkCode=ll1
+affiliateUrl: https://www.amazon.com/dp/B001D4E576
 amazonUrl: ''
 isPrime: false
 status: published
@@ -32,5 +32,5 @@ General Ribbon Grc Canon T316-Cob - 1-Blk Corr Ribb Ap100 (Office Supply / Ribbo
 ## Before you buy
 Double-check size, model, and compatibility on Amazon — variants often share one parent listing.
 
-<AffiliateCTA asin="B001D4E576" url="https://www.amazon.com/dp/B001D4E576?tag=chairwise-20&linkCode=ll1" label="Check price on Amazon" />
+<AffiliateCTA asin="B001D4E576" url="https://www.amazon.com/dp/B001D4E576" label="Check price on Amazon" />
 

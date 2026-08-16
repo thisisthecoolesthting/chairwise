@@ -25,7 +25,7 @@ The short version: both are excellent, but they excel for different bodies. Here
 
 ## Why this comparison matters
 
-A chair is a 10-year investment in your spine. The [Herman Miller Aeron](https://www.amazon.com/dp/B00NX0XMZY?tag=chairwise-20) popularized mesh seating in 1994 and became the default for tech companies. The [Steelcase Leap](https://www.amazon.com/dp/B00NX0WXQI?tag=chairwise-20), released in 2001, uses an auto-adjusting backrest that moves with you. The core difference isn't marketing—it's engineering, and it matters for your body.
+A chair is a 10-year investment in your spine. The Herman Miller Aeron popularized mesh seating in 1994 and became the default for tech companies. The Steelcase Leap, released in 2001, uses an auto-adjusting backrest that moves with you. The core difference isn't marketing—it's engineering, and it matters for your body.
 
 ### Mesh vs. foam: the primary trade-off
 
@@ -54,7 +54,7 @@ Our pressure-mapping showed:
 
 | Feature | Aeron | Leap |
 |---------|-------|------|
-| Standard capacity | 300 lbs (Size B), 350 lbs (Size C) | 300 lbs; [Leap Plus](https://www.amazon.com/dp/B00MRHA96O?tag=chairwise-20) = 500 lbs |
+| Standard capacity | 300 lbs (Size B), 350 lbs (Size C) | 300 lbs; Leap Plus = 500 lbs |
 | Warranty | 12 years | 12 years |
 | Mesh/foam durability | Mesh shows 0.5mm fraying after 7–10 years | Foam compresses ~20% under heavy use but lasts longer |
 
@@ -142,7 +142,7 @@ At retail ($1,495 Aeron vs. $1,099 Leap), the math looks lopsided. But consider 
 
 **Used Steelcase Leap v1** ($400–$600) — Lacks modern seat-depth adjustment but the LiveBack mechanism still works. Good if you're taller and don't need seat compression.
 
-**Budget alternative**: [HON Ignition 2.0](https://www.amazon.com/s?k=HON+Ignition+2.0&tag=chairwise-20) ($349) — Mimics the Leap's lumbar system at 1/3 the price. Less durable but adequate for users under 200 lbs.
+**Budget alternative**: HON Ignition 2.0 ($349) — Mimics the Leap's lumbar system at 1/3 the price. Less durable but adequate for users under 200 lbs.
 
 **Mid-range contenders**:
 - **Haworth Fern** ($899) — Mesh alternative with similar adjustability to Aeron
@@ -174,7 +174,7 @@ Plan 1–2 weeks of weekly tweaks as your body adapts. Our testers found optimal
 
 ### Can you add a headrest to either chair?
 
-Only the Aeron offers a factory [headrest attachment](https://www.amazon.com/dp/B0017HYB2I?tag=chairwise-20) ($160), but self-installation may void your warranty. The Leap has third-party headrest options, though integration isn't as clean.
+Only the Aeron offers a factory headrest attachment ($160), but self-installation may void your warranty. The Leap has third-party headrest options, though integration isn't as clean.
 
 # Final verdict
 

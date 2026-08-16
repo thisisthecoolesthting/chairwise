@@ -17,7 +17,7 @@ updatedAt: 2026-05-12
 
 "Should I really spend $1,500 on a Herman Miller Aeron, or will a $400 chair prevent my back pain just as well?" This is the question we hear most from remote workers who've started noticing stiffness after 8-hour Zoom marathons. As a former occupational therapist who's evaluated over 200 chairs across body types, I can confirm: your chair is probably wrong for you. But expensive doesn't always mean better.
 
-We purchased and tested five chairs at radically different price points: the flagship [Herman Miller Aeron](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) ($1,495), the [Steelcase Leap](https://www.amazon.com/dp/B0DHV7ZWH2?tag=chairwise-20) ($1,299), the [Branch Ergonomic Chair](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) ($399), the [Clatina Mellet](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) ($289), and the [Amazon Basics Low-Back Chair](https://www.amazon.com/dp/B09VXQ221K?tag=chairwise-20) ($169). After 60+ days of testing with users ranging from 5'2" to 6'4", we found surprising truths about where premium chairs earn their price—and where they don't.
+We purchased and tested five chairs at radically different price points: the flagship Herman Miller Aeron ($1,495), the Steelcase Leap ($1,299), the Branch Ergonomic Chair ($399), the Clatina Mellet ($289), and the Amazon Basics Low-Back Chair ($169). After 60+ days of testing with users ranging from 5'2" to 6'4", we found surprising truths about where premium chairs earn their price—and where they don't.
 
 ### The Testing Methodology
 
@@ -44,11 +44,11 @@ Through pressure mapping and posture tracking, we identified three make-or-break
 
 ### Pelvic Tilt Range
 
-The Aeron's forward tilt mechanism allows 12° of anterior pelvic rotation—critical for maintaining lumbar lordosis during typing. However, the [Branch Ergonomic Chair](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) matches this at just 7° through its waterfall seat edge design. For users with existing lower back issues, this small difference can mean 37% less evening pain according to our logs.
+The Aeron's forward tilt mechanism allows 12° of anterior pelvic rotation—critical for maintaining lumbar lordosis during typing. However, the Branch Ergonomic Chair matches this at just 7° through its waterfall seat edge design. For users with existing lower back issues, this small difference can mean 37% less evening pain according to our logs.
 
 ### Armrest Adjustability
 
-While the Leap offers 4D armrests (height/width/depth/pivot), we found most users only utilize height and width adjustments. The Aeron's simpler 2D armrests actually caused less shoulder hunching in our trials because they prevented excessive inward rotation. Budget chairs like the [Amazon Basics](https://www.amazon.com/dp/B09VXQ221K?tag=chairwise-20) force elbows into 110° angles—20° wider than the ideal typing position.
+While the Leap offers 4D armrests (height/width/depth/pivot), we found most users only utilize height and width adjustments. The Aeron's simpler 2D armrests actually caused less shoulder hunching in our trials because they prevented excessive inward rotation. Budget chairs like the Amazon Basics force elbows into 110° angles—20° wider than the ideal typing position.
 
 ### Breathability
 
@@ -98,7 +98,7 @@ After 60 days of 8-hour daily use, we disassembled each chair to assess wear:
 
 ### Mesh Durability
 
-The Aeron's pellicle mesh showed zero sagging, while the [Clatina Mellet's](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) fabric seat developed permanent butt impressions ("hammocking") in 90% of tests. Surprisingly, the Branch's mesh backrest maintained tension better than the Leap's fabric, showing only 5% stretch compared to 12%.
+The Aeron's pellicle mesh showed zero sagging, while the Clatina Mellet's fabric seat developed permanent butt impressions ("hammocking") in 90% of tests. Surprisingly, the Branch's mesh backrest maintained tension better than the Leap's fabric, showing only 5% stretch compared to 12%.
 
 ### Mechanical Failures
 
@@ -108,7 +108,7 @@ The Leap's tilt mechanism required lubrication at week 7—a common issue we've 
 
 40% of Aeron buyers eventually purchase the $199 posture-fit lumbar upgrade, while Leap users often need a $59 headrest. The Branch requires no additional purchases, though some users add a $29 seat cushion for extra padding.
 
-Surprise performer: The $289 [Clatina Mellet](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) matched the Leap in lumbar support effectiveness for users under 180 lbs, though its armrests limited typing comfort.
+Surprise performer: The $289 Clatina Mellet matched the Leap in lumbar support effectiveness for users under 180 lbs, though its armrests limited typing comfort.
 
 ## Cost Math
 
@@ -120,7 +120,7 @@ Surprise performer: The $289 [Clatina Mellet](https://www.amazon.com/dp/B0DHV8SC
 | Clatina Mellet        | $289         | $96 (3-year lifespan)      | $0.05                          |
 | Amazon Basics         | $169         | $169 (1-year replacement)  | $0.08                          |
 
-The Aeron becomes cost-competitive after 7 years, but only if you avoid upgrades. The [Branch Ergonomic](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) delivers the best value under $400, with a 5-year warranty covering mechanism failures.
+The Aeron becomes cost-competitive after 7 years, but only if you avoid upgrades. The Branch Ergonomic delivers the best value under $400, with a 5-year warranty covering mechanism failures.
 
 ### Long-Term Value Considerations
 
@@ -132,8 +132,8 @@ The Aeron becomes cost-competitive after 7 years, but only if you avoid upgrades
 
 For those who can't stomach four-figure chairs:
 
-1. **Refurbished Premium**: Herman Miller's certified refurbished [Aerons](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) sell for $799 with 5-year warranty (tested: 92% as durable as new)
-2. **Modular Upgrades**: The [NOUHAUS Ergo3D](https://www.amazon.com/dp/B098JD8HD3?tag=chairwise-20) ($349) accepts Steelcase Leap headrests and armrests
+1. **Refurbished Premium**: Herman Miller's certified refurbished Aerons sell for $799 with 5-year warranty (tested: 92% as durable as new)
+2. **Modular Upgrades**: The NOUHAUS Ergo3D ($349) accepts Steelcase Leap headrests and armrests
 3. **DIY Solutions**: A $50 lumbar pillow + $20 seat cushion can upgrade basic chairs, but won't fix poor tilt mechanisms
 
 Warning: Avoid "ergonomic" chairs under $200 with fixed armrests—they often force unhealthy elbow angles that exacerbate wrist pain.
@@ -164,7 +164,7 @@ A: Premium chairs last 10+ years with maintenance. Budget chairs typically show 
 
 ### Q: Do headrests matter?
 
-A: Only if you frequently recline. In upright typing positions, 87% of testers didn't use them. The $199 Aeron headrest attachment is rarely worth it—consider the [Branch Ergonomic Chair](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) instead if head support is crucial.
+A: Only if you frequently recline. In upright typing positions, 87% of testers didn't use them. The $199 Aeron headrest attachment is rarely worth it—consider the Branch Ergonomic Chair instead if head support is crucial.
 
 ### Q: Can a chair fix existing back pain?
 
@@ -178,7 +178,7 @@ A: Most aren't. Their aggressive bolsters force unhealthy pelvic tilts. The Secr
 
 For most home office workers, the **Steelcase Leap** offers the best balance of adjustability and durability. Its LiveBack system adapts to micro-movements better than the Aeron's static support. Budget-conscious buyers should choose the **Branch Ergonomic Chair**—it delivers 90% of the Leap's functionality at $900 less.
 
-Skip the Aeron unless: 1) You're over 6' tall, 2) You live in a hot climate, or 3) Your company is paying. The [Clatina Mellet](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) surprises as a viable sub-$300 option for petite users under 180 lbs. Whatever you choose, ensure it allows your thighs to parallel the floor with feet flat—that alignment matters more than any brand name.
+Skip the Aeron unless: 1) You're over 6' tall, 2) You live in a hot climate, or 3) Your company is paying. The Clatina Mellet surprises as a viable sub-$300 option for petite users under 180 lbs. Whatever you choose, ensure it allows your thighs to parallel the floor with feet flat—that alignment matters more than any brand name.
 
 ### Final Pro Tips
 

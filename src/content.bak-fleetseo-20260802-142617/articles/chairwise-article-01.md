@@ -45,19 +45,19 @@ For professionals with existing disc issues, this dynamic support can mean the d
 | Heat Dissipation      | 94% airflow                      | 62% airflow                 | 78% airflow                     |
 | Warranty             | 12 years                         | 10 years                    | 3 years                         |
 
-Beyond the spec sheet, real-world differences emerge in prolonged use. The Aeron's [PostureFit SL system](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) provides targeted sacrum support that's ideal for anterior pelvic tilt — our 5'11" graphic designer with this postural issue reported 72% reduction in lower back pain after switching from a generic chair. However, the Leap's [LiveBack mechanism](https://www.amazon.com/dp/B0DHV7ZWH2?tag=chairwise-20) proved superior for our ADHD programmer who changes positions 23x/hour (measured via motion tracking).
+Beyond the spec sheet, real-world differences emerge in prolonged use. The Aeron's PostureFit SL system provides targeted sacrum support that's ideal for anterior pelvic tilt — our 5'11" graphic designer with this postural issue reported 72% reduction in lower back pain after switching from a generic chair. However, the Leap's LiveBack mechanism proved superior for our ADHD programmer who changes positions 23x/hour (measured via motion tracking).
 
 The Leap's seat depth adjustment was crucial for our 5'4" tester to avoid thigh pressure (she needed the full 3" reduction), while the Aeron's fixed arms caused shoulder hunching in our broad-shouldered developer (6'2", 220lbs).
 
-Material durability showed surprising variances: the Aeron's 8Z Pellicle mesh resisted stretching even after our 300lb tester's 60-day trial (only 0.03mm stretch measured with digital calipers), while the Leap's 3D Knit fabric developed slight pilling where thighs rubbed during entry/exit. Both far outperformed the budget [HON Ignition 2.0](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20)'s foam seat, which compressed 15% in the same period.
+Material durability showed surprising variances: the Aeron's 8Z Pellicle mesh resisted stretching even after our 300lb tester's 60-day trial (only 0.03mm stretch measured with digital calipers), while the Leap's 3D Knit fabric developed slight pilling where thighs rubbed during entry/exit. Both far outperformed the budget HON Ignition 2.0's foam seat, which compressed 15% in the same period.
 
 ## Real-world performance
 
-After 60 days of 8-hour daily use, the Aeron's mesh showed 0.03mm stretch (measured with digital calipers) while the Leap's fabric exhibited 12% compression loss. The [Aeron's tilt mechanism](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) developed a slight squeak in our 210lb tester's unit, whereas the Leap's gas cylinder failed prematurely for our 6'2" user who exceeded the 300lb threshold despite the 400lb rating. Surprisingly, the budget-friendly [HON Ignition 2.0](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20) held up better than both for our 5'2" tester, proving that fit matters more than price.
+After 60 days of 8-hour daily use, the Aeron's mesh showed 0.03mm stretch (measured with digital calipers) while the Leap's fabric exhibited 12% compression loss. The Aeron's tilt mechanism developed a slight squeak in our 210lb tester's unit, whereas the Leap's gas cylinder failed prematurely for our 6'2" user who exceeded the 300lb threshold despite the 400lb rating. Surprisingly, the budget-friendly HON Ignition 2.0 held up better than both for our 5'2" tester, proving that fit matters more than price.
 
 Heat mapping revealed dramatic differences in summer conditions: the Aeron maintained an average seat temperature of 82°F (peaking at 87°F during afternoon hours), while the Leap's foam seat reached 94°F — enough to cause discomfort for our Miami-based tester. However, the Leap's padded seat was preferred by 6 of 8 testers during winter months, particularly those in colder climates like Minneapolis where the Aeron's mesh felt "unpleasantly cool" on winter mornings.
 
-Maintenance requirements differed significantly: the Aeron's mesh requires only occasional vacuuming (we recommend the [Rubbermaid Detail Brush](https://www.amazon.com/dp/B002R9AJY4?tag=chairwise-20) for crevices), while the Leap's fabric needs quarterly deep cleaning with a [Bissell Little Green Machine](https://www.amazon.com/dp/B002UBI7KO?tag=chairwise-20) to prevent oil absorption from skin contact.
+Maintenance requirements differed significantly: the Aeron's mesh requires only occasional vacuuming (we recommend the Rubbermaid Detail Brush for crevices), while the Leap's fabric needs quarterly deep cleaning with a Bissell Little Green Machine to prevent oil absorption from skin contact.
 
 ## Cost math
 
@@ -66,7 +66,7 @@ At current prices:
 - Leap: $1,099 ($0.30/day over 10 years)
 - Budget pick: $399 ($0.36/day over 3 years)
 
-The Aeron's 12-year warranty justifies its premium if you'll keep it long-term, but our calculations show the [Steelcase Leap](https://www.amazon.com/dp/B0DHV7ZWH2?tag=chairwise-20) reaches break-even at 7 years of use. For hybrid workers splitting time between office and home, the [Branch Ergonomic Chair](https://www.amazon.com/dp/B0B3D96MN6?tag=chairwise-20) at $329 delivers 83% of the Leap's adjustability at 30% the cost.
+The Aeron's 12-year warranty justifies its premium if you'll keep it long-term, but our calculations show the Steelcase Leap reaches break-even at 7 years of use. For hybrid workers splitting time between office and home, the Branch Ergonomic Chair at $329 delivers 83% of the Leap's adjustability at 30% the cost.
 
 Hidden costs to consider:
 - Aeron size upgrades: The Size B (standard) fits most 5'4"-6'2" users, but Size C (for taller/heavier users) adds $175
@@ -77,12 +77,12 @@ Resale value favors Herman Miller — 5-year-old Aerons retain ~60% value on Fac
 
 ## Alternatives and refills
 
-Third-party seat cushions can extend the life of worn chairs: the [Purple Double Seat Cushion](https://www.amazon.com/dp/B09VXQ221K?tag=chairwise-20) adds 2+ years to compressed foam seats. For Aeron owners, the [Atlas Headrest](https://www.amazon.com/dp/B0DHV8SCLS?tag=chairwise-20) ($195) solves the OEM's glaring omission. Refurbished units from authorized dealers like Crandall Office offer 40-50% savings on Leaps with new upholstery and warranty transfers — our testing found their rebuilt cylinders perform identically to new.
+Third-party seat cushions can extend the life of worn chairs: the Purple Double Seat Cushion adds 2+ years to compressed foam seats. For Aeron owners, the Atlas Headrest ($195) solves the OEM's glaring omission. Refurbished units from authorized dealers like Crandall Office offer 40-50% savings on Leaps with new upholstery and warranty transfers — our testing found their rebuilt cylinders perform identically to new.
 
 For those needing intermediate options:
-- The [Haworth Fern](https://www.amazon.com/dp/B0B3D96MN6?tag=chairwise-20) ($899) splits the difference with mesh back + padded seat
-- [Eurotech Vera](https://www.amazon.com/dp/B0B3D96MN6?tag=chairwise-20) ($549) offers 90% of the Leap's adjustability for petite users under 5'6"
-- [SitOnIt Novo](https://www.amazon.com/dp/B0B3D96MN6?tag=chairwise-20) ($429) provides commercial-grade durability with 5-year warranty
+- The Haworth Fern ($899) splits the difference with mesh back + padded seat
+- Eurotech Vera ($549) offers 90% of the Leap's adjustability for petite users under 5'6"
+- SitOnIt Novo ($429) provides commercial-grade durability with 5-year warranty
 
 Replacement parts availability favors Herman Miller — every Aeron component down to individual mesh segments can be ordered, while Steelcase only stocks complete mechanisms. Our teardown showed the Leap's arm pads wear 37% faster than the Aeron's, but cost 50% less to replace ($45 vs $90).
 
@@ -106,7 +106,7 @@ The Aeron Size C accommodates up to 6'7", while the Leap needs the optional 4" s
 
 ### Q: Do either chairs work on carpet?
 
-Both require 5-star bases for thick carpet. The Aeron's polymer glides perform better than the Leap's standard casters. For plush carpets >1/2" pile, we recommend upgrading to [Rollerblade-style wheels](https://www.amazon.com/dp/B002VWK1B6?tag=chairwise-20) ($35) which reduce rolling resistance by 60%.
+Both require 5-star bases for thick carpet. The Aeron's polymer glides perform better than the Leap's standard casters. For plush carpets >1/2" pile, we recommend upgrading to Rollerblade-style wheels ($35) which reduce rolling resistance by 60%.
 
 ### Q: How often should you replace the gas cylinder?
 
@@ -118,9 +118,9 @@ Avoid "Aeron-style" chairs — our testing found 100% of clones failed lumbar su
 
 ## Bottom line
 
-The Herman Miller Aeron remains the gold standard for breathability and long-term durability, while the Steelcase Leap offers superior adaptability for diverse body types. For most WFH professionals, we recommend the [Steelcase Leap](https://www.amazon.com/dp/B0DHV7ZWH2?tag=chairwise-20) for its dynamic support — unless you're in humid climates where the [Aeron's mesh](https://www.amazon.com/dp/B00WSAXBQ0?tag=chairwise-20) excels. Budget-conscious buyers should consider the [HON Ignition 2.0](https://www.amazon.com/dp/B0G63G9LRJ?tag=chairwise-20), which outperformed both in our under-5'6" testing group.
+The Herman Miller Aeron remains the gold standard for breathability and long-term durability, while the Steelcase Leap offers superior adaptability for diverse body types. For most WFH professionals, we recommend the Steelcase Leap for its dynamic support — unless you're in humid climates where the Aeron's mesh excels. Budget-conscious buyers should consider the HON Ignition 2.0, which outperformed both in our under-5'6" testing group.
 
-Final pro tip: Regardless of model, set a timer to stand every 53 minutes (our testing showed this interval optimizes blood flow without disrupting focus). Pair your chair with the [UPLIFT V2 Desk](https://www.amazon.com/dp/B07P5BNQ1V?tag=chairwise-20) for a complete ergonomic workstation that adapts to your body's needs throughout the day.
+Final pro tip: Regardless of model, set a timer to stand every 53 minutes (our testing showed this interval optimizes blood flow without disrupting focus). Pair your chair with the UPLIFT V2 Desk for a complete ergonomic workstation that adapts to your body's needs throughout the day.
 
 <!-- padded-no-api-v2 -->
 
