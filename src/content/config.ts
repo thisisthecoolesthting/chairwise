@@ -1,6 +1,7 @@
 // Astro content collections. Defaults use spawn-time tokens; spawn_site replaces
 // nate-chairwise to match the niche default author.
 import { defineCollection, z } from 'astro:content';
+import { niceTitle } from '../utils/article-seo';
 
 const authors = defineCollection({
   type: 'content',
@@ -71,7 +72,7 @@ const pillars = defineCollection({
 const articles = defineCollection({
   type: 'content',
   schema: z.object({
-    title: z.string(),
+    title: z.string().transform(niceTitle),
     metaDescription: z.string().optional().default(''),
     publishedAt: z.coerce.date().optional(),
     updatedAt: z.coerce.date().optional(),
