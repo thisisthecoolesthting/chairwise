@@ -1,4 +1,5 @@
 ---
+import { productCardTitle } from '@/utils/article-seo';
 // Compact product card for listing pages and "related picks" sections.
 // Uses the card-level display contract: short human title (data.cardTitle or
 // trimmed fallback), one-line "why we picked it" (data.cardPick), consistent
@@ -22,9 +23,7 @@ const cardTitle = (data.cardTitle && data.cardTitle.trim()) ? data.cardTitle.tri
 const isAutoTruncated = /\.{3}\s*$/.test(cardTitle);
 function tidyTitle(src: string): string {
   // Catalog titles were hard-cut at ~60 chars mid-word; drop the partial last word.
-  if (src.length < 56) return src;
-  const i = src.lastIndexOf(' ');
-  return i > 30 ? src.slice(0, i).replace(/[,\-\s]+$/, '') : src;
+  return productCardTitle(src);
 }
 const shortTitle = tidyTitle(cardTitle && !isAutoTruncated ? cardTitle : rawTitle);
 

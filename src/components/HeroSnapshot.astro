@@ -1,4 +1,5 @@
 ---
+import { productCardTitle } from '@/utils/article-seo';
 import type { CollectionEntry } from 'astro:content';
 
 export interface Props {
@@ -27,7 +28,8 @@ const {
   productPlaceholder = 'Pick',
 } = Astro.props;
 
-function shortTitle(title: string, max = 42): string {
+function shortTitle(rawTitle: string, max = 42): string {
+  const title = productCardTitle(rawTitle);
   if (title.length <= max) return title;
   const slice = title.slice(0, max);
   const cut = slice.lastIndexOf(' ');

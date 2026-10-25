@@ -1,4 +1,5 @@
 ---
+import { productCardTitle } from '@/utils/article-seo';
 // Rendered at the bottom of articles + pillars. Takes a list of products
 // (resolved via getRelatedProductsFromBody) and shows a rounded card grid,
 // each with a prominent "{p.data.price ? `Amazon · $${p.data.price.toFixed(2)} →` : `Amazon →`}" partner button.
@@ -46,7 +47,7 @@ const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'chairwise-20';
               {p.data.imageUrl ? (
                 <img
                   src={p.data.imageUrl}
-                  alt={p.data.title}
+                  alt={productCardTitle(p.data.title)}
                   loading="lazy"
                   class="w-full h-full object-cover object-center"
                 />
@@ -60,7 +61,7 @@ const associateTag = import.meta.env.PUBLIC_ASSOCIATE_TAG ?? 'chairwise-20';
                   href={`/products/${p.slug}/`}
                   class="no-underline hover:text-terracotta-600 transition-colors duration-200"
                 >
-                  {p.data.title}
+                  {productCardTitle(p.data.title)}
                 </a>
               </h3>
               <div class="flex items-start gap-3 text-xs text-ink-500 mt-1.5">

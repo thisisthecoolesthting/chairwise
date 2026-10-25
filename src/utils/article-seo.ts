@@ -11,8 +11,21 @@ export function isSlugLike(s: string | undefined): boolean {
   return !!s && SLUGLIKE.test(s.trim());
 }
 
+/** Card-display title for long catalog product titles: cut at first comma / " with " / " for ". */
+export function productCardTitle(raw: string, max = 55): string {
+  const src = (raw || '').trim().replace(/\s+/g, ' ');
+  if (src.length <= max) return src;
+  const cuts = [src.indexOf(','), src.search(/\s(with|for)\s/i)].filter((i) => i >= 8);
+  let out = cuts.length ? src.slice(0, Math.min(...cuts)) : src;
+  if (out.length > max) {
+    const i = out.lastIndexOf(' ', max);
+    out = i > 20 ? out.slice(0, i) : out.slice(0, max);
+  }
+  return out.replace(/(?:[\s,;:\-\u2013]+|\s(?:with|for|and|the|a|an|of|in|to)$)+$/i, '').trim();
+}
+
 export function niceTitle(raw: string): string {
-  const s = (raw || '').trim();
+  const s = (raw || '').trim().replace(/^\d+\.\s+/, '');
   if (!isSlugLike(s)) return s;
   return s
     .split('-')
