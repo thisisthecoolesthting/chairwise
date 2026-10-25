@@ -4,11 +4,9 @@ title: SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair 
 seoTitle: SINOLUXE Chair Armrest Replacement for Herman Miller Classic, Review
 metaDescription: Editorial overview of SINOLUXE Chair Armrest Replacement for Herman Miller Classic — who it fits and where to check availability on Amazon.
 cardTitle: SINOLUXE Chair Armrest Replacement for Herman Miller Classic
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 18.99
 rating: 3.5
-reviewCount: 38
 bsr: 120360
 commissionPerSale: 0.0
 score: 161.62

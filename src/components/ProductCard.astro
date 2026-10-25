@@ -18,16 +18,15 @@ const url = `/products/${product.slug}`;
 // Prefer hand-curated short title; fall back to word-boundary trim of raw title.
 // Never truncate mid-word — cut at the last space before the limit.
 const rawTitle = data.title || '';
-function wordTrim(src: string, max: number): string {
-  if (src.length <= max) return src;
-  const slice = src.slice(0, max);
-  const lastSpace = slice.lastIndexOf(' ');
-  const base = lastSpace > 20 ? slice.slice(0, lastSpace) : slice;
-  return base.replace(/[,\-\s]+$/, '') + '…';
+const cardTitle = (data.cardTitle && data.cardTitle.trim()) ? data.cardTitle.trim() : '';
+const isAutoTruncated = /\.{3}\s*$/.test(cardTitle);
+function tidyTitle(src: string): string {
+  // Catalog titles were hard-cut at ~60 chars mid-word; drop the partial last word.
+  if (src.length < 56) return src;
+  const i = src.lastIndexOf(' ');
+  return i > 30 ? src.slice(0, i).replace(/[,\-\s]+$/, '') : src;
 }
-const shortTitle = (data.cardTitle && data.cardTitle.trim())
-  ? data.cardTitle.trim()
-  : wordTrim(rawTitle, 52);
+const shortTitle = tidyTitle(cardTitle && !isAutoTruncated ? cardTitle : rawTitle);
 
 // One-line "Why we picked it" — optional, hand-curated per product.
 const pickLine = (data.cardPick && data.cardPick.trim()) ? data.cardPick.trim() : '';
@@ -63,7 +62,7 @@ const FALLBACK_SVG =
     />
   </div>
   <div class="p-5 space-y-1.5">
-    <h3 class="text-base font-semibold text-ink-900 leading-snug !mt-0 group-hover:text-terracotta-600 transition-colors duration-200">
+    <h3 class="text-base font-semibold text-ink-900 leading-snug !mt-0 group-hover:text-terracotta-600 transition-colors duration-200 line-clamp-2">
       {shortTitle}
     </h3>
     {pickLine && (

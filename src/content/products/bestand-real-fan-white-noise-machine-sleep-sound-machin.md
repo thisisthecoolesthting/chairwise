@@ -4,11 +4,9 @@ title: Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode,
 seoTitle: Bestand Real Fan White Noise Machine Sleep Sound Machine wit, Review
 metaDescription: Editorial overview of Bestand Real Fan White Noise Machine Sleep Sound Machine wit — who it fits and where to check availability on Amazon.
 cardTitle: Bestand Real Fan White Noise Machine Sleep Sound Machine wit
-cardPick: Catalog export from unified harvester pool.
 category: health-household
 price: null
 rating: 0.3
-reviewCount: 50
 bsr: 9
 commissionPerSale: 0.0
 score: 9000.0
@@ -16,7 +14,7 @@ imageUrl: ''
 affiliateUrl: https://www.amazon.com/dp/B0G1H21HPR
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T02:25:21+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

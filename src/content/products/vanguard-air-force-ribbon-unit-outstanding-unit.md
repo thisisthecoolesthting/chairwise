@@ -4,11 +4,9 @@ title: 'Vanguard AIR Force Ribbon Unit: Outstanding Unit'
 seoTitle: 'Vanguard AIR Force Ribbon Unit: Outstanding Unit, Review'
 metaDescription: 'Editorial overview of Vanguard AIR Force Ribbon Unit: Outstanding Unit — who it fits and where to check availability on Amazon.'
 cardTitle: 'Vanguard AIR Force Ribbon Unit: Outstanding Unit'
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 5.7
 rating: 3.8
-reviewCount: 48
 bsr: 159945
 commissionPerSale: 0.0
 score: 166.12
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/41ClEJ6R4VL.jpg
 affiliateUrl: https://www.amazon.com/dp/B01N3XGFNY
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T03:30:49+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

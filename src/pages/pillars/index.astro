@@ -22,7 +22,7 @@ const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(
 
   <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10 md:pb-14">
     {sorted.length === 0 && (
-      <p class="text-ink-700">First guides coming soon.</p>
+      <p class="text-ink-700">No guides published yet.</p>
     )}
 
     <div class="grid md:grid-cols-2 gap-6">

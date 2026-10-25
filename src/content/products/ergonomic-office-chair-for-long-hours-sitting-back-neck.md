@@ -4,11 +4,9 @@ title: Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief
 seoTitle: Ergonomic Office Chair for Long Hours Sitting – Back & Neck , Review
 metaDescription: Editorial overview of Ergonomic Office Chair for Long Hours Sitting – Back & Neck  — who it fits and where to check availability on Amazon.
 cardTitle: 'Ergonomic Office Chair for Long Hours Sitting – Back & Neck '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 179.99
 rating: 3.6
-reviewCount: 48
 bsr: 505025
 commissionPerSale: 0.0
 score: 128.01

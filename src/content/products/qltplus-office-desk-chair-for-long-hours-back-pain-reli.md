@@ -4,11 +4,9 @@ title: QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thic
 seoTitle: QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief , Review
 metaDescription: Editorial overview of QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief  — who it fits and where to check availability on Amazon.
 cardTitle: 'QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 149.99
 rating: 4.5
-reviewCount: 47
 bsr: 349567
 commissionPerSale: 0.0
 score: 159.47

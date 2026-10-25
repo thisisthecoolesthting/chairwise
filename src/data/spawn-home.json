@@ -49,8 +49,8 @@
     "ymyl": false
   },
   "newsletter": {
-    "title": "The ChairWise weekly",
-    "subtitle": "Practical picks and straight answers from ChairWise, once a week. No spam.",
+    "title": "Get the best chair deals",
+    "subtitle": "Ergonomic chair & desk price drops, once a week. No spam.",
     "kicker": "Stay in the loop"
   },
   "supportEmail": "hello@chairwise.app",
@@ -113,7 +113,7 @@
     },
     {
       "href": "/products",
-      "label": "Reviews"
+      "label": "Products"
     },
     {
       "href": "/about",

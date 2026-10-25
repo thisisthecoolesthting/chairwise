@@ -4,11 +4,9 @@ title: Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboard sold Sep
 seoTitle: Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa, Review
 metaDescription: Editorial overview of Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa — who it fits and where to check availability on Amazon.
 cardTitle: Kinesis Freestyle2 VIP™ Accessory Features AC820-BLK (Keyboa
-cardPick: Ranked catalog pick (unified harvester pool).
 category: electronics
 price: 55.64
 rating: 3.9
-reviewCount: 41
 bsr: null
 commissionPerSale: 0.0
 score: 121.81

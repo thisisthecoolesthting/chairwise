@@ -4,11 +4,9 @@ title: HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Mi
 seoTitle: HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement , Review
 metaDescription: Editorial overview of HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement  — who it fits and where to check availability on Amazon.
 cardTitle: 'HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 21.99
 rating: 4.9
-reviewCount: 44
 bsr: 63102
 commissionPerSale: 0.0
 score: 194.42

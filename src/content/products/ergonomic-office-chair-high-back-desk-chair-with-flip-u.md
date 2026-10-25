@@ -4,11 +4,9 @@ title: Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS M
 seoTitle: Ergonomic Office Chair, High Back Desk Chair with Flip-up Ar, Review
 metaDescription: Editorial overview of Ergonomic Office Chair, High Back Desk Chair with Flip-up Ar — who it fits and where to check availability on Amazon.
 cardTitle: Ergonomic Office Chair, High Back Desk Chair with Flip-up Ar
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 59.99
 rating: 3.5
-reviewCount: 46
 bsr: 76211
 commissionPerSale: 0.0
 score: 168.51

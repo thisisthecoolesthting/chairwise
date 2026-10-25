@@ -4,11 +4,9 @@ title: Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic
 seoTitle: Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T, Review
 metaDescription: Editorial overview of Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T — who it fits and where to check availability on Amazon.
 cardTitle: Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and T
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 171.99
 rating: 2.8
-reviewCount: 49
 bsr: 35464
 commissionPerSale: 0.0
 score: 132.85

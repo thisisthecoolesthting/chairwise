@@ -4,11 +4,9 @@ title: Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic
 seoTitle: Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta, Review
 metaDescription: Editorial overview of Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta — who it fits and where to check availability on Amazon.
 cardTitle: Newtral Standing Desk Chair, Standing Mate Chair for Sit-Sta
-cardPick: Catalog export from unified harvester pool.
 category: home-kitchen
 price: null
 rating: 0.4
-reviewCount: 50
 bsr: 11
 commissionPerSale: 0.0
 score: 9000.0

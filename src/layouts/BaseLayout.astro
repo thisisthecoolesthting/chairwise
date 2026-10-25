@@ -122,9 +122,11 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     {gaMeasurementId && (
       <>
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}></script>
-        <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });`}></script>
+        <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); if(!navigator.webdriver){gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });}`}></script>
       </>
     )}
+
+    <script async src="https://rickyscontrolcenter.com/assets/rcc-events.js"></script>
   </head>
   <body class="min-h-screen flex flex-col site-page-bg texture-paper">
     <SkipLink />
@@ -141,8 +143,5 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     <GlobalBottomAffiliateStrip />
     <CaseAdRotateInit />
     <Footer />
-      <script is:inline>
-      (function(){try{window.dataLayer=window.dataLayer||[];function emit(n,p){window.dataLayer.push(Object.assign({event:n},p));if(typeof window.gtag==='function')window.gtag('event',n,p)}function txt(a){var t=(a.textContent||'').replace(/\s+/g,' ').trim();return t.length>80?t.slice(0,80):t}document.addEventListener('click',function(e){var el=e.target;if(!el||!el.closest)return;var a=el.closest('a[href]');if(!a)return;var raw=a.getAttribute('href');if(!raw)return;var u;try{u=new URL(raw,location.href)}catch(_){return}if(u.protocol!=='http:'&&u.protocol!=='https:')return;var href=u.href,domain=u.hostname,rel=(a.getAttribute('rel')||'').toLowerCase(),aff=rel.indexOf('sponsored')>=0||href.toLowerCase().indexOf('amazon.')>=0,base={link_url:href,link_domain:domain,link_text:txt(a),page_path:location.pathname};if(aff){emit('affiliate_click',base);return}if(domain&&domain!==location.hostname)emit('outbound_click',base)},true)}catch(_){}})();
-    </script>
   </body>
 </html>

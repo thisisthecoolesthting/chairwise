@@ -4,11 +4,9 @@ title: SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Free Standing Wa
 seoTitle: SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre, Review
 metaDescription: Editorial overview of SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre — who it fits and where to check availability on Amazon.
 cardTitle: SHENGYIWA 6 PACK Automatic Air Freshener Spray Dispenser Fre
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: 49.99
 rating: 3.9
-reviewCount: 38
 bsr: 357207
 commissionPerSale: 0.0
 score: 145.14
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/71T2flO4-EL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0DN97KX1J
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T13:30:14+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

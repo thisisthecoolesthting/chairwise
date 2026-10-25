@@ -4,11 +4,9 @@ title: Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Off
 seoTitle: Massage Office Chair with Foot Rest,6 Points Vibration&Heat , Review
 metaDescription: Editorial overview of Massage Office Chair with Foot Rest,6 Points Vibration&Heat  — who it fits and where to check availability on Amazon.
 cardTitle: 'Massage Office Chair with Foot Rest,6 Points Vibration&Heat '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 139.99
 rating: 2.8
-reviewCount: 48
 bsr: 8003
 commissionPerSale: 0.0
 score: 135.31

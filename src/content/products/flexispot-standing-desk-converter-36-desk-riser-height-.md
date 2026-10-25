@@ -4,11 +4,9 @@ title: FLEXISPOT Standing Desk Converter 36' Desk Riser, Height Adjustable Deskt
 seoTitle: FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj, Review
 metaDescription: Editorial overview of FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj — who it fits and where to check availability on Amazon.
 cardTitle: FLEXISPOT Standing Desk Converter 36" Desk Riser, Height Adj
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 0.6
-reviewCount: 50
 bsr: 19
 commissionPerSale: 0.0
 score: 9000.0

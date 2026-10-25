@@ -4,11 +4,9 @@ title: KCFEV Titanium Pill Case Necklace Nitro Mini Keychain Pill Holder Lightwe
 seoTitle: KCFEV Titanium Pill Case Necklace Nitro Mini Keychain Pill H, Review
 metaDescription: Editorial overview of KCFEV Titanium Pill Case Necklace Nitro Mini Keychain Pill H — who it fits and where to check availability on Amazon.
 cardTitle: KCFEV Titanium Pill Case Necklace Nitro Mini Keychain Pill H
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: 15.99
 rating: 4.8
-reviewCount: 44
 bsr: 431897
 commissionPerSale: 0.0
 score: 155.74
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/51CPXSIeBSL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0CP95QPPQ
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T13:00:16+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

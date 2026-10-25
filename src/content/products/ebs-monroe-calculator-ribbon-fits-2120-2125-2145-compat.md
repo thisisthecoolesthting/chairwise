@@ -4,11 +4,9 @@ title: EBS Monroe Calculator Ribbon fits 2120, 2125, 2145 Compatible Ribbon
 seoTitle: EBS Monroe Calculator Ribbon fits 2120, 2125, 2145 Compatibl, Review
 metaDescription: Editorial overview of EBS Monroe Calculator Ribbon fits 2120, 2125, 2145 Compatibl — who it fits and where to check availability on Amazon.
 cardTitle: EBS Monroe Calculator Ribbon fits 2120, 2125, 2145 Compatibl
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 0.5
-reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0
@@ -16,7 +14,7 @@ imageUrl: ''
 affiliateUrl: https://www.amazon.com/dp/B00J5QS1OW
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T02:25:21+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

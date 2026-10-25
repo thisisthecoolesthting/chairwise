@@ -4,11 +4,9 @@ title: ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Activity Tr
 seoTitle: ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch, Review
 metaDescription: Editorial overview of ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch — who it fits and where to check availability on Amazon.
 cardTitle: ST-CARE Fitness Tracker with Step Counter/Calories/Stopwatch
-cardPick: Ranked catalog pick (unified harvester pool).
 category: sports-outdoors
 price: 26.09
 rating: 2.6
-reviewCount: 42
 bsr: 1586
 commissionPerSale: 0.0
 score: 132.56
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/61fbSaW3vUL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0GS7T23Q8
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T14:15:12+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

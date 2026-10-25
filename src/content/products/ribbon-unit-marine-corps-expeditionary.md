@@ -4,11 +4,9 @@ title: 'Ribbon Unit: Marine Corps Expeditionary'
 seoTitle: 'Ribbon Unit: Marine Corps Expeditionary, Review'
 metaDescription: 'Editorial overview of Ribbon Unit: Marine Corps Expeditionary — who it fits and where to check availability on Amazon.'
 cardTitle: 'Ribbon Unit: Marine Corps Expeditionary'
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 0.3
-reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0
@@ -16,7 +14,7 @@ imageUrl: ''
 affiliateUrl: https://www.amazon.com/dp/B07FMFWHLV
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T02:25:21+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

@@ -4,11 +4,9 @@ title: Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar Support,High
 seoTitle: Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar, Review
 metaDescription: Editorial overview of Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar — who it fits and where to check availability on Amazon.
 cardTitle: Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 125.99
 rating: 3.5
-reviewCount: 48
 bsr: 37957
 commissionPerSale: 0.0
 score: 172.92

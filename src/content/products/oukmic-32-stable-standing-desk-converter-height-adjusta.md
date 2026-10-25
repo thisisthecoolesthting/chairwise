@@ -4,11 +4,9 @@ title: OUKMIC 32' Stable Standing Desk Converter, Height Adjustable Sit to Stand
 seoTitle: OUKMIC 32" Stable Standing Desk Converter, Height Adjustable, Review
 metaDescription: Editorial overview of OUKMIC 32" Stable Standing Desk Converter, Height Adjustable — who it fits and where to check availability on Amazon.
 cardTitle: OUKMIC 32" Stable Standing Desk Converter, Height Adjustable
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 0.7
-reviewCount: 50
 bsr: 16
 commissionPerSale: 0.0
 score: 9000.0

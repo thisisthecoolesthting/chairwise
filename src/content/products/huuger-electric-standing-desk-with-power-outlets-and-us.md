@@ -4,11 +4,9 @@ title: Huuger Electric Standing Desk with Power Outlets and USB-C Port, 47 X 24 
 seoTitle: Huuger Electric Standing Desk with Power Outlets and USB-C P, Review
 metaDescription: Editorial overview of Huuger Electric Standing Desk with Power Outlets and USB-C P — who it fits and where to check availability on Amazon.
 cardTitle: Huuger Electric Standing Desk with Power Outlets and USB-C P
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 119.99
 rating: 3.3
-reviewCount: 44
 bsr: 14503
 commissionPerSale: 0.0
 score: 137.48

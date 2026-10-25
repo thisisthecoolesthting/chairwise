@@ -4,11 +4,9 @@ title: WOOLALA Heated Wrist Brace with Massager USB Portable Electric Heating Pa
 seoTitle: WOOLALA Heated Wrist Brace with Massager USB Portable Electr, Review
 metaDescription: Editorial overview of WOOLALA Heated Wrist Brace with Massager USB Portable Electr — who it fits and where to check availability on Amazon.
 cardTitle: WOOLALA Heated Wrist Brace with Massager USB Portable Electr
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: 19.99
 rating: 3.9
-reviewCount: 34
 bsr: 457973
 commissionPerSale: 0.0
 score: 133.73
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/61oCQNxalLL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0CMZ9P41X
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T14:00:14+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

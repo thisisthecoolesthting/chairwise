@@ -4,11 +4,9 @@ title: Leonyo Oversized 2 Person Camping Chair, Double Camping Loveseat Chair fo
 seoTitle: Leonyo Oversized 2 Person Camping Chair, Double Camping Love, Review
 metaDescription: Editorial overview of Leonyo Oversized 2 Person Camping Chair, Double Camping Love — who it fits and where to check availability on Amazon.
 cardTitle: Leonyo Oversized 2 Person Camping Chair, Double Camping Love
-cardPick: Ranked catalog pick (unified harvester pool).
 category: sports-outdoors
 price: 48.99
 rating: 3.4
-reviewCount: 47
 bsr: 106908
 commissionPerSale: 0.0
 score: 129.93
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/71-+afwH14L.jpg
 affiliateUrl: https://www.amazon.com/dp/B0CQ72FVSJ
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T14:15:12+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

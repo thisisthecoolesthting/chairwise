@@ -4,11 +4,9 @@ title: HUANUO FlowLift™ Pro Monitor Arm for 13–32' Screens, MechaSpring Moni
 seoTitle: HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp, Review
 metaDescription: Editorial overview of HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp — who it fits and where to check availability on Amazon.
 cardTitle: HUANUO FlowLift™ Pro Monitor Arm for 13–32" Screens, MechaSp
-cardPick: Catalog export from unified harvester pool.
 category: electronics
 price: null
 rating: 0.6
-reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0

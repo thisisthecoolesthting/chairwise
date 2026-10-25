@@ -4,11 +4,9 @@ title: Fitness Full Body Traction Bed, Massage Cervical Traction Table & Lumbar 
 seoTitle: Fitness Full Body Traction Bed, Massage Cervical Traction Ta, Review
 metaDescription: Editorial overview of Fitness Full Body Traction Bed, Massage Cervical Traction Ta — who it fits and where to check availability on Amazon.
 cardTitle: Fitness Full Body Traction Bed, Massage Cervical Traction Ta
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: null
 rating: 4.1
-reviewCount: 36
 bsr: 422299
 commissionPerSale: 0.0
 score: 135.57
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/5123TnDpJWL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0DPMC9F71
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T13:45:13+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

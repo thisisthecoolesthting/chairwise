@@ -4,11 +4,9 @@ title: Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing D
 seoTitle: Drafting Chair, Tall Office Chair for Standing Desk, Ergonom, Review
 metaDescription: Editorial overview of Drafting Chair, Tall Office Chair for Standing Desk, Ergonom — who it fits and where to check availability on Amazon.
 cardTitle: Drafting Chair, Tall Office Chair for Standing Desk, Ergonom
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 1.4
-reviewCount: 50
 bsr: 12
 commissionPerSale: 0.0
 score: 9000.0

@@ -14,7 +14,7 @@ site: harproomguide
 topic: 24. How to Set Up a Harp Practice Room at Home
 tier: full
 relatedProducts: []
-status: published
+status: draft
 keyTakeaways:
 - Choose a quiet, temperature and humidity-controlled space free from direct sunlight for your harp.
 - Soft furnishings and room layout impact sound quality; balance acoustics to avoid overly bright or muffled tones.

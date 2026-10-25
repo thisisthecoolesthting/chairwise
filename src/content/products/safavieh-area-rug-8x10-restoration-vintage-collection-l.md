@@ -4,11 +4,9 @@ title: SAFAVIEH Area Rug 8x10 - Restoration Vintage Collection - Large - Beige &
 seoTitle: SAFAVIEH Area Rug 8x10 - Restoration Vintage Collection - La, Review
 metaDescription: Editorial overview of SAFAVIEH Area Rug 8x10 - Restoration Vintage Collection - La — who it fits and where to check availability on Amazon.
 cardTitle: SAFAVIEH Area Rug 8x10 - Restoration Vintage Collection - La
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 363.81
 rating: 3.9
-reviewCount: 44
 bsr: 345476
 commissionPerSale: 0.0
 score: 148.19
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/A1P9n60JDLL.jpg
 affiliateUrl: https://www.amazon.com/dp/B08DP3ZHQ6
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T13:15:09+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

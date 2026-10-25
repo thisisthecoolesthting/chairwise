@@ -4,11 +4,9 @@ title: Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wi
 seoTitle: Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Mu, Review
 metaDescription: Editorial overview of Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Mu — who it fits and where to check availability on Amazon.
 cardTitle: Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Mu
-cardPick: Ranked catalog pick (unified harvester pool).
 category: electronics
 price: 49.99
 rating: 5.0
-reviewCount: 44
 bsr: null
 commissionPerSale: 0.0
 score: 142.53

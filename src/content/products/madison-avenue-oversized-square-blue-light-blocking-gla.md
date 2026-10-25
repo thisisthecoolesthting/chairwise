@@ -4,11 +4,9 @@ title: Madison Avenue Oversized Square Blue Light Blocking Glasses for Women wit
 seoTitle: Madison Avenue Oversized Square Blue Light Blocking Glasses , Review
 metaDescription: Editorial overview of Madison Avenue Oversized Square Blue Light Blocking Glasses  — who it fits and where to check availability on Amazon.
 cardTitle: 'Madison Avenue Oversized Square Blue Light Blocking Glasses '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: electronics
 price: 11.98
 rating: 4.7
-reviewCount: 44
 bsr: 454544
 commissionPerSale: 0.0
 score: 151.68
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/61V0yKRkqEL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0D5MDK6VC
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T13:00:16+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

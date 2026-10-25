@@ -4,11 +4,9 @@ title: Office Chair, Desk Chair with Lumbar Support Arms, Adjustable Computer Ch
 seoTitle: Office Chair, Desk Chair with Lumbar Support Arms, Adjustabl, Review
 metaDescription: Editorial overview of Office Chair, Desk Chair with Lumbar Support Arms, Adjustabl — who it fits and where to check availability on Amazon.
 cardTitle: Office Chair, Desk Chair with Lumbar Support Arms, Adjustabl
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 54.31
 rating: 3.5
-reviewCount: 47
 bsr: 438982
 commissionPerSale: 0.0
 score: 132.52

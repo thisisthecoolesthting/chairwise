@@ -4,11 +4,9 @@ title: ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44
 seoTitle: ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H, Review
 metaDescription: Editorial overview of ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H — who it fits and where to check availability on Amazon.
 cardTitle: ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, H
-cardPick: Ranked catalog pick (unified harvester pool).
 category: electronics
 price: 69.99
 rating: 4.9
-reviewCount: 46
 bsr: null
 commissionPerSale: 0.0
 score: 141.33

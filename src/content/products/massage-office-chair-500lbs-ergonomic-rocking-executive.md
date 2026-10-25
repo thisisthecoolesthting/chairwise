@@ -4,11 +4,9 @@ title: Massage Office Chair, 500LBS Ergonomic Rocking Executive Desk Chairs with
 seoTitle: Massage Office Chair, 500LBS Ergonomic Rocking Executive Des, Review
 metaDescription: Editorial overview of Massage Office Chair, 500LBS Ergonomic Rocking Executive Des — who it fits and where to check availability on Amazon.
 cardTitle: Massage Office Chair, 500LBS Ergonomic Rocking Executive Des
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 139.99
 rating: 4.3
-reviewCount: 44
 bsr: 62814
 commissionPerSale: 0.0
 score: 183.65

@@ -4,11 +4,9 @@ title: AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4
 seoTitle: AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mous, Review
 metaDescription: Editorial overview of AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mous — who it fits and where to check availability on Amazon.
 cardTitle: AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mous
-cardPick: Ranked catalog pick (unified harvester pool).
 category: electronics
 price: 23.99
 rating: 4.2
-reviewCount: 49
 bsr: null
 commissionPerSale: 0.0
 score: 129.6

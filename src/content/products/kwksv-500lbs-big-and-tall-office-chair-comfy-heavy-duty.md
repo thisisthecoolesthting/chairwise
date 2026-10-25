@@ -4,11 +4,9 @@ title: KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair w
 seoTitle: KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec, Review
 metaDescription: Editorial overview of KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec — who it fits and where to check availability on Amazon.
 cardTitle: KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Exec
-cardPick: Catalog export from unified harvester pool.
 category: home-kitchen
 price: null
 rating: 1.6
-reviewCount: 50
 bsr: 15
 commissionPerSale: 0.0
 score: 9000.0

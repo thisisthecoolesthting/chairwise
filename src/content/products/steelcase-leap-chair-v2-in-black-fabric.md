@@ -4,11 +4,9 @@ title: Steelcase Leap Chair V2 In Black Fabric
 seoTitle: Steelcase Leap Chair V2 In Black Fabric, Review
 metaDescription: Editorial overview of Steelcase Leap Chair V2 In Black Fabric — who it fits and where to check availability on Amazon.
 cardTitle: Steelcase Leap Chair V2 In Black Fabric
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 1350.96
 rating: 4.7
-reviewCount: 34
 bsr: 1094227
 commissionPerSale: 0.0
 score: 133.92

@@ -4,11 +4,9 @@ title: JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Su
 seoTitle: JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion, Review
 metaDescription: Editorial overview of JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion — who it fits and where to check availability on Amazon.
 cardTitle: JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 59.99
 rating: 3.0
-reviewCount: 43
 bsr: 172695
 commissionPerSale: 0.0
 score: 118.96

@@ -4,11 +4,9 @@ title: Zonelucky 600lbs Big and Tall Office Chair, Heavy Duty Executive Desk Cha
 seoTitle: Zonelucky 600lbs Big and Tall Office Chair, Heavy Duty Execu, Review
 metaDescription: Editorial overview of Zonelucky 600lbs Big and Tall Office Chair, Heavy Duty Execu — who it fits and where to check availability on Amazon.
 cardTitle: Zonelucky 600lbs Big and Tall Office Chair, Heavy Duty Execu
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 2.2
-reviewCount: 50
 bsr: 18
 commissionPerSale: 0.0
 score: 9000.0

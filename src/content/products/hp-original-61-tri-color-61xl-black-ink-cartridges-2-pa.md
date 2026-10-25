@@ -4,11 +4,9 @@ title: HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack) | Works Des
 seoTitle: HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack, Review
 metaDescription: Editorial overview of HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack — who it fits and where to check availability on Amazon.
 cardTitle: HP Original 61 Tri-Color / 61XL Black Ink Cartridges (2-Pack
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 110.75
 rating: 1.7
-reviewCount: 49
 bsr: 24586
 commissionPerSale: 0.0
 score: 125.14
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/71WQyfL4u5L.jpg
 affiliateUrl: https://www.amazon.com/dp/B0FQPQJHSC
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T15:00:15+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

@@ -4,11 +4,9 @@ title: General Ribbon Grc Canon T316-Cob - 1-Blk Corr Ribb Ap100 (Office Supply 
 seoTitle: General Ribbon Grc Canon T316-Cob - 1-Blk Corr Ribb Ap100 (O, Review
 metaDescription: Editorial overview of General Ribbon Grc Canon T316-Cob - 1-Blk Corr Ribb Ap100 (O — who it fits and where to check availability on Amazon.
 cardTitle: General Ribbon Grc Canon T316-Cob - 1-Blk Corr Ribb Ap100 (O
-cardPick: Catalog export from unified harvester pool.
 category: office-products
 price: null
 rating: 0.3
-reviewCount: 50
 bsr: null
 commissionPerSale: 0.0
 score: 9000.0
@@ -16,7 +14,7 @@ imageUrl: ''
 affiliateUrl: https://www.amazon.com/dp/B001D4E576
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T02:25:21+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

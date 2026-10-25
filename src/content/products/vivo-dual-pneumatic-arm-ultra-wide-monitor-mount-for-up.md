@@ -4,11 +4,9 @@ title: VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 35 inch Screen
 seoTitle: VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 3, Review
 metaDescription: Editorial overview of VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 3 — who it fits and where to check availability on Amazon.
 cardTitle: VIVO Dual Pneumatic Arm Ultra-Wide Monitor Mount for up to 3
-cardPick: Ranked catalog pick (unified harvester pool).
 category: electronics
 price: 69.99
 rating: 4.0
-reviewCount: 48
 bsr: null
 commissionPerSale: 0.0
 score: 125.71

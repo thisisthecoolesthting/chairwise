@@ -4,11 +4,9 @@ title: Fargo 45100 Full Color Ribbon - YMCKO - 250 Prints
 seoTitle: Fargo 45100 Full Color Ribbon - YMCKO - 250 Prints, Review
 metaDescription: Editorial overview of Fargo 45100 Full Color Ribbon - YMCKO - 250 Prints — who it fits and where to check availability on Amazon.
 cardTitle: Fargo 45100 Full Color Ribbon - YMCKO - 250 Prints
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 51.5
 rating: 3.6
-reviewCount: 42
 bsr: 105382
 commissionPerSale: 0.0
 score: 166.18
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/71nQEZJogfS.jpg
 affiliateUrl: https://www.amazon.com/dp/B0048BHOEC
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T03:30:49+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

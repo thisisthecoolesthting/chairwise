@@ -4,11 +4,9 @@ title: Bluelog Shower Chair for Inside Shower with Arms and Back, 550lbs Capacit
 seoTitle: Bluelog Shower Chair for Inside Shower with Arms and Back, 5, Review
 metaDescription: Editorial overview of Bluelog Shower Chair for Inside Shower with Arms and Back, 5 — who it fits and where to check availability on Amazon.
 cardTitle: Bluelog Shower Chair for Inside Shower with Arms and Back, 5
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: null
 rating: 2.7
-reviewCount: 48
 bsr: 33112
 commissionPerSale: 0.0
 score: 126.0
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/71s0xLpAY-L.jpg
 affiliateUrl: https://www.amazon.com/dp/B0F23RVFCX
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T14:45:11+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

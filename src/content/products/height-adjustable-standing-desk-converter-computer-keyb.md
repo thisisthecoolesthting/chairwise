@@ -4,11 +4,9 @@ title: Height Adjustable Standing Desk Converter,Computer Keyboard Stand for Des
 seoTitle: Height Adjustable Standing Desk Converter,Computer Keyboard , Review
 metaDescription: Editorial overview of Height Adjustable Standing Desk Converter,Computer Keyboard  — who it fits and where to check availability on Amazon.
 cardTitle: 'Height Adjustable Standing Desk Converter,Computer Keyboard '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 49.99
 rating: 4.0
-reviewCount: 42
 bsr: 32593
 commissionPerSale: 0.0
 score: 180.66

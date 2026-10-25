@@ -4,11 +4,9 @@ title: AOAO Women's Body Powder, Talc-Free Cashmere Dusting Powder for Women, Sw
 seoTitle: AOAO Women's Body Powder, Talc-Free Cashmere Dusting Powder , Review
 metaDescription: Editorial overview of AOAO Women's Body Powder, Talc-Free Cashmere Dusting Powder  — who it fits and where to check availability on Amazon.
 cardTitle: 'AOAO Women''s Body Powder, Talc-Free Cashmere Dusting Powder '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: 9.98
 rating: 4.0
-reviewCount: 45
 bsr: 83932
 commissionPerSale: 0.0
 score: 176.44
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/61fvu8ayDHL.jpg
 affiliateUrl: https://www.amazon.com/dp/B0FRSL4BHT
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T03:30:49+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

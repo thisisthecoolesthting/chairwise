@@ -18,7 +18,7 @@ relatedProducts:
 - B087QSGMZN
 - B09BCWY4GB
 - B0CXHP2V6C
-status: published
+status: draft
 keyTakeaways:
 - Proper grips and throttle sleeves improve control and reduce hand fatigue on long cruise nights.
 - Switch housings and brake/clutch levers designed for ape hangers ensure ergonomic hand positioning.

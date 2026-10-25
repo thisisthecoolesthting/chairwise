@@ -4,11 +4,9 @@ title: Drafting Chair,Executive Tall Office Chair Flip-up Armrests for Counter H
 seoTitle: Drafting Chair,Executive Tall Office Chair Flip-up Armrests , Review
 metaDescription: Editorial overview of Drafting Chair,Executive Tall Office Chair Flip-up Armrests  — who it fits and where to check availability on Amazon.
 cardTitle: 'Drafting Chair,Executive Tall Office Chair Flip-up Armrests '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: office-products
 price: 99.99
 rating: 1.4
-reviewCount: 48
 bsr: 28927
 commissionPerSale: 0.0
 score: 122.02

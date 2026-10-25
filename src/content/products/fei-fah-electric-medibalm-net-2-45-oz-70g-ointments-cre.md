@@ -4,11 +4,9 @@ title: FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Creams & Oils,Musc
 seoTitle: FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Cream, Review
 metaDescription: Editorial overview of FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Cream — who it fits and where to check availability on Amazon.
 cardTitle: FEI FAH Electric Medibalm Net 2.45 oz (70g) Ointments, Cream
-cardPick: Ranked catalog pick (unified harvester pool).
 category: health-household
 price: 21.99
 rating: 3.2
-reviewCount: 48
 bsr: 172648
 commissionPerSale: 0.0
 score: 122.05
@@ -16,7 +14,7 @@ imageUrl: https://m.media-amazon.com/images/I/71CS-QUa6hL.jpg
 affiliateUrl: https://www.amazon.com/dp/B075RNVNM8
 amazonUrl: ''
 isPrime: false
-status: published
+status: draft
 firstSeen: '2026-06-09T15:00:15+00:00'
 lastSeen: '2026-08-03T15:08:31+00:00'
 tags:

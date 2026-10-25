@@ -4,11 +4,9 @@ title: Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Cha
 seoTitle: Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty , Review
 metaDescription: Editorial overview of Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty  — who it fits and where to check availability on Amazon.
 cardTitle: 'Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty '
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 129.99
 rating: 4.5
-reviewCount: 42
 bsr: 506692
 commissionPerSale: 0.0
 score: 142.25

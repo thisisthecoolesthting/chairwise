@@ -4,11 +4,9 @@ title: 750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic M
 seoTitle: 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio, Review
 metaDescription: Editorial overview of 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio — who it fits and where to check availability on Amazon.
 cardTitle: 750lbs Big and Tall Office Chair with Wide Thick Seat Cushio
-cardPick: Ranked catalog pick (unified harvester pool).
 category: home-kitchen
 price: 129.98
 rating: 4.7
-reviewCount: 44
 bsr: 139002
 commissionPerSale: 0.0
 score: 183.23
