@@ -1,19 +1,19 @@
 ---
 import ArticleToC from '@/components/ArticleToC.astro';
-import CaseAdSlot from '@/components/CaseAdSlot.astro';
+import OwnOffer from '@/components/OwnOffer.astro';
 ---
 
 <aside
   class="article-sidebar-rail w-full lg:w-56 xl:w-60 shrink-0 order-first lg:order-none lg:sticky lg:top-20 lg:self-start lg:z-30"
-  aria-label="Page map and phone case offer"
+  aria-label="Page map"
 >
   <div class="article-sidebar-panel flex flex-col gap-3">
     <section class="article-sidebar-toc min-h-0">
       <ArticleToC embedded expanded />
     </section>
 
-    <div class="article-sidebar-ad not-prose shrink-0">
-      <CaseAdSlot size="300x600" placement="longform-sidebar-sticky" />
+    <div class="article-sidebar-ad not-prose shrink-0 hidden lg:block">
+      <OwnOffer tier="secondary" placement="sidebar" compact />
     </div>
   </div>
 </aside>
@@ -42,17 +42,3 @@ import CaseAdSlot from '@/components/CaseAdSlot.astro';
       overscroll-behavior: contain;
     }
   }
-
-  .article-sidebar-ad :global(.cad-wrap) {
-    margin: 0;
-    max-width: 100%;
-  }
-
-  .article-sidebar-ad :global(.cad-sky) {
-    max-width: 240px;
-  }
-
-  .article-sidebar-ad :global(.cad-sky-card) {
-    width: 100%;
-  }
-</style>

@@ -13,7 +13,6 @@ heroImage: ''
 
 Standing desks have become popular for good reason: they can mitigate some of the negative health impacts of prolonged sitting. However, simply standing isn't a panacea. If you're standing for significant portions of your workday, an anti-fatigue mat isn't a luxury; it's a necessity. Without one, you're effectively trading one set of problems (sitting-related pain) for another (standing-related foot, leg, and back pain).
 
-*ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more about our product testing and review methodology [here](INTERNAL:our-methodology).*
 
 ## Why Anti-Fatigue Mats Are Essential for Standing Work
 
@@ -106,12 +105,4 @@ Even with a mat, static standing for hours is still static. Incorporate short st
 ## Bottom Line
 
 An anti-fatigue mat is an indispensable component of an effective standing desk setup. It transforms a potentially painful experience into a comfortable and sustainable one by promoting circulation, reducing pressure, and encouraging subtle movement. Don't view it as an optional accessory; consider it a necessary ergonomic tool that protects your feet, legs, and back, allowing you to reap the full health benefits of standing while you work. Invest in a quality mat that matches your standing habits, and combine it with good posture and regular movement for a truly pain-free workday.
-
-## Our picks worth a closer look
-
-- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
 

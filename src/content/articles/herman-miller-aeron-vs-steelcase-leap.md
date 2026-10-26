@@ -252,11 +252,3 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Ergonomic Chair Showdown: Herman Miller Aeron vs. Steelcase Leap for WFH Professionals](/articles/chairwise-article-01/)
 - [The Ultimate Ergonomic Chair Showdown: Herman Miller vs. Steelcase vs. Budget   Alternatives](/articles/chairwise-article-09/)
 
-## Our picks worth a closer look
-
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
-- **[Steelcase Leap Chair V2 In Black Fabric](/products/steelcase-leap-chair-v2-in-black-fabric/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
-

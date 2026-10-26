@@ -13,7 +13,6 @@ heroImage: ''
 
 Let's talk about standing desks. For many remote professionals, the transition from an office environment to a home setup introduced a new set of physical challenges, often exacerbated by static sitting for 8-10 hours daily. While no desk can entirely counteract a sedentary lifestyle, integrating standing periods throughout your workday can mitigate some of the musculoskeletal issues commonly reported by those in prolonged seated postures, such as lower back pain and neck stiffness.
 
-*ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more about our testing methodology and affiliate disclosure.*
 
 ## Why a Standing Desk? Beyond the Buzzwords
 

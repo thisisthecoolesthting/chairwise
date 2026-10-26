@@ -11,4 +11,3 @@ status: published
 heroImage: ''
 ---
 
-Affiliate disclosure: This article contains affiliate links. If you make a purchase through these links, ChairWise may earn a small commission at no extra cost to you. We only recommend products we've thoroughly tested

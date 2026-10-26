@@ -151,8 +151,3 @@ When evaluating backlit keyboards for low-light workspaces, focus less on flair 
 - [Best Standing Desk Converters for Small Home Workspaces](/articles/best-standing-desk-converters-for-small-home-workspaces/)
 - [How LED Desk Lighting Can Reduce Eye Strain During Work](/articles/how-led-desk-lighting-can-reduce-eye-strain-during-work/)
 
-## Our picks worth a closer look
-
-- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
-- **[Madison Avenue Oversized Square Blue Light Blocking Glasses for Women with Pouch](/products/madison-avenue-oversized-square-blue-light-blocking-gla/)** — see current price and specs.
-

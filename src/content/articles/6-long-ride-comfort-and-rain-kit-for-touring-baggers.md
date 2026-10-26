@@ -221,10 +221,3 @@ Spend your first touring season collecting the basics: a solid rain suit, weathe
 
 Your bagger is built for cruising and looking good while doing it. A thoughtful comfort kit just makes sure you enjoy the whole ride.
 
-## Our picks worth a closer look
-
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
-- **[Fuspower 9V Batteries 12 Pack, 9 Volt Batteries, 3 Years Shelf Life, Long Lastin](/products/fuspower-9v-batteries-12-pack-9-volt-batteries-3-years-/)** — see current price and specs.
-- **[QLTPLUS Office Desk Chair for Long Hours & Back Pain Relief – 4“ Thick Molded Fo](/products/qltplus-office-desk-chair-for-long-hours-back-pain-reli/)** — see current price and specs.
-

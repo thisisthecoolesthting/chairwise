@@ -13,7 +13,6 @@ heroImage: ''
 
 You’ve optimized your chair, adjusted your monitor, and maybe even invested in a sit-stand desk. But if you’re still squinting at the end of the day, or finding yourself reaching for pain meds for tension headaches, the culprit might be right in front of you: your desk lighting. It's often overlooked, yet it plays a critical role in visual comfort, productivity, and even your long-term musculoskeletal health.
 
-*ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more about our testing methodology and affiliate disclosure.*
 
 ## Why Good Desk Lighting Matters More Than You Think
 
@@ -90,12 +89,4 @@ Even the best lamp won't help if it's not positioned correctly.
 ## Bottom Line
 
 Investing in a high-quality, adjustable desk lamp is not a luxury; it's a fundamental component of an ergonomically sound workspace. It directly impacts your visual comfort, reduces strain on your eyes and body, and can significantly improve your productivity and overall well-being. Prioritize lamps with high CRI, adjustable color temperature and brightness, and a design that minimizes glare and maximizes adjustability. Don’t let poor lighting be the weak link in your otherwise optimized ergonomic setup. [Your eyes and your neck will thank you](INTERNAL:eye-neck-connection).
-
-## Our picks worth a closer look
-
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
 

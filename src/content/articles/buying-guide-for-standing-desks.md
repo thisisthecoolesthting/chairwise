@@ -13,7 +13,6 @@ heroImage: ''
 
 Spending 8-10 hours a day seated, even in the most ergonomically sound chair, isn't ideal. While a good chair is foundational, incorporating movement throughout your workday is critical for mitigating the musculoskeletal issues many remote professionals face. That's where a standing desk comes in. It's not a magic bullet, but it's a powerful tool for varying your posture, engaging different muscle groups, and breaking the cycle of prolonged sitting.
 
-*ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more about our methodology [here](INTERNAL:about-us).*
 
 ## Why Stand? The Benefits Beyond the Hype
 
@@ -99,12 +98,4 @@ The biggest mistake people make with a standing desk is treating it as a binary 
 ## Bottom Line
 
 A standing desk is an investment in your long-term health and productivity. Don't compromise on stability, height range, or motor quality. Prioritize dual-motor systems, robust frames, and a height range that truly accommodates your specific sitting and standing heights. Pair it with an anti-fatigue mat and a monitor arm for a complete, ergonomically sound setup. Remember, the true benefit comes from mindful movement and regular postural changes, not from simply standing more. Your body will thank you for breaking the static posture cycle. For a deeper dive into optimizing your *entire* workspace, check out our guide on [designing your ergonomic home office](INTERNAL:ergonomic-home-office-design).
-
-## Our picks worth a closer look
-
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
 

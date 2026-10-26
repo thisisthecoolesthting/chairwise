@@ -1,0 +1,58 @@
+---
+/**
+ * Honest cross-promo for products made by our own team. Config lives in
+ * src/data/own-offers.ts. Max two per page: one primary, one secondary.
+ */
+import { SITE_DOMAIN, SITE_NAME, OWN_OFFERS, type OwnOfferTier } from '@/data/own-offers';
+
+export interface Props {
+  tier?: OwnOfferTier;
+  /** Where on the page: home | article-end | sidebar */
+  placement: string;
+  compact?: boolean;
+}
+
+const { tier = 'primary', placement, compact = false } = Astro.props;
+const offer = OWN_OFFERS[tier];
+const u = new URL(offer.url);
+u.searchParams.set('utm_source', SITE_DOMAIN);
+u.searchParams.set('utm_medium', 'crosspromo');
+u.searchParams.set('utm_campaign', 'cro2');
+u.searchParams.set('utm_content', placement);
+const href = u.toString();
+---
+
+<aside class:list={['own-offer', compact && 'own-offer--compact']} aria-label={`From our team: ${offer.name}`} data-own-offer={offer.id}>
+  <p class="own-offer__eyebrow">{offer.eyebrow}</p>
+  <p class="own-offer__headline">{offer.headline}</p>
+  <p class="own-offer__body">{offer.body}</p>
+  <p class="own-offer__row">
+    <a href={href} class="own-offer__cta" data-cta={`own-${offer.id}-${placement}`} rel="noopener">{offer.cta}</a>
+    <span class="own-offer__label">Made by the team behind {SITE_NAME}</span>
+  </p>
+</aside>
+
+<style>
+  .own-offer {
+    border: 1px solid rgba(120, 120, 120, 0.28);
+    border-radius: 0.9rem;
+    padding: 1.1rem 1.25rem;
+    margin: 1.5rem 0;
+    background: rgba(127, 127, 127, 0.07);
+    color: inherit;
+    text-align: left;
+  }
+  .own-offer--compact { padding: 0.8rem 0.9rem; margin: 0; font-size: 0.85rem; }
+  .own-offer p { margin: 0; }
+  .own-offer__eyebrow { font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 600; opacity: 0.7; }
+  .own-offer__headline { font-size: 1.1rem; font-weight: 600; line-height: 1.3; margin-top: 0.3rem !important; }
+  .own-offer--compact .own-offer__headline { font-size: 0.95rem; }
+  .own-offer__body { margin-top: 0.4rem !important; line-height: 1.5; opacity: 0.88; }
+  .own-offer__row { margin-top: 0.8rem !important; display: flex; flex-wrap: wrap; gap: 0.6rem 0.9rem; align-items: center; }
+  .own-offer__cta {
+    display: inline-block; padding: 0.5rem 1rem; border-radius: 999px; font-weight: 600; font-size: 0.9rem;
+    text-decoration: none; background: #111827; color: #fff;
+  }
+  .own-offer__cta:hover { opacity: 0.88; }
+  .own-offer__label { font-size: 0.72rem; opacity: 0.65; }
+</style>

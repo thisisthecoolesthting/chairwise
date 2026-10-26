@@ -231,11 +231,3 @@ A: The Herman Miller Aeron comes in multiple sizes (A, B, C), with size C being 
 **Q: Do the Aeron or Leap chairs come with a warranty, and how do they compare?**  
 A: Both offer extensive warranties—Herman Miller provides a 12-year warranty, while Steelcase offers a similar 12-year guarantee, covering defects and parts. Budget alternatives typically have shorter warranties (1–5 years).
 
-## Our picks worth a closer look
-
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
-- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
-

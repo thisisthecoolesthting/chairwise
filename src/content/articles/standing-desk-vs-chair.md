@@ -213,11 +213,3 @@ A sit-stand desk delivers this; a standing desk converted into 'stand all day' d
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
-## Our picks worth a closer look
-
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
-

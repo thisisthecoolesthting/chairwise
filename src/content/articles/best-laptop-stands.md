@@ -13,7 +13,6 @@ heroImage: ''
 
 If you're hunched over a laptop for hours, you're not alone. Many WFH professionals, from developers to designers, find themselves inadvertently adopting postures that lead to neck, shoulder, and even wrist pain. The good news is, a simple piece of equipment can make a significant difference: a laptop stand.
 
-*ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Our reviews are based on extensive, independent testing.*
 
 ## Why Your Laptop Needs to Go Up: The Ergonomics of Eye-Level
 

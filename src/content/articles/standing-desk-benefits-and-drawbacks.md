@@ -211,11 +211,3 @@ Mid-range chairs ($400–$800) use class-3 or class-4 cylinders, 2.2+ lb foam, a
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
-## Our picks worth a closer look
-
-- **[FlexiSpot E7 Pro Plus Electric Standing Desk 55x28](/products/b093vg5b28-flexispot-e7-standing-desk/)** — see current price and specs.
-- **[Bestand Real Fan White Noise Machine Sleep Sound Machine with Smart Mode, Timer ](/products/bestand-real-fan-white-noise-machine-sleep-sound-machin/)** — see current price and specs.
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[FLEXISPOT 32' Standing Desk Converter, Space-Saving Desktop Riser for Home Offic](/products/flexispot-32-standing-desk-converter-space-saving-deskt/)** — see current price and specs.
-

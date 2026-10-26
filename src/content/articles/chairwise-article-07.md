@@ -205,11 +205,3 @@ A: The Herman Miller Aeron comes in three sizes (A, B, C), making it a better op
 **Q: Can I find refurbished versions of the Aeron or Leap to save money?**  
 A: Yes, both Herman Miller and Steelcase chairs are often available refurbished through authorized dealers, offering significant savings while maintaining quality.
 
-## Our picks worth a closer look
-
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
-- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
-

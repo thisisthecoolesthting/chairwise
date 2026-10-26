@@ -9,7 +9,7 @@ site: chairwise
 topic: 'Guide: RK ROYAL KLUDGE RKS70 Ergonomic Split Keyboard, Wireless RGB Mechanical Keyboard with Bluetooth/2.4GHz/Wired, 75% Hot Sw (ASIN B0FGN9GC2G)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - royal kludge rks70
 - rks70 ergonomic split
@@ -73,12 +73,4 @@ While the split design is the primary ergonomic draw, consider these additional 
 The RK ROYAL KLUDGE RKS70 presents itself as a feature-rich, versatile, split ergonomic mechanical keyboard. Its multi-mode connectivity, hot-swappable switches, and 75% layout are strong selling points for individuals seeking to improve their typing posture and customize their experience.
 
 If you are a WFH professional experiencing discomfort, or proactively looking to prevent it, and are willing to invest in a keyboard that offers extensive adjustability and a potentially more comfortable typing posture, the RKS70 warrants consideration. The hot-swappability, in particular, offers a degree of future-proofing and personalization that can make a long-term difference in your daily work comfort. Remember that true ergonomic benefit comes from the keyboard interacting with your overall workstation setup, including your chair, desk height, and monitor placement.
-
-## Our picks worth a closer look
-
-- **[AOC 2.4GHz Ergonomic Mouse, Wireless Bluetooth Vertical Mouse for Work, 4800 DPI](/products/aoc-2-4ghz-ergonomic-mouse-wireless-bluetooth-vertical-/)** — see current price and specs.
-- **[Arteck Ergonomic Keyboard with Cushioned Wrist Palm Rest, Multi-Device Wireless ](/products/arteck-ergonomic-keyboard-with-cushioned-wrist-palm-res/)** — see current price and specs.
-- **[Raathionty Height Adjustable Standing Desk Converter, Computer Keyboard Stand fo](/products/raathionty-height-adjustable-standing-desk-converter-co/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
 

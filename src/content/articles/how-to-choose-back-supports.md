@@ -13,7 +13,6 @@ heroImage: ''
 
 You've invested in a good ergonomic chair, maybe even a standing desk, but that persistent ache in your lower back or between your shoulder blades still lingers. Sometimes, even the best chairs can’t perfectly accommodate every body or working posture without a little help. This is where supplementary back supports come in. They aren't a replacement for a well-fitted chair, but rather a fine-tuning tool to optimize your seated posture and provide targeted relief.
 
-ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more.
 
 ## Understanding Your Back Pain: The Root of the Problem
 
@@ -46,7 +45,7 @@ Back supports come in various forms, each designed to address specific areas and
 
 These are perhaps the most common and straightforward back supports. A lumbar roll is essentially a cylindrical or D-shaped cushion designed to fit into the natural curve of your lower back, just above your belt line.
 
-*   **Cylindrical Rolls:** Offer a more pronounced support, pushing the lumbar spine further into lordosis. These are often recommended for individuals with a naturally deeper lumbar curve or those who tend to significantly flatten their lower back when seated. They can be very effective for correcting sacral sitting. A classic example is the **Original McKenzie Lumbar Roll** (https://www.amazon.com/dp/B000EZ5T74/), which comes highly recommended by physical therapists for its effectiveness and durable foam construction.
+*   **Cylindrical Rolls:** Offer a more pronounced support, pushing the lumbar spine further into lordosis. These are often recommended for individuals with a naturally deeper lumbar curve or those who tend to significantly flatten their lower back when seated. They can be very effective for correcting sacral sitting. A classic example is the **Original McKenzie Lumbar Roll**, which comes highly recommended by physical therapists for its effectiveness and durable foam construction.
 *   **D-Rolls (or Half-Rolls):** These have a flat back and a curved front, making them less obtrusive than a full cylinder. They offer a gentler, more subtle support, which can be more comfortable for individuals who find full cylindrical rolls too aggressive, or for those whose chairs already offer some degree of lumbar support. They are also less likely to push you too far forward in the chair.
 
 **Application:** Best for addressing lower back pain caused by a flattened lumbar curve (sacral sitting). They encourage the pelvis to tilt anteriorly, restoring the natural lordosis.
@@ -56,7 +55,7 @@ These are perhaps the most common and straightforward back supports. A lumbar ro
 These supports cover a larger area of the back, often extending from the sacrum up to the mid-thoracic region. They are typically made of mesh, memory foam, or a combination of materials, and often feature contoured designs to mimic the spine's natural curves.
 
 *   **Contoured Memory Foam:** These supports mold to your body over time, providing personalized pressure distribution. They can be excellent for individuals who need consistent support across a wider area of their back and those who find harder supports uncomfortable. Look for options with adjustable straps to secure them to your chair.
-*   **Mesh Backrests:** Often designed with a spring-like tension, these offer breathable support that adapts to your movements. Many feature a pronounced lumbar curve and sometimes provide subtle lateral support. They are particularly good for chairs that lack any inherent backrest contour or are simply too flat. The **LoveHome Memory Foam Lumbar Support Pillow** (https://www.amazon.com/dp/B07L5P4Q1K/) is a popular example that offers good coverage and strap adjustability, making it suitable for car seats as well as office chairs.
+*   **Mesh Backrests:** Often designed with a spring-like tension, these offer breathable support that adapts to your movements. Many feature a pronounced lumbar curve and sometimes provide subtle lateral support. They are particularly good for chairs that lack any inherent backrest contour or are simply too flat. The **LoveHome Memory Foam Lumbar Support Pillow** is a popular example that offers good coverage and strap adjustability, making it suitable for car seats as well as office chairs.
 
 **Application:** Suitable for individuals experiencing generalized lower back discomfort, or those who need support extending into the mid-back to prevent slouching and mild thoracic kyphosis. They are a good choice for chairs with very flat or unsupportive backrests.
 
@@ -116,12 +115,4 @@ If you plan to use the support in multiple locations (e.g., office chair, car, k
 ## The Bottom Line
 
 Choosing the right back support is a personalized process. Start by identifying the specific nature and location of your discomfort. Then, select a support type that targets that issue: a lumbar roll for lower back flattening, a full back support for generalized slouching, or a combined seat/back cushion for pelvic and lower back issues. Prioritize adjustability, appropriate firmness, and breathability. Remember that a back support is intended to *assist* your posture, not replace the need for a good ergonomic chair and regular movement breaks. Experimentation is key – what works for one person may not work for another. Don't be afraid to try a few options to find the one that brings you the most relief and helps you maintain a healthy, pain-free posture throughout your long workdays.
-
-## Our picks worth a closer look
-
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
 

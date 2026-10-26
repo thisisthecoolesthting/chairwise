@@ -9,7 +9,7 @@ site: chairwise
 topic: 'Guide: Massage Office Chair, 500LBS Ergonomic Rocking Executive Desk Chairs with 4 Points Vibration&Heat,Padded Flip-up Armrest (ASIN B0GDXNX8Z6)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - massage office chair
 - chair lbs ergonomic
@@ -61,12 +61,4 @@ While the concept of a massage office chair can be appealing, it’s important t
 ### Conclusion
 
 A massage office chair with heavy-duty capacity, vibration, and heat can offer a unique blend of comfort and therapeutic features for remote professionals. For individuals requiring a higher weight capacity and seeking temporary relief from minor aches, these features can be a welcome addition to their workday. However, it's crucial to distinguish between the superficial comfort provided by vibration and heat, and the fundamental ergonomic support that prevents pain in the first place. Approach your decision by carefully evaluating the quality of the core chair's adjustability and support, alongside the functionality and durability of its added electronic features.
-
-## Our picks worth a closer look
-
-- **[Massage Office Chair, 500LBS Ergonomic Rocking Executive Desk Chairs with 4 Poin](/products/massage-office-chair-500lbs-ergonomic-rocking-executive/)** — see current price and specs.
-- **[Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Cha](/products/massage-office-chair-with-foot-rest-6-points-vibration-/)** — see current price and specs.
-- **[Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Ch](/products/massage-office-chair-with-foot-rest-6-point-vibration-h/)** — see current price and specs.
-- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
-- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
 

@@ -3,7 +3,6 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import LongformPageShell from '@/components/LongformPageShell.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import { getCollection, getEntry } from 'astro:content';
-import { getRelatedProductsFromBody } from '@/utils/related-products';
 import { siteOrigin } from '@/utils/site-origin';
 import home from '@/data/spawn-home.json';
 import RelatedReading from '@/components/RelatedReading.astro';
@@ -31,7 +30,6 @@ const defSlug =
   editorialAuthor || (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || '_default';
 const authorSlug = entry.data.author ?? defSlug;
 const author = await getEntry('authors', authorSlug);
-const relatedProducts = await getRelatedProductsFromBody(entry.body);
 const publishedISO = new Date(entry.data.publishedAt ?? entry.data.updatedAt ?? Date.now()).toISOString();
 const modifiedISO = entry.data.updatedAt ? new Date(entry.data.updatedAt).toISOString() : undefined;
 const bodyLower = (entry.body || '').toLowerCase();
@@ -106,8 +104,6 @@ const breadcrumbLd = {
   articleModifiedTime={modifiedISO}
   articleAuthor={author?.data.name ?? b.fullName}
   articleTags={entry.data.tags}
-  sectionAds="articles"
-  sectionAdsCompact
 >
   <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
@@ -120,7 +116,6 @@ const breadcrumbLd = {
     publishedAt={entry.data.publishedAt ?? entry.data.updatedAt}
     reviewedAt={entry.data.reviewedAt ?? entry.data.updatedAt}
     medicalAfterBody={needsMedicalDisclaimer}
-    relatedProducts={relatedProducts}
   >
     <Content />
   </LongformPageShell>

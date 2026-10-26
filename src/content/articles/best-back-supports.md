@@ -11,7 +11,6 @@ status: published
 heroImage: ''
 ---
 
-*ChairWise is reader-supported. When you buy through links on our site, we may earn an affiliate commission. Learn more about our testing methodology [here](INTERNAL:about-us).*
 
 For many remote workers, the chair they sit in wasn't chosen for them. It was a dining room hand-me-down, a cheap office store special, or even a glorified gaming throne. And when the lower back starts to ache, or the mid-back feels like it's bracing for impact, the first instinct is often to add a back support. This isn't a bad instinct, but it's one that requires precision. A poorly chosen support can exacerbate issues, creating new pressure points or forcing unnatural postures. A well-chosen one, however, can be a temporary bridge to better posture, or even a long-term solution for specific needs.
 
@@ -105,12 +104,4 @@ Before investing in a back support, honestly assess your primary chair. Does it 
 ## Bottom Line
 
 Adding a back support can be a highly effective strategy for alleviating pain and improving posture for remote workers. However, success hinges on choosing the right type of support for your specific needs and body type, understanding its biomechanical purpose, and integrating it into an overall ergonomic strategy that includes regular movement. Don't fall for generic "universal" solutions; instead, opt for targeted, well-designed products like the McKenzie Lumbar Roll for focused lumbar support, the LoveHome Memory Foam Pillow for broader contouring, or the BackJoy SitSmart for fundamental pelvic alignment. Remember, your back support should feel like an extension of healthy posture, not a rigid brace.
-
-## Our picks worth a closer look
-
-- **[Drafting Chair 400lbs Heavy Duty Tall Office Chair Big and Tall Ergonomic Standi](/products/drafting-chair-400lbs-heavy-duty-tall-office-chair-big-/)** — see current price and specs.
-- **[Drafting Chair, Tall Office Chair for Standing Desk, Ergonomic Standing Desk Cha](/products/drafting-chair-tall-office-chair-for-standing-desk-ergo/)** — see current price and specs.
-- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[Newtral Standing Desk Chair, Standing Mate Chair for Sit-Stand, Ergonomic Leanin](/products/newtral-standing-desk-chair-standing-mate-chair-for-sit/)** — see current price and specs.
 

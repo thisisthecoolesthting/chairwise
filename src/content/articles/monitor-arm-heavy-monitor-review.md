@@ -248,11 +248,3 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Monitor Arm Compatibility with Ultra-Wide and Curved Displays](/articles/monitor-arm-compatibility-with-ultra-wide-and-curved-displays/)
 - [Standing Desk Converters Tested: Which $200 Models Actually Stay Stable After   6 Months](/articles/standing-desk-converter-review/)
 
-## Our picks worth a closer look
-
-- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
-- **[ErgoFocus Heavy Duty Single Monitor Mount for Max 49 inch, Hold 7.7 to 44 lbs Ul](/products/ergofocus-heavy-duty-single-monitor-mount-for-max-49-in/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
-- **[Bluelog Shower Chair for Inside Shower with Arms and Back, 550lbs Capacity Heigh](/products/bluelog-shower-chair-for-inside-shower-with-arms-and-ba/)** — see current price and specs.
-

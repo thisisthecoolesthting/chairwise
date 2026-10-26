@@ -232,11 +232,3 @@ If yes, your work chair is the culprit. Pain that persists regardless of chair, 
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
-## Our picks worth a closer look
-
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
-- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
-

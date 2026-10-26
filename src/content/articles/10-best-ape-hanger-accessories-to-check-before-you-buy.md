@@ -161,7 +161,3 @@ Equipping your ape hangers with the right accessories is more than just a style 
 - [bylikeho Saddlebag Locks,Theft Deterrent Saddlebag Locks,Car Accessories Black Motorcycle Saddlebag Locks Mounting Screw Bolt Mounting Hardware,Fit for Touring Street Glide,Electra Glide,Road Glide](/products/b0cxhp2v6c-bylikeho-saddlebag-locks-theft-deterrent-saddlebag-locks-car/)
 - [Original Bike Spirits Spray Cleaner and Polish - 14 Ounce - 1039615 - The Ultimate Motorcycle Cleaner in a Can to Make Any Vehicle Shine, Cleans, Polishes and Protects](/products/b007kpx7hq-original-bike-spirits-spray-cleaner-and-polish-14-ounce-1039/)
 
-## Our picks worth a closer look
-
-- **[VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)** — see current price and specs.
-

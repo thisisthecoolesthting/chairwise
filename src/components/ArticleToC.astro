@@ -18,15 +18,6 @@ const { embedded = false, expanded = false } = Astro.props;
   ]}
 >
   <p class="font-mono text-[10px] tracking-[0.16em] uppercase text-terracotta-600 mb-2">Page map</p>
-  <a
-    id="toc-jump"
-    href="#top-picks"
-    class="hidden mb-2 block w-full text-center bg-terracotta-500 hover:bg-terracotta-600
-           text-cream-50 font-mono text-[10.5px] tracking-[0.1em] uppercase
-           px-3 py-2 rounded-full transition-colors no-underline"
-  >
-    ↓ Jump to picks
-  </a>
   <ol
     id="toc-list"
     class:list={[
@@ -68,7 +59,6 @@ const { embedded = false, expanded = false } = Astro.props;
 
   const expanded = nav.classList.contains('article-toc--expanded');
 
-  if (document.getElementById('top-picks')) jump?.classList.remove('hidden');
 
   const article = document.querySelector('article.article-longform, article');
   const headings = article

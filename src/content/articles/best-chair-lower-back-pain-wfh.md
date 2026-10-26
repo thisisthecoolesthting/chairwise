@@ -205,11 +205,3 @@ A: Adjust your chair whenever you feel discomfort, ideally every 30–60 minutes
 **Q: Can a standing desk help with lower back pain if I already have an ergonomic chair?**  
 A: Yes, alternating between sitting and standing can reduce pressure on your spine. Pair your ergonomic chair with a standing desk for the best long-term back health.
 
-## Our picks worth a closer look
-
-- **[Ergonomic Office Chair for Long Hours Sitting – Back & Neck Pain Relief, Adjusta](/products/ergonomic-office-chair-for-long-hours-sitting-back-neck/)** — see current price and specs.
-- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
-- **[JIPORIER Lumbar Support Pillow for Office Chair,Seat Cushion with Back Support,O](/products/jiporier-lumbar-support-pillow-for-office-chair-seat-cu/)** — see current price and specs.
-- **[KWKSV 500Lbs Big and Tall Office Chair,Comfy Heavy Duty Executive Chair with Adj](/products/kwksv-500lbs-big-and-tall-office-chair-comfy-heavy-duty/)** — see current price and specs.
-- **[Nexthro Ergonomic Office Chair,Mesh Office Chair with Lumbar Support,High Back D](/products/nexthro-ergonomic-office-chair-mesh-office-chair-with-l/)** — see current price and specs.
-

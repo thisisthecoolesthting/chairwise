@@ -105,7 +105,3 @@ Upgrading to a chair with the right fit and adjustments will often reduce or eli
 - [Kensington Memory Foam Seat Cushion with Non-Slip Base](/products/b07ymd1zc2-kensington-memory-foam-seat-cushion/)
 - [VIVO Dual LCD Monitor Desk Mount Stand for Two Screens](/products/b08cxrxwfg-vivo-dual-monitor-desk-mount/)
 
-## Our picks worth a closer look
-
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-

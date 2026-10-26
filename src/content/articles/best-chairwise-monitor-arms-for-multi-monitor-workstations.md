@@ -111,7 +111,3 @@ Choosing the right monitor arms that coordinate smoothly with your ergonomic cha
 - [NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)
 - [Kensington Memory Foam Seat Cushion with Non-Slip Base](/products/b07ymd1zc2-kensington-memory-foam-seat-cushion/)
 
-## Our picks worth a closer look
-
-- **[Ergonomic Office Chair, High Back Desk Chair with Flip-up Arms, 300 LBS Mesh Com](/products/ergonomic-office-chair-high-back-desk-chair-with-flip-u/)** — see current price and specs.
-

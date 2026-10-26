@@ -232,11 +232,3 @@ A: Yes, chairs like the Hbada Ergonomic Office Chair and the Duramont Reclining 
 **Q: Which chair is best for users with back pain?**  
 A: The Steelcase Leap is often recommended for back pain sufferers due to its adaptive lumbar support and flexible backrest that promotes proper spinal alignment.
 
-## Our picks worth a closer look
-
-- **[HYEJDRV Chair Armrest Replacement, Arm Pad Caps Replacement for Herman Miller Cl](/products/hyejdrv-chair-armrest-replacement-arm-pad-caps-replacem/)** — see current price and specs.
-- **[SINOLUXE Chair Armrest Replacement for Herman Miller Classic Aeron Chair - Offic](/products/sinoluxe-chair-armrest-replacement-for-herman-miller-cl/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
-- **[NOUHAUS +Posture Ergonomic Rolling Office Chair](/products/b07dfkbbmh-nouhaus-posture-ergonomic-chair/)** — see current price and specs.
-- **[Autonomous ErgoChair Pro Ergonomic Office Chair](/products/b08f4xlhln-autonomous-ergochair-pro/)** — see current price and specs.
-

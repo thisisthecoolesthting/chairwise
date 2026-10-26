@@ -9,7 +9,7 @@ site: chairwise
 topic: 'Guide: Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Chairs,Ergonomic Computer Chair for Heavy  (ASIN B0GVJFHR4Y)'
 tier: mvp
 relatedProducts: []
-status: published
+status: draft
 hero_image_keywords:
 - massage office chair
 - chair foot rest
@@ -123,12 +123,4 @@ This chair might be less ideal for:
 5.  **Alternative Approach:** For highly effective and targeted relief, consider a separate, high-quality ergonomic office chair combined with a dedicated massage cushion or heating pad, and a separate, adjustable ergonomic footrest. This offers flexibility and upgradability.
 
 An office chair with massage, heat, and a footrest can certainly enhance comfort. However, for those sitting 8-10 hours daily, its value as a genuine health aid hinges on how well its fundamental ergonomic design supports your body *during active work*, rather than just during breaks. Evaluate these chairs with an eye toward practical long-term use and your specific health requirements.
-
-## Our picks worth a closer look
-
-- **[Massage Office Chair with Foot Rest,6-Point Vibration & Heat Executive Office Ch](/products/massage-office-chair-with-foot-rest-6-point-vibration-h/)** — see current price and specs.
-- **[Massage Office Chair with Foot Rest,6 Points Vibration&Heat Executive Office Cha](/products/massage-office-chair-with-foot-rest-6-points-vibration-/)** — see current price and specs.
-- **[Massage Office Chair, 500LBS Ergonomic Rocking Executive Desk Chairs with 4 Poin](/products/massage-office-chair-500lbs-ergonomic-rocking-executive/)** — see current price and specs.
-- **[Big and Tall Office Desk Chair 500lbs, Ergonomic Heavy Duty Mesh Desk Chair, Exe](/products/big-and-tall-office-desk-chair-500lbs-ergonomic-heavy-d/)** — see current price and specs.
-- **[750lbs Big and Tall Office Chair with Wide Thick Seat Cushion,Ergonomic Mesh Off](/products/750lbs-big-and-tall-office-chair-with-wide-thick-seat-c/)** — see current price and specs.
 
